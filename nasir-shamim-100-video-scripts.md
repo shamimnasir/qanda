@@ -1,2417 +1,2467 @@
-# নাসির উদ্দিন শামীম পেজ: ১০০টা "৫টা ভিডিও দেখুন" ভিডিও আইডিয়া, রেকর্ডিং স্ক্রিপ্ট ও রিসোর্স
+# নাসির উদ্দিন শামীম পেজ: ১০০টা "৫টা রিসোর্স" ভিডিও স্ক্রিপ্ট (শুধু ইংরেজি, নির্ভরযোগ্য সোর্স)
 
 তৈরির তারিখ: ২০২৬-১০-২৫
 
-## রেকর্ড করার আগে অবশ্যই পড়ুন (সৎ সীমাবদ্ধতা)
-
-1. **লিংকগুলো ওয়েব সার্চের ফলাফল থেকে নেওয়া, আমি নিজে ভিডিও দেখিনি।** কোনো লিংক স্মৃতি থেকে বসানো হয়নি, কিন্তু ভিডিও ডিলিট/প্রাইভেট হতে পারে বা বিষয়বস্তু বদলে যেতে পারে। রেকর্ডের আগে প্রতিটি লিংক নিজে খুলে দেখুন।
-2. **চ্যানেলের নাম বেশিরভাগ ক্ষেত্রে যাচাই হয়নি** ("চ্যানেল যাচাই বাকি")। ইউটিউব পেজ খুলে চ্যানেলের নাম বসিয়ে ক্রেডিট দিন।
-3. **বাংলা ভিডিও কম পাওয়া গেছে** অনেক টপিকে। যেখানে বাংলা ভিডিও নেই, সেখানে ইউটিউবে "বাংলা + টপিকের নাম" দিয়ে সার্চ করে নিজের পছন্দের ভিডিও বসানো সবচেয়ে ভালো।
-4. **কিছু টপিকে সব আইটেম ইউটিউব ভিডিও নয়** (আর্টিকেল/অফিশিয়াল পেজ): বিশেষ করে ১০-১৯, ৩৮, ৬০, ৯৬। সেগুলোর শিরোনামে "ভিডিও" এর জায়গায় "রিসোর্স" লিখতে পারেন।
-5. **দুর্বল টপিক (আগে রিসার্চ বাড়ান):** ১০-১৯ (প্রায় কোনো সরাসরি ইউটিউব লিংক নেই), ৩৮ (অফিশিয়াল কোর্স পেজ নেই), ৪৪, ৫৯, ৬০ (রিমোট জব ভিডিও পাওয়া যায়নি), ৯৬ (পডকাস্টের অফিশিয়াল লিংক যাচাই বাকি)।
-6. **স্ক্রিপ্টে কোনো পরিসংখ্যান, দাম বা ফিচারের দাবি নিশ্চিত তথ্য হিসেবে নেই**, কিন্তু AI টুল দ্রুত বদলায়। ফ্রি প্ল্যান, ফিচার, নাম রেকর্ডের দিন আবার দেখে নিন।
-7. স্ক্রিপ্টের কিছু অংশ (বিশেষ করে ৮১-১০০) ছোট; প্রয়োজনে নিজের অভিজ্ঞতা যোগ করে ৬০-৯০ সেকেন্ডে বাড়িয়ে নিন।
-8. অন্যের ভিডিও নিজের ভিডিওতে হুবহু দেখাবেন না। শুধু রেফার করুন, ক্রেডিট দিন এবং নিজের মতামত যোগ করুন (কপিরাইট ও ফেসবুকের নীতি আপনি নিজে দেখে নিন)।
-
-## সূচিপত্র
-
-- 1. ChatGPT প্রথমবার ব্যবহারের আগে এই ৫টা ভিডিও দেখুন
-- 2. AI আসলে কী: শুরু করার আগে বুঝে নিতে ৫টা ভিডিও
-- 3. ভালো প্রম্পট লেখা শেখার ৫টা ভিডিও
-- 4. Claude ব্যবহার শেখার ৫টা ভিডিও
-- 5. Google Gemini ব্যবহার শেখার ৫টা ভিডিও
-- 6. AI দিয়ে পড়াশোনা সহজ করার ৫টা ভিডিও
-- 7. AI দিয়ে সিভি ও কভার লেটার বানানোর আগে ৫টা ভিডিও
-- 8. AI দিয়ে ইংরেজি বলা শেখার ৫টা ভিডিও
-- 9. AI টুল দিয়ে ভিডিও এডিটিং শেখার ৫টা ভিডিও
-- 10. AI দিয়ে ছবি বানানোর আগে ৫টা ভিডিও
-- 11. AI দিয়ে প্রেজেন্টেশন বানানোর ৫টা ভিডিও
-- 12. বাংলা ভাষায় AI ব্যবহারের ৫টা ভিডিও
-- 13. NotebookLM দিয়ে নোট ও বই বোঝার ৫টা ভিডিও
-- 14. AI এজেন্ট কী, বোঝার ৫টা ভিডিও
-- 15. AI যে ভুল তথ্য দেয় (hallucination) তা চিনতে ৫টা ভিডিও
-- 16. AI দিয়ে Excel ও Google Sheets সহজ করার ৫টা ভিডিও
-- 17. AI দিয়ে পেশাদার ইমেইল লেখার ৫টা ভিডিও
-- 18. থিসিস ও গবেষণায় AI ব্যবহারের আগে ৫টা ভিডিও
-- 19. নিজের কম্পিউটারে ফ্রি AI মডেল চালানোর ৫টা ভিডিও
-- 20. AI স্ক্যাম ও ডিপফেক চিনতে ৫টা ভিডিও
-- 21. ফ্রিল্যান্সিং শুরুর আগে এই ৫টা ভিডিও দেখুন
-- 22. Upwork ও Fiverr এ AI দিয়ে কাজ পাওয়ার ৫টা ভিডিও
-- 23. AI কি আমার চাকরি খেয়ে ফেলবে? ৫টা ভিডিও
-- 24. AI যুগে কোন ৫টা স্কিল সবচেয়ে দরকার
-- 25. AI দিয়ে কনটেন্ট ক্রিয়েশন শুরুর আগে ৫টা ভিডিও
-- 26. AI দিয়ে ভিডিও স্ক্রিপ্ট লেখার ৫টা ভিডিও
-- 27. AI দিয়ে ডিজিটাল মার্কেটিং করার ৫টা ভিডিও
-- 28. নিজের চ্যাটবট বানানোর ৫টা ভিডিও
-- 29. n8n, Zapier ও Make দিয়ে অটোমেশন শেখার ৫টা ভিডিও
-- 30. ছোট ব্যবসায় AI ব্যবহারের ৫টা ভিডিও
-- 31. অনলাইন শপের প্রোডাক্ট ডেসক্রিপশন ও ছবিতে AI ব্যবহারের ৫টা ভিডিও
-- 32. AI ভয়েসওভার ও টেক্সট-টু-স্পিচ শেখার ৫টা ভিডিও
-- 33. AI দিয়ে ভিডিও ডাবিং ও অনুবাদের ৫টা ভিডিও
-- 34. ডেটা অ্যানালিটিক্স শেখার আগে ৫টা ভিডিও
-- 35. প্রম্পট ইঞ্জিনিয়ারিং কি সত্যিই ক্যারিয়ার? ৫টা ভিডিও
-- 36. ইন্টারভিউয়ের প্রস্তুতিতে AI ব্যবহারের ৫টা ভিডিও
-- 37. LinkedIn প্রোফাইল ও পোস্টে AI ব্যবহারের ৫টা ভিডিও
-- 38. ফ্রি AI কোর্স ও সার্টিফিকেট পাওয়ার ৫টা রিসোর্স
-- 39. ফ্রিল্যান্স ক্লায়েন্টের সঙ্গে ইংরেজিতে কথা বলার ৫টা ভিডিও
-- 40. AI দিয়ে সাইড ইনকাম শুরুর আগে ৫টা ভিডিও
-- 41. কোডিং শেখা শুরুর আগে এই ৫টা ভিডিও দেখুন
-- 42. Python শেখার ৫টা ভিডিও
-- 43. ওয়েব ডেভেলপমেন্ট রোডম্যাপের ৫টা ভিডিও
-- 44. ফ্রিতে নিজের ওয়েবসাইট বানানোর ৫টা ভিডিও (only 5 verified, 0 Bangla; Cloudflare Pages has no video found, only written guides)
-- 45. GitHub শুরু করার আগে ৫টা ভিডিও (Git and GitHub basics)
-- 46. AI কোডিং সহকারী (Copilot, Cursor, Claude Code ইত্যাদি) ব্যবহারের ৫টা ভিডিও
-- 47. অ্যাপ ডেভেলপমেন্ট শুরুর আগে ৫টা ভিডিও
-- 48. SQL ও ডেটাবেস শেখার ৫টা ভিডিও
-- 49. Data Structures ও Algorithms শেখার ৫টা ভিডিও
-- 50. ক্লাউড (AWS, Google Cloud, Azure) শুরুর ৫টা ভিডিও
-- 51. সাইবার সিকিউরিটি ক্যারিয়ার শুরুর ৫টা ভিডিও
-- 52. Linux শেখার ৫টা ভিডিও
-- 53. UI/UX ডিজাইন শেখার ৫টা ভিডিও
-- 54. Figma ও Canva শেখার ৫টা ভিডিও
-- 55. সফটওয়্যার টেস্টিং (QA) ক্যারিয়ারের ৫টা ভিডিও
-- 56. DevOps রোডম্যাপের ৫টা ভিডিও
-- 57. Machine Learning শেখার রোডম্যাপের ৫টা ভিডিও
-- 58. টেক ইন্টারভিউয়ের প্রস্তুতির ৫টা ভিডিও
-- 59. ওপেন সোর্সে অবদান রাখা শুরুর ৫টা ভিডিও (only 3 are video; 2 more are written/podcast; 0 Bangla)
-- 60. রিমোট সফটওয়্যার জব পাওয়ার রিসোর্স (honest: 0 videos found; only 5 non-video items verified, 1 Bangla)
-- 61. অনলাইন স্ক্যাম চিনতে এই ৫টা ভিডিও দেখুন
-- 62. পাসওয়ার্ড ম্যানেজার ও 2FA ব্যবহারের ৫টা ভিডিও
-- 63. ফোন হ্যাক থেকে বাঁচার ৫টা ভিডিও
-- 64. ফেসবুক অ্যাকাউন্ট সুরক্ষিত রাখার ৫টা ভিডিও
-- 65. VPN কী ও কখন লাগে, বোঝার ৫টা ভিডিও
-- 66. ডেটা প্রাইভেসি বোঝার ৫টা ভিডিও
-- 67. ফেক নিউজ যাচাই শেখার ৫টা ভিডিও
-- 68. স্মার্টফোন কেনার আগে ৫টা ভিডিও
-- 69. ল্যাপটপ কেনার আগে ৫টা ভিডিও
-- 70. ধীর কম্পিউটার বা ফোন দ্রুত করার ৫টা ভিডিও
-- 71. Google Workspace (Docs, Sheets, Drive) প্রডাক্টিভিটির ৫টা ভিডিও
-- 72. Notion ও Obsidian দিয়ে নোট নেওয়ার ৫টা ভিডিও
-- 73. ফোনের ব্যাটারি ও স্টোরেজ ঠিক রাখার ৫টা ভিডিও
-- 74. Gmail ও ইনবক্স গুছিয়ে রাখার ৫টা ভিডিও
-- 75. ক্লাউড ব্যাকআপ ও ডেটা হারানো ঠেকানোর ৫টা ভিডিও
-- 76. ডিজিটাল ডিটক্স ও স্ক্রিন টাইম কমানোর ৫টা ভিডিও
-- 77. ইন্টারনেট ও Wi-Fi স্পিড ঠিক করার ৫টা ভিডিও
-- 78. দ্রুত টাইপ করা শেখার ৫টা ভিডিও
-- 79. কীবোর্ড শর্টকাটে সময় বাঁচানোর ৫টা ভিডিও
-- 80. ChatGPT, Claude, Gemini ও অন্যান্য AI টুলের তুলনা বোঝার ৫টা ভিডিও
-- 81. ক্রিপ্টো ও ব্লকচেইন স্ক্যাম এড়াতে ৫টা ভিডিও
-- 82. IoT (Internet of Things) বোঝার ৫টা ভিডিও
-- 83. রোবটিক্স শুরুর ৫টা ভিডিও
-- 84. কোয়ান্টাম কম্পিউটিং বোঝার ৫টা ভিডিও
-- 85. 5G ও ভবিষ্যৎ নেটওয়ার্ক বোঝার ৫টা ভিডিও (only 1 Bangla verified)
-- 86. ইলেকট্রিক গাড়ি ও ব্যাটারি টেক বোঝার ৫টা ভিডিও (only 1 Bangla verified; battery-specific videos not found)
-- 87. স্পেস টেক ও স্যাটেলাইট ইন্টারনেট বোঝার ৫টা ভিডিও (only 5 verified, all Starlink focused)
-- 88. AR ও VR বোঝার ৫টা ভিডিও (only 1 Bangla verified)
-- 89. স্টার্টআপ শুরুর আগে ৫টা ভিডিও (tech startups)
-- 90. AI নৈতিকতা ও ঝুঁকি বোঝার ৫টা ভিডিও (only 4 verified)
-- 91. LLM কীভাবে কাজ করে, বোঝার ৫টা ভিডিও
-- 92. Neural Network সহজে বোঝার ৫টা ভিডিও (only 1 Bangla, loosely related)
-- 93. AI-র ইতিহাস জানার ৫টা ভিডিও (only 5 verified; English creators unverified)
-- 94. কম্পিউটার কীভাবে কাজ করে, বোঝার ৫টা ভিডিও
-- 95. ইন্টারনেট কীভাবে কাজ করে, বোঝার ৫টা ভিডিও
-- 96. টেক শেখার ৫টা সেরা পডকাস্ট বা বই (only 5 verified, 0 Bangla; 2 books with official pages, 3 podcasts)
-- 97. টেক ইংলিশ ও টেকনিক্যাল রাইটিং শেখার ৫টা ভিডিও (0 Bangla verified)
-- 98. টেক কনফারেন্স ও কীনোট থেকে শেখার ৫টা ভিডিও
-- 99. অভিভাবকদের জন্য: সন্তানকে AI যুগে প্রস্তুত করার ৫টা ভিডিও (0 Bangla verified)
-- 100. শিক্ষকদের জন্য: ক্লাসরুমে AI ব্যবহারের ৫টা ভিডিও (only 1 Bangla, and it is student-focused)
+## পড়ে নিন
 
+- **যাচাই করা লিংক:** ওয়েব সার্চের ফলাফলে দেখা গেছে। তবু রেকর্ডের আগে প্রতিটি খুলে দেখুন।
+- **আরও পরিচিত সোর্স:** আমার জ্ঞান থেকে নাম ও প্রকাশক দেওয়া, লিংক যাচাই হয়নি। নাম দিয়ে সার্চ করে অফিশিয়াল পেজ খুলুন। এগুলো বদলে গিয়ে থাকতে পারে।
+- ইউটিউব ভিডিওর যাচাই করা লিংক প্রায় নেই, তাই চ্যানেল আকারে নাম দেওয়া হয়েছে।
+- টপিক ৮, ৯, ১০-এর স্ক্রিপ্ট খসড়া, কারণ যাচাই করা লিংক পাওয়া যায়নি।
+- AI টুলের ফিচার ও দাম দ্রুত বদলায়, রেকর্ডের দিন আবার দেখে নিন।
+
 ---
 
-## 1. ChatGPT প্রথমবার ব্যবহারের আগে এই ৫টা ভিডিও দেখুন
-**Resources (verified via search):**
-1. ChatGPT Full Bangla Tutorial | Channel: n/a | https://youtube.com/watch?v=bG6dUjPXxe4 : শুরু থেকে পুরো ChatGPT বাংলায় শেখার জন্য ভালো।
-2. How To Use ChatGPT in Bengali - কিভাবে ChatGPT Use করবেন | Channel: n/a | https://youtube.com/watch?v=f2mRAGvKca8 : অ্যাকাউন্ট খোলা থেকে ব্যবহার, সহজ বাংলায়।
-3. ChatGPT Tutorial in Bangla | Channel: n/a | https://youtube.com/watch?v=0YzK-eU8ow0 : আরেকটি বাংলা বেসিক গাইড, তুলনা করে দেখার জন্য।
-4. Learn How to Use ChatGPT in 10 Minutes! (Full Tutorial) | Channel: n/a | https://youtube.com/watch?v=_UGAziGALg0 : ইংরেজিতে ১০ মিনিটে দ্রুত ধারণা।
-5. ChatGPT Tutorial for Beginners: How to Actually Get Work Done with AI | Channel: n/a | https://youtube.com/watch?v=poM2n8fBcag : কাজে লাগানোর বাস্তব আইডিয়ার জন্য।
-
-Non-video: What is ChatGPT: FAQ (OpenAI Help Center) https://help.openai.com/en/articles/12677804-what-is-chatgpt-faq
-
-**Recording script (Bangla):**
-[হুক] ChatGPT খুলে আন্দাজে প্রশ্ন করছেন? তাহলে সেরা ফলটা কিন্তু আপনি পাচ্ছেন না!
-[মূল অংশ] অনেকেই ChatGPT ব্যবহার শুরু করেন, কিন্তু ঠিকমতো শিখে শুরু করেন না। তাই আজ ৫টা ভিডিও দিচ্ছি।
-এক: "ChatGPT Full Bangla Tutorial", পুরোটা বাংলায়, একদম গোড়া থেকে।
-দুই: "How To Use ChatGPT in Bengali - কিভাবে ChatGPT Use করবেন", সহজ বাংলায় ব্যবহারের ধাপ।
-তিন: "ChatGPT Tutorial in Bangla", আরেকজনের ব্যাখ্যা, মিলিয়ে দেখার জন্য।
-চার: "Learn How to Use ChatGPT in 10 Minutes! Full Tutorial", ইংরেজিতে ১০ মিনিটে দ্রুত ধারণা।
-পাঁচ: "ChatGPT Tutorial for Beginners: How to Actually Get Work Done with AI", কাজে লাগানোর আইডিয়া।
-সাথে OpenAI-র নিজস্ব Help Center-এর "What is ChatGPT: FAQ" পেজটাও দেখে নিন। আর একটা কথা, ভিডিও পুরোনো হতে পারে, ইন্টারফেস বদলে গেলে আমি যতদূর জানি তা স্বাভাবিক, তাই চেক করে নিন। ChatGPT ভুলও করে, গুরুত্বপূর্ণ তথ্য নিজে যাচাই করবেন।
-[CTA] কোনটা সবচেয়ে কাজের লাগল, কমেন্টে জানান। ভিডিওটা সেভ করে রাখুন, আর যে বন্ধু ChatGPT শিখতে চায় তাকে শেয়ার করুন।
-**Visual note:** স্ক্রিনে একে একে ৫টা ভিডিওর টাইটেল কার্ড দেখান, শেষে Help Center পেজের স্ক্রিনশট।
+## 1. ChatGPT প্রথমবার ব্যবহারের আগে এই ৫টা রিসোর্স দেখুন
 
----
+**যাচাই করা লিংক: 2টা**
 
-## 2. AI আসলে কী: শুরু করার আগে বুঝে নিতে ৫টা ভিডিও
-**Resources (verified via search):**
-1. AI বা আর্টিফিশিয়াল ইন্টেলিজেন্স আসলে কি | Channel: n/a | https://youtube.com/watch?v=YWNqHvMgPJ0 : বাংলায় AI-এর মূল ধারণা।
-2. AI কি? এটি কিভাবে কাজ করে? | Channel: n/a | https://youtube.com/watch?v=GmCw0gpTkEg : AI কী আর কীভাবে চলে, সহজ ভাষায়।
-3. AI কিভাবে কাজ করে? | Channel: n/a | https://youtube.com/watch?v=vmdx5_sTKOA : ভেতরের কাজের ধারণা পেতে।
-4. AI কী? | Channel: n/a | https://youtube.com/watch?v=X9zO8dd4VBo : ছোট করে বুনিয়াদি ধারণা।
-5. What is AI? Explained in 5 Minutes for Beginners | Channel: n/a | https://youtube.com/watch?v=jPguWHykkeU : ইংরেজিতে ৫ মিনিটের সারাংশ।
-
-Non-video: Elements of AI (free intro course for non-experts) https://www.elementsofai.com/
-
-**Recording script (Bangla):**
-[হুক] সবাই AI AI করছে, কিন্তু AI আসলে কী, আপনি কি সত্যিই জানেন?
-[মূল অংশ] না বুঝে টুল ব্যবহার করলে ভুল ধারণা তৈরি হয়। তাই শুরুর আগে এই ৫টা ভিডিও দেখে নিন।
-এক: "AI বা আর্টিফিশিয়াল ইন্টেলিজেন্স আসলে কি", একদম গোড়ার কথা।
-দুই: "AI কি? এটি কিভাবে কাজ করে?", বাংলায় সহজ ব্যাখ্যা।
-তিন: "AI কিভাবে কাজ করে?", আরেকটু ভেতরের ধারণা।
-চার: "AI কী?", ছোট আর পরিষ্কার একটা ভিডিও।
-পাঁচ: "What is AI? Explained in 5 Minutes for Beginners", ইংরেজিতে ৫ মিনিটে সারাংশ।
-আর পড়ে শিখতে চাইলে Elements of AI নামে একটা ফ্রি কোর্স আছে, যা নতুনদের জন্য বানানো। আমি যতদূর জানি এটা ফ্রি, তবু সাইটে গিয়ে নিজে দেখে নিন।
-[CTA] AI নিয়ে আপনার সবচেয়ে বড় প্রশ্নটা কমেন্টে লিখুন। সেভ করে রাখুন, আর শেয়ার করুন।
-**Visual note:** সামনে বড় করে "AI = ?" লিখে প্রশ্নচিহ্ন, তারপর ভিডিও কার্ড ও Elements of AI সাইটের হোমপেজ।
+Resources:
+1. [Website] OpenAI Academy (overview page by Mississippi State University AI Hub, not the official site) | aihub.msstate.edu | https://aihub.msstate.edu/resources/openai-academy.html : এটা পড়লে আপনি জানবেন OpenAI Academy তে কী কী ফ্রি লার্নিং পাথ আছে (check pricing)।
+2. [Website] OpenAI free ChatGPT guide article | TechRadar | https://www.techradar.com/computing/artificial-intelligence/openai-just-launched-a-free-chatgpt-bible-that-will-help-you-master-the-ai-chatbot-and-sora : এটা পড়লে আপনি ChatGPT এর অফিসিয়াল গাইড কোথায় পাবেন তা বুঝবেন।
+(Not verified, find official URLs before posting: OpenAI Academy official site, OpenAI Help Center.)
 
----
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: OpenAI Academy (OpenAI)
+- Docs: ChatGPT Help Center (OpenAI)
+- Course: Generative AI for Everyone (DeepLearning.AI, Andrew Ng)
+- Channel: OpenAI (YouTube)
 
-## 3. ভালো প্রম্পট লেখা শেখার ৫টা ভিডিও
-**Resources (verified via search):**
-1. Prompt Engineering Masterclass - বাংলা | Channel: n/a | https://youtube.com/watch?v=cQOaiHz7ztc : বাংলায় বিস্তারিত মাস্টারক্লাস।
-2. Prompt Engineering Basic to Advanced - Prompt লিখবেন কিভাবে (FREE AI Course) | Channel: n/a | https://youtube.com/watch?v=IwrhTwJqNqw : বেসিক থেকে অ্যাডভান্সড, বাংলায়।
-3. Master AI Prompts: AI-কে সঠিকভাবে Prompt দিবেন কিভাবে? | Channel: n/a | https://youtube.com/watch?v=uoxO9OnmlPM : প্রম্পট দেওয়ার সঠিক নিয়ম।
-4. E-1: What is Prompt Engineering in Bangla | Channel: n/a | https://youtube.com/watch?v=Pk8ZzXp3hFo : সিরিজের প্রথম পর্ব, ধারণা পরিষ্কার করতে।
-5. Prompt Engineering for Beginners: How to Write Better AI Prompts | Channel: n/a | https://youtube.com/watch?v=T_-2M_1pgoE : ইংরেজিতে নতুনদের জন্য।
-
-Non-video: Prompt engineering overview (Claude Platform Docs) https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview
-
-**Recording script (Bangla):**
-[হুক] একই AI, একই প্রশ্ন, তবু কেউ দারুণ উত্তর পায়, কেউ পায় ফালতু। কারণ কী জানেন?
-[মূল অংশ] কারণটা প্রম্পট লেখার ধরন। শেখার জন্য এই ৫টা ভিডিও দেখুন।
-এক: "Prompt Engineering Masterclass - বাংলা", পুরো মাস্টারক্লাস বাংলায়।
-দুই: "Prompt Engineering Basic to Advanced - Prompt লিখবেন কিভাবে", ফ্রি কোর্স, ধাপে ধাপে।
-তিন: "Master AI Prompts: AI-কে সঠিকভাবে Prompt দিবেন কিভাবে?", সঠিক নিয়মগুলো।
-চার: "E-1: What is Prompt Engineering in Bangla", একদম প্রথম ধারণা।
-পাঁচ: "Prompt Engineering for Beginners: How to Write Better AI Prompts", ইংরেজিতে নতুনদের জন্য।
-সাথে Claude-এর অফিসিয়াল ডকসের "Prompt engineering overview" পেজটাও দেখতে পারেন। একটা পরামর্শ: শেখার পর নিজের কাজে বারবার প্রম্পট বদলে পরীক্ষা করুন, কারণ AI ভুলও করে।
-[CTA] আপনার সেরা প্রম্পটটা কমেন্টে শেয়ার করুন। সেভ করুন, আর বন্ধুকে শেয়ার করুন।
-**Visual note:** একটা খারাপ প্রম্পট বনাম ভালো প্রম্পটের পাশাপাশি তুলনা স্ক্রিনে দেখান।
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ChatGPT ঠিকমতো না শিখে ব্যবহার করলে আপনি অনেক সময় নষ্ট করছেন!
+[মূল অংশ] অনেকে ChatGPT খুলে এলোমেলো প্রশ্ন করেন, ফলে ভালো উত্তর পান না। শুরুর আগে দুটো রিসোর্স দেখুন। প্রথমটা OpenAI Academy, যার একটা পরিচিতি পাতা Mississippi State University র AI Hub এ আছে। এটা বলে দেবে কোথা থেকে শুরু করবেন। দ্বিতীয়টা TechRadar এর লেখা, যেখানে OpenAI এর ফ্রি ChatGPT গাইডের কথা আছে। দুটোই ইংরেজিতে, তাই ব্রাউজারের অনুবাদ বা ক্যাপশন অন করে নিন। টুলের ফিচার ও প্ল্যান প্রায়ই বদলায়, তাই অফিসিয়াল সাইটে একবার মিলিয়ে নেবেন।
+[CTA] কমেন্টে লিখুন আপনি ChatGPT দিয়ে কী শিখতে চান। সেভ করে রাখুন, বন্ধুকে শেয়ার করুন।
 
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে দুটো লিংকের পাতা পর পর দেখান।
+
 ---
 
-## 4. Claude ব্যবহার শেখার ৫টা ভিডিও
-**Resources (verified via search):**
-1. Claude AI এর A to Z বাংলায় ! ChatGPT এর চেয়েও শক্তিশালী? | Channel: n/a | https://youtube.com/watch?v=n9_bseyQHZ8 : বাংলায় A থেকে Z পরিচিতি (টাইটেলের দাবিটা ভিডিও দেখে নিজে বিচার করুন)।
-2. Claude AI শিখুন মাত্র ৩০ মিনিটেই | Channel: n/a | https://youtube.com/watch?v=lFLqjXBUM2w : ৩০ মিনিটে দ্রুত শেখা।
-3. The Ultimate Beginner's Guide to Claude AI (BANGLA) | Channel: n/a | https://youtube.com/watch?v=ARR7UAEZ3oc : বাংলায় নতুনদের গাইড।
-4. How to Use Claude AI in Bangla | Channel: n/a | https://youtube.com/watch?v=IPvaLWssrvE : ব্যবহারের ধাপ বাংলায়।
-5. The Ultimate Beginner's Guide to Claude AI | Channel: n/a | https://youtube.com/watch?v=9oJySubZRSA : ইংরেজিতে বিগিনার গাইড।
-
-Non-video: Get started with Claude (Claude Help Center) https://support.claude.com/en/articles/8114491-get-started-with-claude
-
-**Recording script (Bangla):**
-[হুক] ChatGPT তো সবাই চেনে, কিন্তু Claude ট্রাই করেছেন কখনো?
-[মূল অংশ] নতুন কিছু শিখতে চাইলে এই ৫টা ভিডিও দিয়ে শুরু করুন।
-এক: "Claude AI এর A to Z বাংলায়", শুরুর পরিচিতি। টাইটেলের তুলনার দাবিটা নিজে যাচাই করে নিন।
-দুই: "Claude AI শিখুন মাত্র ৩০ মিনিটেই", দ্রুত শেখার জন্য।
-তিন: "The Ultimate Beginner's Guide to Claude AI (BANGLA)", নতুনদের জন্য বাংলা গাইড।
-চার: "How to Use Claude AI in Bangla", ব্যবহারের ধাপ।
-পাঁচ: "The Ultimate Beginner's Guide to Claude AI", ইংরেজিতে একই বিষয়।
-সাথে Claude Help Center-এর "Get started with Claude" পেজ দেখুন। ফিচার, প্ল্যান আর লিমিট প্রায়ই বদলায়, তাই আমি যতদূর জানি তা পুরোনো হতে পারে, অফিসিয়াল পেজ চেক করুন।
-[CTA] আপনি কোন AI বেশি ব্যবহার করেন, কমেন্টে বলুন। সেভ করুন, শেয়ার করুন।
-**Visual note:** ৫টা ভিডিও কার্ড, শেষে Claude Help Center পেজের স্ক্রিনশট।
+## 2. AI আসলে কী: শুরু করার আগে বুঝে নিতে ৫টা রিসোর্স দেখুন
 
----
+**যাচাই করা লিংক: 4টা**
 
-## 5. Google Gemini ব্যবহার শেখার ৫টা ভিডিও
-**Resources (verified via search):**
-1. How to use Google Gemini AI in Bangla | Channel: n/a | https://youtube.com/watch?v=osyXCm04kPk : বাংলায় ব্যবহারের পরিচিতি।
-2. Google Gemini কি ভাবে ব্যবহার করবেন? Google Gemini Bangla Tutorial | Channel: n/a | https://youtube.com/watch?v=ZK_MThlREpM : বাংলা বেসিক টিউটোরিয়াল।
-3. Google Gemini AI ব্যবহার শিখুন পর্ব-১ | Channel: n/a | https://youtube.com/watch?v=ak6F14bi3HE : ধাপে ধাপে শুরুর পর্ব।
-4. Gemini এর কাজ কি? জেমিনি কিভাবে ব্যবহার করবেন? | Channel: n/a (title mentions Tipu Haldar) | https://youtube.com/watch?v=FB3v1FXLuIg : কী কাজ করে আর কীভাবে ব্যবহার করবেন।
-5. How to Use Google Gemini Al (Full Tutorial) | Channel: n/a | https://youtube.com/watch?v=PDMcpthR88U : ইংরেজিতে পূর্ণ টিউটোরিয়াল।
-
-Non-video: Get started with the Gemini mobile app (Gemini Apps Help) https://support.google.com/gemini/answer/14554984?hl=en
-
-**Recording script (Bangla):**
-[হুক] আপনার ফোনেই হয়তো Google-এর AI আছে, আর আপনি জানেনই না!
-[মূল অংশ] Gemini শেখার জন্য এই ৫টা ভিডিও দেখুন।
-এক: "How to use Google Gemini AI in Bangla", বাংলায় পরিচিতি।
-দুই: "Google Gemini কি ভাবে ব্যবহার করবেন? Google Gemini Bangla Tutorial", বেসিক টিউটোরিয়াল।
-তিন: "Google Gemini AI ব্যবহার শিখুন পর্ব-১", ধাপে ধাপে।
-চার: "Gemini এর কাজ কি? জেমিনি কিভাবে ব্যবহার করবেন?", Tipu Haldar-এর ভিডিও।
-পাঁচ: "How to Use Google Gemini Al (Full Tutorial)", ইংরেজিতে পূর্ণ গাইড।
-সাথে Google-এর Gemini Apps Help পেজে "Get started with the Gemini mobile app" দেখে নিন। কিছু ভিডিও কয়েক মাস পুরোনো, তাই ফিচার বদলে থাকতে পারে, চেক করে নিন।
-[CTA] Gemini দিয়ে কী করেন, কমেন্টে জানান। সেভ ও শেয়ার করুন।
-**Visual note:** ফোনের স্ক্রিনে Gemini অ্যাপ খোলার দৃশ্য, তারপর ভিডিও কার্ড।
+Resources:
+1. [Course] Generative AI for Everyone | DeepLearning.AI | https://www.deeplearning.ai/courses/generative-ai-for-everyone : এটা করলে আপনি কোডিং ছাড়াই জেনারেটিভ AI কীভাবে কাজ করে ও কী পারে না তা বুঝবেন (a result showed about 5 hours; check pricing)।
+2. [Course] AI Fundamentals | Google (Coursera) | https://www.coursera.org/learn/google-ai-fundamentals : এটা করলে আপনি AI এর মৌলিক ধারণা পাবেন (check pricing)।
+3. [Course] Google AI Essentials Specialization | Google (Coursera) | https://www.coursera.org/specializations/ai-essentials-google : এটা করলে আপনি কাজে AI ব্যবহারের বেসিক স্কিল শিখবেন (check pricing)।
+4. [Video] Large Language Models, Explained Briefly | 3Blue1Brown (result describes it as made by Grant Sanderson of 3Blue1Brown) | https://www.youtube.com/watch?v=WMcwoIyK4DA : এটা দেখলে আপনি সাত মিনিটে LLM এর ধারণা পাবেন।
 
----
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Course: Elements of AI (University of Helsinki)
+- Course: AI For Everyone (DeepLearning.AI, Andrew Ng)
+- Channel: 3Blue1Brown (YouTube)
+- Channel: IBM Technology (YouTube)
 
-## 6. AI দিয়ে পড়াশোনা সহজ করার ৫টা ভিডিও
-**Resources (verified via search):** (only English verified, no Bangla video found)
-1. How To Use AI To Study For Exams - With Demo | Channel: n/a | https://youtube.com/watch?v=wGmsVH-vyyM : নোট থেকে কুইজ বানানোর ধাপ দেখায়।
-2. Oxford Researchers Discovered How to Use AI To Learn Like A Genius | Channel: n/a | https://youtube.com/watch?v=TPLPpz6dD3A : AI-কে টিউটরের মতো ব্যবহারের আইডিয়া।
-3. Oxford Study Skills: How to Use AI | Channel: n/a | https://youtube.com/watch?v=oR1wGKiNRo0 : স্টাডি স্কিল হিসেবে AI ব্যবহার।
-4. How to Learn FASTER using AI (without damaging your brain) | Channel: n/a | https://youtube.com/watch?v=4gQIAXjraLo : AI-এর ওপর অতিনির্ভরতা এড়ানোর সতর্কতা।
-5. Top Tips For Using AI's Like ChatGPT To Study | Channel: n/a | https://youtube.com/watch?v=gQceOfidGoI : স্টাডি প্ল্যান বানানোর টিপস।
-
-Non-video: none verified.
-
-**Recording script (Bangla):**
-[হুক] AI দিয়ে পড়লে কি আসলেই শেখা হয়, নাকি শুধু মনে হয় শিখছি?
-[মূল অংশ] AI পড়াশোনায় সাহায্য করতে পারে, কিন্তু ভুলভাবে ব্যবহার করলে উল্টো ক্ষতি। এই ৫টা ভিডিও দেখুন, তবে মনে রাখুন এগুলো ইংরেজিতে।
-এক: "How To Use AI To Study For Exams - With Demo", নোট থেকে প্র্যাকটিস প্রশ্ন বানানো।
-দুই: "Oxford Researchers Discovered How to Use AI To Learn Like A Genius", AI-কে টিউটরের মতো ব্যবহার।
-তিন: "Oxford Study Skills: How to Use AI", স্টাডি স্কিল হিসেবে AI।
-চার: "How to Learn FASTER using AI (without damaging your brain)", যাতে নিজের চিন্তা বন্ধ না হয়।
-পাঁচ: "Top Tips For Using AI's Like ChatGPT To Study", স্টাডি প্ল্যান বানানোর টিপস।
-সবচেয়ে বড় কথা, AI-র উত্তর অন্ধভাবে বিশ্বাস করবেন না, বইয়ের সাথে মিলিয়ে নিন।
-[CTA] বাংলায় ভালো কোনো ভিডিও জানলে কমেন্টে লিখুন। সেভ করুন, বন্ধুদের শেয়ার করুন।
-**Visual note:** স্ক্রিনে ৫টা টাইটেল, মাঝখানে "AI দেখাবে পথ, শিখতে হবে আপনাকেই" লেখা।
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] AI কী, না জেনেই AI ব্যবহার করছেন? তাহলে ভুল পথে যেতে পারেন।
+[মূল অংশ] AI নিয়ে হাইপ অনেক, কিন্তু আসল ধারণা না জানলে প্রতারিত হওয়া সহজ। প্রথমে দেখুন DeepLearning.AI এর Generative AI for Everyone, কোডিং ছাড়াই বোঝার কোর্স। দ্বিতীয়, Coursera তে Google এর AI Fundamentals। তৃতীয়, Google AI Essentials, কাজে AI ব্যবহারের জন্য। চতুর্থ, 3Blue1Brown এর ছোট ভিডিও Large Language Models, Explained Briefly, মাত্র কয়েক মিনিটে ধারণা পরিষ্কার হবে। সবগুলো ইংরেজিতে, ক্যাপশন ও অটো ট্রান্সলেট অন করুন। ফ্রি না পেইড, কোর্সের পেজে দেখে নেবেন।
+[CTA] কোনটা আগে দেখবেন কমেন্টে জানান। সেভ ও শেয়ার করুন।
 
+**স্ক্রিনে যা দেখাবেন:** চারটা পেজের স্ক্রিনশট পর পর।
+
 ---
 
-## 7. AI দিয়ে সিভি ও কভার লেটার বানানোর আগে ৫টা ভিডিও
-**Resources (verified via search):** (only 1 Bangla found)
-1. How to Create a Professional CV Using AI and ChatGPT । Career BD | Channel: Career BD (per search summary) | https://youtube.com/watch?v=7Oq-7lb-18o : বাংলায় AI দিয়ে সিভি বানানো।
-2. How to Write a Resume with ChatGPT (with prompts!) | Channel: n/a | https://youtube.com/watch?v=Lk5ju74lG7Y : প্রম্পটসহ রেজিউমে লেখা।
-3. Expert COVER LETTERS with ChatGPT: the Definitive Guide (with Examples & Prompts) | Channel: n/a (described as a Cambridge careers consultant guide) | https://youtube.com/watch?v=CvVfT3bAlZQ : কভার লেটারের উদাহরণ ও প্রম্পট।
-4. Writing a Cover Letter with ChatGPT (that doesn't look like it was written by AI) - Prompts Included | Channel: n/a | https://youtube.com/watch?v=9fbeV6NjqQs : AI-লেখা মনে না হওয়ার কৌশল।
-5. Write Cover Letter with ChatGPT - based on Resume & Job Description | Channel: n/a | https://youtube.com/watch?v=qjyjdgw-SgQ : চাকরির বিবরণ মিলিয়ে কভার লেটার।
-
-Non-video: none verified.
-
-**Recording script (Bangla):**
-[হুক] AI দিয়ে সিভি বানিয়েছেন, কিন্তু রিক্রুটার ধরে ফেলল যে এটা AI-র লেখা, তখন?
-[মূল অংশ] সিভি আর কভার লেটারে AI সাহায্য করতে পারে, তবে ঠিকভাবে। এই ৫টা ভিডিও দেখুন।
-এক: "How to Create a Professional CV Using AI and ChatGPT" Career BD-র, বাংলায়।
-দুই: "How to Write a Resume with ChatGPT (with prompts!)", প্রম্পটসহ।
-তিন: "Expert COVER LETTERS with ChatGPT: the Definitive Guide", উদাহরণসহ।
-চার: "Writing a Cover Letter with ChatGPT that doesn't look like it was written by AI", স্বাভাবিক শোনানোর কৌশল।
-পাঁচ: "Write Cover Letter with ChatGPT - based on Resume & Job Description", চাকরির বিবরণ মিলিয়ে।
-একটা সতর্কতা: নিজের নেই এমন অভিজ্ঞতা বা দক্ষতা কখনো লিখবেন না। AI-র লেখা পড়ে নিজের তথ্যের সাথে মিলিয়ে নিন। এতে চাকরি হবে, এমন গ্যারান্টি কেউ দিতে পারে না।
-[CTA] কভার লেটার লেখায় আপনার সবচেয়ে বড় সমস্যা কী, কমেন্টে বলুন। সেভ ও শেয়ার করুন।
-**Visual note:** একটা সিভির ড্রাফটে হাইলাইট করে "নিজের তথ্য যাচাই করুন" দেখান।
+## 3. ভালো প্রম্পট লেখা শেখার ৫টা রিসোর্স দেখুন
 
----
+**যাচাই করা লিংক: 4টা**
 
-## 8. AI দিয়ে ইংরেজি বলা শেখার ৫টা ভিডিও
-**Resources (verified via search):** (only 1 Bangla found)
-1. English Speaking Practice App Bangla | Channel: n/a | https://youtube.com/watch?v=Ii23McEw7eQ : বাংলায় স্পিকিং প্র্যাকটিস অ্যাপের পরিচিতি।
-2. Practice Speaking English for FREE with ChatGPT | Channel: n/a | https://youtube.com/watch?v=WP9zn62GjgA : ChatGPT দিয়ে ফ্রি প্র্যাকটিস।
-3. How To Use ChatGPT As a Free AI English Tutor | Channel: n/a | https://youtube.com/watch?v=waxuD77eCiE : ChatGPT-কে টিউটর বানানো।
-4. 5 Mind-blowing Ways to Practice English with ChatGPT's Advanced Voice Mode | Channel: n/a | https://youtube.com/watch?v=1QOHGREQCJ0 : ভয়েস মোডে প্র্যাকটিসের উপায়।
-5. Spoken English in 30 Days with ChatGPT | Channel: n/a | https://youtube.com/watch?v=3mxbPrtzbog : ৩০ দিনের প্র্যাকটিস প্ল্যান।
-
-Non-video: none verified.
-
-**Recording script (Bangla):**
-[হুক] ইংরেজি বলতে গেলে আটকে যান? কথা বলার সঙ্গী তো এখন আপনার ফোনেই!
-[মূল অংশ] AI-র সাথে রোজ কথা বলে প্র্যাকটিস করা যায়। দেখুন এই ৫টা ভিডিও।
-এক: "English Speaking Practice App Bangla", বাংলায় অ্যাপের পরিচিতি।
-দুই: "Practice Speaking English for FREE with ChatGPT", ফ্রি প্র্যাকটিস।
-তিন: "How To Use ChatGPT As a Free AI English Tutor", ChatGPT-কে টিউটর বানানো।
-চার: "5 Mind-blowing Ways to Practice English with ChatGPT's Advanced Voice Mode", ভয়েস মোডে।
-পাঁচ: "Spoken English in 30 Days with ChatGPT", ৩০ দিনের পরিকল্পনা।
-ভয়েস মোড কোন প্ল্যানে পাবেন, আমি যতদূর জানি তা বদলাতে পারে, তাই অফিসিয়াল পেজে চেক করে নিন। AI-র সাথে অনুশীলন সাহায্য করে, কিন্তু নিয়মিত চর্চাটাই আসল।
-[CTA] রোজ কতক্ষণ প্র্যাকটিস করবেন, কমেন্টে লিখে কমিট করুন। সেভ ও শেয়ার করুন।
-**Visual note:** ফোনে ভয়েস চ্যাটের স্ক্রিন রেকর্ডিং, সাথে ৫টা ভিডিও কার্ড।
+Resources:
+1. [Course] Google Prompting Essentials | Google (Coursera) | https://www.coursera.org/specializations/prompting-essentials-google : এটা করলে আপনি একটা ধাপে ধাপে প্রম্পটিং ফ্রেমওয়ার্ক শিখবেন (a result showed a 7-day free trial then a monthly fee in US/Canada; check pricing for Bangladesh)।
+2. [Docs] Anthropic Courses page | Anthropic | https://docs.anthropic.com/en/docs/resources/courses : এটা দেখলে আপনি Anthropic এর অফিসিয়াল কোর্সগুলো খুঁজে পাবেন।
+3. [Course] Generative AI for Everyone | DeepLearning.AI | https://www.deeplearning.ai/courses/generative-ai-for-everyone : এটা করলে আপনি প্রম্পটিং এর টিপস ও সীমাবদ্ধতা বুঝবেন।
+4. [Website] Claude 101 | Anthropic Academy | https://www.anthropic.com/learn/claude-for-you : এটা করলে আপনি Claude এ কার্যকর প্রম্পটিং শিখবেন।
 
----
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Prompt engineering guide (OpenAI)
+- Docs: Prompt engineering overview (Anthropic docs)
+- Website: Prompt Engineering Guide (DAIR.AI)
+- Course: ChatGPT Prompt Engineering for Developers (DeepLearning.AI)
 
-## 9. AI টুল দিয়ে ভিডিও এডিটিং শেখার ৫টা ভিডিও
-**Resources (verified via search):**
-1. Claude Video Editing in Bangla - How to Edit Video with Claude AI & Hyperframes | Channel: n/a | https://youtube.com/watch?v=Fhjl-jplMg8 : বাংলায় Claude দিয়ে ভিডিও বানানো।
-2. claude ai দিয়ে পুরো ভিডিও এডিট করে নিন সম্পূর্ণ ফ্রিতে complete masterclass in bangla | Channel: n/a | https://youtube.com/watch?v=OoKbEorHIgk : টকিং হেড ভিডিও এডিটের মাস্টারক্লাস।
-3. Make AI Video with Canva in Bengali || ক্যানভা দিয়ে AI Video | Channel: n/a | https://youtube.com/watch?v=tP8_snIOoOk : Canva দিয়ে বাংলায়।
-4. 2026 এ AI দিয়ে ভিডিও বানানোর সেরা ৫টা অ্যাপ | Top 5 Free Apps 2026 | Channel: n/a | https://youtube.com/watch?v=DVwdIM26ViI : ফ্রি অ্যাপের তালিকা।
-5. Best AI Video Editing Tools in 2026 (Don't Choose Wrong) | Channel: n/a | https://youtube.com/watch?v=OHODMrUZlpo : ইংরেজিতে টুলের তুলনা।
-
-Non-video: none verified.
-
-**Recording script (Bangla):**
-[হুক] ভিডিও এডিট করতে ঘণ্টার পর ঘণ্টা লাগে? AI টুলে হয়তো সময় অনেক কমতে পারে।
-[মূল অংশ] কোন টুল দিয়ে শুরু করবেন, বুঝতে এই ৫টা ভিডিও দেখুন।
-এক: "Claude Video Editing in Bangla - How to Edit Video with Claude AI & Hyperframes".
-দুই: "claude ai দিয়ে পুরো ভিডিও এডিট করে নিন সম্পূর্ণ ফ্রিতে complete masterclass in bangla".
-তিন: "Make AI Video with Canva in Bengali", ক্যানভা দিয়ে বাংলায়।
-চার: "2026 এ AI দিয়ে ভিডিও বানানোর সেরা ৫টা অ্যাপ", ফ্রি অ্যাপের তালিকা।
-পাঁচ: "Best AI Video Editing Tools in 2026", ইংরেজিতে তুলনা।
-টুলের ফিচার আর প্ল্যান খুব দ্রুত বদলায়, তাই ফ্রি না পেইড, আমি যতদূর জানি, নিজে চেক করে নেবেন। AI দিয়ে বানানো কনটেন্ট প্ল্যাটফর্মের নিয়ম মেনে আপলোড করুন।
-[CTA] আপনি কোন এডিটর ব্যবহার করেন, কমেন্টে বলুন। সেভ ও শেয়ার করুন।
-**Visual note:** একটা টাইমলাইনের স্ক্রিন রেকর্ডিং, তারপর ৫টা কার্ড।
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] একই AI, কিন্তু কেউ ভালো উত্তর পায়, কেউ পায় না। কারণ প্রম্পট!
+[মূল অংশ] ভালো প্রম্পট মানে ভালো ফল। শুরু করুন Google Prompting Essentials দিয়ে, Coursera তে, যেখানে একটা প্রম্পট ফ্রেমওয়ার্ক শেখানো হয়। এরপর Anthropic এর Courses পেজ দেখুন, অফিসিয়াল কোর্সের তালিকা আছে। তারপর DeepLearning.AI এর Generative AI for Everyone, এবং Anthropic Academy র Claude 101। সবই ইংরেজিতে, ক্যাপশন অন করুন। দাম ও ফ্রি ট্রায়াল বদলাতে পারে, তাই পেজে দেখে নেবেন।
+[CTA] আপনার সেরা প্রম্পট কমেন্টে লিখুন। সেভ ও শেয়ার করুন।
 
+**স্ক্রিনে যা দেখাবেন:** একটা খারাপ ও একটা ভালো প্রম্পটের পাশাপাশি তুলনা, তারপর পেজগুলো।
+
 ---
 
-## 10. AI দিয়ে ছবি বানানোর আগে ৫টা ভিডিও
-**Resources (only 4 verified, none is a Bangla video):**
-1. ChatGPT Images 2.5 Tutorial for Beginners | Kevin Stratvert (পেজে দেখানো নাম, ভিডিও লিংক যাচাই বাকি) | https://kevinstratvert.com/tag/ai-image-editing/ : ছবি বানানো ও এডিট করার বেসিক, ইংরেজিতে।
-2. Bing Image Creator (টুলের পেজ, বাংলা ইন্টারফেস সেটিং সহ) | https://www.bing.com/images/create/ai-image-generator?setlang=bn : নিজে চেষ্টা করে দেখার জন্য।
-3. ফটোগ্রাফি থেকে এআইয়ের প্রম্পটোগ্রাফির যুগে পৃথিবী | প্রথম আলো | https://www.prothomalo.com/technology/artificial-intelligence/dqvdf33dw5 : বাংলায় লেখা, ধারণা বোঝার জন্য।
-4. Midjourney for Beginners | codedamn | https://codedamn.com/learn/midjourney-for-beginners : Midjourney-র শুরুর গাইড, ইংরেজিতে।
-(only 4 verified; বাংলা ভিডিও ০টা)
-
-**Recording script (Bangla):**
-[হুক] AI দিয়ে এক মিনিটে ছবি বানানো যায়, কিন্তু কোথা থেকে শুরু করবেন, জানেন?
-[মূল অংশ] AI দিয়ে ছবি বানানো এখন খুব সহজ, কিন্তু না বুঝে শুরু করলে সময় নষ্ট হয়। তাই আমি কয়েকটা রিসোর্স জোগাড় করেছি। সার্চে ৫টা পুরো ভিডিও পাইনি, তাই সৎভাবে বলছি, এখানে ৪টা রিসোর্স আছে।
-এক: Kevin Stratvert-এর ChatGPT Images-এর বিগিনার টিউটোরিয়াল, ইংরেজিতে, ছবি বানানো আর এডিট শেখার জন্য।
-দুই: Bing Image Creator, এটা সরাসরি খুলে নিজে চেষ্টা করুন। আমি যতদূর জানি Microsoft অ্যাকাউন্ট লাগে, আর ফ্রি সুবিধা বদলাতে পারে, তাই সাইটে দেখে নিন।
-তিন: প্রথম আলোর লেখা, "ফটোগ্রাফি থেকে এআইয়ের প্রম্পটোগ্রাফির যুগে পৃথিবী", বাংলায় পুরো ধারণাটা বোঝার জন্য।
-চার: codedamn-এর Midjourney for Beginners গাইড।
-একটা জরুরি কথা, AI টুল খুব দ্রুত বদলায়, ভিডিও পুরোনো হতে পারে। আর যে ছবি বানাবেন, সেটা কাউকে ঠকাতে বা অন্যের ক্ষতি করতে ব্যবহার করবেন না।
-[CTA] আপনি কোন টুলে ছবি বানান, কমেন্টে জানান। পোস্টটা সেভ করে রাখুন, আর যে বন্ধু ছবি বানাতে চায় তাকে শেয়ার করুন।
-**Visual note:** স্ক্রিনে একে একে রিসোর্সের নাম কার্ড দেখান, শেষে Bing Image Creator পেজের স্ক্রিন রেকর্ডিং।
+## 4. Claude ব্যবহার শেখার ৫টা রিসোর্স দেখুন
 
----
+**যাচাই করা লিংক: 3টা**
 
-## 11. AI দিয়ে প্রেজেন্টেশন বানানোর ৫টা ভিডিও
-**Resources (5 verified pages, none is a video, none is Bangla):**
-1. Getting started with AI presentations: complete beginners guide | Gamma (অফিশিয়াল গাইড) | https://gamma.app/explore/content/guides/getting-started-with-ai-presentations-complete-beginners-guide : Gamma দিয়ে প্রথম ডেক বানানোর ধাপ।
-2. How to create a presentation with Canva AI step by step | presentations.ai (তৃতীয় পক্ষের ব্লগ) | https://www.presentations.ai/blog/how-to-create-a-presentation-with-canva-ai-step-by-step : Canva Magic Design-এর ধাপ।
-3. Create Powerpoint Slides Instantly with AI Using Gamma.app or Canva | fiveminai (Substack) | https://fiveminai.substack.com/p/create-powerpoint-slides-instantly : দুই টুলের তুলনামূলক গাইড।
-4. How I Use Copilot and Gamma AI to Create PowerPoints | teachnet.ie | https://teachnet.ie/how-i-use-co-pilot-and-gamma-ai-to-create-power-points/ : Copilot দিয়ে আউটলাইন, Gamma দিয়ে স্লাইড।
-5. Gamma AI tutorial notes (মালয় ভাষায় ভিডিও সারাংশ) | lilys.ai | https://lilys.ai/ms/notes/gamma-ai-20251203/learn-free-gamma-ai-presentation : ভিডিওর ধাপের সারাংশ।
-
-**Recording script (Bangla):**
-[হুক] প্রেজেন্টেশন বানাতে ঘণ্টার পর ঘণ্টা লাগে? AI দিয়ে প্রথম ড্রাফটটা অনেক কম সময়ে হতে পারে!
-[মূল অংশ] কিন্তু ভুলভাবে শুরু করলে ড্রাফট এলোমেলো হয়। তাই ৫টা রিসোর্স দিচ্ছি। সার্চে বাংলা ভিডিও পাইনি, এগুলো ইংরেজি গাইড।
-এক: Gamma-র নিজস্ব বিগিনার গাইড, প্রথম ডেক বানানোর ধাপ।
-দুই: Canva AI দিয়ে প্রেজেন্টেশন, ধাপে ধাপে, একটা ব্লগ গাইড।
-তিন: Gamma আর Canva, দুটোর একসাথে গাইড।
-চার: এক শিক্ষকের লেখা, কীভাবে Copilot দিয়ে আউটলাইন বানিয়ে Gamma-য় স্লাইড করেন।
-পাঁচ: Gamma-র একটা ভিডিও টিউটোরিয়ালের সারাংশ, মালয় ভাষায়।
-মনে রাখবেন, ফ্রি সীমা আর সুবিধা প্রায়ই বদলায়, আমি যতদূর জানি কিছু টুলে ক্রেডিট সীমা থাকে, তাই নিজে দেখে নিন। আর AI-র বানানো তথ্য স্লাইডে দেওয়ার আগে অবশ্যই যাচাই করুন।
-[CTA] আপনি কোন টুলে প্রেজেন্টেশন বানান, কমেন্টে লিখুন। সেভ করে রাখুন, আর শেয়ার করুন।
-**Visual note:** প্রতিটি গাইডের পেজের স্ক্রিনশট পাশাপাশি, শেষে একটা AI-র বানানো স্যাম্পল স্লাইড দেখান।
+Resources:
+1. [Course] Claude 101 | Anthropic Academy | https://www.anthropic.com/learn/claude-for-you : এটা করলে আপনি প্রথম চ্যাট থেকে প্রজেক্ট, আর্টিফ্যাক্ট ও টুল ব্যবহার শিখবেন (a result said 13 lessons, about 2.5 hours; account may be required)।
+2. [Docs] Anthropic Courses | Anthropic | https://docs.anthropic.com/en/docs/resources/courses : এটা দেখলে আপনি সব অফিসিয়াল কোর্স একসঙ্গে পাবেন।
+3. [Course] Build with Claude | Anthropic Academy | https://www.anthropic.com/learn/build-with-claude : এটা করলে আপনি Claude দিয়ে অ্যাপ বানানোর পথ বুঝবেন।
 
----
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Claude documentation (Anthropic)
+- Docs: Claude Help Center (Anthropic)
+- Course: AI Fluency (Anthropic)
+- Channel: Anthropic (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] Claude কি শুধু আরেকটা চ্যাটবট? না, ঠিকমতো শিখলে অনেক বেশি কিছু পারে।
+[মূল অংশ] শুরু করুন Anthropic Academy র Claude 101 দিয়ে, প্রথম চ্যাট থেকে শুরু। এরপর Anthropic এর Courses পেজে বাকি অফিসিয়াল কোর্স দেখুন। আর ডেভেলপার হলে Build with Claude। সবই ইংরেজিতে, ক্যাপশন ও অটো ট্রান্সলেট চালান। ফিচার ও প্ল্যান বদলায়, তাই অফিসিয়াল পেজে মিলিয়ে নিন।
+[CTA] Claude কেমন লাগে কমেন্টে জানান। সেভ ও শেয়ার করুন।
 
-## 12. বাংলা ভাষায় AI ব্যবহারের ৫টা ভিডিও
-**Resources (5 verified pages, none is a Bangla video):**
-1. ChatGPT-এর জন্য প্রম্পট ইঞ্জিনিয়ারিং সেরা অভ্যাস | OpenAI Help Center (বাংলা) | https://help.openai.com/bn-bd/articles/10032626-prompt-engineering-best-practices-for-chatgpt : পরিষ্কার প্রম্পট লেখার নিয়ম।
-2. ChatGPT কি সত্য বলে? | OpenAI Help Center (বাংলা) | https://help.openai.com/bn-bd/articles/8313428-does-chatgpt-tell-the-truth : ভুল তথ্যের সীমাবদ্ধতা।
-3. What is ChatGPT | OpenAI Help Center (বাংলা) | https://help.openai.com/bn-bd/articles/6783457-what-is-chatgpt : বেসিক পরিচিতি।
-4. Gemini বাংলাদেশ পেজ | Google | https://gemini.google/bd/about/ : Gemini-র বাংলা পেজ, Gemini Live সহ।
-5. Google Gemini AI Course for Beginners in Bengali (ভিডিও সারাংশ) | lilys.ai | https://lilys.ai/es/notes/google-gemini-20260102/google-gemini-ai-course-beginners : একটা বাংলা কোর্স ভিডিওর সারাংশ, মূল ভিডিওর চ্যানেল যাচাই বাকি।
-
-**Recording script (Bangla):**
-[হুক] AI-কে কি বাংলায় প্রশ্ন করা যায়? উত্তর হ্যাঁ, কিন্তু কিছু জিনিস জানা থাকলে ফল অনেক ভালো হয়।
-[মূল অংশ] ইংরেজি না জানলেও AI ব্যবহার করা যায়। তবে বাংলায় মান কখনও কম-বেশি হতে পারে, তাই নিজে পরীক্ষা করুন। এখানে ৫টা রিসোর্স।
-এক, দুই আর তিন: OpenAI-র নিজের বাংলা Help Center, প্রম্পট লেখার নিয়ম, ChatGPT সত্য বলে কি না, আর ChatGPT কী।
-চার: Google-এর Gemini বাংলাদেশ পেজ।
-পাঁচ: একটা বাংলা Gemini কোর্স ভিডিওর সারাংশ, মূল ভিডিওটা চ্যানেল থেকে খুঁজে নিন।
-একটা টিপ: বাংলায় উত্তর ঠিক না এলে একই প্রশ্ন ইংরেজিতে করে দেখুন, আবার বাংলায় অনুবাদ করতে বলুন। আমি যতদূর জানি এতে কখনও কখনও ভালো ফল আসে, তবে নিশ্চিত নই, নিজে মিলিয়ে নিন। আর গুরুত্বপূর্ণ তথ্য সবসময় যাচাই করবেন।
-[CTA] আপনি AI-কে বাংলায় কী কী জিজ্ঞেস করেন, কমেন্টে জানান। সেভ করে রাখুন, আর শেয়ার করুন।
-**Visual note:** স্ক্রিনে বাংলায় একটা প্রশ্ন লিখে AI-র উত্তর দেখান, তারপর রিসোর্স কার্ড।
+**স্ক্রিনে যা দেখাবেন:** তিনটা অফিসিয়াল পেজ স্ক্রল করে দেখান।
 
 ---
 
-## 13. NotebookLM দিয়ে নোট ও বই বোঝার ৫টা ভিডিও
-**Resources (5 verified, only the Kevin Stratvert and chaindesk entries relate to videos, none is Bangla):**
-1. How NotebookLM became my favourite study buddy | The Business Standard (বাংলাদেশি পত্রিকা, ইংরেজি) | https://www.tbsnews.net/node/1149871 : বাংলা আউটপুট ও অডিও নিয়ে রিভিউ।
-2. How to Use NotebookLM For Beginners (In 10 Minutes) (ভিডিওর সারাংশ পেজ) | chaindesk.ai | https://chaindesk.ai/tools/youtube-summarizer/how-to-use-notebook-lm-for-beginners-in-10-minutes-J1lGISAONbc : ১০ মিনিটের বিগিনার ভিডিও, চ্যানেল যাচাই বাকি।
-3. How to Use NotebookLM (Beginner Tutorial) | Kevin Stratvert | https://kevinstratvert.com/tag/notebooklm/ : ধাপে ধাপে বিগিনার টিউটোরিয়াল।
-4. NotebookLM adds audio and YouTube support | Google Blog | https://blog.google/technology/ai/notebooklm-audio-video-sources/ : অফিশিয়াল ঘোষণা।
-5. NotebookLM's New Secrets to Supercharging Your Success (Full Tutorial 2025) | Kevin Stratvert | https://kevinstratvert.com/2025/01/24/notebooklms-new-secrets-to-supercharging-your-success-full-tutorial-2025/ : আরও গভীর টিউটোরিয়াল।
-
-**Recording script (Bangla):**
-[হুক] মোটা বই বা অনেক PDF পড়তে ভয় লাগে? NotebookLM নামে একটা দারুণ টুল আছে।
-[মূল অংশ] এতে আপনি নিজের PDF, নোট বা লিংক দেন, আর সেই উৎস থেকেই প্রশ্নের উত্তর পান। সার্চে বাংলা ভিডিও পাইনি, তাই এই ৫টা রিসোর্স দিচ্ছি।
-এক: The Business Standard-এর একটা রিভিউ, যেখানে লেখক বাংলা আউটপুট ব্যবহার করে দেখেছেন। তাঁর মতে বাংলা সারাংশ মোটামুটি ভালো ছিল, তবে ইংরেজির মতো ধারালো নয়।
-দুই: ১০ মিনিটের বিগিনার ভিডিও।
-তিন: Kevin Stratvert-এর বিগিনার টিউটোরিয়াল।
-চার: Google-এর নিজের ব্লগ পোস্ট।
-পাঁচ: Kevin Stratvert-এর আরও গভীর টিউটোরিয়াল।
-ফিচার ও ভাষা সাপোর্ট বদলাতে পারে, তাই Google-এর পেজে দেখে নিন। আর AI-র সারাংশ মূল উৎসের সঙ্গে মিলিয়ে নেবেন।
-[CTA] আপনি NotebookLM-এ কী পড়বেন, কমেন্টে জানান। সেভ করে রাখুন, আর শেয়ার করুন।
-**Visual note:** একটা PDF আপলোড করে প্রশ্ন করার স্ক্রিন রেকর্ডিং, তারপর রিসোর্স কার্ড।
+## 5. Google Gemini ব্যবহার শেখার ৫টা রিসোর্স দেখুন
 
----
+**যাচাই করা লিংক: 5টা**
 
-## 14. AI এজেন্ট কী, বোঝার ৫টা ভিডিও
-**Resources (5 verified, only 1 is a video summary page, 2 Bangla articles, no Bangla video):**
-1. AI Agents for Beginners, পাঠ ১ (বাংলা অনুবাদ) | Microsoft | https://microsoft.github.io/ai-agents-for-beginners/translations/bn/01-intro-to-ai-agents/ : বাংলা পাঠ, পেজে ভিডিও থাকার কথা।
-2. এআই এজেন্ট নিয়ে বাংলা লেখা | teachers.gov.bd | https://teachers.gov.bd/blog/details/843493 : চ্যাটবট ও এজেন্টের পার্থক্য।
-3. LLM থেকে এজেন্ট কীভাবে হয় (বাংলা লেখা) | teachers.gov.bd | https://www.teachers.gov.bd/blog/details/843496 : গঠনের ধারণা।
-4. AI Agents, Clearly Explained (ভিডিও সারাংশ পেজ) | videohighlight.com | https://videohighlight.com/v/FwOTs4UxQS4 : ইংরেজি ভিডিও, চ্যানেল যাচাই বাকি।
-5. The Agentic AI Handbook | freeCodeCamp | https://www.freecodecamp.org/news/the-agentic-ai-handbook/ : একটু টেকনিক্যাল, পরে পড়ার জন্য।
-
-**Recording script (Bangla):**
-[হুক] চ্যাটবট আর AI এজেন্টের মধ্যে পার্থক্য কী? অনেকেই গুলিয়ে ফেলেন!
-[মূল অংশ] সহজ কথায়, চ্যাটবট সাধারণত উত্তর দেয়, আর এজেন্ট আপনার হয়ে কয়েকটা ধাপের কাজও করার চেষ্টা করে। সার্চে বাংলা ভিডিও পাইনি, তবে এই ৫টা রিসোর্স কাজে লাগবে।
-এক: Microsoft-এর AI Agents for Beginners কোর্সের বাংলা অনুবাদ, প্রথম পাঠ।
-দুই আর তিন: teachers.gov.bd-তে দুটো বাংলা লেখা, একটায় এজেন্ট কী, অন্যটায় কীভাবে কাজ করে।
-চার: "AI Agents, Clearly Explained" নামের একটা ইংরেজি ভিডিও, তার সারাংশ পেজ দেখে চ্যানেলে খুঁজে নিন।
-পাঁচ: freeCodeCamp-এর হ্যান্ডবুক, যারা একটু টেকনিক্যাল জানতে চান।
-এই বিষয়ে টুল আর শব্দ দ্রুত বদলায়, তাই নতুন তথ্য পেলে মিলিয়ে নেবেন। আর এজেন্টকে গুরুত্বপূর্ণ কাজ দিলে নিজে একবার দেখে নেওয়া ভালো।
-[CTA] আপনি এজেন্ট দিয়ে কী করাতে চান, কমেন্টে লিখুন। সেভ করে রাখুন, আর শেয়ার করুন।
-**Visual note:** চ্যাটবট বনাম এজেন্টের দুই কলামের ছোট চার্ট, তারপর রিসোর্স কার্ড।
+Resources:
+1. [Docs] Get started with the Gemini mobile app | Gemini Apps Help | https://support.google.com/gemini/answer/14554984?hl=en&co=GENIE.Platform%3DAndroid : এটা পড়লে আপনি ফোনে Gemini চালু ও ব্যবহার শিখবেন।
+2. [Docs] Gemini Apps Help | Google | https://support.google.com/gemini/?hl=en : এটা দেখলে আপনি যেকোনো সমস্যার অফিসিয়াল উত্তর পাবেন।
+3. [Docs] Use learning tools in Gemini Apps | Gemini Apps Help | https://support.google.com/gemini/answer/16448384?hl=en&co=GENIE.Platform%3DDesktop : এটা পড়লে আপনি পড়াশোনার টুলগুলো চালাতে পারবেন।
+4. [Website] Guided Learning in Gemini | Google blog | https://blog.google/products-and-platforms/products/education/guided-learning/ : এটা পড়লে আপনি বুঝবেন Guided Learning কী।
+5. [Docs] Generative AI training and help | Google Workspace Learning Center | https://support.google.com/a/users/answer/14506784?hl=en : এটা দেখলে আপনি Google এর ট্রেনিং কোর্সের তালিকা পাবেন।
 
----
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Gemini Apps Help (Google)
+- Website: Google AI Studio (Google)
+- Course: Google AI Essentials (Google on Coursera)
+- Channel: Google for Developers (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] আপনার ফোনে Gemini আছে, কিন্তু অর্ধেক ফিচার জানেন না!
+[মূল অংশ] এক, Gemini মোবাইল অ্যাপ শুরু করার অফিসিয়াল গাইড। দুই, Gemini Apps Help সেন্টার। তিন, Use learning tools in Gemini Apps। চার, Google ব্লগের Guided Learning লেখা। পাঁচ, Google Workspace Learning Center র জেনারেটিভ AI ট্রেনিং পেজ। সবই ইংরেজিতে, ক্যাপশন বা অনুবাদ চালান। ফিচার সব দেশে ও সব অ্যাকাউন্টে নাও থাকতে পারে, তাই নিজের অ্যাকাউন্টে দেখে নিন।
+[CTA] কোন ফিচার সবচেয়ে কাজের, কমেন্টে বলুন। সেভ ও শেয়ার করুন।
 
-## 15. AI যে ভুল তথ্য দেয় (hallucination) তা চিনতে ৫টা ভিডিও
-**Resources (5 verified pages, none is a video, none is Bangla except the first):**
-1. ChatGPT কি সত্য বলে? | OpenAI Help Center (বাংলা) | https://help.openai.com/bn-bd/articles/8313428-does-chatgpt-tell-the-truth : OpenAI নিজেই ভুলের সীমাবদ্ধতা স্বীকার করে।
-2. How to tell if an AI is hallucinating: 4 red flags | PCWorld | https://www.pcworld.com/article/2961048/how-to-tell-if-an-ai-is-hallucinating-in-its-answers-4-red-flags-to-watch-out-for.html : লক্ষণ চেনা।
-3. AI Hallucinations: Understanding the Phenomenon and Its Implications | Coursera | https://www.coursera.org/articles/ai-hallucinations : ধারণা ও কারণ।
-4. Don't trust ChatGPT at face-value: the system I use to fact-check it | Tom's Guide | https://www.tomsguide.com/ai/dont-trust-chatgpt-at-face-value-heres-the-system-i-use-to-fact-check-it-in-seconds : দ্রুত যাচাইয়ের উপায়।
-5. How to spot and avoid GenAI hallucinations | University of Pittsburgh | https://www.digital.pitt.edu/news/pantherbytes-blog/how-spot-and-avoid-genai-hallucinations : এড়ানোর টিপস।
-
-**Recording script (Bangla):**
-[হুক] AI খুব আত্মবিশ্বাসের সঙ্গে ভুল তথ্য দিলে আপনি কি ধরতে পারবেন?
-[মূল অংশ] AI ভুল বলাকে বলে হ্যালুসিনেশন। এটা মানুষের মতো জেনেশুনে মিথ্যা নয়, মডেল অনেক সময় সম্ভাব্য শব্দ সাজায়, তাই সুন্দর শুনালেও ভুল হতে পারে। সার্চে ভিডিও বা বাংলা রিসোর্স তেমন পাইনি, তাই ৫টা গাইড দিচ্ছি।
-এক: OpenAI-র নিজের বাংলা Help পেজ, ChatGPT সত্য বলে কি না।
-দুই: PCWorld-এর লেখা, কী কী লক্ষণ দেখে সন্দেহ করবেন।
-তিন: Coursera-র ব্যাখ্যা।
-চার: Tom's Guide-এর দ্রুত যাচাইয়ের পদ্ধতি।
-পাঁচ: Pittsburgh বিশ্ববিদ্যালয়ের ব্লগ।
-সাধারণ নিয়ম: নাম, তারিখ, উদ্ধৃতি আর লিংক নিজে খুলে মিলিয়ে নিন। স্বাস্থ্য, আইন বা টাকার বিষয়ে শুধু AI-র কথায় ভরসা করবেন না।
-[CTA] AI আপনাকে কখনও ভুল তথ্য দিয়েছে? কমেন্টে বলুন। সেভ করে রাখুন, আর শেয়ার করুন।
-**Visual note:** একটা বানানো ভুল উদ্ধৃতির উদাহরণ স্ক্রিনে, তারপর লাল চিহ্ন দিয়ে লক্ষণগুলো, শেষে রিসোর্স কার্ড।
+**স্ক্রিনে যা দেখাবেন:** Gemini Help পেজ ও অ্যাপের স্ক্রিন পাশাপাশি।
 
 ---
 
-## 16. AI দিয়ে Excel ও Google Sheets সহজ করার ৫টা ভিডিও
-**Resources (only 0 videos verified, 4 written guides verified via search; no Bangla video found):**
-1. Using Gemini to Create Google Sheets | KDnuggets | https://www.kdnuggets.com/using-gemini-to-create-google-sheets : Gemini দিয়ে টেবিল, ফর্মুলা ও বিশ্লেষণের ধারণা (ইংরেজি লেখা)।
-2. How to Use Gemini in Google Sheets: Basic & Advanced Use Cases | TechRepublic | https://www.techrepublic.com/article/how-to-use-gemini-google-sheets/ : Sheets-এ Gemini ব্যবহারের ধাপ (ইংরেজি লেখা)।
-3. How to Use ChatGPT for Excel and Google Sheets | promptoptimizer.tools | https://promptoptimizer.tools/blog/how-to-use-chatgpt-for-excel-and-google-sheets : ফর্মুলা লেখা ও ভুল ঠিক করার গাইড (ইংরেজি লেখা)।
-4. How to Use Google Gemini to Write Excel Formulas for Free | Sagnik Bhattacharya | https://sagnikbhattacharya.com/blog/gemini-ai-excel : ফর্মুলা লেখায় Gemini (ইংরেজি লেখা)।
-5. Copilot in Excel: Beginners Guide (একটি ভিডিও কোর্সের সারাংশ পেজ, ভিডিও চ্যানেল Teacher's Tech বলে লেখা আছে, নিজে যাচাই করুন) | hubsite365 | https://www.hubsite365.com/en-ww/crm-pages/how-to-use-copilot-in-excel-the-complete-beginners-course.htm
-
-Non-video: সরাসরি YouTube লিংক পাওয়া যায়নি, ইউটিউবে "Google Sheets Gemini bangla" লিখে নিজে খুঁজে নিতে পারেন।
-
-**Recording script (Bangla, প্রায় ৭৫ সেকেন্ড):**
-[হুক] Excel-এর ফর্মুলা মনে থাকে না? AI এখন সেটা লিখে দিতে পারে, তবে একটা শর্তে!
-[মূল অংশ] আপনি শুধু বাংলায় বা ইংরেজিতে বলবেন কী চান, যেমন "এই কলামের যোগফল বের করো", আর AI ফর্মুলা সাজিয়ে দেবে। কিন্তু AI ভুলও করে, তাই ফলাফল নিজে একবার মিলিয়ে নেবেন। আর অফিসের গোপন বা ব্যক্তিগত ডেটা কোনো AI টুলে দেওয়ার আগে ভাবুন। আজ আমি যে রিসোর্সগুলো পেয়েছি, তার বেশিরভাগই ইংরেজিতে লেখা গাইড, ভিডিও নয়, তাই সৎভাবে বলে রাখছি:
-এক, KDnuggets-এর লেখা, Gemini দিয়ে Google Sheets বানানো।
-দুই, TechRepublic-এর গাইড, Sheets-এ Gemini ব্যবহার। কোন প্ল্যানে কী পাবেন, তা আপনার অ্যাকাউন্টে দেখে নিন, কারণ সব একাউন্টে নাও থাকতে পারে।
-তিন, ChatGPT দিয়ে ফর্মুলা লেখার একটা গাইড।
-চার, Sagnik Bhattacharya-র লেখা, Gemini দিয়ে Excel ফর্মুলা।
-পাঁচ, Copilot in Excel নিয়ে একটা বিগিনার কোর্সের পেজ। চ্যানেল যাচাই করে নেবেন।
-কোনো বাংলা ভিডিও পেলে আপনারাও কমেন্টে জানান, আমি যোগ করব।
-[CTA] আপনার Excel-এর সবচেয়ে বিরক্তিকর কাজ কোনটা? কমেন্টে লিখুন, পোস্টটা সেভ করুন, আর অফিসের বন্ধুকে শেয়ার করুন।
-**Visual note:** স্ক্রিনে পাঁচটা লেখার হেডলাইন একে একে দেখান, মাঝখানে একটা স্প্রেডশিটের ছবি। শেষে "ফলাফল নিজে মিলিয়ে নিন" টেক্সট।
+## 6. AI দিয়ে পড়াশোনা সহজ করার ৫টা রিসোর্স দেখুন
 
----
+**যাচাই করা লিংক: 4টা**
 
-## 17. AI দিয়ে পেশাদার ইমেইল লেখার ৫টা ভিডিও
-**Resources (only 0 videos verified, 5 written guides verified via search; no Bangla video found):**
-1. How to Use ChatGPT to Write an Email | Supademo | https://supademo.com/tutorials/chatgpt/how-to-use-chatgpt-to-write-an-email : ম্যানেজারকে ফরমাল ইমেইল লেখার ধাপ (ইংরেজি)।
-2. How to write better emails with ChatGPT, your voice, only faster | Tom's Guide | https://www.tomsguide.com/ai/how-to-use-chatgpt-to-write-better-emails : টোন, টেমপ্লেট ও নিজের ভঙ্গি ধরে রাখা (ইংরেজি)।
-3. How to Write a Professional Email: A Step-by-Step Guide | The Neuron | https://www.theneuron.ai/write/communication/professional-email/ : ধাপে ধাপে গাইড (ইংরেজি)।
-4. #258: Write Professional Emails in English, Step-by-Step | Speak Confident English | https://speakconfidentenglish.com/professional-emails-in-english : ইংরেজিতে প্রফেশনাল ইমেইলের কাঠামো।
-5. How to write a perfect professional email in English in 5 steps | EF English Live | https://englishlive.ef.com/blog/career-english/write-perfect-professional-email-english-5-steps : ৫ ধাপের সংক্ষিপ্ত গাইড।
-
-Non-video: ইউটিউবে "professional email writing" লিখে নিজে ভিডিও বেছে নিতে পারেন।
-
-**Recording script (Bangla, প্রায় ৭৫ সেকেন্ড):**
-[হুক] একটা ইমেইল লিখতে আধা ঘণ্টা লাগে? AI দিয়ে খসড়া হবে ২ মিনিটে, কিন্তু পাঠানোর আগে এই কাজটা করতেই হবে!
-[মূল অংশ] ChatGPT বা Gemini-কে বলুন কাকে লিখছেন, কী চান আর টোন কেমন হবে। তারপর খসড়াটা নিজের ভাষায় ঠিক করে নিন, কারণ প্রাপকের নাম, তারিখ বা তথ্য AI ভুল লিখতে পারে। গোপন তথ্যও ইমেইলের প্রম্পটে দেবেন না। আজকের রিসোর্সগুলো লেখা গাইড, ভিডিও নয়:
-এক, Supademo-র টিউটোরিয়াল, ম্যানেজারকে ফরমাল ইমেইল।
-দুই, Tom's Guide-এর লেখা, নিজের ভঙ্গি ধরে রেখে ইমেইল লেখা।
-তিন, The Neuron-এর ধাপে ধাপে গাইড।
-চার, Speak Confident English-এর পেজ, ইংরেজিতে প্রফেশনাল ইমেইল।
-পাঁচ, EF English Live-এর ৫ ধাপের গাইড।
-সাবজেক্ট লাইন ছোট ও পরিষ্কার রাখুন, এটা প্রায় সব গাইডই বলছে।
-[CTA] আপনি কোন ধরনের ইমেইল লিখতে সবচেয়ে ভয় পান? কমেন্টে জানান, সেভ করুন আর শেয়ার করুন।
-**Visual note:** একটা ইমেইলের খসড়ার স্ক্রিন, তারপর পাঁচটা হেডলাইন। শেষে "পাঠানোর আগে নিজে পড়ুন" টেক্সট।
+Resources:
+1. [Docs] Use learning tools in Gemini Apps | Gemini Apps Help | https://support.google.com/gemini/answer/16448384?hl=en&co=GENIE.Platform%3DDesktop : এটা পড়লে আপনি Gemini কে টিউটরের মতো ব্যবহার করতে পারবেন।
+2. [Website] Guided Learning in Gemini: From answers to understanding | Google blog | https://blog.google/products-and-platforms/products/education/guided-learning/ : এটা পড়লে আপনি উত্তরের বদলে বোঝার জন্য AI ব্যবহার শিখবেন।
+3. [Website] How Gemini's Guided Learning can help you study more effectively | Google blog | https://blog.google/products-and-platforms/products/gemini/guided-learning-google-gemini/ : এটা পড়লে আপনি স্টাডি প্ল্যান ও কুইজের আইডিয়া পাবেন।
+4. [Course] Generative AI for Everyone | DeepLearning.AI | https://www.deeplearning.ai/courses/generative-ai-for-everyone : এটা করলে আপনি AI এর সীমাবদ্ধতা জেনে নিরাপদে পড়ায় ব্যবহার করবেন।
 
----
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Tool: NotebookLM (Google)
+- Course: Learning How to Learn (Coursera, Barbara Oakley and Terrence Sejnowski)
+- Website: Khanmigo (Khan Academy)
 
-## 18. থিসিস ও গবেষণায় AI ব্যবহারের আগে ৫টা ভিডিও
-**Resources (only 0 videos verified, 5 written pages verified via search; no Bangla video found):**
-1. Ethical Research | UNT Libraries guide | https://guides.library.unt.edu/english/ethical-research : AI-লেখা জমা দেওয়া প্লেজিয়ারিজমের মধ্যে পড়তে পারে, তা নিয়ে গাইড (ইংরেজি)।
-2. Ethical Use of AI in Research | WIUT Research Learning Resource Centre | https://researchlrc.wiut.uz/help/research-support/research-ethics-integrity/ethical-use-of-ai-in-research : গবেষণায় AI-র নৈতিক ব্যবহার (ইংরেজি)।
-3. Generative AI at UVic | University of Victoria | https://www.uvic.ca/learningandteaching/how-to/generative-ai/index.php : বিশ্ববিদ্যালয়ের নিয়মের উদাহরণ।
-4. Guidelines for student use of generative AI tools | University of Waikato | https://research.waikato.ac.nz/assets/Uploads/Student-life/Student-assessment-Handbook/Guidelines-for-student-use-of-generative-AI-tools-FINAL.pdf : শিক্ষার্থীদের জন্য নির্দেশিকা (PDF, ইংরেজি)।
-5. UTDSP5017 | UT Dallas | https://policy.utdallas.edu/utdsp5017 : শিক্ষক কীভাবে AI-র অনুমতি ঠিক করেন তার নীতি।
-
-Non-video: এগুলো অন্য দেশের বিশ্ববিদ্যালয়ের নিয়ম, শুধু উদাহরণ। আপনার নিজের বিশ্ববিদ্যালয় ও সুপারভাইজারের নিয়মই চূড়ান্ত।
-
-**Recording script (Bangla, প্রায় ৮৫ সেকেন্ড):**
-[হুক] থিসিসে AI ব্যবহার করলে কি ধরা পড়বেন? আসল প্রশ্ন আসলে এটা না!
-[মূল অংশ] আসল প্রশ্ন হলো, আপনার বিশ্ববিদ্যালয় ও সুপারভাইজার AI ব্যবহারের অনুমতি দেন কি না, আর দিলে কীভাবে উল্লেখ করতে হবে। AI-র লেখা নিজের নামে চালিয়ে দেওয়া অসততা, আর অনেক জায়গায় সেটা শাস্তিযোগ্য। AI ভুয়া রেফারেন্সও বানিয়ে ফেলতে পারে, তাই প্রতিটি সূত্র মূল ডেটাবেসে গিয়ে নিজে যাচাই করুন। আজকের রিসোর্সগুলো ভিডিও নয়, লেখা ও নীতিমালা, আর এগুলো বিদেশি বিশ্ববিদ্যালয়ের উদাহরণ:
-এক, UNT লাইব্রেরির এথিক্যাল রিসার্চ গাইড।
-দুই, WIUT-এর গবেষণায় AI-র নৈতিক ব্যবহারের পেজ।
-তিন, University of Victoria-র জেনারেটিভ AI পেজ।
-চার, University of Waikato-র শিক্ষার্থী নির্দেশিকা।
-পাঁচ, UT Dallas-এর নীতি।
-এগুলো পড়ে দেখুন নিয়ম কত আলাদা হতে পারে। তারপর নিজের বিভাগের নিয়ম লিখিতভাবে জেনে নিন।
-[CTA] আপনার বিশ্ববিদ্যালয়ে AI নিয়ে কোনো নিয়ম আছে কি? কমেন্টে জানান, সেভ করুন, আর থিসিস করছে এমন বন্ধুকে শেয়ার করুন।
-**Visual note:** "সততা, সূত্র উল্লেখ, বিশ্ববিদ্যালয়ের নিয়ম" তিনটা টেক্সট কার্ড, তারপর পাঁচটা পেজের হেডলাইন।
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] AI দিয়ে শুধু উত্তর নিলে শেখা হয় না, এটা বুঝে নিন!
+[মূল অংশ] পড়াশোনায় AI ব্যবহারের সঠিক উপায় জানা দরকার। প্রথমে Gemini Apps Help র Use learning tools পেজ। এরপর Google ব্লগের দুটো লেখা, Guided Learning সম্পর্কে। শেষে DeepLearning.AI এর Generative AI for Everyone, যাতে AI এর সীমা বুঝবেন। সবই ইংরেজিতে, ক্যাপশন চালান। AI ভুল করতে পারে, তাই বইয়ের সঙ্গে মিলিয়ে নেবেন। কিছু ফিচার সব অ্যাকাউন্টে নাও থাকতে পারে।
+[CTA] আপনি কীভাবে AI দিয়ে পড়েন কমেন্টে জানান। সেভ ও শেয়ার করুন।
 
+**স্ক্রিনে যা দেখাবেন:** Guided Learning এর পেজ ও কুইজ স্ক্রিন।
+
 ---
 
-## 19. নিজের কম্পিউটারে ফ্রি AI মডেল চালানোর ৫টা ভিডিও
-**Resources (only 1 possible video, 4 written pages verified via search; no Bangla video found):**
-1. Local AI Development with Ollama (course) | freeCodeCamp.org, Paulo Dichone | https://www.freecodecamp.org/news/local-ai-development-with-ollama-course/ : ইনস্টল, মডেল ও Python ব্যবহার, ভিডিও কোর্সের পেজ (ইংরেজি)।
-2. Ollama Full Tutorial | (চ্যানেল যাচাই বাকি) | https://youtu.be/AGAETsxjg0o : একটি লেখার মধ্যে এমবেড হিসেবে পাওয়া গেছে, নিজে খুলে যাচাই করুন।
-3. Complete Ollama Tutorial (2026) | DEV Community, proflead | https://dev.to/proflead/complete-ollama-tutorial-2026-llms-via-cli-cloud-python-3m97 : CLI, ক্লাউড ও Python (ইংরেজি লেখা)।
-4. What Is Ollama and How to Use It on Windows | Digital Citizen | https://www.digitalcitizen.life/what-is-ollama-and-how-to-use-it-on-windows/ : Windows-এ ব্যবহার।
-5. LM Studio tutorial | DataCamp | https://www.datacamp.com/tutorial/lm-studio : টার্মিনাল ছাড়া GUI দিয়ে চালানো।
-
-**Recording script (Bangla, প্রায় ৮০ সেকেন্ড):**
-[হুক] ইন্টারনেট ছাড়াই নিজের কম্পিউটারে AI চালানো যায়, তবে আপনার পিসিতে হবে তো?
-[মূল অংশ] Ollama বা LM Studio-র মতো টুল দিয়ে ওপেন মডেল নিজের কম্পিউটারে চালানো যায়। সুবিধা হলো গোপনীয়তা আর অফলাইনে ব্যবহার। কিন্তু বড় মডেলে ভালো RAM ও GPU লাগতে পারে, তাই আগে নিজের পিসির সক্ষমতা দেখে নিন, আর মডেলের লাইসেন্স ও আকার ডাউনলোডের আগে চেক করুন। আজকের রিসোর্স:
-এক, freeCodeCamp-এর Ollama কোর্স, Paulo Dichone-এর তৈরি।
-দুই, "Ollama Full Tutorial" নামের একটা ভিডিও, চ্যানেল আপনি খুলে দেখে নেবেন।
-তিন, proflead-এর Complete Ollama Tutorial লেখা।
-চার, Digital Citizen-এর Windows গাইড।
-পাঁচ, DataCamp-এর LM Studio টিউটোরিয়াল, যেখানে টার্মিনাল লাগে না।
-আমি বাংলা ভিডিও খুঁজে পাইনি, তাই কেউ জানলে কমেন্টে লিংক দিন।
-[CTA] আপনার পিসির RAM কত? কমেন্টে লিখুন, সেভ করুন, আর টেক-প্রেমী বন্ধুকে শেয়ার করুন।
-**Visual note:** টার্মিনালে একটা মডেল চালানোর স্ক্রিন রেকর্ডিং বা স্টক ছবি, তারপর পাঁচটা হেডলাইন।
+## 7. AI দিয়ে সিভি ও কভার লেটার বানানোর আগে ৫টা রিসোর্স দেখুন
 
----
+**যাচাই করা লিংক: 2টা**
 
-## 20. AI স্ক্যাম ও ডিপফেক চিনতে ৫টা ভিডিও
-**Resources (verified via search; 3 Bangla videos, 2 Bangla-less written guides... total 5 listed):**
-1. আসল নাকি এআই দিয়ে বানানো? যেভাবে চিনবেন ভুয়া ছবি ও ভিডিও | (চ্যানেল যাচাই বাকি, সার্চ সারাংশে Deshkal News বলা হয়েছে, নিজে নিশ্চিত করুন) | https://www.youtube.com/watch?v=P05KxukgYyA : ভুয়া ছবি ও ভিডিও চেনার ধারণা।
-2. Deepfake Technology: ডিপফেকের থেকে বাঁচার উপায় কী? | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=q2MxSDdxiFA : ডিপফেক থেকে বাঁচার আলোচনা।
-3. আসল না নকল ছবি? AI Image Checker Bangla | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=PnvYhGkT4Uw : AI ছবি যাচাইয়ের টুলের পরিচয়।
-4. Six tips for spotting AI scams | University of Salford | https://www.salford.ac.uk/news/six-tips-for-spotting-ai-scams : ভয়েস ক্লোন স্ক্যামে পরিবারের সেফ ওয়ার্ড ও ফিরতি কল (ইংরেজি লেখা)।
-5. How to spot and avoid AI-generated scams | Help Net Security | https://www.helpnetsecurity.com/2025/03/11/how-to-spot-ai-generated-scams/ : স্ক্যাম বার্তার লক্ষণ (ইংরেজি লেখা)।
-
-Non-video: Kaspersky, "How to recognize a deepfake": https://www.kaspersky.com/blog/how-to-recognize-a-deepfake/55247/ । সরকারি কোনো বাংলা লিংক যাচাই হয়নি। জুন ২০২৫-এ প্রধান উপদেষ্টার প্রেস উইং ডিপফেক ভিডিও নিয়ে সতর্ক করেছিল বলে একটি সার্চ ফল জানায়, আপনি নিজে মূল সূত্র দেখে নিন।
-
-**Recording script (Bangla, প্রায় ৯০ সেকেন্ড):**
-[হুক] ফোনে আপনার চেনা মানুষের গলায় কেউ টাকা চাইছে, সেটা AI-র তৈরি নকল হতে পারে!
-[মূল অংশ] এখন অল্প অডিও থেকেও কণ্ঠ নকল করা যায়, আর ভুয়া ভিডিও দিয়ে মানুষকে ঠকানোর চেষ্টা হচ্ছে। সতর্কতা: কোনো একটা চিহ্ন দেখে নিশ্চিত হওয়া যায় না। ছবি বা ভিডিওর ত্রুটি দেখে সবসময় ধরা যায় না, তাই টাকা চাইলে সবচেয়ে নিরাপদ উপায় হলো কেটে দিয়ে চেনা নম্বরে ফিরতি কল করা, আর পরিবারের সঙ্গে একটা গোপন কোড শব্দ ঠিক করে রাখা। "নিশ্চিত লাভ" বা তাড়াহুড়োর চাপ দেখলে থামুন। আজকের রিসোর্স:
-এক, "আসল নাকি এআই দিয়ে বানানো? যেভাবে চিনবেন ভুয়া ছবি ও ভিডিও"।
-দুই, "ডিপফেকের থেকে বাঁচার উপায় কী?"
-তিন, "AI Image Checker Bangla" ভিডিও। কোনো টুলের ফল শতভাগ নির্ভুল ধরে নেবেন না।
-চার, Salford বিশ্ববিদ্যালয়ের স্ক্যাম চেনার ৬ টিপস।
-পাঁচ, Help Net Security-র গাইড।
-সন্দেহ হলে শেয়ার করার আগে ভাবুন, আর প্রয়োজনে আইনি সহায়তা বা পুলিশের সাইবার ইউনিটে জানান।
-[CTA] আপনি কি কখনো ভুয়া কল বা ভিডিও পেয়েছেন? কমেন্টে জানান, সেভ করুন, আর বাবা-মাকে শেয়ার করুন।
-**Visual note:** "থামুন, কেটে দিন, চেনা নম্বরে ফোন করুন" তিন ধাপের টেক্সট কার্ড, তারপর থাম্বনেইল।
+Resources:
+1. [Website] Using AI in your Career Search: Application Materials | University of Denver Career Center | https://career.du.edu/blog/2024/02/08/using-ai-in-your-career-search-application-materials/ : এটা পড়লে আপনি জানবেন AI ড্রাফট কীভাবে নিজের মতো করে নিতে হয় এবং ব্যক্তিগত তথ্য কেন মুছবেন।
+2. [Website] How To: Use AI in your Professional Development Journey | Villanova University | https://connections.villanova.edu/resources/how-to-use-ai-in-your-professional-development-journey/ : এটা পড়লে আপনি রিজিউমের ভাষা উন্নত করার উপায় পাবেন।
 
----
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: Career Guide, resume section (Indeed)
+- Docs: Job Search Writing, resumes and cover letters (Purdue OWL)
+- Docs: Career center resume guides (your own or a major university career center)
 
-## 21. ফ্রিল্যান্সিং শুরুর আগে এই ৫টা ভিডিও দেখুন
-**Resources (verified via search):**
-1. ফ্রিলান্সিং শুরু করার ৫টি কার্যকারী পদ্ধতি | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=BEptuj5w5FQ : শুরুর ধাপগুলো ছোট করে বোঝায়।
-2. ফ্রিল্যান্সিং শুরু করার ৫টি সহজ ও কার্যকরী ধাপ | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=cJghORETOiw : নতুনদের জন্য সহজ রোডম্যাপ।
-3. ফ্রিল্যান্সিং শুরুর মাস্টারপ্ল্যান | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=v04tjPrQ2yg : কী শিখবেন আর প্রথম ক্লায়েন্ট কীভাবে খুঁজবেন, তার পরিকল্পনা।
-4. How to start Freelancing in Bangladesh (Bangla guide) | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=k973hv7U6oA : বাংলাদেশের প্রেক্ষাপটে গাইড।
-5. How to Start Freelancing in 2026 | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=apVFrq7YklA : ইংরেজিতে স্কিল বাছাই, পোর্টফোলিও ও প্ল্যাটফর্ম সেটআপের ধারণা।
-
-Non-video: প্রথম আলো, "ফ্রিল্যান্সিংয়ে নামার আগে এ পাঁচটি বিষয় ভাবুন": https://www.prothomalo.com/chakri/chakri-suggestion/up7a5nip3n
-Non-video: সরকারি শিক্ষক বাতায়নের ফ্রিল্যান্সিং ব্লগ: https://www.teachers.gov.bd/blog/details/836783
-
-**Recording script (Bangla, প্রায় ৮০ সেকেন্ড):**
-[হুক] ফ্রিল্যান্সিং শুরু করার আগে এই ভুলগুলো না জানলে মাসের পর মাস সময় নষ্ট হতে পারে!
-[মূল অংশ] অনেকে ভাবেন ফ্রিল্যান্সিং মানে শুধু ঘরে বসে কাজ। আসলে এটা নিজের ছোট ব্যবসার মতো, তাই শুরুতে পরিকল্পনা দরকার। আর আয় নিয়ে কোনো নিশ্চয়তা নেই, কেউ "নিশ্চিত ইনকাম" বললে সাবধান থাকবেন। আজকের ৫টা রিসোর্স:
-এক, "ফ্রিলান্সিং শুরু করার ৫টি কার্যকারী পদ্ধতি", শুরুর ধাপগুলো পাবেন।
-দুই, "ফ্রিল্যান্সিং শুরু করার ৫টি সহজ ও কার্যকরী ধাপ", একদম নতুনদের জন্য।
-তিন, "ফ্রিল্যান্সিং শুরুর মাস্টারপ্ল্যান", কী শিখবেন আর ক্লায়েন্ট কীভাবে খুঁজবেন।
-চার, "How to start Freelancing in Bangladesh", বাংলায় বাংলাদেশের গাইড।
-পাঁচ, "How to Start Freelancing in 2026", ইংরেজিতে, স্কিল আর পোর্টফোলিও নিয়ে।
-সঙ্গে প্রথম আলোর লেখাটাও পড়ে নিতে পারেন। সব ভিডিওর লিংক কমেন্টে দিচ্ছি।
-[CTA] আপনি কোন স্কিল দিয়ে শুরু করতে চান? কমেন্টে লিখুন, পোস্টটা সেভ করে রাখুন, আর যে বন্ধু ফ্রিল্যান্সিং ভাবছে তাকে শেয়ার করুন।
-**Visual note:** স্ক্রিনে ৫টা ভিডিওর থাম্বনেইল একে একে দেখান, শেষে প্রথম আলোর লেখার হেডলাইন।
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] AI দিয়ে বানানো সিভি জমা দেওয়ার আগে এটা জানুন, নইলে ইন্টারভিউ নাও পেতে পারেন!
+[মূল অংশ] AI এর লেখা সিভি প্রায়ই সাধারণ শোনায়। দুটো ইংরেজি রিসোর্স দেখুন। প্রথমটা University of Denver এর Career Center এর লেখা, যেখানে বলা হয়েছে AI ড্রাফট নিজের ভাষায় বদলাতে এবং আপলোডের আগে ব্যক্তিগত তথ্য সরাতে। দ্বিতীয়টা Villanova University র গাইড। ক্যাপশন বা অনুবাদ চালান। AI কে সহকারী ভাবুন, লেখক নয়।
+[CTA] সিভি নিয়ে প্রশ্ন কমেন্টে করুন। সেভ ও শেয়ার করুন।
 
+**স্ক্রিনে যা দেখাবেন:** দুটো পেজ ও হাইলাইট করা টিপস।
+
 ---
 
-## 22. Upwork ও Fiverr এ AI দিয়ে কাজ পাওয়ার ৫টা ভিডিও
-**Resources (verified via search):**
-1. Upwork VS Fiverr Tutorial in Bangla | Ahosan Uddin Noman | https://youtube.com/watch?v=VN6JMZwyIuM : দুই প্ল্যাটফর্মের পার্থক্য বাংলায়।
-2. Upwork এ কিভাবে কাজ করতে হয়? | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=q7kZEXC1yQE : নতুনদের জন্য Upwork-এর কাজের ধারণা।
-3. ফাইভার কি ? কিভাবে কাজ করে ? নতুনরা ভিডিওটি অবশ্যি দেখুন । Fiverr Bangla tutorial for beginner! | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=1jAY2cUBBgg : Fiverr কীভাবে কাজ করে তার বেসিক।
-4. Create Your First Fiverr Gig in 10 Minutes! (using AI) | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=hKCW-fhgBYE : AI দিয়ে গিগ লেখার ধারণা (ইংরেজি)।
-5. How to Create Fiverr Gigs With ChatGPT From Scratch | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=XSiZf-dnhZI : ChatGPT দিয়ে গিগ বর্ণনা সাজানো (ইংরেজি)।
-
-Non-video: সরকারি শিক্ষক বাতায়নের ফ্রিল্যান্সিং ও Fiverr/Upwork গাইড: https://teachers.gov.bd/content/details/1684130
-
-**Recording script (Bangla, প্রায় ৮০ সেকেন্ড):**
-[হুক] AI দিয়ে গিগ বা প্রপোজাল লিখলেই কাজ পাবেন, এই ধারণা কিন্তু অর্ধেক ভুল!
-[মূল অংশ] AI লেখা সাজাতে সাহায্য করে, কিন্তু ক্লায়েন্ট ভরসা করে আপনার আসল স্কিলের ওপর। আর কেউ "দ্রুত ডলার ইনকাম" এর গ্যারান্টি দিলে সেটা স্ক্যামের লক্ষণ হতে পারে। এই ৫টা ভিডিও দেখে নিন:
-এক, Ahosan Uddin Noman-এর "Upwork VS Fiverr Tutorial in Bangla", দুই প্ল্যাটফর্ম তুলনা।
-দুই, "Upwork এ কিভাবে কাজ করতে হয়?"
-তিন, "ফাইভার কি ? কিভাবে কাজ করে ?"
-চার, "Create Your First Fiverr Gig in 10 Minutes! (using AI)", ইংরেজিতে।
-পাঁচ, "How to Create Fiverr Gigs With ChatGPT From Scratch".
-প্ল্যাটফর্মের নিয়ম বদলায়, তাই আমি যতদূর জানি, নিজে অফিসিয়াল নিয়ম চেক করে নেবেন।
-[CTA] আপনি Upwork নাকি Fiverr, কোনটা আগে ট্রাই করবেন? কমেন্টে জানান, সেভ করুন আর শেয়ার করুন।
-**Visual note:** Upwork ও Fiverr লোগো পাশাপাশি, তারপর ভিডিওর থাম্বনেইল। শেষে "গ্যারান্টিড ইনকাম = সাবধান" টেক্সট।
+## 8. AI দিয়ে ইংরেজি বলা শেখার ৫টা রিসোর্স দেখুন
 
----
+**যাচাই করা লিংক: 0টা**
 
-## 23. AI কি আমার চাকরি খেয়ে ফেলবে? ৫টা ভিডিও
-**Resources (verified via search):** (কোনো বাংলা ভিডিও যাচাই হয়নি, সব ইংরেজি)
-1. AI Isn't Taking Your Job. People Who Understand AI Are | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=GJ9rnZpQpKA : AI জানা মানুষের সুবিধার দিক।
-2. Will AI Actually Replace Jobs? | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=pGBkP9jNz-U : চাকরি প্রতিস্থাপন নিয়ে আলোচনা।
-3. Will AI Take Your Job? The Truth About OpenAI, Automation & the Future of Work | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=uO3pgs-kQq4 : অটোমেশন ও কাজের ভবিষ্যৎ।
-4. AI Gave You A Promotion: Why AI Isn’t Replacing Jobs | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=1ItQnh3LWeg : উল্টো দৃষ্টিভঙ্গি, কাজের ধরন বদলানো নিয়ে।
-5. Will AI take over jobs? | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=_cPQ6tfzdbk : সংক্ষিপ্ত ভূমিকা।
-
-Non-video: সরাসরি যাচাইকৃত অফিসিয়াল লিংক পাওয়া যায়নি। ILO, World Economic Forum ও PwC AI Jobs Barometer রিপোর্ট নিজে সার্চ করে নেওয়া যায়।
-
-**Recording script (Bangla, প্রায় ৭৫ সেকেন্ড):**
-[হুক] "AI আমার চাকরি খেয়ে ফেলবে", এই ভয়ে রাতে ঘুম হচ্ছে না?
-[মূল অংশ] সত্যি হলো, কেউ নিশ্চিত করে বলতে পারে না। বিশেষজ্ঞদের মত আলাদা, তাই ভয় পাওয়ার আগে একটু শুনে নিন। আমি ৫টা ভিডিও বেছেছি, সব ইংরেজিতে:
-এক, "AI Isn't Taking Your Job. People Who Understand AI Are".
-দুই, "Will AI Actually Replace Jobs?"
-তিন, "Will AI Take Your Job? The Truth About OpenAI, Automation & the Future of Work".
-চার, "AI Gave You A Promotion: Why AI Isn’t Replacing Jobs".
-পাঁচ, "Will AI take over jobs?"
-কেউ কেউ বলছেন কাজ বদলাবে, কেউ বলছেন ঝুঁকি বড়। তাই এক ভিডিও দেখে সিদ্ধান্ত নেবেন না, কয়েকটা দেখে নিজে ভাবুন।
-[CTA] আপনার পেশায় AI-এর প্রভাব কেমন দেখছেন? কমেন্টে লিখুন, সেভ করুন, আর চিন্তিত কাউকে শেয়ার করুন।
-**Visual note:** ৫টা থাম্বনেইল, মাঝে প্রশ্নবোধক চিহ্ন, শেষে "আপনার পেশা?" টেক্সট।
+No trusted URL was returned in search results (only blog roundups such as FluentU, not used). Names mentioned in result text but with no URL seen: BBC Learning English, British Council LearnEnglish, Duolingo. Re-search before posting. No script written.
 
----
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: LearnEnglish (British Council)
+- Website: BBC Learning English (BBC)
+- Channel: English with Lucy (YouTube)
+- Tool: Duolingo
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ইংরেজি বলতে গেলে আটকে যান? ভুল রিসোর্স বেছে নিলে বছরের পর বছর একই জায়গায় থেকে যাবেন!
+[মূল অংশ] ইংরেজি বলা শেখার জন্য আজ ৫টা জিনিস বলছি। এক: British Council-এর LearnEnglish, বিনামূল্যে পাঠ ও অনুশীলনের জন্য পরিচিত। দুই: BBC Learning English, শোনা ও বলার সহজ অনুশীলন। তিন: English with Lucy ইউটিউব চ্যানেল, উচ্চারণ আর ব্যাকরণের ব্যাখ্যা। চার: Duolingo, প্রতিদিন অল্প অল্প অভ্যাসের জন্য। পাঁচ: ChatGPT বা Gemini-কে বলুন আপনার সঙ্গে ইংরেজিতে কথা বলতে এবং ভুল ধরিয়ে দিতে। তবে AI-র সংশোধনও সব সময় ঠিক হয় না, আমি যতদূর জানি তাই মিলিয়ে নেওয়া ভালো। সবই ইংরেজিতে, তাই ক্যাপশন চালু রাখুন। আমি এই নামগুলোর লিংক নিজে যাচাই করিনি, তাই নাম দিয়ে সার্চ করে অফিশিয়াল পেজ খুলুন।
+[CTA] আপনার ইংরেজি বলার সবচেয়ে বড় বাধা কোনটা, কমেন্টে লিখুন। পোস্টটা সেভ করুন আর বন্ধুকে শেয়ার করুন।
 
-## 24. AI যুগে কোন ৫টা স্কিল সবচেয়ে দরকার
-**Resources (verified via search):**
-1. Ayman Sadiq: ডিগ্রীর কি দাম থাকবেনা? কীভাবে গ্রোথ মাইন্ডসেট তৈরি করবেন? | (চ্যানেল যাচাই বাকি, শিরোনামে Ayman Sadiq) | https://youtube.com/watch?v=eN9M31N5O-E : ডিগ্রি বনাম স্কিল নিয়ে বাংলা আলোচনা।
-2. CGPA নাকি Portfolio? AI যুগে Company গুলো আপনার থেকে কী Expect করে? | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=NeRnnnRP1c0 : চাকরির বাজারের প্রত্যাশা, বাংলায়।
-3. The 5 Skills You Need In The Age Of AI | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=_72XCl9dlq0 : ৫টা স্কিলের তালিকা (ইংরেজি)।
-4. 5 Skills That Become More Valuable Because of AI | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=cTVi-dufxE4 : কোন স্কিলের মূল্য বাড়ছে।
-5. The Most In-Demand Skills In the AI Era | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=Kn1zdy-EutY : চাহিদার স্কিল।
-
-Non-video: যাচাইকৃত অফিসিয়াল লিংক পাওয়া যায়নি (World Economic Forum বা LinkedIn-এর রিপোর্ট নিজে খুঁজে দেখতে পারেন)।
-
-**Recording script (Bangla, প্রায় ৭৫ সেকেন্ড):**
-[হুক] ডিগ্রি থাকলেই কি আর চাকরি মিলবে? AI যুগে কোন স্কিলগুলো আসলে কাজে লাগছে?
-[মূল অংশ] এখানে কেউ একটা জাদুর তালিকা দিতে পারে না, তবে এই ভিডিওগুলোতে ভালো আলোচনা আছে:
-এক, Ayman Sadiq-এর আলোচনা "ডিগ্রীর কি দাম থাকবেনা?"
-দুই, "CGPA নাকি Portfolio? AI যুগে Company গুলো আপনার থেকে কী Expect করে?", বাংলায়।
-তিন, "The 5 Skills You Need In The Age Of AI".
-চার, "5 Skills That Become More Valuable Because of AI".
-পাঁচ, "The Most In-Demand Skills In the AI Era".
-অনেক ভিডিওতেই বাড়তি বেতনের মতো দাবি থাকে, আমি যতদূর জানি সেগুলো যাচাই করা নয়, তাই নিজে মিলিয়ে দেখবেন।
-[CTA] আপনার মতে সবচেয়ে দরকারি স্কিল কোনটা? কমেন্টে লিখুন, সেভ করুন, বন্ধুদের শেয়ার করুন।
-**Visual note:** স্ক্রিনে "১ ২ ৩ ৪ ৫" স্কিল কার্ড, প্রতিটার পাশে ভিডিও থাম্বনেইল।
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে পাঁচটা নাম একে একে দেখান, শেষে একটা AI চ্যাটে ইংরেজি কথোপকথনের স্ক্রিন রেকর্ডিং।
 
 ---
 
-## 25. AI দিয়ে কনটেন্ট ক্রিয়েশন শুরুর আগে ৫টা ভিডিও
-**Resources (verified via search):**
-1. কনটেন্ট ক্রিয়েটরদের জন্য সেরা ৪টি ফ্রী এআই টুল । Best Free AI tool tutorial in bangla | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=1NR2lwIq30w : ফ্রি টুলের পরিচিতি।
-2. Ai দিয়ে ভাইরাল শর্ট ভিডিও তৈরি | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=ZLlStiUQ5QY : শর্ট ভিডিও বানানোর ধারণা।
-3. AI দিয়ে ফ্রিতে ভিডিও বানাবেন যেভাবে | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=g8S4UdFaASI : ফ্রিতে ভিডিও তৈরি।
-4. The Ultimate Content Creation for Beginners Using AI Tutorial | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=dKH77jn8vZA : নতুনদের ওয়ার্কফ্লো (ইংরেজি)।
-5. AI Content Creation Guide for Beginners 2025 | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=tLzHllZz8Cc : বেসিক গাইড। পুরনো হতে পারে।
-
-Non-video: যাচাইকৃত অফিসিয়াল লিংক পাওয়া যায়নি।
-
-**Recording script (Bangla, প্রায় ৭৫ সেকেন্ড):**
-[হুক] AI দিয়ে কনটেন্ট বানাতে গিয়ে সবাই একই ভুলটা করে: শুধু কপি-পেস্ট!
-[মূল অংশ] AI গতি বাড়ায়, কিন্তু আপনার নিজের গলা আর আইডিয়া ছাড়া কনটেন্ট সবার মতোই দেখায়। শুরুর আগে দেখুন:
-এক, "কনটেন্ট ক্রিয়েটরদের জন্য সেরা ৪টি ফ্রী এআই টুল".
-দুই, "Ai দিয়ে ভাইরাল শর্ট ভিডিও তৈরি".
-তিন, "AI দিয়ে ফ্রিতে ভিডিও বানাবেন যেভাবে".
-চার, "The Ultimate Content Creation for Beginners Using AI Tutorial", ইংরেজিতে।
-পাঁচ, "AI Content Creation Guide for Beginners 2025".
-টুলের ফ্রি সীমা আর দাম বদলায়, আমি যতদূর জানি, তাই ব্যবহারের আগে চেক করে নিন।
-[CTA] কোন ধরনের কনটেন্ট বানাতে চান? কমেন্টে বলুন, সেভ করুন, শেয়ার করুন।
-**Visual note:** থাম্বনেইল স্লাইড, সঙ্গে "AI + আপনার নিজস্ব ভয়েস" টেক্সট।
+## 9. AI টুল দিয়ে ভিডিও এডিটিং শেখার ৫টা রিসোর্স দেখুন
 
----
+**যাচাই করা লিংক: 1টা**
 
-## 26. AI দিয়ে ভিডিও স্ক্রিপ্ট লেখার ৫টা ভিডিও
-**Resources (verified via search):**
-1. AI দিয়ে ৩০ সেকেন্ডে প্রফেশনাল ভিডিও স্ক্রিপ্ট তৈরি করুন! | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=gf2wu-3_e5I : দ্রুত স্ক্রিপ্টের প্রম্পট ধারণা।
-2. ChatGPT দিয়ে বানানো সেরা স্ক্রিপ্ট! | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=MRWKjI8xRTI : ChatGPT দিয়ে স্ক্রিপ্ট।
-3. AI দিয়ে Video বানান! Story, Voice, Image সব AI করবে | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=uXMXydDRlM4 : গল্প থেকে ভিডিও পর্যন্ত পুরো ধারা।
-4. How to Use Claude AI for Script Writing (Step-by-Step Guide) | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=ZgRDzWs39Cw : ধাপে ধাপে (ইংরেজি)।
-5. How I Use Claude to Script Every YouTube Video I Make | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=mS06LOTho_Q : একজন ক্রিয়েটরের ওয়ার্কফ্লো।
-
-Non-video: যাচাইকৃত অফিসিয়াল লিংক পাওয়া যায়নি।
-
-**Recording script (Bangla, প্রায় ৭৫ সেকেন্ড):**
-[হুক] স্ক্রিপ্ট লিখতে ঘণ্টার পর ঘণ্টা যাচ্ছে? AI এখানে সময় বাঁচাতে পারে, কিন্তু একটা শর্তে।
-[মূল অংশ] শর্তটা হলো, AI-র লেখা তথ্য নিজে যাচাই করতে হবে, আর নিজের ভাষায় ঢেলে সাজাতে হবে। দেখুন এই ৫টা:
-এক, "AI দিয়ে ৩০ সেকেন্ডে প্রফেশনাল ভিডিও স্ক্রিপ্ট তৈরি করুন!"
-দুই, "ChatGPT দিয়ে বানানো সেরা স্ক্রিপ্ট!"
-তিন, "AI দিয়ে Video বানান! Story, Voice, Image সব AI করবে".
-চার, "How to Use Claude AI for Script Writing", ইংরেজিতে।
-পাঁচ, "How I Use Claude to Script Every YouTube Video I Make".
-কিছু ভিডিওর ডেসক্রিপশনে পেইড প্রম্পট প্যাকের লিংক থাকতে পারে, কেনার আগে ভাবুন।
-[CTA] আপনার ভিডিওর টপিক কী? কমেন্টে লিখুন, সেভ করুন, শেয়ার করুন।
-**Visual note:** স্ক্রিনে একটা খালি স্ক্রিপ্ট পেজ, যেখানে হুক, মূল অংশ, CTA তিনটা ঘর।
+Resources:
+1. [Website] DaVinci Resolve Tutorial | CapCut (vendor resource page) | https://www.capcut.com/resource/davinci-resolve-tutorial : এটা পড়লে আপনি DaVinci Resolve এ ভিডিও উন্নত করার বেসিক ধারণা পাবেন (vendor marketing page).
+(Not verified: official Adobe, Blackmagic or CapCut learning hubs. Re-search.) No script written.
 
----
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: DaVinci Resolve training (Blackmagic Design)
+- Docs: Premiere Pro tutorials (Adobe)
+- Docs: CapCut Help Center (CapCut)
 
-## 27. AI দিয়ে ডিজিটাল মার্কেটিং করার ৫টা ভিডিও
-**Resources (verified via search):** (বাংলা ভিডিওগুলো সাধারণ ডিজিটাল মার্কেটিং, AI-নির্দিষ্ট নয়। CItNTDGFCDk-এর বর্ণনায় Generative AI-র কথা আছে, খুলে দেখে নিন)
-1. ডিজিটাল মার্কেটিং কি? কিভাবে শিখবো? ডিজিটাল মার্কেটিং দিয়ে কিভাবে ফ্রিলান্সিং শুরু করব? ১ম পর্ব | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=YWZ1rbuLdBc : ভিত্তি।
-2. নতুনরা যেভাবে ডিজিটাল মার্কেটিং শুরু করবেন । How To Start Digital Marketing | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=B_2MwT4Osnw : শুরুর গাইড।
-3. Digital Marketing কী ? Digital Marketing in Bengali | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=CItNTDGFCDk : বাংলায় পরিচিতি।
-4. AI Marketing Guide for Beginners (in 16 Minutes!) | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=RmcwvtMmP3Q : ছোট ইংরেজি ভূমিকা।
-5. A Beginner's Guide to Using AI in Marketing | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=ef3MKfmdlOA : নতুনদের জন্য।
-
-Non-video: যাচাইকৃত অফিসিয়াল লিংক পাওয়া যায়নি।
-
-**Recording script (Bangla, প্রায় ৭৫ সেকেন্ড):**
-[হুক] AI দিয়ে মার্কেটিং করতে চান, কিন্তু আগে মার্কেটিং-ই না বুঝলে AI কী করবে?
-[মূল অংশ] আগে বেসিক, তারপর AI। এই ক্রমে দেখুন:
-এক, "ডিজিটাল মার্কেটিং কি? কিভাবে শিখবো?", প্রথম পর্ব।
-দুই, "নতুনরা যেভাবে ডিজিটাল মার্কেটিং শুরু করবেন".
-তিন, "Digital Marketing কী ? Digital Marketing in Bengali".
-চার, "AI Marketing Guide for Beginners (in 16 Minutes!)", ইংরেজিতে।
-পাঁচ, "A Beginner's Guide to Using AI in Marketing".
-ডিজিটাল মার্কেটিং শিখে কত আয় হবে, এমন কোনো প্রতিশ্রুতি কেউ দিতে পারে না। কোর্স কেনার আগে ভালো করে যাচাই করুন।
-[CTA] আপনি কোন ধরনের ব্যবসার জন্য শিখছেন? কমেন্টে লিখুন, সেভ করুন, শেয়ার করুন।
-**Visual note:** "বেসিক -> AI" তীর চিহ্ন, তারপর থাম্বনেইল।
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ভিডিও এডিট শিখতে গিয়ে ঘণ্টার পর ঘণ্টা নষ্ট করছেন? শুরুটা ঠিক জায়গা থেকে করুন!
+[মূল অংশ] ভিডিও এডিটিং শেখার জন্য আজ ৫টা জায়গার কথা বলছি। এক: Blackmagic Design-এর DaVinci Resolve ট্রেনিং পেজ, ফ্রি সংস্করণ নিয়েও শেখা যায়, আমি যতদূর জানি। দুই: Adobe-র Premiere Pro টিউটোরিয়াল। তিন: CapCut-এর নিজস্ব Help Center, মোবাইলে দ্রুত এডিটের জন্য। চার: CapCut-এর DaVinci Resolve টিউটোরিয়াল পেজ, যেটা সার্চ রেজাল্টে পেয়েছি, তবে এটা কোম্পানির নিজের প্রচারের পেজ। পাঁচ: আপনার এডিটরের AI ক্যাপশন আর অটো কাট ফিচার নিজে ঘেঁটে দেখুন। টুলের ফিচার ও ফ্রি প্ল্যান বদলে যায়, রেকর্ডের আগে আপনি নিজে চেক করে নিন।
+[CTA] আপনি কোন এডিটর ব্যবহার করেন, কমেন্টে লিখুন। সেভ করুন আর শেয়ার করুন।
 
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে এডিটরের টাইমলাইনের স্ক্রিন রেকর্ডিং, তারপর রিসোর্সের নামের কার্ড।
+
 ---
 
-## 28. নিজের চ্যাটবট বানানোর ৫টা ভিডিও
-**Resources (verified via search):** (only 1 Bangla video found)
-1. Build Your First AI Agent in 20 Minutes (No Coding) - in Bangla | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=GLNLustTBGQ : কোডিং ছাড়া AI এজেন্ট, বাংলায়।
-2. How to Build a FREE AI Chatbot in Less Than 10 Minutes | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=Hp8oitfdfJo : দ্রুত চ্যাটবট (ইংরেজি)।
-3. Landbot Tutorial 2026: How to Build a No-Code AI Chatbot | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=NY4WBHigMKs : Landbot দিয়ে নো-কোড চ্যাটবট।
-4. The EASIEST Way to Build AI Chatbots (NO CODE) - Chatling Beginner Tutorial | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=Uki4NYAv-UU : Chatling দিয়ে নতুনদের টিউটোরিয়াল।
-5. How to Build a No-code AI Chatbot in Zapier | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=LPHANoFT3cA : Zapier-এ চ্যাটবট।
-
-Non-video: যাচাইকৃত অফিসিয়াল লিংক পাওয়া যায়নি। প্রতিটি টুলের দাম ও ফ্রি সীমা তাদের ওয়েবসাইটে দেখে নিন।
-
-**Recording script (Bangla, প্রায় ৭৫ সেকেন্ড):**
-[হুক] কোড না জেনেই নিজের চ্যাটবট বানানো যায়, শুনেছেন?
-[মূল অংশ] নো-কোড টুল দিয়ে এখন অনেকেই চেষ্টা করছেন। ৫টা ভিডিও:
-এক, "Build Your First AI Agent in 20 Minutes (No Coding) - in Bangla", বাংলায়।
-দুই, "How to Build a FREE AI Chatbot in Less Than 10 Minutes".
-তিন, "Landbot Tutorial 2026".
-চার, "The EASIEST Way to Build AI Chatbots (NO CODE) - Chatling Beginner Tutorial".
-পাঁচ, "How to Build a No-code AI Chatbot in Zapier".
-টুলগুলোর ফ্রি প্ল্যানের সীমা আমি যাচাই করিনি, শুরুর আগে তাদের সাইটে দেখে নিন।
-[CTA] আপনি কিসের জন্য চ্যাটবট বানাতে চান? কমেন্টে লিখুন, সেভ করুন, শেয়ার করুন।
-**Visual note:** একটা চ্যাট উইন্ডোর মকআপ, পাশে থাম্বনেইল।
+## 10. AI দিয়ে ছবি বানানোর আগে ৩টা রিসোর্স দেখুন
 
----
+**যাচাই করা লিংক: 0টা**
 
-## 29. n8n, Zapier ও Make দিয়ে অটোমেশন শেখার ৫টা ভিডিও
-**Resources (verified via search):** (কোনো বাংলা তুলনা ভিডিও পাওয়া যায়নি; ৫ নম্বরটি সম্পর্কিত বাংলা ভিডিও)
-1. Zapier vs Make.com vs n8n: The Ultimate 2025 Beginners Guide | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=8kmiUKyyRNw : নতুনদের তুলনা।
-2. Make vs n8n vs Zapier- Side by Side Comparison in 2026 | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=jHVmi41AhxE : পাশাপাশি তুলনা।
-3. The difference between Zapier, Make and n8n (2026) | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=syCqaV7N73s : পার্থক্য।
-4. Which No-Code AI Automation Platform is the Best? N8n vs Make.com vs Zapier | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=nGipmp13iHU : কোনটা কার জন্য।
-5. Build Your First AI Agent in 20 Minutes (No Coding) - in Bangla | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=GLNLustTBGQ : বাংলায় নো-কোড এজেন্টের ধারণা।
-
-Non-video: যাচাইকৃত অফিসিয়াল লিংক পাওয়া যায়নি। দাম ও সীমা তিনটি টুলের নিজস্ব সাইটে দেখুন।
-
-**Recording script (Bangla, প্রায় ৭৫ সেকেন্ড):**
-[হুক] রোজকার একই কাজ বারবার করছেন? অটোমেশন সেটা সহজ করতে পারে!
-[মূল অংশ] n8n, Zapier আর Make, তিনটাই জনপ্রিয়। কোনটা শুরু করবেন, এটাই প্রশ্ন। দেখুন:
-এক, "Zapier vs Make.com vs n8n: The Ultimate 2025 Beginners Guide".
-দুই, "Make vs n8n vs Zapier- Side by Side Comparison in 2026".
-তিন, "The difference between Zapier, Make and n8n (2026)".
-চার, "Which No-Code AI Automation Platform is the Best?"
-পাঁচ, বাংলায় "Build Your First AI Agent in 20 Minutes (No Coding)".
-দামের কথা ভিডিওতে যা বলা হয়, আমি যতদূর জানি তা বদলাতে পারে, অফিসিয়াল সাইটে চেক করুন।
-[CTA] কোন কাজটা অটোমেট করতে চান? কমেন্টে লিখুন, সেভ করুন, শেয়ার করুন।
-**Visual note:** তিনটা টুলের লোগো পাশাপাশি, নিচে থাম্বনেইল।
+No official or trusted URL appeared in results (only aggregators and outdated pages). No script written. Re-search with vendor domains (Adobe Firefly help, Midjourney docs, Google).
 
----
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Tool: Adobe Firefly (Adobe)
+- Docs: Midjourney Docs (Midjourney)
+- Course: Diffusion Models Course (Hugging Face)
 
-## 30. ছোট ব্যবসায় AI ব্যবহারের ৫টা ভিডিও
-**Resources (verified via search):** (only 1 Bangla, এবং সেটা ব্যবসার আইডিয়া নিয়ে, ব্যবহারের গাইড নয়)
-1. ছোট পুঁজিতে ৩টি AI ব্যবসা! যা আগামী ১০ বছরে দাপট দেখাবে! | TechArtho | https://youtube.com/watch?v=jUhJkFP4DFQ : বাংলায় আইডিয়া। শিরোনামের বড় দাবি সন্দেহের চোখে দেখুন।
-2. How to Use AI Automation in Your Small Business (Beginner Guide) | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=jpQobmeWIB8 : অটোমেশনের বেসিক।
-3. AI for Your Small Business: What It Can Do - and How to Start | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=i1qHgEZ8Bb8 : কী পারে আর কীভাবে শুরু।
-4. Beginner's AI for Small Business: Full Free Course (No Tech Skills Needed) | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=dOycBbbGqMo : ফ্রি কোর্স।
-5. 10 Ways Small Business Can Use AI Now and Why It Matters | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=l6NDXy3JGiE : ১০টা ব্যবহার।
-
-Non-video: যাচাইকৃত অফিসিয়াল লিংক পাওয়া যায়নি।
-
-**Recording script (Bangla, প্রায় ৭৫ সেকেন্ড):**
-[হুক] ছোট দোকান বা ব্যবসা চালান? AI আপনার সময় বাঁচাতে পারে, যদি ঠিকভাবে শুরু করেন।
-[মূল অংশ] কাস্টমার মেসেজ, পোস্ট লেখা, হিসাবের ঝামেলা, এসবে AI সাহায্য করতে পারে, তবে ব্যবসার সিদ্ধান্ত আপনারই। দেখুন:
-এক, TechArtho-র "ছোট পুঁজিতে ৩টি AI ব্যবসা", বাংলায়। তবে বড় বড় দাবিগুলো যাচাই করে নেবেন।
-দুই, "How to Use AI Automation in Your Small Business (Beginner Guide)".
-তিন, "AI for Your Small Business: What It Can Do and How to Start".
-চার, "Beginner's AI for Small Business: Full Free Course".
-পাঁচ, "10 Ways Small Business Can Use AI Now and Why It Matters".
-[CTA] আপনার ব্যবসায় কোন কাজটা সবচেয়ে সময় নেয়? কমেন্টে লিখুন, সেভ করুন, শেয়ার করুন।
-**Visual note:** একটা ছোট দোকানের ছবি, তার ওপর AI আইকন, তারপর থাম্বনেইল।
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] AI দিয়ে ছবি বানাতে গিয়ে মনমতো ফল পাচ্ছেন না? প্রম্পট নয়, শুরুটাই হয়তো ভুল!
+[মূল অংশ] AI ছবির জন্য আজ ৩টা পরিচিত রিসোর্স বলছি। এক: Adobe Firefly, Adobe-র নিজস্ব টুল ও গাইড। দুই: Midjourney-র নিজস্ব ডকুমেন্টেশন, কীভাবে প্রম্পট দিতে হয় সেটা শেখার জন্য। তিন: Hugging Face-এর Diffusion Models কোর্স, যারা ভেতরের কাজ বুঝতে চান তাঁদের জন্য। একটা কথা, AI-বানানো ছবির কপিরাইট ও ব্যবহারের নিয়ম টুলভেদে আলাদা, আমি যতদূর জানি তাই ব্যবহারের আগে সেই টুলের নীতি পড়ে নিন। নামগুলোর লিংক আমি যাচাই করিনি, নাম দিয়ে সার্চ করে অফিশিয়াল পেজ খুলুন।
+[CTA] কোন টুলে ছবি বানান, কমেন্টে লিখুন। সেভ করে রাখুন, বন্ধুকে শেয়ার করুন।
 
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে একটা প্রম্পট লিখে ছবি তৈরি হওয়ার স্ক্রিন রেকর্ডিং, তারপর তিনটা নাম।
+
 ---
 
-## 31. অনলাইন শপের প্রোডাক্ট ডেসক্রিপশন ও ছবিতে AI ব্যবহারের ৫টা ভিডিও
-**Resources (verified via search):**
-1. Ai দিয়ে ছবি এডিট করুন সম্পূর্ন ফ্রিতে | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=FplOCrf6m40 : AI ছবি এডিট, বাংলায়।
-2. এআই দিয়ে রিয়েলিস্টিক ছবি তৈরি করার সবচেয়ে সেরা টুল । free ai Image generator bangla । AI tutorial | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=GnpHVJUdcZM : ছবি জেনারেটর।
-3. How I Create SEO Product Descriptions In Seconds With AI (Pics To Descriptions App) | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=uk1LnuAK3OU : প্রোডাক্ট বর্ণনা (ইংরেজি)।
-4. How to create e-commerce product listing images in seconds with AI | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=6FeFsyI7DP8 : লিস্টিং ছবি।
-5. How To Take Product Photos With a Phone + AI | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=bpmS23No_bc : ফোনে ছবি তোলা ও AI।
-
-Non-video: যাচাইকৃত অফিসিয়াল লিংক পাওয়া যায়নি। মার্কেটপ্লেসের AI ছবি নিয়ে নিজস্ব নিয়ম থাকতে পারে, চেক করুন।
-
-**Recording script (Bangla, প্রায় ৭৫ সেকেন্ড):**
-[হুক] AI-র বানানো পণ্যের ছবি দিলে কাস্টমার ঠকে যেতে পারে, আর দোকানের বদনাম হয়!
-[মূল অংশ] AI ছবি সুন্দর করতে পারে, কিন্তু আসল পণ্যের সঙ্গে মিল না থাকলে সমস্যা। ব্যবহার করুন সাবধানে। ৫টা ভিডিও:
-এক, "Ai দিয়ে ছবি এডিট করুন সম্পূর্ন ফ্রিতে".
-দুই, "এআই দিয়ে রিয়েলিস্টিক ছবি তৈরি করার সবচেয়ে সেরা টুল".
-তিন, "How I Create SEO Product Descriptions In Seconds With AI".
-চার, "How to create e-commerce product listing images in seconds with AI".
-পাঁচ, "How To Take Product Photos With a Phone + AI".
-AI-র লেখা বর্ণনা আসল পণ্যের সঙ্গে মিলিয়ে নেবেন।
-[CTA] আপনার দোকানে কী বিক্রি করেন? কমেন্টে লিখুন, সেভ করুন, শেয়ার করুন।
-**Visual note:** আগে-পরে ছবির তুলনা, তারপর থাম্বনেইল।
+## 11. AI দিয়ে প্রেজেন্টেশন বানানোর ৫টা রিসোর্স দেখুন
 
----
+**যাচাই করা লিংক: 4টা**
 
-## 32. AI ভয়েসওভার ও টেক্সট-টু-স্পিচ শেখার ৫টা ভিডিও
-**Resources (verified via search):**
-1. আপনার কনটেন্টের জন্য AI বাংলা ভয়েস বানান এক মিনিটে || AI Voice Generator for Bangla || Ai Bangla | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=9o-eL1r_HjM : বাংলা AI ভয়েস।
-2. Ai দিয়ে বাংলা ভয়েস ওভার! Text to Bangla Voiceover for Free | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=OT_GPJ-_bC0 : ফ্রি বাংলা ভয়েসওভার।
-3. AI দিয়ে ফ্রিতেই প্রফেশনাল ভয়েস ওভার | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=6QLUeBTIHlE : ভয়েসওভার টুল।
-4. How to Convert Text to Speech in ElevenLabs - Beginners Tutorial | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=pP83ebu_RXM : ElevenLabs বেসিক (ইংরেজি)।
-5. How to Create Text to Speech Voiceovers with ElevenLabs! (Easy Tutorial 2026) | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=bDbLTeTr6to : ভয়েসওভার তৈরি।
-
-Non-video: যাচাইকৃত অফিসিয়াল লিংক পাওয়া যায়নি। কণ্ঠের লাইসেন্স ও ফ্রি সীমা টুলের সাইটে দেখুন।
-
-**Recording script (Bangla, প্রায় ৭৫ সেকেন্ড):**
-[হুক] নিজের গলা না দিয়েই ভিডিওতে ভয়েসওভার? এখন সেটা সম্ভব!
-[মূল অংশ] তবে বাংলা উচ্চারণ সব টুলে ভালো না-ও হতে পারে, আর অন্যের কণ্ঠ নকল করা ঠিক নয়। দেখুন:
-এক, "আপনার কনটেন্টের জন্য AI বাংলা ভয়েস বানান এক মিনিটে".
-দুই, "Ai দিয়ে বাংলা ভয়েস ওভার! Text to Bangla Voiceover for Free".
-তিন, "AI দিয়ে ফ্রিতেই প্রফেশনাল ভয়েস ওভার".
-চার, "How to Convert Text to Speech in ElevenLabs - Beginners Tutorial".
-পাঁচ, "How to Create Text to Speech Voiceovers with ElevenLabs!"
-"ফ্রি আনলিমিটেড" জাতীয় দাবি আমি যাচাই করিনি, শর্ত পড়ে নিন।
-[CTA] ভয়েসওভার কোন ভিডিওর জন্য দরকার? কমেন্টে লিখুন, সেভ করুন, শেয়ার করুন।
-**Visual note:** সাউন্ডওয়েভ অ্যানিমেশন, তারপর থাম্বনেইল।
+Resources:
+1. [Website] Gemini help make Google Slides presentations | Computerworld | https://www.computerworld.com/article/4129528/gemini-help-make-google-slides-presentations.html : এটা পড়লে আপনি Google Slides-এ Gemini দিয়ে স্লাইড বানানোর ধারণা পাবেন। (check pricing)
+2. [Website] How to Make Presentations With Google Gemini? | Techjockey | https://www.techjockey.com/blog/?p=60600 : এটা পড়লে আপনি ধাপে ধাপে Gemini দিয়ে প্রেজেন্টেশন বানানো বুঝতে পারবেন।
+3. [Docs] Beyond the prompt: Resources to get started with Workspace with Gemini | Google Workspace Blog | https://workspace.google.com/blog/ai-and-machine-learning/beyond-the-prompt-resources-gemini : এটা পড়লে আপনি Google-এর নিজস্ব শেখার রিসোর্সের তালিকা পাবেন।
+4. [Docs] Gemini Notebook Help (formerly NotebookLM) | Google | https://support.google.com/gemininotebook/?hl=en : এটা পড়লে আপনি নিজের সোর্স থেকে স্লাইড ডেক বানানোর অপশন চিনতে পারবেন।
 
----
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Copilot in PowerPoint support (Microsoft)
+- Website: Design School (Canva)
+- Tool: Gamma
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ঘণ্টার পর ঘণ্টা স্লাইড সাজিয়ে সময় নষ্ট করছেন? এই ৫টা... মানে ৪টা রিসোর্স দেখে নিন আগে।
+[মূল অংশ] প্রেজেন্টেশন বানাতে গিয়ে আমরা ডিজাইন আর কনটেন্ট নিয়েই বেশি সময় হারাই। AI এখানে ভালো সাহায্য করতে পারে, তবে টুল আর দাম প্রায়ই বদলায়, তাই অফিশিয়াল সোর্স দেখে নেবেন। এক: Computerworld-এর "Gemini help make Google Slides presentations", এটা পড়লে Slides-এ Gemini ব্যবহারের ধারণা পাবেন। দুই: Techjockey-র "How to Make Presentations With Google Gemini", ধাপে ধাপে গাইড। তিন: Google Workspace Blog-এর "Beyond the prompt", Google-এর নিজের শেখার রিসোর্সের তালিকা। চার: Gemini Notebook Help, মানে আগের NotebookLM, নিজের নোট থেকে স্লাইড বানানো বুঝতে সাহায্য করবে। সবগুলো ইংরেজিতে, তাই ক্যাপশন বা অটো-ট্রান্সলেট চালু রাখবেন। কিছু ফিচার পেইড হতে পারে, তাই আগে দাম দেখে নেবেন।
+[CTA] কোন টুল দিয়ে স্লাইড বানান, কমেন্টে জানান। ভিডিওটা সেভ করুন, বন্ধুদের শেয়ার করুন।
 
-## 33. AI দিয়ে ভিডিও ডাবিং ও অনুবাদের ৫টা ভিডিও
-**Resources (verified via search):**
-1. ১ ক্লিকে চাইনিজ থেকে বাংলা ভয়েস ডাবিং || AI দিয়ে ভিডিও তৈরি How to dub Video Using Ai 2026 | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=ag22x2oIZFY : বাংলা ডাবিং।
-2. Ai দিয়ে ভিডিও যেকোন ভাষায় ডাবিং | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=iMNSV84uMRQ : যেকোনো ভাষায় ডাবিং।
-3. ভিডিওর ভাষা পরিবর্তন করুন Ai দিয়ে | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=-b4JvFOHgFo : ভাষা পরিবর্তন।
-4. Enable AI Dubbing on YouTube | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=NO8H8UkM0GU : YouTube-এর নিজস্ব অটো ডাবিং (ইংরেজি)।
-5. Translate your Video to 90+ Languages Using Dubbing v2 | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=CapfiSbuAvM : ElevenLabs ডাবিং ধারণা।
-
-Non-video: যাচাইকৃত অফিসিয়াল লিংক পাওয়া যায়নি।
-
-**Recording script (Bangla, প্রায় ৭৫ সেকেন্ড):**
-[হুক] একটা ভিডিও বানিয়ে অনেক ভাষার দর্শকের কাছে পৌঁছানো যায়, AI ডাবিং দিয়ে!
-[মূল অংশ] তবে অন্যের ভিডিও অনুমতি ছাড়া ডাব করে আপলোড করলে কপিরাইট সমস্যা হতে পারে, শুধু নিজের কনটেন্টে ব্যবহার করুন। দেখুন:
-এক, "১ ক্লিকে চাইনিজ থেকে বাংলা ভয়েস ডাবিং".
-দুই, "Ai দিয়ে ভিডিও যেকোন ভাষায় ডাবিং".
-তিন, "ভিডিওর ভাষা পরিবর্তন করুন Ai দিয়ে".
-চার, "Enable AI Dubbing on YouTube".
-পাঁচ, "Translate your Video to 90+ Languages Using Dubbing v2".
-বাংলায় মান কেমন, সেটা আমি যাচাই করিনি, নিজে টেস্ট করে দেখুন।
-[CTA] কোন ভাষায় ডাব করতে চান? কমেন্টে লিখুন, সেভ করুন, শেয়ার করুন।
-**Visual note:** এক ভিডিও থেকে তিন ভাষার তীর, তারপর থাম্বনেইল।
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে একটা ফাঁকা স্লাইড থেকে AI-এর বানানো স্লাইড ডেকে বদলে যাওয়া দেখান, সঙ্গে ৪টা লিংকের নাম।
 
 ---
 
-## 34. ডেটা অ্যানালিটিক্স শেখার আগে ৫টা ভিডিও
-**Resources (verified via search):** (বাংলায় ডেটা অ্যানালিটিক্সের সরাসরি ভিডিও পাওয়া যায়নি, শুধু SPSS প্লেলিস্ট। 5 resources: 4 ভিডিও + 1 প্লেলিস্ট)
-1. The Complete Data Analyst Roadmap | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=YRJbhFLLPyE : পূর্ণ রোডম্যাপ (ইংরেজি)।
-2. How to become a Data Analyst with no experience | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=-4-GbWuAFms : অভিজ্ঞতা ছাড়া শুরু।
-3. Data Analyst Roadmap with Free Resources !! | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=r3WuDHyOlv4 : ফ্রি রিসোর্সসহ।
-4. Data Analyst Roadmap 2026 | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=Hk4rRvmZPQ8 : নতুন রোডম্যাপ।
-5. হাতেকলমে SPSS: A course on SPSS in Bangla (প্লেলিস্ট) | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/playlist?list=PLcbSS1yTFNfXWVS3NIGMkVBgAijz_vytI : বাংলায় ডেটা বিশ্লেষণের হাতেকলমে কোর্স। এটা পূর্ণ ডেটা অ্যানালিটিক্স নয়, শুধু একটা টুল।
-
-Non-video: যাচাইকৃত অফিসিয়াল লিংক পাওয়া যায়নি।
-
-**Recording script (Bangla, প্রায় ৭৫ সেকেন্ড):**
-[হুক] ডেটা অ্যানালিস্ট হতে চান? আগে জানুন কোন কোন জিনিস শিখতে হয়।
-[মূল অংশ] কতদিনে চাকরি হবে, এর কোনো নিশ্চয়তা নেই, ভিডিওগুলোতেও সময় আলাদা আলাদা বলা। শুধু পথটা বুঝে নিন:
-এক, "The Complete Data Analyst Roadmap".
-দুই, "How to become a Data Analyst with no experience".
-তিন, "Data Analyst Roadmap with Free Resources".
-চার, "Data Analyst Roadmap 2026".
-পাঁচ, বাংলায় "হাতেকলমে SPSS" প্লেলিস্ট, ডেটা বিশ্লেষণ হাতেকলমে শেখার জন্য।
-[CTA] Excel, SQL নাকি Python, কোনটা দিয়ে শুরু করবেন? কমেন্টে বলুন, সেভ করুন, শেয়ার করুন।
-**Visual note:** একটা সিঁড়ি গ্রাফিক: Excel, SQL, Python, ড্যাশবোর্ড (জেনারেল ধারণা), পাশে থাম্বনেইল।
+## 12. বাংলা ভাষায় AI ব্যবহারের ৫টা রিসোর্স দেখুন
 
----
+**যাচাই করা লিংক: 4টা**
 
-## 35. প্রম্পট ইঞ্জিনিয়ারিং কি সত্যিই ক্যারিয়ার? ৫টা ভিডিও
-**Resources (verified via search):**
-1. Prompt Engineering Basic to Advanced - Prompt লিখবেন কিভাবে (FREE AI Course) | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=IwrhTwJqNqw : বাংলায় প্রম্পট শেখা।
-2. Is Prompt Engineering Still Worth It in 2026? (The Truth) | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=pi86am09amg : এখনো কি লাভজনক, আলোচনা।
-3. Prompt Engineering Career Guide 2026 | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=ETqekly-STY : ক্যারিয়ার গাইড।
-4. Prompt Engineer: The Job Everyone's Lying About | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=afO2h7XQo_Q : হাইপের সমালোচনা।
-5. Prompting is for Juniors. The New Senior AI Role | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=9KT9QiwuW-Q : সিনিয়র AI রোল কেমন।
-
-Non-video: যাচাইকৃত অফিসিয়াল লিংক পাওয়া যায়নি।
-
-**Recording script (Bangla, প্রায় ৭৫ সেকেন্ড):**
-[হুক] "প্রম্পট ইঞ্জিনিয়ার হয়ে লাখ লাখ টাকা", এই কথা শুনলেই সাবধান!
-[মূল অংশ] আমার দেখা ভিডিওগুলোর বেশিরভাগ বলছে, আলাদা পেশা হিসেবে এর হাইপ কমেছে, তবে স্কিল হিসেবে এটা কাজে লাগে। এটা তাদের মত, চূড়ান্ত সত্য নয়। দেখুন:
-এক, বাংলায় "Prompt Engineering Basic to Advanced".
-দুই, "Is Prompt Engineering Still Worth It in 2026? (The Truth)".
-তিন, "Prompt Engineering Career Guide 2026".
-চার, "Prompt Engineer: The Job Everyone's Lying About".
-পাঁচ, "Prompting is for Juniors. The New Senior AI Role".
-বেতনের কোনো সংখ্যায় ভরসা করার আগে আসল চাকরির বিজ্ঞপ্তি দেখুন।
-[CTA] আপনার মত কী? কমেন্টে লিখুন, সেভ করুন, শেয়ার করুন।
-**Visual note:** "স্কিল নাকি পেশা?" টেক্সট, তারপর থাম্বনেইল।
+Resources: (all English, about using AI with non-English languages. Bangla support was NOT confirmed by any result, so test it yourself.)
+1. [Website] How To Change Your Language In ChatGPT | SlashGear | https://www.slashgear.com/1995161/how-to-change-chat-gpt-language-settings : এটা পড়লে আপনি ChatGPT-তে ভাষা বদলানোর উপায় জানবেন।
+2. [Website] How to adapt ChatGPT to work with multiple language users | Educative | https://www.educative.io/answers/how-to-adapt-chatgpt-to-work-with-multiple-language-users : এটা পড়লে আপনি অন্য ভাষায় প্রম্পট দেওয়ার কৌশল বুঝবেন।
+3. [Docs] Gemini and preferred language | Google Workspace Help | https://support.google.com/a/answer/14142972 : এটা পড়লে আপনি জানবেন ভাষার সেটিংসের ওপর Gemini-র ফিচার কীভাবে নির্ভর করে।
+4. [Docs] Prompt engineering best practices for ChatGPT | OpenAI Help Center | https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt : এটা পড়লে আপনি যেকোনো ভাষায় ভালো প্রম্পট লেখার নিয়ম শিখবেন।
 
----
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Tool: Google Translate (Google)
+- Docs: Gemini Apps Help, supported languages (Google)
+- Docs: ChatGPT Help Center, languages (OpenAI)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] AI কি বাংলায় ঠিকঠাক কাজ করে? উত্তর দেওয়ার আগে এই রিসোর্সগুলো দেখুন।
+[মূল অংশ] অনেকেই ভাবেন AI শুধু ইংরেজিতে ভালো। আসলে অনেক টুল একাধিক ভাষা বোঝে, কিন্তু মান ভাষাভেদে আলাদা হতে পারে, আর বাংলার মান আপনাকে নিজে পরীক্ষা করে দেখতে হবে। এক: SlashGear-এর "How To Change Your Language In ChatGPT", ভাষা বদলানো শিখবেন। দুই: Educative-এর "How to adapt ChatGPT to work with multiple language users", অন্য ভাষায় প্রম্পটের ধারণা পাবেন। তিন: Google Workspace Help-এর ভাষা-সংক্রান্ত পেজ, যেখানে বলা আছে ভাষার সেটিং Gemini-র ফিচারে প্রভাব ফেলে। চার: OpenAI Help Center-এর "Prompt engineering best practices", যেকোনো ভাষায় ভালো প্রম্পটের নিয়ম। এগুলো ইংরেজিতে, তাই ক্যাপশন বা অটো-ট্রান্সলেট চালু রাখুন। একটা টিপ: গুরুত্বপূর্ণ কাজে AI-র বাংলা উত্তর অবশ্যই নিজে যাচাই করবেন।
+[CTA] আপনার বাংলা প্রম্পটের অভিজ্ঞতা কমেন্টে লিখুন। সেভ ও শেয়ার করুন।
 
-## 36. ইন্টারভিউয়ের প্রস্তুতিতে AI ব্যবহারের ৫টা ভিডিও
-**Resources (verified via search):** (বাংলা ভিডিও দুটি সাধারণ ইন্টারভিউ টিপস, AI-নির্দিষ্ট নয়)
-1. চাকরির ইন্টারভিউতে সফল হবেন কিভাবে? ৫টি কার্যকরী টিপস! | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=99YqLhiGQfM : বাংলায় ইন্টারভিউ টিপস।
-2. চাকরির ইন্টারভিউতে যেভাবে নিজের পরিচয় দেবেন | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=CgKB_dro3Cg : নিজের পরিচয় দেওয়া।
-3. How to Use ChatGPT for Interview Preparation (Mock Interviews, Role-Specific Prompts & More) | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=6E7mIkT-R8Y : মক ইন্টারভিউ (ইংরেজি)।
-4. How to use ChatGPT Work as the best Interview Coach | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=_mZU4qP9hu0 : ইন্টারভিউ কোচ।
-5. Job Specific Mock Interview Using ChatGPT | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=K90eQB31C0U : নির্দিষ্ট পদের মক ইন্টারভিউ।
-
-Non-video: যাচাইকৃত অফিসিয়াল লিংক পাওয়া যায়নি।
-
-**Recording script (Bangla, প্রায় ৭৫ সেকেন্ড):**
-[হুক] ইন্টারভিউয়ের আগের রাতে AI দিয়ে প্র্যাকটিস করেছেন কখনো?
-[মূল অংশ] AI আপনার প্রশ্নকর্তা সাজতে পারে, আর উত্তরে ফিডব্যাক দিতে পারে। তবে এতে চাকরির নিশ্চয়তা আসে না, শুধু প্রস্তুতি ভালো হয়। দেখুন:
-এক, "চাকরির ইন্টারভিউতে সফল হবেন কিভাবে? ৫টি কার্যকরী টিপস!"
-দুই, "চাকরির ইন্টারভিউতে যেভাবে নিজের পরিচয় দেবেন".
-তিন, "How to Use ChatGPT for Interview Preparation".
-চার, "How to use ChatGPT Work as the best Interview Coach".
-পাঁচ, "Job Specific Mock Interview Using ChatGPT".
-[CTA] কোন পদের জন্য প্রস্তুতি নিচ্ছেন? কমেন্টে লিখুন, সেভ করুন, শেয়ার করুন।
-**Visual note:** দুজনের কথোপকথন গ্রাফিক (আপনি ও AI), তারপর থাম্বনেইল।
+**স্ক্রিনে যা দেখাবেন:** একই প্রশ্ন বাংলা ও ইংরেজিতে করে দুই উত্তর পাশাপাশি দেখান।
 
 ---
 
-## 37. LinkedIn প্রোফাইল ও পোস্টে AI ব্যবহারের ৫টা ভিডিও
-**Resources (verified via search):**
-1. LinkedIn Tutorial in Bangla (লেসন ১) | Dipro Prattoy | https://youtube.com/watch?v=OQRI1urEjW8 : বাংলায় LinkedIn পরিচিতি।
-2. LinkedIn Tutorial in Bangla (লেসন ২, প্রোফাইল হেডার ও About) | Dipro Prattoy | https://youtube.com/watch?v=YtlLyqYv2iw : হেডার ও About অংশ।
-3. LinkedIn-এ ছক্কা মারার কৌশল! How to Build a Powerful LinkedIn Profile ft. Abdullah Mamun | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=aNhe42ePVMQ : শক্তিশালী প্রোফাইলের কৌশল।
-4. Optimize Your LinkedIn Profile with Claude AI in 10 Minutes (100% FREE) | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=MExYI5_jntc : AI দিয়ে প্রোফাইল (ইংরেজি)।
-5. 3 Ways to Optimize Your LinkedIn Profile using ChatGPT | (চ্যানেল যাচাই বাকি) | https://youtube.com/watch?v=s47VfgDeOP4 : ChatGPT দিয়ে প্রোফাইল।
-
-Non-video: যাচাইকৃত অফিসিয়াল লিংক পাওয়া যায়নি (LinkedIn Help Center নিজে দেখে নিন)। পোস্ট লেখায় AI নিয়ে আলাদা ভিডিও পাওয়া যায়নি।
-
-**Recording script (Bangla, প্রায় ৭৫ সেকেন্ড):**
-[হুক] আপনার LinkedIn প্রোফাইল দেখে রিক্রুটার কী ভাবে, তিন সেকেন্ডে?
-[মূল অংশ] AI দিয়ে হেডলাইন আর About লেখা সহজ, কিন্তু যা লিখবেন তা যেন সত্যি হয়, বাড়িয়ে লিখবেন না। দেখুন:
-এক আর দুই, Dipro Prattoy-র "LinkedIn Tutorial in Bangla", লেসন ১ আর ২।
-তিন, "LinkedIn-এ ছক্কা মারার কৌশল!", Abdullah Mamun-এর সঙ্গে।
-চার, "Optimize Your LinkedIn Profile with Claude AI in 10 Minutes".
-পাঁচ, "3 Ways to Optimize Your LinkedIn Profile using ChatGPT".
-[CTA] আপনার হেডলাইন কী লিখেছেন? কমেন্টে দিন, সেভ করুন, শেয়ার করুন।
-**Visual note:** একটা LinkedIn প্রোফাইলের মকআপ, হেডলাইন হাইলাইট করা, তারপর থাম্বনেইল।
+## 13. NotebookLM দিয়ে নোট ও বই বোঝার ৫টা রিসোর্স দেখুন
 
----
+**যাচাই করা লিংক: 5টা**
 
-## 38. ফ্রি AI কোর্স ও সার্টিফিকেট পাওয়ার ৫টা রিসোর্স
-**Resources (only 5 pages verified, none are official course pages; no videos):**
-1. বিনা মূল্যে গুগলের কৃত্রিম বুদ্ধিমত্তা বিষয়ক কোর্স, আবেদনসহ জেনে নিন সব | প্রথম আলো | https://www.prothomalo.com/education/admission/1qzp6v4fti : গুগলের ফ্রি কোর্সের বাংলা প্রতিবেদন।
-2. Best Free AI Courses for Beginners in 2026: Top 10 Picks | SkillScouter | https://skillscouter.com/best-free-ai-courses-for-beginners/ : তালিকা (ইংরেজি)।
-3. Free AI Courses | Geekflare | https://geekflare.com/blog/free-ai-courses/ : তালিকা (ইংরেজি)।
-4. AI Learning Resources | Brooklyn College students page | https://students.brooklyn.edu/knowledge-base/ai-learning-resources/ : শিক্ষার্থীদের জন্য রিসোর্স।
-5. AI courses from Google, Microsoft and more | getcoai | https://getcoai.com/news/ai-courses-from-google-microsoft-and-more-boost-skills-and-resumes-for-free : Google, Microsoft, IBM, Elements of AI-র কথা আছে।
-
-Note: এবারের সার্চে Elements of AI, Google AI Essentials, Microsoft Learn, IBM SkillsBuild বা Coursera-র অফিসিয়াল কোর্স পেজ আসেনি, তাই সেই লিংক দিইনি। নাম ধরে নিজে অফিসিয়াল সাইট খুঁজে নিন। সার্চ সারাংশ অনুযায়ী Coursera-র অনেক কোর্স অডিট করা যায়, সার্টিফিকেট আলাদা, শর্ত প্রতিটি পেজে দেখুন। বাংলাদেশের জন্য "Think AI" নামে Shikho-তে একটি বিনামূল্যের বাংলা কোর্সের কথা একটি সার্চ সারাংশে এসেছে, কিন্তু লিংক যাচাই হয়নি।
-
-**Recording script (Bangla, প্রায় ৮০ সেকেন্ড):**
-[হুক] AI শিখতে টাকা লাগবে না, কিন্তু "ফ্রি সার্টিফিকেট" শব্দটা একটু সাবধানে পড়ুন!
-[মূল অংশ] অনেক কোর্স ফ্রিতে দেখা যায়, কিন্তু সার্টিফিকেট বা ব্যাজ আলাদা শর্তে পাওয়া যায়। আর সার্টিফিকেট দিয়ে চাকরি পাওয়ার কোনো নিশ্চয়তা নেই, আসল কাজ হলো শেখা। আজকের রিসোর্স, আর এগুলো তালিকা বা প্রতিবেদন, অফিসিয়াল পেজ নয়:
-এক, প্রথম আলোর প্রতিবেদন, গুগলের ফ্রি AI কোর্স নিয়ে।
-দুই, SkillScouter-এর শুরুর জন্য ফ্রি কোর্সের তালিকা।
-তিন, Geekflare-এর তালিকা।
-চার, Brooklyn College-এর শিক্ষার্থীদের জন্য রিসোর্স পেজ।
-পাঁচ, getcoai-এর লেখা, যেখানে Google, Microsoft, IBM ও Elements of AI-র নাম আছে।
-এই নামগুলো ধরে অফিসিয়াল সাইটে গিয়ে দেখে নিন এখন কোর্সটি ফ্রি কি না, কারণ অফার বদলে যায়।
-[CTA] আপনি কোন কোর্সটা আগে করবেন? কমেন্টে জানান, সেভ করুন, আর শিখতে চাওয়া বন্ধুকে শেয়ার করুন।
-**Visual note:** পাঁচটা হেডলাইন, তারপর "ফ্রি কোর্স বনাম ফ্রি সার্টিফিকেট" দুই কলামের কার্ড।
+Resources:
+1. [Docs] NotebookLM Help | Google | https://support.google.com/notebooklm/?hl=en : এটা পড়লে আপনি নোটবুক বানানো, সোর্স যোগ ও চ্যাট করা শিখবেন।
+2. [Docs] Gemini Notebook Help (formerly NotebookLM) | Google | https://support.google.com/gemininotebook/?hl=en : এটা পড়লে আপনি Audio Overview, Mind Map ও স্লাইড ডেকের মতো আউটপুট চিনবেন।
+3. [Website] Gemini Notebook (formerly NotebookLM) product page | Google Workspace | https://workspace.google.com/products/notebooklm/ : এটা দেখলে আপনি টুলটা কী কাজে লাগে বুঝবেন।
+4. [PDF/Book] NotebookLM Seminar Handout | Missoula Public Library | https://www.missoulapubliclibrary.org/wp-content/uploads/2025/04/UTF-8NotebookLM-Seminar-Handout-.pdf : এটা পড়লে আপনি একটা সংক্ষিপ্ত হ্যান্ডআউট থেকে দ্রুত শুরু করতে পারবেন।
+5. [Course] Google NotebookLM (Free Course) | Udemy | https://www.udemy.com/course/google-notebooklm-free-course/ : এটা করলে আপনি সোর্স, সাইটেশন ও স্টাডি গাইড বানানো শিখবেন। (check pricing)
 
----
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: NotebookLM Help (Google)
+- Tool: NotebookLM (Google)
 
-## 39. ফ্রিল্যান্স ক্লায়েন্টের সঙ্গে ইংরেজিতে কথা বলার ৫টা ভিডিও
-**Resources (verified via search; 4 videos + 1 course page):**
-1. Conversation between Client and Freelancer | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=jNDe-C1HHlo : ক্লায়েন্ট ও ফ্রিল্যান্সারের কথোপকথনের অনুশীলন (ইংরেজি)।
-2. Freelancing related English to Bangla vocabulary, ফ্রিল্যান্সিং সম্পর্কিত ইংরেজি থেকে বাংলা শব্দার্থ | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=U0HZcZXZCwM : বাংলায় ব্যাখ্যাসহ শব্দভাণ্ডার।
-3. ১০০টি ইংরেজি টার্ম যা ফ্রিল্যান্সিং করতে হলে জানতেই হবে | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=GPlkT0wx5UM : ১০০টি দরকারি শব্দ।
-4. কারো সাথে ইংরেজিতে কথা বলার একদম সহজ উপায় | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=rJPJGqsGQZk : সাধারণ কথোপকথনের সহজ কৌশল।
-5. English for Freelancers (British Council / Gaza Sky Geeks কোর্স, EdApp-এ) | EdApp | https://www.edapp.com/course/english-for-freelancers : দরদাম, ডেডলাইন, ভিডিও কল নিয়ে মডিউল (ইংরেজি)।
-
-**Recording script (Bangla, প্রায় ৭৫ সেকেন্ড):**
-[হুক] ক্লায়েন্টের সঙ্গে ইংরেজিতে কথা বলতে ভয় লাগে? পারফেক্ট ইংরেজি লাগে না, পরিষ্কার হলেই চলে!
-[মূল অংশ] একটি গবেষণার সার্চ সারাংশ বলছে, ক্লায়েন্টের সঙ্গে চ্যাটে ব্যাকরণের নিখুঁততার চেয়ে স্পষ্টতা আর ক্লায়েন্টের চাহিদা বোঝাটা বেশি জরুরি। এটা সূত্রটি দেখে নিজে যাচাই করবেন। শুরু করার জন্য এই ৫টা রিসোর্স:
-এক, "Conversation between Client and Freelancer", কথোপকথনের অনুশীলন।
-দুই, ফ্রিল্যান্সিং সম্পর্কিত ইংরেজি শব্দের বাংলা ব্যাখ্যা।
-তিন, "১০০টি ইংরেজি টার্ম যা ফ্রিল্যান্সিং করতে হলে জানতেই হবে"।
-চার, "কারো সাথে ইংরেজিতে কথা বলার একদম সহজ উপায়"।
-পাঁচ, EdApp-এর English for Freelancers কোর্স, দরদাম ও ডেডলাইন নিয়ে।
-ভিডিও দেখে বাক্য নিজে জোরে বলে অনুশীলন করুন, আর চ্যানেলের নাম খুলে দেখে নিন।
-[CTA] ক্লায়েন্টের সঙ্গে কোন বাক্যটা বলতে আপনার সবচেয়ে কঠিন লাগে? কমেন্টে লিখুন, সেভ করুন, আর ফ্রিল্যান্সার বন্ধুকে শেয়ার করুন।
-**Visual note:** একটি চ্যাট স্ক্রিনের মকআপ, "I can deliver this by Friday" ধরনের একটা সহজ বাক্য টেক্সটে, তারপর থাম্বনেইল।
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] মোটা বই বা লম্বা নোট পড়ার সময় নেই? আগে এই ৫টা রিসোর্স দেখুন।
+[মূল অংশ] NotebookLM-এ আপনি নিজের ডকুমেন্ট দিয়ে প্রশ্ন করতে পারেন। Google-এর একটি পেজ অনুযায়ী এখন এর নাম Gemini Notebook-ও দেখা যাচ্ছে, তাই দুই নামেই খুঁজবেন। এক: NotebookLM Help, Google-এর অফিশিয়াল গাইড। দুই: Gemini Notebook Help, আউটপুটের ধরন বোঝার জন্য। তিন: Google Workspace-এর প্রোডাক্ট পেজ, টুলটা কী করে তার ধারণা। চার: Missoula Public Library-র NotebookLM Seminar Handout, একটা সহজ PDF। পাঁচ: Udemy-র "Google NotebookLM Free Course", দাম বা ফ্রি কি না আগে চেক করে নেবেন। সবই ইংরেজিতে, তাই ক্যাপশন বা অটো-ট্রান্সলেট চালু রাখুন। মনে রাখবেন, AI-র সারাংশ মূল সোর্সের সঙ্গে মিলিয়ে দেখা ভালো।
+[CTA] আপনি কোন বই NotebookLM-এ দেবেন, কমেন্টে বলুন। সেভ ও শেয়ার করুন।
 
+**স্ক্রিনে যা দেখাবেন:** একটা PDF আপলোড করে প্রশ্ন-উত্তর করার স্ক্রিন রেকর্ডিং দেখান।
+
 ---
 
-## 40. AI দিয়ে সাইড ইনকাম শুরুর আগে ৫টা ভিডিও
-**Resources (verified via search; 3 Bangla videos + 2 warning articles). সতর্কতা: ভিডিওগুলোর শিরোনামে আয়ের দাবি আছে, এগুলো প্রমাণ নয়। সমালোচনার চোখে দেখুন, কেউ কোর্স বিক্রি করতে পারে।**
-1. AI দিয়ে ছবি বানিয়ে আমি কীভাবে টাকা ইনকাম করলাম! | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=nQd1LEXz0B8 : একজনের ব্যক্তিগত অভিজ্ঞতা।
-2. AI ভিডিও দিয়ে ইনকামের সঠিক টেকনিক | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=4WU3K3iP__A : AI ভিডিও থেকে আয়ের ধারণা।
-3. শুধু Mobile থাকলেই ইনকাম চালু | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=W6st4CuvzxA : মোবাইলে Shorts ও ফেসলেস চ্যানেলের ধারণা, শিরোনামের দাবি নিয়ে সাবধান।
-4. FTC Cracks Down On AI Side Hustle Scams | selfemployed.com | https://www.selfemployed.com/news/ftc-ai-side-hustle-scam-crackdown-2026/ : AI সাইড হাসল স্ক্যামের বিরুদ্ধে মার্কিন FTC-র পদক্ষেপ (ইংরেজি)।
-5. How to Spot AI Side Hustle Scams: FTC's $74M Crackdown + 5 Warning Signs | Shareuhack | https://www.shareuhack.com/en/posts/ai-side-hustle-scam-guide-2026 : স্ক্যামের লক্ষণ (একটি ব্লগ, সংখ্যা মূল সূত্রে যাচাই করুন)।
-
-**Recording script (Bangla, প্রায় ৯০ সেকেন্ড):**
-[হুক] "AI দিয়ে ঘরে বসে লাখ টাকা", এমন কথা শুনলে আগে থামুন!
-[মূল অংশ] সত্যি কথা হলো, AI একটা টুল, জাদুর মেশিন নয়। কেউ আয়ের নিশ্চয়তা দিলে, আগে টাকা চাইলে, বা "কিছু না করেই আয়" বললে সেটা স্ক্যামের লক্ষণ হতে পারে। আয় নির্ভর করে আপনার দক্ষতা, সময় আর ক্লায়েন্ট খুঁজে পাওয়ার ওপর, আর কেউ নিশ্চিত করতে পারে না। কোনো কোর্স কেনার আগে প্রমাণ চান, আর কোনো লিংকে ব্যাংক বা মোবাইল ব্যাংকিংয়ের তথ্য দেবেন না। আজকের রিসোর্স:
-এক, "AI দিয়ে ছবি বানিয়ে আমি কীভাবে টাকা ইনকাম করলাম", একজনের অভিজ্ঞতা।
-দুই, "AI ভিডিও দিয়ে ইনকামের সঠিক টেকনিক"।
-তিন, "শুধু Mobile থাকলেই ইনকাম চালু", এর শিরোনামের দাবি নিজে যাচাই করবেন।
-চার, selfemployed.com-এর লেখা, মার্কিন FTC-র AI সাইড হাসল স্ক্যামের বিরুদ্ধে পদক্ষেপ নিয়ে।
-পাঁচ, Shareuhack-এর স্ক্যামের লক্ষণ নিয়ে গাইড।
-ভিডিও থেকে ধারণা নিন, কিন্তু আয়ের সংখ্যা বিশ্বাস করবেন না।
-[CTA] আপনি কি কখনো এমন "ইনকাম" অফারে পড়েছেন? কমেন্টে জানান, সেভ করুন, আর সবাইকে সাবধান করতে শেয়ার করুন।
-**Visual note:** লাল "সাবধান" ব্যানারে "গ্যারান্টিড আয় = স্ক্যামের লক্ষণ", তারপর থাম্বনেইল।
+## 14. AI এজেন্ট কী, বোঝার ৫টা রিসোর্স দেখুন (no verified video)
 
----
+**যাচাই করা লিংক: 5টা**
 
-## 41. কোডিং শেখা শুরুর আগে এই ৫টা ভিডিও দেখুন
-**Resources (verified via search):**
-1. What is programming in Bangla? 🔥 প্রোগ্রামিং কী,কেন এবং কীভাবে? [নতুনদের জন্য] | Naem Azam | https://www.youtube.com/watch?v=e_v0WHCHxmY : প্রোগ্রামিং আসলে কী, সেটা একদম গোড়া থেকে বোঝার জন্য।
-2. কিভাবে প্রোগ্রামিং শুরু করা যায়? প্রোগ্রামিং শেখা কি কঠিন? | Sudipta Kar | https://www.youtube.com/watch?v=pAD7wk2Sqg8 : শুরুর ভয় আর কনফিউশন কাটাতে কাজে লাগবে।
-3. কিভাবে প্রোগ্রামিং শিখবেন ? শুরু করার জন্য A-Z গাইডলাইন - Coding Roadmap 2024 | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=kITPAedzkyE : ধাপে ধাপে একটা গাইডলাইন পেতে।
-4. How to Take Harvard's CS50 | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=3xaVX0cluDo : ফ্রি কোর্স CS50 কীভাবে শুরু করবেন, সেটার গাইড (ইংরেজি)।
-5. Harvard CS50 (2026) | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=gmuTjeQUbTM : পুরো কম্পিউটার সায়েন্সের ভিত্তি শিখতে চাইলে ফ্রি ফুল কোর্স (ইংরেজি)।
-
-Non-video sources:
-- freeCodeCamp: Harvard CS50 2026 course post: https://www.freecodecamp.org/news/harvard-cs50-2026-free-computer-science-university-course/
-- দ্য ডেইলি স্টার বাংলা: বিনাখরচে বাংলায় প্রোগ্রামিং শেখার ওয়েবসাইট ও ইউটিউব চ্যানেল: https://bangla.thedailystar.net/tech-startup/science-tech-gadgets/technology/news-621351
-
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] কোডিং শিখতে গিয়ে বছর নষ্ট করতে না চাইলে, শুরুর আগে এই ৫টা ভিডিও দেখে নিন।
-[মূল অংশ] অনেকেই কোথা থেকে শুরু করবেন বুঝতে না পেরে মাসের পর মাস ঘুরপাক খান। তাই আমি ৫টা ভিডিও বেছেছি। এক নম্বর, নাঈম আজমের "What is programming in Bangla", এখানে প্রোগ্রামিং কী, কেন আর কীভাবে, সেটা বাংলায় পাবেন। দুই নম্বর, সুদীপ্ত করের "কিভাবে প্রোগ্রামিং শুরু করা যায়, প্রোগ্রামিং শেখা কি কঠিন", শুরুর ভয় কাটাতে কাজে দেবে। তিন নম্বর, "কিভাবে প্রোগ্রামিং শিখবেন, শুরু করার জন্য A-Z গাইডলাইন", একটা গোছানো রোডম্যাপের জন্য। চার নম্বর, "How to Take Harvard's CS50", ইংরেজিতে, কিন্তু ফ্রি কোর্সটা কীভাবে শুরু করবেন সেটা বুঝতে সাহায্য করবে। পাঁচ নম্বর, "Harvard CS50 2026", হার্ভার্ডের পুরো কোর্স ফ্রি দেখা যায়, আমি যতদূর জানি, তবে লিংকে গিয়ে একবার চেক করে নিন। মনে রাখবেন, শুধু ভিডিও দেখলে হবে না, নিজে হাতে কোড লিখতে হবে।
-[CTA] আপনি কোন ভাষা দিয়ে শুরু করতে চান, কমেন্টে জানান। ভিডিওটা সেভ করে রাখুন, আর যে বন্ধু কোডিং শিখতে চায় তাকে শেয়ার করুন।
-**Visual note:** স্ক্রিনে প্রতিটা ভিডিওর থাম্বনেইল ও টাইটেল এক এক করে দেখান, শেষে CTA লেখা টেক্সট দিন।
+Resources:
+1. [Course] AI Agents for Beginners | Microsoft (GitHub) | https://github.com/microsoft/ai-agents-for-beginners : এটা করলে আপনি লেসন, কোড ও ভিডিওসহ এজেন্ট বানানোর মূল ধারণা শিখবেন। (a result said an Azure account is needed for one code path)
+2. [Course] Welcome to the AI Agents Course | Hugging Face | https://huggingface.co/learn/agents-course/en/unit0/introduction : এটা করলে আপনি শুরু থেকে এজেন্ট বোঝা ও বানানো শিখবেন; ফ্রি ও সার্টিফিকেট আছে বলে রেজাল্টে লেখা।
+3. [Course] Agentic AI | DeepLearning.AI | https://www.deeplearning.ai/courses/agentic-ai : এটা করলে আপনি reflection, tool use ও planning বুঝবেন (Python জানা লাগে)।
+4. [Website] 5 FREE Resources on Agentic AI | KDnuggets | https://www.kdnuggets.com/5-free-resources-on-agentic-ai : এটা পড়লে আপনি আরও ফ্রি রিসোর্সের তালিকা পাবেন।
+5. [Website] Learn AI Agents | AI Weekly | https://aiweekly.co/learning-ai/generative-ai/learn-ai-agents : এটা পড়লে আপনি শেখার একটা গোছানো পথ পাবেন।
 
----
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Building Effective Agents (Anthropic engineering blog)
+- Course: AI Agents Course (Hugging Face)
+- Course: Agentic AI (DeepLearning.AI)
+- PDF: A practical guide to building agents (OpenAI)
 
-## 42. Python শেখার ৫টা ভিডিও
-**Resources (verified via search):**
-1. Python Tutorial - Python Full Course For Beginners 2023 [Bangla] | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=1mLmW0sTzjw : বাংলায় পুরো কোর্স, শূন্য থেকে শুরুর জন্য।
-2. Full Python Tutorial Bangla - Python Full Course for Beginners | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=72_yS3LTKeU : আরেকটা বাংলা ফুল কোর্স, তুলনা করে বেছে নেওয়ার জন্য।
-3. Learn from a Googler: 1 Python fundamentals in 1 tutorial (in Bengali (বাংলা)) | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=Z6JjqHxT6oM : এক ভিডিওতে Python-এর মূল ধারণা বাংলায়।
-4. Learn Python - Full Course for Beginners [Tutorial] | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=rfscVS0vtbw : ইংরেজিতে জনপ্রিয় বেসিক কোর্স।
-5. Harvard CS50's Introduction to Programming with Python | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=nLRL_NcnK-4 : একটু গভীরে গিয়ে ধারণা পাকা করতে (ইংরেজি)।
-
-Non-video source:
-- freeCodeCamp: Free Python crash course post: https://www.freecodecamp.org/news/free-python-crash-course/
-
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] Python শিখতে গিয়ে ভুল ভিডিও দিয়ে শুরু করলে সময় তো যাবেই, আগ্রহও চলে যেতে পারে।
-[মূল অংশ] তাই আজ ৫টা ভিডিও বেছে দিলাম। প্রথমটা, "Python Tutorial, Python Full Course For Beginners 2023" বাংলায়, পুরো কোর্স। দ্বিতীয়টা, "Full Python Tutorial Bangla", আরেকটা বাংলা ফুল কোর্স, দুটোর প্রথম কয়েক মিনিট দেখে যেটা আপনার ভালো লাগে সেটা ধরুন। তৃতীয়টা, "Learn from a Googler: Python fundamentals in 1 tutorial", বাংলায়, এক ভিডিওতে মূল ধারণা। চতুর্থটা, freeCodeCamp এর পরিচিত "Learn Python, Full Course for Beginners", ইংরেজিতে। আর পাঁচ নম্বর, "Harvard CS50's Introduction to Programming with Python", যারা একটু গভীরে যেতে চান। সব ভিডিওর ক্রিয়েটরকে ধন্যবাদ। আর একটা কথা, ভিডিওর সঙ্গে সঙ্গে নিজে কোড করুন, শুধু দেখে গেলে শেখা হয় না।
-[CTA] আপনি Python দিয়ে কী বানাতে চান, কমেন্টে লিখুন। সেভ করে রাখুন, আর বন্ধুকে শেয়ার করুন।
-**Visual note:** ভিডিওর টাইটেলগুলো স্ক্রিনে এক এক করে দেখান, পাশে একটা Python কোড এডিটরের স্ক্রিনশট রাখুন।
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] সবাই "AI এজেন্ট" বলছে, কিন্তু আসলে এটা কী? ৩০ সেকেন্ডে সঠিক রিসোর্সগুলো দেখে নিন।
+[মূল অংশ] AI এজেন্ট মানে এমন AI, যে শুধু উত্তর দেয় না, টুল ব্যবহার করে ধাপে ধাপে কাজও করে। বিষয়টা দ্রুত বদলায়, তাই বিশ্বাসযোগ্য সোর্স থেকে শিখুন। এক: Microsoft-এর "AI Agents for Beginners", GitHub-এ লেসন ও কোডসহ। দুই: Hugging Face-এর "AI Agents Course", বিগিনার থেকে শুরু। তিন: DeepLearning.AI-এর "Agentic AI", একটু Python জানলে ভালো। চার: KDnuggets-এর "5 FREE Resources on Agentic AI"। পাঁচ: AI Weekly-র "Learn AI Agents" পেজ। সবগুলো ইংরেজিতে, তাই ক্যাপশন বা অটো-ট্রান্সলেট চালু রাখুন। কোর্সের দাম বা শর্ত বদলাতে পারে, তাই লিংকে গিয়ে নিজে দেখে নেবেন।
+[CTA] এজেন্ট দিয়ে কোন কাজ করাতে চান, কমেন্টে লিখুন। সেভ ও শেয়ার করুন।
 
+**স্ক্রিনে যা দেখাবেন:** একটা সহজ ফ্লো ডায়াগ্রাম: প্রশ্ন, টুল ব্যবহার, ফলাফল।
+
 ---
 
-## 43. ওয়েব ডেভেলপমেন্ট রোডম্যাপের ৫টা ভিডিও
-**Resources (verified via search):**
-1. ২০২২ সালের মধ্যে ওয়েব ডেভেলপার হওয়ার রোডম্যাপ || Web Development Course with Jhankar Mahbub | Jhankar Mahbub | https://www.youtube.com/watch?v=XU0FYlY9_E0 : বাংলায় রোডম্যাপ, তবে পুরনো (২০২২), তাই টুল ও ট্রেন্ড মিলিয়ে নিন।
-2. ওয়েব ডেভেলপার হওয়ার কমপ্লিট গাইডলাইন || Complete Guideline to be a web developer | (সার্চ ফলাফলে Jhankar Mahbub এর বলে উল্লেখ, চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=i4laq6e_B6U : পুরো যাত্রার গাইডলাইন বাংলায়।
-3. Web Design And Development Full Course Tutorial In Bangla | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=CFyK4PLUdrU : রোডম্যাপ বোঝার পর হাতে-কলমে শেখার জন্য বাংলা কোর্স।
-4. Web Development Roadmap for Beginners (all FREE resources!) | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=lQrcQ3e4mkA : ফ্রি রিসোর্স সহ রোডম্যাপ (ইংরেজি)।
-5. The Complete Web Development Roadmap | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=GxmfcnU3feo : পুরো পথের একটা ওভারভিউ (ইংরেজি)।
-
-Non-video source:
-- Webcoachbd (বাংলা ওয়েব ডিজাইন ও ডেভেলপমেন্ট টিউটোরিয়াল চ্যানেল): https://www.youtube.com/@Webcoachbd
-
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] ওয়েব ডেভেলপমেন্ট শিখতে চান, কিন্তু ১০টা টুলের নাম শুনে মাথা ঘুরছে? আগে এই ৫টা ভিডিও দেখুন।
-[মূল অংশ] সমস্যাটা হলো, কী কী শিখবেন আর কোন ক্রমে, সেটাই অনেকে জানেন না। ঝঙ্কার মাহবুবের "ওয়েব ডেভেলপার হওয়ার রোডম্যাপ" আর "ওয়েব ডেভেলপার হওয়ার কমপ্লিট গাইডলাইন" দুটো বাংলায় আছে, তবে একটা ২০২২ সালের, তাই টুলগুলো আজকের সঙ্গে মিলিয়ে নেবেন। তারপর "Web Design And Development Full Course Tutorial In Bangla", হাতে-কলমে শেখার জন্য। ইংরেজিতে দুটো: "Web Development Roadmap for Beginners, all FREE resources", আর "The Complete Web Development Roadmap"। আমি যতদূর জানি, সাধারণত HTML, CSS, JavaScript দিয়ে শুরু করার পরামর্শই দেওয়া হয়, কিন্তু আপনি ভিডিওগুলো দেখে নিজের মতো ঠিক করুন। আর হ্যাঁ, রোডম্যাপ দেখেই থেমে যাবেন না, একটা ছোট প্রজেক্ট বানিয়ে ফেলুন।
-[CTA] আপনি এখন কোন ধাপে আছেন, কমেন্টে বলুন। সেভ করুন, শেয়ার করুন।
-**Visual note:** স্ক্রিনে একটা সহজ সিঁড়ির গ্রাফিক দেখান: HTML, CSS, JavaScript, প্রজেক্ট। প্রতিটা ভিডিওর টাইটেল পপ-আপ করুন।
+## 15. AI যে ভুল তথ্য দেয় (hallucination) তা চিনতে ৫টা রিসোর্স দেখুন (no verified video)
 
----
+**যাচাই করা লিংক: 5টা**
 
-## 44. ফ্রিতে নিজের ওয়েবসাইট বানানোর ৫টা ভিডিও (only 5 verified, 0 Bangla; Cloudflare Pages has no video found, only written guides)
-**Resources (verified via search):**
-1. GitHub Pages দিয়ে ফ্রি সাইট সেটআপ (QuanticDev এর তৈরি ভিডিও, DEV Community পোস্টে উল্লেখ, চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=jPhmR3TiGq8 : GitHub Pages ও markdown দিয়ে সাইট, লাইভ সেটআপসহ (ইংরেজি)।
-2. GitHub Pages ভিডিও (DEV Community পোস্টে লিংকড, চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=OUTbNaQyjjM : ইউজারনেম নামে রিপোজিটরি খুলে index.html আপলোড করার ধাপ (ইংরেজি, পোস্টের বিবরণ অনুযায়ী)।
-3. Deploy your Vibe Coding Projects for Free | Using Vercel & Netlify | Codecademy | https://www.codecademy.com/resources/videos/artificial-intelligence/deploy-your-vibe-coding-projects-for-free-using-vercel-and-netlify : Vercel ও Netlify দিয়ে ফ্রিতে লাইভ করা (ইংরেজি)।
-4. GitHub for Beginners: Getting started with GitHub Pages | GitHub | https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/ : পেজে এমবেড করা ভিডিওসহ GitHub এর নিজস্ব গাইড (ইংরেজি)।
-5. Google Sites Tutorial for Beginners: Build a Website (No Coding) | Kevin Stratvert | https://kevinstratvert.com/2026/02/19/google-sites-tutorial-for-beginners-build-a-website-no-coding/ : কোড ছাড়া ফ্রি ওয়েবসাইট বিল্ডার (ইংরেজি, পেজটি ভিডিও টিউটোরিয়ালের ব্লগ পোস্ট, ভিডিও লিংক যাচাই বাকি)।
-
-Non-video, Cloudflare Pages (written guide): https://www.hongkiat.com/blog/how-to-host-free-static-website-in-cloudflare-pages/
-Extra video page: https://www.theserverside.com/video/Free-website-hosting-with-GitHub-Pages-tutorial
-
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] নিজের একটা ওয়েবসাইট চান, কিন্তু হোস্টিংয়ের টাকা নিয়ে চিন্তা? শুরুর জন্য এই ৫টা ভিডিও দেখে নিন।
-[মূল অংশ] সব ভিডিও ইংরেজিতে, বাংলা কিছু পাইনি, সেটা আগেই বলে রাখি। প্রথম দুটো ভিডিওতে দেখানো হয়েছে GitHub Pages দিয়ে কীভাবে সাইট চালু করতে হয়। একটাতে লাইভ সেটআপ আছে, আরেকটাতে ইউজারনেম নামে রিপোজিটরি খুলে index.html আপলোড করার ধাপ। তিন নম্বরে Codecademy র ভিডিও, Vercel আর Netlify দিয়ে প্রজেক্ট লাইভ করার জন্য। চার নম্বরে GitHub এর নিজেদের বিগিনার গাইড। আর কোড না জানলে পাঁচ নম্বর, Kevin Stratvert এর Google Sites টিউটোরিয়াল। Cloudflare Pages নিয়ে ভিডিও পাইনি, তবে লেখা গাইড আছে, লিংক রাখলাম। মনে রাখবেন, এগুলো সাধারণত স্ট্যাটিক সাইটের জন্য। ফ্রি প্ল্যানের সীমা সময়ের সঙ্গে বদলায়, তাই ব্যবহারের আগে তাদের অফিসিয়াল পেজ একবার দেখে নিন। সব ক্রিয়েটরকে ধন্যবাদ।
-[CTA] আপনি কী ধরনের সাইট বানাতে চান, কমেন্টে লিখুন। ভিডিওটা সেভ করুন, আর বন্ধুকে শেয়ার করুন।
-**Visual note:** স্ক্রিনে প্রতিটা ভিডিওর টাইটেল ও প্ল্যাটফর্মের নাম (GitHub Pages, Vercel, Netlify, Google Sites) পপ-আপ করুন, শেষে CTA টেক্সট।
+Resources:
+1. [Docs] Spotting AI hallucinations: A guide for students and researchers | Deakin University | https://blogs.deakin.edu.au/article/spotting-ai-hallucinations-a-guide-for-students-and-researchers/ : এটা পড়লে আপনি ভুয়া তথ্য ও ভুয়া রেফারেন্সের লক্ষণ চিনবেন।
+2. [Docs] An introduction to AI hallucinations | University of Iowa | https://teach.its.uiowa.edu/node/2581 : এটা পড়লে আপনি কোন ধরনের তথ্য বেশি যাচাই করবেন বুঝবেন।
+3. [Docs] How to detect and reduce hallucinations | University of the Basque Country | https://www.ehu.eus/en/web/adimen-artifiziala/c%C3%B3mo-detectar-y-reducir-alucinaciones : এটা পড়লে আপনি হ্যালুসিনেশন কমানোর কৌশল শিখবেন।
+4. [Website] How to tell if an AI is hallucinating: 4 red flags | PCWorld | https://www.pcworld.com/article/2961048/how-to-tell-if-an-ai-is-hallucinating-in-its-answers-4-red-flags-to-watch-out-for.html : এটা পড়লে আপনি দ্রুত চেনার ৪টা সতর্ক সংকেত জানবেন।
+5. [Docs] Prompt engineering for business performance | Anthropic | https://www.anthropic.com/news/prompt-engineering-for-business-performance : এটা পড়লে আপনি ভালো প্রম্পট কীভাবে ভুলের ঝুঁকি কমায় তা বুঝবেন।
 
----
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Reduce hallucinations (Anthropic docs)
+- Docs: Prompt engineering guide (OpenAI)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] AI আত্মবিশ্বাসের সঙ্গে ভুল তথ্য দিলে আপনি ধরতে পারবেন তো?
+[মূল অংশ] AI অনেক সময় এমন তথ্য বা রেফারেন্স বানিয়ে ফেলে যা শুনতে ঠিক মনে হয়, কিন্তু আসলে ভুল। একে বলে hallucination। এক: Deakin University-র গাইড, ভুয়া সাইটেশন চেনার উপায়। দুই: University of Iowa-র "An introduction to AI hallucinations", নাম, তারিখ ও জায়গা বিশেষভাবে যাচাই করার পরামর্শ। তিন: University of the Basque Country-র গাইড, কীভাবে হ্যালুসিনেশন কমানো যায়। চার: PCWorld-এর "4 red flags"। পাঁচ: Anthropic-এর প্রম্পট ইঞ্জিনিয়ারিং লেখা। সবগুলো ইংরেজি, তাই ক্যাপশন বা অটো-ট্রান্সলেট চালু রাখুন। মূল নিয়ম: AI-র দেওয়া তথ্য সবসময় আসল সোর্সে গিয়ে মিলিয়ে নিন।
+[CTA] AI-র কাছ থেকে ভুল তথ্য পেয়েছেন? কমেন্টে বলুন। সেভ ও শেয়ার করুন।
 
-## 45. GitHub শুরু করার আগে ৫টা ভিডিও (Git and GitHub basics)
-**Resources (verified via search):**
-1. Git and Github bangla tutorial 1 : welcome to git and GitHub series | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=cPgIpUraWQo : বাংলা সিরিজের শুরু, ধাপে ধাপে শেখার জন্য।
-2. Learn Git in 20 mins Bangla tutorial | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=GxjIBgvbsXU : মাত্র ২০ মিনিটে বেসিক কমান্ড, বাংলায়।
-3. গিট এবং গিটহাবঃ কি কেন কিভাবে - Git & Github Bangla Tutorial | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=9cE_HSU4u84 : Git আর GitHub এর পার্থক্য বোঝার জন্য।
-4. Git & GitHub Bangla (Beginner to Advanced) in 2024 (প্লেলিস্ট) | Anisul Islam Rubel (সার্চ ফলাফল অনুযায়ী) | https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL- : পুরো প্লেলিস্ট, শুরু থেকে এডভান্স।
-5. Git & GitHub Crash Course for Beginners [2026] | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=mAFoROnOfHs : দ্রুত ইংরেজি ক্র্যাশ কোর্স।
-
-Non-video source:
-- freeCodeCamp: Git and GitHub crash course for beginners: https://www.freecodecamp.org/news/git-and-github-crash-course-for-beginners/
-
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] GitHub না জেনে কোডিং চাকরির দিকে এগোতে গেলে আটকে যেতে পারেন, তাই শুরুর আগে এই ৫টা দেখুন।
-[মূল অংশ] Git আর GitHub কি একই জিনিস, এই প্রশ্ন দিয়েই অনেকের শুরু। সেটা বুঝতে দেখুন "গিট এবং গিটহাবঃ কি কেন কিভাবে"। এরপর "Git and Github bangla tutorial 1: welcome to git and GitHub series" দিয়ে সিরিজ শুরু করতে পারেন। হাতে সময় কম হলে "Learn Git in 20 mins Bangla tutorial"। আনিসুল ইসলাম রুবেলের "Git & GitHub Bangla, Beginner to Advanced" প্লেলিস্টটা পুরো যাত্রার জন্য। আর ইংরেজিতে "Git & GitHub Crash Course for Beginners 2026" দ্রুত ঝালিয়ে নিতে। সবচেয়ে বড় কথা, নিজের একটা ছোট প্রজেক্ট GitHub-এ তুলে ফেলুন, তাহলেই আসল শেখা হবে। সব ক্রিয়েটরকে ধন্যবাদ।
-[CTA] আপনার GitHub অ্যাকাউন্ট আছে কি না, কমেন্টে জানান। সেভ করুন আর বন্ধুকে শেয়ার করুন।
-**Visual note:** GitHub এর লোগো ও একটা রিপোজিটরির স্ক্রিনশট দেখান, তারপর ভিডিওর টাইটেল।
+**স্ক্রিনে যা দেখাবেন:** AI-র দেওয়া একটা রেফারেন্স গুগলে খুঁজে "পাওয়া যায়নি" দেখান।
 
 ---
 
-## 46. AI কোডিং সহকারী (Copilot, Cursor, Claude Code ইত্যাদি) ব্যবহারের ৫টা ভিডিও
-(Bangla videos: none verified. The Bangla search returned only English results. All 5 below are English.)
-**Resources (verified via search):**
-1. Claude Code Tutorial : What is Claude Code & How to Use it | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=F0o6anNHh3E : Claude Code কী আর কীভাবে চালু করবেন।
-2. Master Cursor AI in 20 Minutes (Complete Beginner's Guide) | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=1xvVBcD815Q : Cursor এর বেসিক ২০ মিনিটে।
-3. Cursor 2.0 Tutorial for Beginners (Full Course) | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=2aldTxnbNt0 : বিস্তারিত ফুল কোর্স।
-4. GitHub Copilot vs Cursor: I Tested Both So You Don't Have To | (চ্যানেল যাচাই বাকি) | https://m.youtube.com/watch?pp=0gcJCaIKAYcqIYzv&v=YlRh8IwgLMM : দুটো টুলের তুলনা।
-5. 900+ hours of Learning Claude Code/Cursor in 10 minutes | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=iltdFNpl73I : অভিজ্ঞতার সারকথা দ্রুত শুনতে।
-
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] AI কোডিং টুল না জেনে কোডিং শিখলে পিছিয়ে পড়তে পারেন, কিন্তু অন্ধভাবে কপি-পেস্ট করলেও বিপদ।
-[মূল অংশ] Copilot, Cursor, Claude Code, এই টুলগুলো দ্রুত বদলায়, তাই কোন প্ল্যানে কী পাবেন সেটা অফিশিয়াল সাইটে চেক করে নেবেন। শেখার জন্য ৫টা ভিডিও, সবগুলো ইংরেজিতে। এক, "Claude Code Tutorial: What is Claude Code and How to Use it"। দুই, "Master Cursor AI in 20 Minutes, Complete Beginner's Guide"। তিন, "Cursor 2.0 Tutorial for Beginners, Full Course"। চার, "GitHub Copilot vs Cursor: I Tested Both So You Don't Have To", তুলনার জন্য। পাঁচ, "900+ hours of Learning Claude Code/Cursor in 10 minutes"। আমার পরামর্শ, AI যে কোড লিখে দেয় সেটা নিজে পড়ে বুঝে নিন, না বুঝে চালাবেন না।
-[CTA] আপনি কোন AI কোডিং টুল ব্যবহার করেন, কমেন্টে বলুন। সেভ করুন, শেয়ার করুন।
-**Visual note:** একটা কোড এডিটরে AI চ্যাট প্যানেলের স্ক্রিন রেকর্ডিং দেখান (নিজের), পাশে ভিডিও টাইটেল।
+## 16. AI দিয়ে Excel ও Google Sheets সহজ করার ৫টা রিসোর্স দেখুন
 
----
+**যাচাই করা লিংক: 3টা**
 
-## 47. অ্যাপ ডেভেলপমেন্ট শুরুর আগে ৫টা ভিডিও
-**Resources (verified via search):**
-1. Complete Flutter Mobile App Development Course in Bangla | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=wSU9uPhRgbk : বাংলায় Flutter দিয়ে অ্যাপ বানানোর কোর্স।
-2. Flutter Full Course for Beginners in Bengali | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=e0owsdB2oNk : সার্চ ফলাফল অনুযায়ী ১২ ঘণ্টার বিগিনার কোর্স, বাংলায়।
-3. App Development full Course Bangla | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=nosS3yhLmAk : ক্লাস ধরে ধরে শেখার সিরিজ।
-4. The Complete App Development Roadmap [2024] | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=yye7rSsiV6k : অ্যাপ ডেভেলপমেন্টের পথের ওভারভিউ (ইংরেজি, ২০২৪)।
-5. React Native Crash Course 2026 - Build a Complete Mobile App | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=XCifkDC0yXA : বিকল্প হিসেবে React Native (ইংরেজি)।
-
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] অ্যাপ বানানো শিখতে চান? ভুল পথে হাঁটার আগে এই ৫টা ভিডিও দেখে নিন।
-[মূল অংশ] শুরুতেই প্রশ্ন আসে, Flutter না React Native, নাকি অন্য কিছু। প্রথমে রোডম্যাপটা দেখুন: "The Complete App Development Roadmap 2024", ইংরেজিতে, আর পুরনো হতে পারে বলে তারিখটা মাথায় রাখবেন। এরপর বাংলায় তিনটা: "Complete Flutter Mobile App Development Course in Bangla", "Flutter Full Course for Beginners in Bengali", আর "App Development full Course Bangla"। শেষে বিকল্প হিসেবে "React Native Crash Course 2026"। একটা জিনিস মনে রাখবেন, কোর্স দেখে শেষ করার চেয়ে একটা ছোট অ্যাপ নিজে বানিয়ে ফেলা বেশি শেখায়। প্রতিটা কোর্স ফ্রি বলে দাবি করছি না, ভিডিও দেখেই বুঝে নিন।
-[CTA] আপনি কী ধরনের অ্যাপ বানাতে চান, কমেন্টে লিখুন। সেভ করুন, শেয়ার করুন।
-**Visual note:** একটা ফোনের মকআপে সিম্পল অ্যাপ স্ক্রিন দেখান, ভিডিও টাইটেল পাশে।
+Resources:
+1. [Course] Gemini in Google Sheets | Coursera | https://coursera.org/share/79f99c08440224380105e8681cc57643 : এটা করলে আপনি Sheets-এ Gemini দিয়ে প্রজেক্ট প্ল্যান ও ট্র্যাকার বানানো শিখবেন। (check pricing)
+2. [Website] A Beginner's Guide to Mastering Gemini + Google Sheets | KDnuggets | https://www.kdnuggets.com/a-beginners-guide-to-mastering-gemini-google-sheets : এটা পড়লে আপনি সেটআপ ও শুরুর ধাপ জানবেন; রেজাল্ট অনুযায়ী ফিচারটি Workspace সাবস্ক্রিপশনে পাওয়া যায়।
+3. [Website] How to use Gemini in Google Sheets | Bricks | https://thebricks.com/resources/how-to-use-gemini-in-google-sheets : এটা পড়লে আপনি ডেটা পরিষ্কার ও বিশ্লেষণের ধাপ বুঝবেন।
 
----
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Copilot in Excel support (Microsoft)
+- Docs: Gemini in Google Sheets (Google Docs Editors Help)
+- Channel: Leila Gharani (YouTube)
+- Channel: ExcelIsFun (YouTube)
 
-## 48. SQL ও ডেটাবেস শেখার ৫টা ভিডিও
-**Resources (verified via search):**
-1. SQL কি? সহজ ভাষায় নতুনদের জন্য! SQL Bangla Tutorial_Part 01 | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=qAApTBWWLBA : SQL কী, সেটা সহজ বাংলায়।
-2. SQL Basic Bangla PART 1 (SELECT & WHERE) | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=S1kFsPPY3Xs : প্রথম কোয়েরি লেখার জন্য।
-3. Bangla MySQL database & SQL tutorial for beginner to Intermediate 2023 | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=aZnwpMON0NA : MySQL দিয়ে বাংলায় বড় কোর্স।
-4. SQL Tutorial - Full Database Course for Beginners | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=HXV3zeQKqGY : ইংরেজিতে ডেটাবেসের পুরো ধারণা।
-5. SQL Course for Beginners [Full Course] | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=7S_tz1z_5bA : ইংরেজি ফুল কোর্স।
-
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] Excel এ ডেটা সামলাতে হিমশিম খান? SQL জানলে অনেক কাজ সহজ হতে পারে, শুরুটা এই ৫টা ভিডিও দিয়ে করুন।
-[মূল অংশ] বাংলায় তিনটা ভিডিও। এক, "SQL কি? সহজ ভাষায় নতুনদের জন্য, Part 01"। দুই, "SQL Basic Bangla Part 1, SELECT and WHERE", যেখানে প্রথম কোয়েরি লেখা শিখবেন। তিন, "Bangla MySQL database and SQL tutorial for beginner to Intermediate 2023", বড় কোর্স। ইংরেজিতে দুটো: "SQL Tutorial, Full Database Course for Beginners", আর "SQL Course for Beginners, Full Course"। টিপস হলো, ভিডিও দেখার সময় নিজের কম্পিউটারে একটা ডেটাবেস টুল চালিয়ে সঙ্গে সঙ্গে কোয়েরি লিখুন। কোন ডেটাবেস নেবেন, MySQL না অন্য কিছু, সেটা আপনার লক্ষ্যের ওপর নির্ভর করে।
-[CTA] আপনি ডেটা নিয়ে কী করতে চান, কমেন্টে জানান। সেভ করুন, শেয়ার করুন।
-**Visual note:** একটা টেবিলের ছবি আর একটা SELECT কোয়েরি স্ক্রিনে দেখান।
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ফর্মুলা মুখস্থ না করেই Sheets-এর কাজ সারতে চান?
+[মূল অংশ] AI দিয়ে স্প্রেডশিটের কাজ অনেক সহজ হতে পারে, তবে কিছু ফিচার পেইড প্ল্যানে সীমাবদ্ধ হতে পারে, তাই আগে দেখে নিন। এক: Coursera-র "Gemini in Google Sheets", দাম বা ফ্রি অডিট আছে কি না চেক করুন। দুই: KDnuggets-এর "Beginner's Guide to Mastering Gemini + Google Sheets"। তিন: Bricks-এর "How to use Gemini in Google Sheets", ডেটা পরিষ্কার ও বিশ্লেষণের ধাপ। Excel-এর Copilot নিয়ে আমি এখনো যাচাই করা অফিশিয়াল রিসোর্স পাইনি, তাই Microsoft-এর সাপোর্ট সাইটে নিজে দেখে নিন। সবগুলো ইংরেজিতে, ক্যাপশন বা অটো-ট্রান্সলেট চালু রাখুন।
+[CTA] আপনি Excel না Sheets ব্যবহার করেন? কমেন্টে বলুন। সেভ ও শেয়ার করুন।
 
+**স্ক্রিনে যা দেখাবেন:** একটা এলোমেলো টেবিল AI দিয়ে গুছিয়ে ফেলার স্ক্রিন রেকর্ডিং।
+
 ---
 
-## 49. Data Structures ও Algorithms শেখার ৫টা ভিডিও
-**Resources (verified via search):**
-1. 🔥 Data Structures & Algorithms Full Course in Bangla | School of CSE (সার্চ ফলাফল অনুযায়ী) | https://www.youtube.com/watch?v=Ka8NSyl7rzs : বাংলায় পুরো DSA কোর্স।
-2. Bangla Data Structures and Algorithms - 101 - What is Data Structure and Algorithm? | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=2lfMgCJWvK8 : DSA কী, সেটা দিয়ে শুরু করার জন্য।
-3. Learn from a Googler: 4 Data Structure & Algorithm - 1 (in Bengali (বাংলা)) | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=GrueBnqMIsU : বাংলায় প্রাথমিক ধারণা।
-4. Algorithms and Data Structures Tutorial - Full Course for Beginners | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=8hly31xKli0 : ইংরেজিতে বিগিনার কোর্স।
-5. Data Structures and Algorithms in Python - Full Course for Beginners | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=pkYVOmU3MgA : Python এ DSA (ইংরেজি)।
-
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] DSA শুনলেই ভয় লাগে? ভয়টা কমাতে এই ৫টা ভিডিও দিয়ে শুরু করুন।
-[মূল অংশ] প্রথমে বুঝে নিন DSA আসলে কী: "Bangla Data Structures and Algorithms 101, What is Data Structure and Algorithm?"। এরপর School of CSE এর "Data Structures and Algorithms Full Course in Bangla", পুরো কোর্স বাংলায়। সঙ্গে "Learn from a Googler: Data Structure and Algorithm 1" বাংলায়। ইংরেজিতে চাইলে "Algorithms and Data Structures Tutorial, Full Course for Beginners", আর Python জানলে "Data Structures and Algorithms in Python, Full Course for Beginners"। মনে রাখবেন, DSA শুধু দেখে শেখা যায় না, নিজে সমস্যা সমাধান করতে হয়। প্রতিদিন অল্প অল্প করে প্র্যাকটিস করুন।
-[CTA] কোন টপিক আপনার কাছে সবচেয়ে কঠিন লাগে, কমেন্টে লিখুন। সেভ করুন, শেয়ার করুন।
-**Visual note:** একটা লিংকড লিস্ট বা ট্রি-র সহজ ডায়াগ্রাম দেখান।
+## 17. AI দিয়ে পেশাদার ইমেইল লেখার ৫টা রিসোর্স দেখুন
 
----
+**যাচাই করা লিংক: 5টা**
 
-## 50. ক্লাউড (AWS, Google Cloud, Azure) শুরুর ৫টা ভিডিও
-**Resources (verified via search):**
-1. Cloud Computing Explained in Bangla (ক্লাউড কম্পিউটিং কি ?) | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=dEsnMPW2WS4 : ক্লাউডের মূল ধারণা বাংলায়।
-2. What is Cloud Computing? Explained in details. Cloud Storage? Bangla Tutorial | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=ocTk2a9mZyU : ক্লাউড স্টোরেজসহ বিস্তারিত বাংলায়।
-3. Microsoft Azure Tutorial in Bengali (প্লেলিস্ট) | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/playlist?list=PLo1fN4WDLQ_YODlLVBvSQtckDnIhi8kHB : Azure শেখার বাংলা প্লেলিস্ট।
-4. Introduction to Cloud Computing: AWS, Azure & GCP Explained for Beginners | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=fsmzN55JMtI : তিন ক্লাউডের পরিচয় (ইংরেজি)।
-5. AWS vs Azure vs Google Cloud: The Ultimate Comparison 2026 | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=hI8PVJBpHTY : তুলনা (ইংরেজি)।
-
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] AWS, Azure, Google Cloud, তিনটার নাম শুনেছেন কিন্তু কোনটা দিয়ে শুরু করবেন বুঝছেন না? আগে এই ৫টা দেখুন।
-[মূল অংশ] আগে মূল ধারণা: "Cloud Computing Explained in Bangla, ক্লাউড কম্পিউটিং কি" আর "What is Cloud Computing? Explained in details, Cloud Storage" দুটোই বাংলায়। Azure নিয়ে বাংলায় আছে "Microsoft Azure Tutorial in Bengali" প্লেলিস্ট। ইংরেজিতে "Introduction to Cloud Computing: AWS, Azure and GCP Explained for Beginners", আর তুলনার জন্য "AWS vs Azure vs Google Cloud: The Ultimate Comparison 2026"। প্রতিটা ক্লাউডের ফ্রি টিয়ার বা দাম বদলায়, তাই অ্যাকাউন্ট খোলার আগে অফিশিয়াল সাইটে শর্ত দেখে নিন, নইলে অপ্রত্যাশিত বিল আসতে পারে।
-[CTA] কোন ক্লাউড দিয়ে শুরু করবেন, কমেন্টে জানান। সেভ করুন, শেয়ার করুন।
-**Visual note:** তিন কোম্পানির নাম লেখা তিনটা বক্স, মাঝখানে "Cloud" লেখা।
+Resources:
+1. [Docs] Prompt engineering best practices for ChatGPT | OpenAI Help Center | https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt : এটা পড়লে আপনি প্রাপক, বিষয় ও টোন দিয়ে ইমেইল প্রম্পট লেখা শিখবেন।
+2. [Docs] ChatGPT Foundations Webinar: Resource Guide | OpenAI Academy | https://academy.openai.com/public/resources/chatgpt-foundations-webinar-resource-guide : এটা দেখলে আপনি উদাহরণসহ ইমেইল প্রম্পট পাবেন।
+3. [Video] Introduction to Prompt Engineering | OpenAI Academy | https://academy.openai.com/public/videos/introduction-to-prompt-engineering-2025-02-13 : এটা দেখলে আপনি প্রম্পটের মূল ভিত্তি বুঝবেন।
+4. [Website] How to use ChatGPT to write an email | Supademo | https://supademo.com/tutorials/chatgpt/how-to-use-chatgpt-to-write-an-email : এটা দেখলে আপনি ধাপে ধাপে ইমেইল ড্রাফট করা শিখবেন।
+5. [Docs] Prompt engineering for business performance | Anthropic | https://www.anthropic.com/news/prompt-engineering-for-business-performance : এটা পড়লে আপনি প্রম্পট ভালো করার ব্যবসায়িক কৌশল জানবেন।
 
----
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Business writing guides (Purdue OWL)
+- Docs: Help me write in Gmail (Google Workspace Help)
+- Docs: OpenAI Academy (OpenAI)
 
-## 51. সাইবার সিকিউরিটি ক্যারিয়ার শুরুর ৫টা ভিডিও
-**Resources (verified via search):**
-1. ঘরে বসে Cybersecurity শেখা শুরু করবেন কীভাবে? | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=icvPLXwbWjM : শুরুর ধাপ নিয়ে বাংলা আলোচনা।
-2. সাইবার সিকিউরিটি প্রফেশনাল হওয়ার আগে যা জানা উচিৎ । Cyber Security Specialist (Bangla) | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=AyQKI9YH9Qc : প্রস্তুতি নিয়ে বাংলা ভিডিও।
-3. ২ l এই কোর্সে কী আছে, কীভাবে শিখবেন, আর কেন এটি আপনার জন্য গুরুত্বপূর্ণ l সাইবার সিকিউরিটি ১০১ | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=11iAZ0KYuvo : "সাইবার সিকিউরিটি ১০১" কোর্সের পরিচিতি, বাংলায়।
-4. Complete Roadmap to Career in Cyber Security 2026 | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=-6AotTwydu0 : ক্যারিয়ার রোডম্যাপ (ইংরেজি)।
-5. Cybersecurity Roadmap 2026: How to Break In as a Beginner | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=V9avK4Iil2M : শুরুর ধাপ (ইংরেজি)।
-
-Non-video source:
-- Cyber Cracker Academy (বাংলা সাইবার সিকিউরিটি চ্যানেল): https://www.youtube.com/@CyberCrackerAcademy
-
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] সাইবার সিকিউরিটি নিয়ে ক্যারিয়ার ভাবছেন? "দ্রুত বড় বেতন" টাইপ ভিডিওর ফাঁদে পড়ার আগে এই ৫টা দেখুন।
-[মূল অংশ] এই ক্ষেত্রে অনেকে বিজ্ঞাপনে ভুলে যান, তাই বাস্তব ধারণা নিন। বাংলায় তিনটা: "ঘরে বসে Cybersecurity শেখা শুরু করবেন কীভাবে", "সাইবার সিকিউরিটি প্রফেশনাল হওয়ার আগে যা জানা উচিৎ", আর "সাইবার সিকিউরিটি ১০১" কোর্সের পরিচিতি। ইংরেজিতে "Complete Roadmap to Career in Cyber Security 2026" আর "Cybersecurity Roadmap 2026: How to Break In as a Beginner"। বাংলায় চর্চার জন্য Cyber Cracker Academy চ্যানেলও দেখতে পারেন। মনে রাখবেন, কোনো ভিডিও চাকরির নিশ্চয়তা দেয় না। আর শেখার সময় শুধু নিজের বা অনুমতি পাওয়া সিস্টেমে প্র্যাকটিস করবেন, অন্যের সিস্টেমে নয়।
-[CTA] সাইবার সিকিউরিটির কোন দিকটা টানে, কমেন্টে বলুন। সেভ করুন, শেয়ার করুন।
-**Visual note:** একটা তালা আইকন ও ভিডিও টাইটেল পরপর দেখান।
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] "Dear Sir" লিখতেই ২০ মিনিট? AI দিয়ে ইমেইল লেখার আগে এই ৫টা দেখুন।
+[মূল অংশ] ইংরেজিতে প্রফেশনাল ইমেইল লেখা অনেকের জন্য কঠিন। AI ভালো খসড়া দিতে পারে, তবে পাঠানোর আগে আপনাকেই পড়ে ঠিক করতে হবে। এক: OpenAI Help Center-এর "Prompt engineering best practices for ChatGPT"। দুই: OpenAI Academy-র "ChatGPT Foundations" রিসোর্স গাইড। তিন: OpenAI Academy-র ভিডিও "Introduction to Prompt Engineering"। চার: Supademo-র "How to use ChatGPT to write an email"। পাঁচ: Anthropic-এর "Prompt engineering for business performance"। সবগুলো ইংরেজিতে, তাই ক্যাপশন বা অটো-ট্রান্সলেট চালু রাখুন। টিপ: প্রাপক, উদ্দেশ্য আর টোন বলে দিলে উত্তর ভালো হয়। আর পাঠানোর আগে নাম ও তথ্য মিলিয়ে নিন।
+[CTA] কোন ধরনের ইমেইল লিখতে সবচেয়ে কষ্ট হয়? কমেন্টে জানান। সেভ ও শেয়ার করুন।
 
+**স্ক্রিনে যা দেখাবেন:** একটা এলোমেলো খসড়া থেকে পরিচ্ছন্ন ইমেইলে বদলানোর আগে-পরে দেখান।
+
 ---
 
-## 52. Linux শেখার ৫টা ভিডিও
-**Resources (verified via search):**
-1. Linux(Ubuntu) Bangla Tutorial for Beginners | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=Bm6l83y7A6A : উবুন্টু দিয়ে বাংলায় শুরু।
-2. Essential Linux Commands for Beginners (2025) in bangla | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=Z0sy8Iy0b6U : জরুরি কমান্ড বাংলায়।
-3. Linux Bangla Tutorial for Beginners - Episode 01 | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=MY2V32kz8t4 : সিরিজের প্রথম পর্ব।
-4. Linux Full Course for Beginners (5+ Hours, 14 Chapters) | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=RY5JxooCMs0 : অধ্যায় ধরে ইংরেজি ফুল কোর্স।
-5. Linux For Beginners - Full Course [NEW] | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=pkZEKIXe3u4 : আরেকটা ইংরেজি ফুল কোর্স।
-
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] Linux এর কালো স্ক্রিন দেখে ভয় পান? এই ৫টা ভিডিও সেই ভয় কমাতে পারে।
-[মূল অংশ] বাংলায় তিনটা: "Linux Ubuntu Bangla Tutorial for Beginners", "Essential Linux Commands for Beginners 2025 in bangla", আর "Linux Bangla Tutorial for Beginners, Episode 01"। ইংরেজিতে দুটো: "Linux Full Course for Beginners, 5+ Hours, 14 Chapters" আর "Linux For Beginners, Full Course"। শেখার সময় নিজের কম্পিউটার নষ্ট হওয়ার ভয় থাকলে ভার্চুয়াল মেশিনে চেষ্টা করতে পারেন। আর কমান্ড চালানোর আগে বুঝে নিন সেটা কী করে, বিশেষ করে মুছে ফেলার কমান্ড।
-[CTA] কোন Linux ডিস্ট্রো ব্যবহার করেন, কমেন্টে লিখুন। সেভ করুন, শেয়ার করুন।
-**Visual note:** একটা টার্মিনাল স্ক্রিনে ls আর cd কমান্ড চালিয়ে দেখান।
+## 18. থিসিস ও গবেষণায় AI ব্যবহারের আগে ৫টা রিসোর্স দেখুন
 
----
+**যাচাই করা লিংক: 5টা**
 
-## 53. UI/UX ডিজাইন শেখার ৫টা ভিডিও
-**Resources (verified via search):**
-1. আমি যেভাবে UI/UX ডিজাইন শুরু করি । UI/UX Design for Beginners Bangla Tutorial | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=RWJ25lF41XE : বাংলায় শুরুর অভিজ্ঞতা ও গাইড।
-2. 01) UX Ui Design Bangla Course (Beginner To Advanced) by Figma - Arman Tutor | Arman Tutor | https://www.youtube.com/watch?v=OaxXG-Vxtcs : Figma দিয়ে বাংলা কোর্স।
-3. Complete UI & UX Design Course (প্লেলিস্ট, সার্চ ফলাফলে বাংলা কোর্স বলে উল্লেখ) | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/playlist?list=PLUpMRRte-hBKsrmHNw-agPDrnp4QvpOgm : বিগিনার থেকে প্রো পর্যন্ত।
-4. UI UX Design Full Course (2026) | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=NeUEctMZ6_g : ইংরেজি ফুল কোর্স।
-5. 🔥Complete 11 Hour Free UI/UX Design Course for Beginners | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=WylVZzSsavg : ইংরেজি, দীর্ঘ কোর্স।
-
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] ডিজাইন ভালো লাগে? তাহলে UI/UX শেখার আগে এই ৫টা ভিডিও দেখে নিন।
-[মূল অংশ] বাংলায় তিনটা। এক, "আমি যেভাবে UI/UX ডিজাইন শুরু করি", শুরুর গাইড। দুই, আরমান টিউটরের "UX UI Design Bangla Course, Beginner to Advanced by Figma"। তিন, "Complete UI and UX Design Course" প্লেলিস্ট। ইংরেজিতে "UI UX Design Full Course 2026" আর "Complete 11 Hour Free UI/UX Design Course for Beginners"। কোর্স দেখার পাশাপাশি একটা অ্যাপের স্ক্রিন নিজে ডিজাইন করে দেখুন। কিছু কোর্স পেইড বিজ্ঞাপনও হতে পারে, তাই কিছু কেনার আগে ভালো করে যাচাই করুন।
-[CTA] আপনি কী ডিজাইন করতে চান, কমেন্টে বলুন। সেভ করুন, শেয়ার করুন।
-**Visual note:** একটা অ্যাপ স্ক্রিনের ওয়্যারফ্রেম দেখান।
+Resources:
+1. [Docs] Citing AI | Brandeis University Library | https://guides.library.brandeis.edu/citeai : এটা পড়লে আপনি AI-র কনটেন্ট কীভাবে সাইট করবেন জানবেন।
+2. [Docs] AI tools in research: academic integrity | Northwestern University Libraries | https://libguides.northwestern.edu/ai-tools-research/acad-integ : এটা পড়লে আপনি একাডেমিক সততার সীমা বুঝবেন।
+3. [Docs] Generative AI: citing | University of Ottawa Library | https://uottawa.libguides.com/generative_ai/citing : এটা পড়লে আপনি ব্যবহার প্রকাশ করার নিয়ম জানবেন।
+4. [Docs] Ethical research | UNT Libraries | https://guides.library.unt.edu/english/ethical-research : এটা পড়লে আপনি নৈতিক গবেষণার মূলনীতি জানবেন।
+5. [Docs] AI and plagiarism | University of Central Oklahoma Library | https://library.uco.edu/plagiarism/ai : এটা পড়লে আপনি ভুয়া সাইটেশনের ঝুঁকি বুঝবেন।
 
----
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: Committee on Publication Ethics, COPE
+- Docs: Research and citation guides (Purdue OWL)
+- Tool: Semantic Scholar (Allen Institute for AI)
+- Tool: Google Scholar
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] থিসিসে AI ব্যবহার করে ধরা পড়লে? আগে নিয়মগুলো জেনে নিন।
+[মূল অংশ] AI গবেষণায় সাহায্য করতে পারে, কিন্তু ভুলভাবে ব্যবহার করলে প্লেজিয়ারিজম বা একাডেমিক সততার সমস্যা হতে পারে। নিয়ম প্রতিষ্ঠান ও শিক্ষকভেদে আলাদা, তাই আপনার বিশ্ববিদ্যালয়ের নীতি আগে দেখুন। এক: Brandeis Library-র "Citing AI"। দুই: Northwestern Libraries-র একাডেমিক ইন্টেগ্রিটি গাইড। তিন: University of Ottawa-র "Generative AI: citing"। চার: UNT Libraries-র "Ethical research"। পাঁচ: UCO Library-র পেজ, যেখানে সতর্ক করা আছে AI ভুয়া সাইটেশন বানিয়ে ফেলতে পারে। সবগুলো ইংরেজিতে, ক্যাপশন বা অটো-ট্রান্সলেট চালু রাখুন। মূল কথা: AI-কে সাহায্যকারী হিসেবে নিন, উৎস হিসেবে নয়, আর ব্যবহার প্রকাশ করুন।
+[CTA] আপনার বিশ্ববিদ্যালয়ে AI নিয়ে নিয়ম কী, কমেন্টে জানান। সেভ ও শেয়ার করুন।
 
-## 54. Figma ও Canva শেখার ৫টা ভিডিও
-**Resources (verified via search):**
-1. Full FIGMA Tutorial in Bangla - From UI/UX Designer at Robi 10 Minute School | 10 Minute School (শিরোনামে উল্লেখ) | https://www.youtube.com/watch?v=X0tTPfruEQM : বাংলায় ফুল Figma টিউটোরিয়াল।
-2. Figma Tutorial Bangla | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=7mMN9oKfFAs : এক ভিডিওতে Figma-র পরিচিতি।
-3. Canva Design Full Bangla Tutorial || ক্যানভা ডিজাইন || গ্রাফিক ডিজাইন || DMLC | DMLC (শিরোনামে উল্লেখ) | https://www.youtube.com/watch?v=3d8SmvAeIns : Canva বাংলা ফুল টিউটোরিয়াল।
-4. Graphic Design Canva Full Course A to Z Bangla Tutorial 2024 (প্লেলিস্ট) | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/playlist?list=PLK9LS2FDrTzIQTtMjffsIEwy-DuJKkRPT : Canva এর A to Z প্লেলিস্ট।
-5. Figma Tutorial for Beginners | Kevin Stratvert (সার্চ ফলাফলে উল্লেখ) | https://www.youtube.com/watch?v=ezldKx-jPag : স্টেপ বাই স্টেপ ইংরেজি টিউটোরিয়াল।
-
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] ডিজাইন শেখার জন্য দামি সফটওয়্যার লাগে না, শুরু করুন এই ৫টা ভিডিও দিয়ে।
-[মূল অংশ] Figma দিয়ে শুরু: ১০ মিনিট স্কুলের "Full FIGMA Tutorial in Bangla", আর "Figma Tutorial Bangla"। Canva শেখার জন্য: "Canva Design Full Bangla Tutorial" DMLC এর, আর "Graphic Design Canva Full Course A to Z Bangla Tutorial 2024" প্লেলিস্ট। ইংরেজিতে কেভিন স্ট্র্যাটভার্টের "Figma Tutorial for Beginners"। আমি যতদূর জানি, Figma আর Canva দুটোরই ফ্রি প্ল্যান আছে, তবে কী কী ফিচার ফ্রিতে পাবেন সেটা বদলাতে পারে, তাই তাদের অফিশিয়াল পেজে দেখে নিন। ইন্টারফেস বদলে যায়, তাই পুরনো ভিডিওতে বোতাম অন্য জায়গায় থাকতে পারে।
-[CTA] আপনি Figma না Canva, কোনটা বেশি ব্যবহার করেন, কমেন্টে বলুন। সেভ করুন, শেয়ার করুন।
-**Visual note:** Figma ও Canva এর লোগো পাশাপাশি, নিচে ভিডিও টাইটেল।
+**স্ক্রিনে যা দেখাবেন:** একটা ভুয়া সাইটেশন গুগল স্কলারে খুঁজে না পাওয়ার স্ক্রিন।
 
 ---
 
-## 55. সফটওয়্যার টেস্টিং (QA) ক্যারিয়ারের ৫টা ভিডিও
-(Bangla: only 2 verified. 5 videos listed, 2 in Bangla, 3 in English.)
-**Resources (verified via search):**
-1. সফটওয়্যার কোয়ালিটি অ্যাসুরেন্স এবং টেস্টিং-এর উপর বিনামূল্যে ট্রেনিং কোর্স (Free Training Course on Software Quality Assurance and Testing) (প্লেলিস্ট) | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/playlist?list=PLJ-3-UkU_it_x51xahQLE3lssV39VaTta : সার্চ ফলাফল অনুযায়ী বাংলাদেশের জন্য বাংলা ফ্রি কোর্স প্লেলিস্ট।
-2. সফটওয়্ার কোয়ালিটি এস্যুরেন্স -দ্বিতীয় পর্ব Software Quality Assurance in Bangla - Second Episode | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=YlU-y9gyPnE : বাংলায় SQA এর ধারণা।
-3. What is Software Testing? Complete QA Career Roadmap for beginners | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=cizrU4Z5Ksc : QA ক্যারিয়ার রোডম্যাপ (ইংরেজি)।
-4. Software Tester QA QE Engineer Role Explained (Manual Tester) | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=RtbIj46kJuM : টেস্টার, QA, QE এর ভূমিকা (ইংরেজি)।
-5. Software Testing Course for Beginners [Hands-on tutorial with FREE QA templates] | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=IPkjfT-mb1U : হাতে-কলমে বিগিনার কোর্স (ইংরেজি)।
-
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] কোডিং ভালো না লাগলেও টেক ইন্ডাস্ট্রিতে ঢোকার একটা পথ হতে পারে সফটওয়্যার টেস্টিং। আগে এই ৫টা দেখুন।
-[মূল অংশ] বাংলায় দুটো: "সফটওয়্যার কোয়ালিটি অ্যাসুরেন্স এবং টেস্টিং-এর উপর বিনামূল্যে ট্রেনিং কোর্স" প্লেলিস্ট, আর "Software Quality Assurance in Bangla, Second Episode"। ইংরেজিতে তিনটা: "What is Software Testing? Complete QA Career Roadmap for beginners", "Software Tester QA QE Engineer Role Explained", আর "Software Testing Course for Beginners, Hands-on tutorial with FREE QA templates"। এই ভিডিওগুলো দেখে বুঝে নিন কাজটা আসলে কী। কোনো ভিডিও চাকরির নিশ্চয়তা দেয় না, তাই দেশের চাকরির বিজ্ঞাপন দেখে চাহিদা নিজেই যাচাই করুন।
-[CTA] আপনি টেস্টিং নিয়ে কী জানতে চান, কমেন্টে লিখুন। সেভ করুন, শেয়ার করুন।
-**Visual note:** একটা বাগ রিপোর্টের সহজ টেমপ্লেট স্ক্রিনে দেখান।
+## 19. নিজের কম্পিউটারে ফ্রি AI মডেল চালানোর ৫টা রিসোর্স দেখুন
 
----
+**যাচাই করা লিংক: 5টা**
 
-## 56. DevOps রোডম্যাপের ৫টা ভিডিও
-(Bangla videos: none verified. All 5 below are English.)
-**Resources (verified via search):**
-1. The Complete DevOps Roadmap [2024] | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=6GQRb4fGvtk : পুরো রোডম্যাপ, তবে ২০২৪ এর, তাই তারিখ দেখুন।
-2. DevOps 2026 Roadmap by Abhishek Veeramalla | Abhishek Veeramalla | https://www.youtube.com/watch?v=MD68qernLS0 : ২০২৬ এর রোডম্যাপ।
-3. The Complete DevOps Roadmap for Beginners | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=2Juapfdi8sM : বিগিনারদের জন্য রোডম্যাপ।
-4. DevOps ROADMAP 2024: How to learn and Become DevOps Engineer (With Resources) | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=P77GhVfvuKQ : রিসোর্সসহ রোডম্যাপ।
-5. Master DevOps in 2025: The Complete Beginner's Roadmap! | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=5Z6Pqgpi_rE : ২০২৫ এর বিগিনার রোডম্যাপ।
-
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] DevOps এ ক্যারিয়ার করতে চান? ১০০টা টুলের তালিকা দেখে ঘাবড়ে যাওয়ার আগে এই ৫টা রোডম্যাপ দেখুন।
-[মূল অংশ] ভিডিওগুলো ইংরেজিতে, বাংলায় ভালো রোডম্যাপ আমি সার্চে যাচাই করতে পারিনি। এক, "The Complete DevOps Roadmap 2024"। দুই, অভিষেক বীরামাল্লার "DevOps 2026 Roadmap"। তিন, "The Complete DevOps Roadmap for Beginners"। চার, "DevOps ROADMAP 2024: How to learn and Become DevOps Engineer, With Resources"। পাঁচ, "Master DevOps in 2025: The Complete Beginner's Roadmap"। আমি যতদূর জানি, রোডম্যাপগুলোতে সাধারণত Linux, Git আর ক্লাউডের মতো বেসিক দিয়ে শুরুর কথা থাকে, কিন্তু ভিডিও দেখে নিজে মিলিয়ে নিন। মনে রাখবেন, তিন-চার মাসে সব শেষ, এমন দাবিতে ভরসা করবেন না।
-[CTA] আপনি এখন কোন ধাপে, কমেন্টে বলুন। সেভ করুন, শেয়ার করুন।
-**Visual note:** একটা সার্কুলার ফ্লো: Code, Build, Test, Deploy, Monitor।
+Resources:
+1. [Website] Run and Customize LLMs Locally with Ollama | freeCodeCamp | https://www.freecodecamp.org/news/run-and-customize-llms-locally-with-ollama/ : এটা পড়লে আপনি লোকাল LLM কী ও কীভাবে চালাবেন শিখবেন।
+2. [Docs] Ollama documentation (API introduction) | Ollama | https://docs.ollama.com/api/introduction : এটা পড়লে আপনি লোকাল সার্ভার ও API ব্যবহার বুঝবেন।
+3. [Tool] Download Ollama on Windows | Ollama | https://ollama.com/download/windows : এটা দিয়ে আপনি Windows-এ টুলটি নামিয়ে মডেল চালাতে পারবেন।
+4. [Docs] Use AI Models Locally | Hugging Face | https://huggingface.co/docs/hub/local-apps : এটা পড়লে আপনি কোন কোন লোকাল অ্যাপ আছে জানবেন।
+5. [Course] Local LLMs via Ollama and LM Studio: The Practical Guide | Academind | https://pro.academind.com/courses/local-llms-via-ollama-lm-studio-the-practical-guide/lectures/61192606 : এটা করলে আপনি LM Studio ও Ollama হাতে-কলমে শিখবেন। (check pricing)
 
----
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Tool: Ollama
+- Tool: LM Studio
+- Website: Hugging Face
+- Channel: Andrej Karpathy (YouTube), Intro to Large Language Models
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ইন্টারনেট ছাড়াই নিজের কম্পিউটারে AI চালাতে চান?
+[মূল অংশ] লোকাল মডেলে আপনার ডেটা নিজের কম্পিউটারেই থাকে। তবে মডেল চলবে কি না তা আপনার RAM ও স্টোরেজের ওপর নির্ভর করে, তাই ছোট মডেল দিয়ে শুরু করুন। এক: freeCodeCamp-এর "Run and Customize LLMs Locally with Ollama"। দুই: Ollama-র অফিশিয়াল ডকুমেন্টেশন। তিন: Ollama-র Windows ডাউনলোড পেজ, অফিশিয়াল সাইট থেকেই নামাবেন। চার: Hugging Face-এর "Use AI Models Locally" ডক। পাঁচ: Academind-এর LM Studio ও Ollama কোর্স, দাম চেক করে নেবেন। সবগুলো ইংরেজিতে, ক্যাপশন বা অটো-ট্রান্সলেট চালু রাখুন। সতর্কতা: শুধু অফিশিয়াল সাইট থেকে ডাউনলোড করুন, আর অজানা মডেল চালানোর আগে সোর্স দেখুন।
+[CTA] আপনার কম্পিউটারে কত RAM, কমেন্টে লিখুন। সেভ ও শেয়ার করুন।
 
-## 57. Machine Learning শেখার রোডম্যাপের ৫টা ভিডিও
-**Resources (verified via search):**
-1. AI Roadmap 2025: How to Learn AI from Scratch (Bangla) | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=lg4uP7QjIZk : বাংলায় ML থেকে জেনারেটিভ AI পর্যন্ত রোডম্যাপ।
-2. Machine Learning Bangla Tutorial - Introduction (মেশিন লার্নিং) | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=thZ1MSumZX0 : বাংলায় ML পরিচিতি।
-3. Machine Learning Full Course in Bangla | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=d_aVr-SBdOs : বাংলা ফুল কোর্স।
-4. 2026 Modern AI/ML Roadmap for Beginners | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=YL0xu8Z73v4 : ২০২৬ এর রোডম্যাপ (ইংরেজি)।
-5. AI & Machine Learning Roadmap for Beginners (Full Year Plan) | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=oSUeIGGrGW8 : এক বছরের পরিকল্পনা (ইংরেজি)।
-
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] Machine Learning শিখতে চান? গণিত আর Python এর ভয়ে শুরুই না করলে কিন্তু পিছিয়ে যাবেন, তাই আগে রোডম্যাপটা দেখুন।
-[মূল অংশ] বাংলায় তিনটা: "AI Roadmap 2025: How to Learn AI from Scratch, Bangla", "Machine Learning Bangla Tutorial, Introduction", আর "Machine Learning Full Course in Bangla"। ইংরেজিতে দুটো: "2026 Modern AI/ML Roadmap for Beginners" আর "AI and Machine Learning Roadmap for Beginners, Full Year Plan"। সার্চে দেখেছি, সাধারণত Python আর ডেটার বেসিক দিয়ে শুরুর কথা বলা হয়, কিন্তু ভিডিও দেখে নিজেই মিলিয়ে নিন। এই ক্ষেত্র দ্রুত বদলায়, তাই পুরনো রোডম্যাপের সঙ্গে নতুনটা তুলনা করুন।
-[CTA] আপনি ML দিয়ে কী করতে চান, কমেন্টে লিখুন। সেভ করুন, শেয়ার করুন।
-**Visual note:** স্ক্রিনে ধাপ দেখান: Python, ডেটা, ML বেসিক, প্রজেক্ট।
+**স্ক্রিনে যা দেখাবেন:** টার্মিনালে একটি মডেল চালিয়ে উত্তর পাওয়ার স্ক্রিন রেকর্ডিং।
 
 ---
+
+## 20. AI স্ক্যাম ও ডিপফেক চিনতে ৫টা রিসোর্স দেখুন (no verified video)
+
+**যাচাই করা লিংক: 5টা**
+
+Resources:
+1. [Docs] Fighting back against harmful voice cloning | FTC Consumer Advice | https://consumer.ftc.gov/consumer-alerts/2024/04/fighting-back-against-harmful-voice-cloning : এটা পড়লে আপনি ভয়েস ক্লোনিং স্ক্যামের ধরন বুঝবেন।
+2. [Docs] Scammers use AI to enhance their family emergency schemes | FTC | https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes : এটা পড়লে আপনি "পরিবারের জরুরি অবস্থা" স্ক্যাম চিনবেন।
+3. [Docs] Worried About AI Voice Clone Scams? Create a Family Password | EFF | https://www.eff.org/deeplinks/2024/01/worried-about-ai-voice-clone-scams-create-family-password : এটা পড়লে আপনি পরিবারের পাসওয়ার্ড পদ্ধতি শিখবেন।
+4. [Docs] Scammers Use Fake Emergencies To Steal Your Money | FTC | https://consumer.ftc.gov/articles/scammers-use-fake-emergencies-steal-your-money : এটা পড়লে আপনি ভুয়া জরুরি কলে করণীয় জানবেন।
+5. [Docs] Public service announcement on AI-enabled fraud | FBI IC3 | https://www.ic3.gov/PSA/2024/PSA241203 : এটা পড়লে আপনি FBI-র সতর্কবার্তা ও ঝুঁকি কমানোর পরামর্শ পাবেন।
 
-## 58. টেক ইন্টারভিউয়ের প্রস্তুতির ৫টা ভিডিও
-(Bangla: only 1 relevant, the Bangla DSA course. No Bangla interview-specific video was verified.)
-**Resources (verified via search):**
-1. 7 Steps to Pass Technical Interviews - What I Actually Did | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=BH3y1V7KUKg : ধাপে ধাপে প্রস্তুতি (ইংরেজি)।
-2. How to Prepare for Technical Interviews, Part 1 - Coding | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=7UlslIXHNsw : কোডিং ইন্টারভিউ (ইংরেজি)।
-3. technical interview prep tier list | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=dR6n0uLk1KQ : কোন রিসোর্স কেমন, র‍্যাঙ্কিং (ইংরেজি)।
-4. How to pass a coding interview | Interview tips for software developer | Cracking the coding interview | (চ্যানেল যাচাই বাকি) | https://www.youtube.com/watch?v=K_oJLQx2ySY : ইন্টারভিউ টিপস (ইংরেজি)।
-5. 🔥 Data Structures & Algorithms Full Course in Bangla | School of CSE (সার্চ ফলাফল অনুযায়ী) | https://www.youtube.com/watch?v=Ka8NSyl7rzs : বাংলায় DSA ভিত্তি।
-
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] টেক ইন্টারভিউয়ে ডাক পেয়েছেন, কিন্তু কীভাবে প্রস্তুতি নেবেন জানেন না? এই ৫টা ভিডিও দেখুন।
-[মূল অংশ] সত্যি বলতে, বাংলায় ইন্টারভিউ প্রস্তুতির ভালো ভিডিও আমি সার্চে যাচাই করতে পারিনি। ইংরেজিতে চারটা: "7 Steps to Pass Technical Interviews, What I Actually Did", "How to Prepare for Technical Interviews, Part 1, Coding", "technical interview prep tier list", আর "How to pass a coding interview, Interview tips for software developer"। আর ভিত্তির জন্য School of CSE এর "Data Structures and Algorithms Full Course in Bangla"। সার্চে দেখেছি, মক ইন্টারভিউ আর নিজের যুক্তি জোরে বলে অভ্যাস করার পরামর্শ বারবার এসেছে। ভিডিও দেখার পাশাপাশি নিজে সমস্যা সমাধান করুন।
-[CTA] আপনার পরের ইন্টারভিউ কবে, কমেন্টে জানান। সেভ করুন, শেয়ার করুন।
-**Visual note:** একটা হোয়াইটবোর্ডে কোডিং প্রশ্নের ছবি আর ভিডিও টাইটেল।
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: Consumer Advice scams (FTC)
+- Docs: Avoiding Social Engineering and Phishing Attacks (CISA)
+- Website: Detect Fakes (MIT Media Lab)
 
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] আপনার আপনজনের গলায় কেউ টাকা চাইলে, বিশ্বাস করার আগে এটা জানুন।
+[মূল অংশ] স্ক্যামাররা AI দিয়ে কারও কণ্ঠ নকল করে জরুরি টাকা চাইতে পারে। FTC-র পরামর্শ অনুযায়ী ভয়েস শুনে বিশ্বাস করবেন না। কেটে দিয়ে আপনার জানা নম্বরে কল ব্যাক করুন। এক: FTC-র "Fighting back against harmful voice cloning"। দুই: FTC-র "Scammers use AI to enhance their family emergency schemes"। তিন: EFF-এর লেখা, পরিবারে একটা গোপন পাসওয়ার্ড ঠিক করুন। চার: FTC-র "Scammers Use Fake Emergencies To Steal Your Money"। পাঁচ: FBI IC3-র সতর্কবার্তা। সবই ইংরেজিতে, ক্যাপশন বা অটো-ট্রান্সলেট চালু রাখুন। সতর্কতা: তাড়াহুড়া, গোপনীয়তা, আর গিফট কার্ড বা ক্রিপ্টো চাওয়া মানেই লাল সংকেত। ডিপফেক শুধু চোখে দেখে ধরা এখন নির্ভরযোগ্য নয়, তাই আগে যাচাই করুন।
+[CTA] আপনার পরিবারের পাসওয়ার্ড ঠিক করেছেন? কমেন্টে বলুন। সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** ফোন কলের স্ক্রিনে "জরুরি, টাকা পাঠাও" লেখা, তারপর "কেটে দিন, কল ব্যাক করুন" দেখান।
+
 ---
+
+## 21. ফ্রিল্যান্সিং শুরুর আগে এই ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+Resources:
+1. [Docs] How To Use Upwork as a Freelancer (Beginner's Guide) | Upwork | https://www.upwork.com/resources/upwork-for-beginners (check pricing) : এটা পড়লে আপনি Upwork কীভাবে কাজ করে তার শুরুটা বুঝতে পারবেন।
+2. [Docs] How To Become a Freelancer in 2026: Your Guide to Upwork | Upwork | https://www.upwork.com/resources/how-to-become-a-freelancer : এটা পড়লে আপনি ফ্রিল্যান্সার হওয়ার ধাপগুলো সাজিয়ে নিতে পারবেন।
+3. [Docs] How to build your freelancer profile: the essentials | Upwork Help | https://support.upwork.com/hc/en-us/articles/360016252373-How-to-build-your-freelancer-profile-the-essentials : এটা পড়লে আপনি ক্লায়েন্টের চোখে পড়ার মতো প্রোফাইল বানাতে পারবেন।
+4. [PDF/Book] A Freelancer's Guide (PDF) | Upwork | https://www.upwork.com/mc/documents/FreelancerGuide.pdf : এটা পড়লে আপনি কাজ পাওয়া ও ব্যবসা বাড়ানোর মূল ধারণা পাবেন (পুরনো হতে পারে, তাই তথ্য মিলিয়ে নিন)।
+5. [Website] How to Use Upwork as a Freelancer | Upwork | https://www.upwork.com/i/how-it-works/freelancer/ : এটা দেখলে আপনি প্ল্যাটফর্মের পুরো প্রক্রিয়াটা এক নজরে বুঝবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Upwork Help Center (Upwork)
+- Website: Freelancers Union
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ফ্রিল্যান্সিং শুরু করার আগে এই ৫টা জিনিস না দেখলে মাসের পর মাস সময় নষ্ট হতে পারে!
+[মূল অংশ] অনেকেই কোনো প্রস্তুতি ছাড়াই ফ্রিল্যান্সিং শুরু করে হতাশ হয়ে যান। আগে বুঝে নিন কীভাবে কাজ হয়। মনে রাখবেন, ফ্রিল্যান্সিংয়ে আয়ের কোনো গ্যারান্টি নেই, "রাতারাতি বড় আয়" বা "কাজ নিশ্চিত" বললে সেটা স্ক্যামও হতে পারে। রিসোর্সগুলো সব ইংরেজিতে, তাই ক্যাপশন বা অটো-ট্রান্সলেট অন রাখুন। এক: Upwork এর "How To Use Upwork as a Freelancer, Beginner's Guide", প্ল্যাটফর্ম কীভাবে চলে বুঝবেন। দুই: Upwork এর "How To Become a Freelancer in 2026", ধাপে ধাপে পথ পাবেন। তিন: Upwork Help এর "How to build your freelancer profile: the essentials", ভালো প্রোফাইল বানাতে পারবেন। চার: Upwork এর "A Freelancer's Guide" PDF, মূল ধারণা পাবেন। পাঁচ: Upwork এর "How to Use Upwork as a Freelancer" পেজ, পুরো প্রক্রিয়া এক নজরে দেখবেন। সবকিছু শেষে নিজের দক্ষতা তৈরি করাই আসল।
+[CTA] আপনি কোন কাজ দিয়ে শুরু করতে চান? কমেন্টে জানান। পোস্টটা সেভ করে রাখুন, আর যে বন্ধু ফ্রিল্যান্সিং শুরু করতে চায় তাকে শেয়ার করুন।
 
-## 59. ওপেন সোর্সে অবদান রাখা শুরুর ৫টা ভিডিও (only 3 are video; 2 more are written/podcast; 0 Bangla)
-**Resources (verified via search):**
-1. Fork and pull request in GitHub (Jeff Terrell, UNC App Lab, ৯ মিনিটের ভিডিও, ২০১৯ সালের, পুরনো হতে পারে) | https://applab.unc.edu/tag/git/ : ফর্ক ও পুল রিকোয়েস্ট করা দেখায় (ইংরেজি)।
-2. How to create your first pull request on GitHub in less than 60 seconds | dev.to (YouTube Short এর পোস্ট, চ্যানেল যাচাই বাকি) | https://dev.to/this-is-learning/how-to-create-your-first-pull-request-on-github-in-less-than-60-seconds--1ae6 : ৬০ সেকেন্ডের মধ্যে প্রথম PR, good first issue ও help wanted লেবেল সহ (ইংরেজি)।
-3. GitHub for Beginners: Getting started with OSS contributions | GitHub | https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-oss-contributions/ : লেখার সঙ্গে ইউটিউবে সিরিজ আছে বলে পেজে উল্লেখ (ইংরেজি)।
-4. Creating your first GitHub contributions with Santosh Yadav, Web Rush 166 (পডকাস্ট এপিসোড) | John Papa | https://johnpapa.net/creating-your-first-github-contributions-with-santosh-yadav-on-web-rush-166 : ফর্ক, ক্লোন, পুশ কী, সেটার আলোচনা (ইংরেজি)।
-5. How to find good first issues on GitHub | freeCodeCamp (লেখা) | https://www.freecodecamp.org/news/how-to-find-good-first-issues-on-github/ : ভালো প্রথম ইস্যু খোঁজার উপায় (ইংরেজি)।
-
-Also mentioned in results (no direct link seen): freeCodeCamp YouTube channel এ Eddie Jaoude এর ওপেন সোর্স কোর্স। সেখানে গিয়ে নিজে খুঁজে নিন।
-
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] ওপেন সোর্সে প্রথম কন্ট্রিবিউশন করতে চান, কিন্তু কোথা থেকে শুরু করবেন বুঝছেন না? এই ৫টা রিসোর্স দেখুন।
-[মূল অংশ] সৎভাবে বলি, বাংলা ভিডিও পাইনি, আর পাঁচটার মধ্যে সরাসরি ভিডিও তিনটা। এক নম্বর, UNC App Lab এর ৯ মিনিটের ভিডিও, ফর্ক আর পুল রিকোয়েস্ট কীভাবে করতে হয়, তবে ২০১৯ সালের। দুই নম্বর, ৬০ সেকেন্ডে প্রথম PR। তিন নম্বর, GitHub এর নিজস্ব বিগিনার গাইড। চার নম্বর, একটা পডকাস্ট, যেখানে ফর্ক, ক্লোন, পুশ বোঝানো হয়েছে। পাঁচ নম্বর, freeCodeCamp এর লেখা, কীভাবে good first issue খুঁজবেন। সাধারণ নিয়ম হলো রিপোজিটরি ফর্ক করুন, ব্রাঞ্চ খুলে পরিবর্তন করুন, তারপর পুল রিকোয়েস্ট দিন। ছোট কাজ দিয়ে শুরু করুন, যেমন ডকুমেন্টেশনের টাইপো ঠিক করা। আর কোনো প্রজেক্টে ঢোকার আগে তাদের contribution guideline পড়ে নেবেন। সব ক্রিয়েটরকে ধন্যবাদ।
-[CTA] আপনার প্রথম PR কোন প্রজেক্টে করতে চান, কমেন্টে জানান। সেভ করুন, শেয়ার করুন।
-**Visual note:** স্ক্রিনে ধাপগুলো দেখান: Fork, Clone, Branch, Push, Pull Request। প্রতিটা রিসোর্সের টাইটেল এক এক করে আসবে।
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে ৫টা রিসোর্সের নাম একে একে ভেসে উঠবে, শেষে "আয়ের গ্যারান্টি নেই" সতর্কবার্তা।
 
 ---
 
-## 60. রিমোট সফটওয়্যার জব পাওয়ার রিসোর্স (honest: 0 videos found; only 5 non-video items verified, 1 Bangla)
-No video on remote jobs for Bangladeshi developers appeared in any of the 5 searches. Do not call this a "ভিডিও" list on camera. Suggest renaming the post "রিমোট জব নিয়ে এই ৫টা রিসোর্স দেখুন".
-**Resources (verified via search):**
-1. দেশে বসে বিদেশে চাকরি, কেন জনপ্রিয় হচ্ছে 'রিমোট জব' | প্রথম আলো (বাংলা লেখা) | https://www.prothomalo.com/lifestyle/qe3rsyagfv : বাংলাদেশের প্রেক্ষাপটে রিমোট কাজ।
-2. Landing overseas remote jobs as a Bangladeshi | The Business Standard (TBS) | https://www.tbsnews.net/features/pursuit/landing-overseas-remote-jobs-bangladeshi-1055041 : ফ্রিল্যান্স মার্কেটপ্লেস, জব বোর্ড, ইন্টার্নশিপ নিয়ে পরামর্শ (ইংরেজি)।
-3. Remote work from Bangladesh | Dhaka Tribune | https://www.dhakatribune.com/feature/tech/407472/remote-work-from-bangladesh : বিদেশি কোম্পানি কী প্রত্যাশা করে, প্রতিযোগিতা কেমন (ইংরেজি)।
-4. How to Get a Remote or International Tech Job, Beyond Coding Episode #211 | Xebia (পডকাস্ট) | https://xebia.com/podcasts/how-to-get-a-remote-or-international-tech-job-complete-guide-211/ : অনলাইন প্রোফাইল, ইন্টারভিউ প্রস্তুতি (ইংরেজি)।
-5. Remote Software Engineer Jobs in Bangladesh | Jobgether (জব বোর্ড) | https://jobgether.com/remote-jobs/bangladesh/software-engineer : খোলা পদ দেখার জন্য, তবে নিজে যাচাই করে নিন।
-
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] রিমোট সফটওয়্যার জব নিয়ে ইউটিউবে ভিডিও খুঁজেছি, কিন্তু কাজের কিছু পাইনি। তাই আজ ভিডিওর বদলে ৫টা রিসোর্স দিচ্ছি।
-[মূল অংশ] প্রথমে একটা কথা পরিষ্কার করি, এখানে কোনো চাকরির নিশ্চয়তা নেই। এক নম্বর, প্রথম আলোর একটা বাংলা লেখা, রিমোট জব কেন জনপ্রিয় হচ্ছে। দুই নম্বর, TBS এর লেখা, যেখানে ফ্রিল্যান্স মার্কেটপ্লেসে অভিজ্ঞতা নেওয়া আর ইন্টার্নশিপের কথা আছে। তিন নম্বর, Dhaka Tribune এর ফিচার। সেখানে বলা হয়েছে, বিদেশি কোম্পানি নির্ভরযোগ্য কাজ চায়, আর প্রতিযোগিতা আন্তর্জাতিক। চার নম্বর, Xebia র একটা পডকাস্ট এপিসোড, ইন্টারভিউ আর অনলাইন প্রোফাইল নিয়ে। পাঁচ নম্বর, Jobgether এর জব বোর্ড, খোলা পদ দেখার জন্য। কোনো অফার দেখলে আগে কোম্পানি আর শর্ত নিজে যাচাই করুন। আপনার যদি ভালো কোনো বাংলা ভিডিও জানা থাকে, কমেন্টে দিন, আমি পরে যোগ করব। লেখকদের ধন্যবাদ।
-[CTA] কমেন্টে বলুন, রিমোট কাজের কোন বিষয়টা নিয়ে সবচেয়ে বেশি জানতে চান। সেভ করুন, শেয়ার করুন।
-**Visual note:** স্ক্রিনে প্রতিটা রিসোর্সের নাম ও সোর্সের লোগো বা নাম পপ-আপ করুন, শুরুতে বড় টেক্সটে "ভিডিও পাইনি, রিসোর্স দিচ্ছি"।
+## 22. Upwork ও Fiverr এ AI দিয়ে কাজ পাওয়ার ৫টা রিসোর্স দেখুন
 
+**যাচাই করা লিংক: 5টা**
+
+(Only 5 verified, but all are Upwork or general AI. No Fiverr-specific official page was verified.)
+Resources:
+1. [Docs] How To Create a Proposal That Wins Jobs (With Examples) | Upwork | https://www.upwork.com/resources/how-to-create-a-proposal-that-wins-jobs : এটা পড়লে আপনি ক্লায়েন্টের পছন্দ হয় এমন প্রপোজাল লিখতে পারবেন।
+2. [Docs] 11 Upwork Profile Examples for Freelance Beginners | Upwork | https://www.upwork.com/resources/upwork-profile-examples : এটা দেখলে আপনি প্রোফাইল সাজানোর বাস্তব উদাহরণ পাবেন।
+3. [Docs] 10 Tips for Upwork Success from Experienced Freelancers | Upwork | https://www.upwork.com/resources/freelancer-success-tips : এটা পড়লে আপনি অভিজ্ঞদের টিপস জানবেন।
+4. [Docs] Prompt engineering best practices for ChatGPT | OpenAI Help Center | https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt : এটা পড়লে আপনি AI দিয়ে ভালো ড্রাফট বানানোর প্রম্পট লিখতে পারবেন।
+5. [Course] AI Fluency: Framework & Foundations | Anthropic on Coursera | https://www.coursera.org/learn/ai-fluency-framework-foundations (Coursera shows all features free, check current terms) : এটা করলে আপনি AI কে দায়িত্ব নিয়ে ব্যবহার করা শিখবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Upwork Help Center (Upwork)
+- Docs: OpenAI Academy (OpenAI)
+- Course: AI Fluency (Anthropic)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] AI দিয়ে একই প্রপোজাল সবাইকে পাঠালে কাজ পাওয়া আরও কঠিন হয়ে যায়, জানেন কেন?
+[মূল অংশ] Upwork নিজেই বলছে, কপি-পেস্ট প্রপোজাল ক্লায়েন্ট পছন্দ করে না। AI ড্রাফটে সাহায্য করতে পারে, কিন্তু প্রতিটা প্রপোজাল নিজের মতো করে সাজাতে হবে। সতর্কতা: "AI দিয়ে দিনে হাজার ডলার" ধরনের প্রতিশ্রুতি বিশ্বাস করবেন না, কাজ বা আয়ের নিশ্চয়তা কেউ দিতে পারে না। রিসোর্সগুলো ইংরেজি, ক্যাপশন অন রাখুন। এক: Upwork এর "How To Create a Proposal That Wins Jobs", জেতার মতো প্রপোজাল শিখবেন। দুই: "11 Upwork Profile Examples for Freelance Beginners", প্রোফাইলের উদাহরণ দেখবেন। তিন: "10 Tips for Upwork Success", অভিজ্ঞদের পরামর্শ পাবেন। চার: OpenAI Help Center এর "Prompt engineering best practices for ChatGPT", ভালো প্রম্পট শিখবেন। পাঁচ: Coursera তে Anthropic এর "AI Fluency: Framework & Foundations", AI ব্যবহারের সঠিক দৃষ্টিভঙ্গি পাবেন।
+[CTA] আপনি কি AI দিয়ে প্রপোজাল লিখেছেন? অভিজ্ঞতা কমেন্টে জানান, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** প্রপোজাল ড্রাফট আর নিজের হাতে এডিটের পাশাপাশি তুলনা, শেষে স্ক্যাম সতর্কবার্তা।
+
 ---
+
+## 23. AI কি আমার চাকরি খেয়ে ফেলবে? জানার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
 
-## 61. অনলাইন স্ক্যাম চিনতে এই ৫টা ভিডিও দেখুন
-**Resources (verified via search):**
-1. অনলাইনে প্রতারণা থেকে নিজেকে কীভাবে সুরক্ষিত রাখবেন | Channel unverified | https://youtube.com/watch?v=nV7lcXH_Q6s
-   - স্ক্যাম থেকে নিজেকে বাঁচানোর মূল ধারণাগুলো বাংলায় পাওয়া যায়।
-2. অনলাইন প্রতারণা, বাঁচার এক মাত্র উপায় কি? জানালেন বিশেষজ্ঞরা | Channel unverified | https://youtube.com/watch?v=Y43HBg149W8
-   - বিশেষজ্ঞদের পরামর্শ শোনা যায়।
-3. কিভাবে WhatApp এ প্রতারণা করা হচ্ছে? সবাই সাবধান হোন | Channel unverified | https://youtube.com/watch?v=hlwOJd3Dc1w
-   - হোয়াটসঅ্যাপ প্রতারণার ধরন চেনা যায়।
-4. বিকাশে প্রতারণার নতুন ফাঁদ | Channel unverified | https://youtube.com/watch?v=vb_bWc5qgwA
-   - মোবাইল ব্যাংকিং প্রতারণার ফাঁদ চেনার জন্য কাজের।
-5. The Fastest Way to Spot a Scam | Channel unverified (appeared linked to the FTC in search results) | https://youtube.com/watch?v=69yBo4nLHM0
-   - ইংরেজিতে, টাকা চাওয়ার ধরন দেখে স্ক্যাম চেনার সহজ নিয়ম।
-
-**Non-video sources:**
-- প্রথম আলো: প্রতারণার ফাঁদ 'বিজ্ঞাপন দেখে ঘরে বসে আয় করুন' https://www.prothomalo.com/bangladesh/1u4u8yptyr
-- প্রথম আলো: হোয়াটসঅ্যাপে ভিডিও প্রতারণার কথা জানেন তো? https://www.prothomalo.com/technology/cyberworld/3jyz16yq9w
-
-**Recording script (Bangla):**
-[হুক] একটা ভুল লিংকে ক্লিক, আর আপনার বিকাশ বা ব্যাংকের টাকা শেষ। এটা আপনার সঙ্গেও হতে পারে।
-[মূল অংশ] আজকাল স্ক্যামাররা খুব চালাক। ঘরে বসে আয়, ভুয়া চাকরির অফার, বিকাশের নামে ফোন, সবই ফাঁদ হতে পারে। তাই আগে চিনতে শিখুন। আজ ৫টা ভিডিও বলছি।
-এক: "অনলাইনে প্রতারণা থেকে নিজেকে কীভাবে সুরক্ষিত রাখবেন", মূল ধারণা পরিষ্কার হবে।
-দুই: "অনলাইন প্রতারণা, বাঁচার এক মাত্র উপায় কি? জানালেন বিশেষজ্ঞরা", বিশেষজ্ঞদের কথা শুনুন।
-তিন: "কিভাবে WhatApp এ প্রতারণা করা হচ্ছে? সবাই সাবধান হোন", হোয়াটসঅ্যাপের ফাঁদ চিনুন।
-চার: "বিকাশে প্রতারণার নতুন ফাঁদ", মোবাইল ব্যাংকিং নিয়ে সাবধান হোন।
-পাঁচ: ইংরেজিতে "The Fastest Way to Spot a Scam", টাকা কীভাবে চাওয়া হচ্ছে, সেটা দেখেই স্ক্যাম ধরা যায়।
-মনে রাখবেন, ওটিপি বা পিন কাউকে দেবেন না। তাড়াহুড়ো করতে বললে থেমে যান।
-[CTA] ভিডিওটা সেভ করে রাখুন, পরিবারের সবাইকে শেয়ার করুন। আপনি কোন স্ক্যামের মুখোমুখি হয়েছেন, কমেন্টে জানান।
-**Visual note:** স্ক্রিনে একে একে ৫টা ভিডিওর টাইটেল কার্ড দেখান, শুরুতে "OTP কাউকে নয়" লেখা একটা বড় সতর্কবার্তা।
+Resources:
+1. [Course] AI For Everyone | DeepLearning.AI on Coursera | https://www.coursera.org/learn/ai-for-everyone (Coursera labels it partially free, check pricing) : এটা করলে আপনি AI আসলে কী পারে আর কী পারে না, বুঝবেন।
+2. [Website] WEF Future of Jobs Report 2025 summary | Coursera Blog | https://blog.coursera.org/wef-future-of-jobs-report-2025 : এটা পড়লে আপনি চাকরির বাজারের পরিবর্তনের মূল দিকগুলো জানবেন (মূল রিপোর্ট নিজে মিলিয়ে নিন)।
+3. [Course] AI Fluency: Framework & Foundations | Anthropic on Coursera | https://www.coursera.org/learn/ai-fluency-framework-foundations : এটা করলে আপনি AI এর সঙ্গে কাজ করার দক্ষতা গড়বেন।
+4. [Course] AI Literacy Fundamentals | Microsoft | https://news.microsoft.com/fi-fi/?p=26920 (page says free, Finnish/English) : এটা দেখলে আপনি প্রযুক্তির পটভূমি ছাড়াই AI সাক্ষরতা শুরু করতে পারবেন।
+5. [Course] Introduction to AI Literacy | Athabasca University | https://www.athabascau.ca/news/university-news/continuing-education/falling-behind-the-ai-curve-new-pilot-provides-foundational-skills.html : এটা দেখলে আপনি বিশ্ববিদ্যালয়-মানের AI বেসিক কোর্সের খোঁজ পাবেন।
 
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- PDF: Future of Jobs Report (World Economic Forum)
+- PDF: Generative AI and Jobs (International Labour Organization)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] AI আপনার চাকরি নেবে কি না, ভয় পাওয়ার আগে এই ৫টা রিসোর্স দেখে নিন!
+[মূল অংশ] কেউ নিশ্চিত করে বলতে পারে না কার চাকরি যাবে বা থাকবে। তাই ভয় না পেয়ে বুঝে নেওয়া ভালো, আর AI শেখা শুরু করা ভালো। রিসোর্সগুলো ইংরেজি, ক্যাপশন বা অটো-ট্রান্সলেট অন রাখুন। এক: Coursera তে "AI For Everyone", AI কী পারে বুঝবেন। দুই: Coursera ব্লগের "WEF Future of Jobs Report 2025" সারাংশ, চাকরির বাজারের প্রবণতা জানবেন। তিন: Anthropic এর "AI Fluency: Framework & Foundations", AI এর সঙ্গে কাজ শিখবেন। চার: Microsoft এর "AI Literacy Fundamentals" কোর্স, শুরুর জন্য সহজ। পাঁচ: Athabasca University এর "Introduction to AI Literacy", বেসিক শিখবেন। মূল কথা: নিজের কাজে AI ব্যবহার শিখলে আপনি এগিয়ে থাকবেন, তবে ভবিষ্যৎ নিয়ে কোনো নিশ্চয়তা নেই। (Only 5 listed, মূল WEF রিপোর্ট সরাসরি যাচাই করা হয়নি।)
+[CTA] আপনার পেশায় AI এর প্রভাব নিয়ে কী মনে হয়? কমেন্ট করুন, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** চাকরির আইকনের পাশে AI আইকন, ৫টা রিসোর্সের নাম তালিকা আকারে।
+
 ---
+
+## 24. AI যুগে কোন ৫টা স্কিল সবচেয়ে দরকার, শেখার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+Resources:
+1. [Course] Elements of AI | University of Helsinki and MinnaLearn | https://course.elementsofai.com/ (described as a free online course) : এটা করলে আপনি জটিল গণিত ছাড়াই AI এর মূল ধারণা শিখবেন।
+2. [Course] AI Fluency: Framework & Foundations | Anthropic on Coursera | https://www.coursera.org/learn/ai-fluency-framework-foundations : এটা করলে আপনি AI কে যাচাই করে কাজে লাগাতে পারবেন।
+3. [Course] AI for Everyone for Work and Productivity | Coursera | https://www.coursera.org/learn/ai-for-everyone-for-work-and-productivity (check pricing) : এটা করলে আপনি কাজে AI বসানোর উপায় বুঝবেন।
+4. [Docs] Prompt engineering best practices for ChatGPT | OpenAI Help Center | https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt : এটা পড়লে আপনি প্রম্পট লেখার দক্ষতা বাড়াতে পারবেন।
+5. [Docs] Prompting best practices | Claude Platform Docs | https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/prompt-generator : এটা পড়লে আপনি স্পষ্ট নির্দেশ দেওয়ার কৌশল শিখবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Course: Google AI Essentials (Google on Coursera)
+- Course: AI Fluency (Anthropic)
+- Course: Elements of AI (University of Helsinki)
 
-## 62. পাসওয়ার্ড ম্যানেজার ও 2FA ব্যবহারের ৫টা ভিডিও
-**Resources (verified via search; only 2 Bangla found):**
-1. Google password manager in Bangla || নতুনদের জন্য সহজ গাইড! | Channel unverified | https://youtube.com/watch?v=7-Vj2tVVyr0
-   - গুগল পাসওয়ার্ড ম্যানেজার বাংলায় শেখার জন্য।
-2. Password Manager. How Does It Work? How Useful Is It? Is It Safe or Not? Explained in Bengali. | Channel unverified | https://youtube.com/watch?v=t3LXJ5HvgZM
-   - এটা কীভাবে কাজ করে ও কতটা নিরাপদ, বাংলায় ব্যাখ্যা।
-3. How Two-Factor Authentication Works and Why You Need It Right Now | Channel unverified | https://youtube.com/watch?v=Fc6wxxtZkBc
-   - 2FA কেন দরকার, সহজ ইংরেজিতে।
-4. What Is Two-Factor Authentication, and How Does It Work? (Explained Clearly) - 2FA vs MFA | Channel unverified | https://youtube.com/watch?v=X0-ETjaRafY
-   - 2FA আর MFA এর পার্থক্য বোঝা যায়।
-5. Should I Use My Password Vault for Two-Factor Authentication As Well? | Channel unverified | https://youtube.com/watch?v=2WBKUQXw1Qo
-   - পাসওয়ার্ড ভল্টে 2FA রাখা নিয়ে ভাবনা।
-
-**Non-video sources:**
-- প্রথম আলো: গুগল পাসওয়ার্ড ম্যানেজারের সীমাবদ্ধতা কী কী https://www.prothomalo.com/technology/f1rwcilncd
-- দ্য ডেইলি স্টার বাংলা: পাসওয়ার্ড ম্যানেজার কতটা নিরাপদ https://bangla.thedailystar.net/tech-startup/science-tech-gadgets/news-483276
-
-**Recording script (Bangla):**
-[হুক] আপনার সব অ্যাকাউন্টে কি একই পাসওয়ার্ড? তাহলে একটা সাইট হ্যাক হলেই সব শেষ।
-[মূল অংশ] সমাধান হলো পাসওয়ার্ড ম্যানেজার আর 2FA, মানে টু-ফ্যাক্টর অথেন্টিকেশন। আজ ৫টা ভিডিও বলছি।
-এক: "Google password manager in Bangla, নতুনদের জন্য সহজ গাইড", বাংলায় শুরু করার জন্য সেরা।
-দুই: "Password Manager. How Does It Work? How Useful Is It? Is It Safe or Not? Explained in Bengali", এটা কতটা নিরাপদ, বাংলায় বোঝা যাবে।
-তিন: ইংরেজিতে "How Two-Factor Authentication Works and Why You Need It Right Now"।
-চার: "What Is Two-Factor Authentication, and How Does It Work? 2FA vs MFA", পার্থক্যটা পরিষ্কার হবে।
-পাঁচ: "Should I Use My Password Vault for Two-Factor Authentication As Well?", একটা দরকারি প্রশ্ন।
-আমি যতদূর জানি, প্রতিটা সাইটের জন্য আলাদা পাসওয়ার্ড রাখা ভালো। তবে নিজের সেটিংস চেক করে নিন।
-[CTA] সেভ করে রাখুন, আজই অন্তত ইমেইলে 2FA চালু করুন। কমেন্টে লিখুন, চালু করলেন কি না।
-**Visual note:** স্ক্রিনে "একই পাসওয়ার্ড = বিপদ" লিখে তারপর তালা আর কোডের গ্রাফিক দেখান।
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] AI যুগে শুধু ডিগ্রি নয়, এই স্কিলগুলো না থাকলে পিছিয়ে পড়তে পারেন!
+[মূল অংশ] বিভিন্ন উৎস একমত যে তিনটা জিনিস কাজে লাগে: AI এর মূল ধারণা বোঝা, কাজে AI ব্যবহার করা, আর AI এর উত্তর যাচাই ও নৈতিকতা মাথায় রাখা। রিসোর্সগুলো ইংরেজি, ক্যাপশন অন রাখুন। এক: "Elements of AI", Helsinki বিশ্ববিদ্যালয়ের কোর্স, ধারণা বুঝবেন। দুই: Anthropic এর "AI Fluency: Framework & Foundations", যাচাই করে ব্যবহার শিখবেন। তিন: Coursera তে "AI for Everyone for Work and Productivity", কাজে লাগাবেন। চার: OpenAI Help Center এর "Prompt engineering best practices for ChatGPT", ভালো প্রম্পট শিখবেন। পাঁচ: Claude Docs এর "Prompting best practices", নির্দেশ দেওয়ার কৌশল জানবেন। AI টুল দ্রুত বদলায়, তাই নতুন তথ্য নিজে মিলিয়ে নেবেন।
+[CTA] আপনার কোন স্কিলটা সবচেয়ে দরকার মনে হয়? কমেন্ট করুন, সেভ ও শেয়ার করুন।
 
+**স্ক্রিনে যা দেখাবেন:** ৫টা রিসোর্সের নাম, পাশে "বোঝা, ব্যবহার, যাচাই" তিনটা কীওয়ার্ড।
+
 ---
+
+## 25. AI দিয়ে কনটেন্ট ক্রিয়েশন শুরুর আগে ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 4টা**
 
-## 63. ফোন হ্যাক থেকে বাঁচার ৫টা ভিডিও
-**Resources (verified via search):**
-1. আপনার ফোন হ্যাক হলে কিভাবে বুঝবেন এবং‌ করনীয় কি। | Channel unverified | https://youtube.com/watch?v=OsxJFypU1yY
-   - হ্যাকের লক্ষণ ও করণীয় বাংলায়।
-2. ফোন হ্যাক হয়েছে কিনা কি করে বুঝবো | Channel unverified | https://youtube.com/watch?v=BpYvXZyG6Vk
-   - হাতে-কলমে চেক করার উপায়।
-3. ফোন হ্যাক হলে বুঝবেন যেভাবে! | Channel unverified (title mentions Bijoy TV) | https://youtube.com/watch?v=zkIOGOrrelI
-   - সংবাদ ধাঁচে সহজ ব্যাখ্যা।
-4. How To Make Your Phone Unhackable | Channel unverified | https://youtube.com/watch?v=JqdX5YUfD1k
-   - ফোন সুরক্ষিত রাখার সাধারণ উপায়, ইংরেজিতে।
-5. 10 Life-Saving Ways to Protect Your Phone from Hackers | Channel unverified | https://youtube.com/watch?v=wTzcj1BSvd4
-   - ১০টা নিরাপত্তা টিপস।
-
-**Non-video sources:** (no official source verified in my searches)
-
-**Recording script (Bangla):**
-[হুক] ফোন হঠাৎ গরম হচ্ছে, ব্যাটারি দ্রুত শেষ? হতে পারে কেউ আপনার ফোনে ঢুকে বসে আছে।
-[মূল অংশ] আমাদের ফোনে ছবি, ব্যাংক, ইমেইল সবই থাকে। তাই সুরক্ষা জরুরি। ৫টা ভিডিও বলছি।
-এক: "আপনার ফোন হ্যাক হলে কিভাবে বুঝবেন এবং করনীয় কি"।
-দুই: "ফোন হ্যাক হয়েছে কিনা কি করে বুঝবো"।
-তিন: "ফোন হ্যাক হলে বুঝবেন যেভাবে!", সংবাদ ধাঁচে সহজ আলোচনা।
-চার: ইংরেজিতে "How To Make Your Phone Unhackable"।
-পাঁচ: "10 Life-Saving Ways to Protect Your Phone from Hackers"।
-সাধারণ নিয়ম: অচেনা লিংক ও অ্যাপ এড়ান, ফোন আপডেট রাখুন, আর অ্যাপ শুধু অফিশিয়াল স্টোর থেকে নিন। সন্দেহ হলে পাসওয়ার্ড বদলান।
-[CTA] ভিডিও সেভ করুন, ফোন নিয়ে ভয় পাওয়া বন্ধুকে শেয়ার করুন, আর আপনার ফোনের নিরাপত্তা টিপস কমেন্টে লিখুন।
-**Visual note:** ফোন স্ক্রিনে সেটিংসের Security অংশ দেখান, সঙ্গে লিংক না ক্লিক করার আইকন।
+(only 4 verified. YouTube Creators and Meta Blueprint official pages did not appear in results.)
+Resources:
+1. [Docs] Prompting resource | OpenAI Academy | https://academy.openai.com/public/clubs/work-users-ynjqu/resources/prompting : এটা পড়লে আপনি কনটেন্ট আইডিয়ার জন্য কাজের প্রম্পট লিখতে পারবেন।
+2. [Docs] Prompt engineering best practices for ChatGPT | OpenAI Help Center | https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt : এটা পড়লে আপনি ড্রাফট ধাপে ধাপে ভালো করতে পারবেন।
+3. [Course] Fundamentals of Digital Marketing Learning Path | HubSpot Academy | https://academy.hubspot.com/learning-paths/fundamentals-of-digital-marketing-learning-path (HubSpot describes its training as free) : এটা করলে আপনি কনটেন্ট মার্কেটিংয়ের ভিত্তি শিখবেন।
+4. [Website] Courses and tools | Grow with Google | https://grow.google/intl/uk/courses-and-tools/ (check pricing) : এটা দেখলে আপনি ডিজিটাল দক্ষতার কোর্স বেছে নিতে পারবেন।
 
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: YouTube Creators (YouTube)
+- Website: Meta Blueprint (Meta)
+- Website: Design School (Canva)
+- Channel: Think Media (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] AI দিয়ে শুধু কনটেন্ট বানালেই হবে না, না জানলে সবার মতো একই রকম দেখাবে!
+[মূল অংশ] AI দিয়ে দ্রুত ড্রাফট করা যায়, কিন্তু নিজের গলা, নিজের অভিজ্ঞতা যোগ না করলে কনটেন্ট সাধারণ হয়ে যায়। আর কনটেন্ট থেকে আয় হবে এমন কোনো নিশ্চয়তা নেই। রিসোর্সগুলো ইংরেজি, ক্যাপশন অন রাখুন। এক: OpenAI Academy এর "Prompting" রিসোর্স, ভালো প্রম্পট শিখবেন। দুই: OpenAI Help Center এর "Prompt engineering best practices for ChatGPT", ড্রাফট ঠিক করবেন। তিন: HubSpot Academy এর "Fundamentals of Digital Marketing" লার্নিং পাথ, কনটেন্ট মার্কেটিংয়ের ভিত্তি পাবেন। চার: Grow with Google এর কোর্স ও টুলস পেজ, আরও দক্ষতার কোর্স খুঁজে পাবেন। এই ৪টা আমি যাচাই করেছি। AI এর ড্রাফট সবসময় নিজে সম্পাদনা করে তারপর পোস্ট করুন।
+[CTA] আপনি কী ধরনের কনটেন্ট বানান? কমেন্টে জানান, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** ফাঁকা পেজ থেকে AI ড্রাফট, তারপর নিজের হাতে এডিট করার দৃশ্য।
+
 ---
+
+## 26. AI দিয়ে ভিডিও স্ক্রিপ্ট লেখার ৫টা রিসোর্স দেখুন
 
-## 64. ফেসবুক অ্যাকাউন্ট সুরক্ষিত রাখার ৫টা ভিডিও
-**Resources (verified via search):**
-1. সাবধান! ফেসবুক হ্যাকের নতুন উপায় 'Account Dumpling' | Channel unverified | https://youtube.com/watch?v=z34EhZcmshI
-   - নতুন হ্যাক-কৌশল সম্পর্কে সতর্কতা।
-2. ফেসবুক, ইনস্টাগ্রাম, এক্স হ্যাক হলে যেভাবে ফিরে পাবেন অ্যাকাউন্ট | Channel unverified | https://youtube.com/watch?v=rO83pEDGIS8
-   - অ্যাকাউন্ট ফিরে পাওয়ার ধারণা।
-3. Facebook হ্যাকিং থেকে বাচান, এবং অ্যাকাউন্ট সুরক্ষিত রাখার উপায়। | Channel unverified | https://youtube.com/watch?v=zSEu9RJ6gEw
-   - সুরক্ষার ধাপ বাংলায়।
-4. ফেসবুক আইডি হ্যাক হয় কেন, ফেইসবুকে যে কাজ গুলো কখনো করা ঠিক নয়, Facebook Tips Bangla | Channel unverified | https://youtube.com/watch?v=Vdk8BwlheZQ
-   - কোন ভুলে আইডি হ্যাক হয়।
-5. Foolproof steps to help protect your Facebook account from hackers | Channel unverified (CyberGuy per search snippet) | https://youtube.com/watch?v=wLWCDuGLKXE
-   - সহজ ইংরেজিতে ধাপে ধাপে।
-
-**Non-video sources:** (no official Facebook Help page verified; check Facebook Help Center yourself)
-
-**Recording script (Bangla):**
-[হুক] আপনার ফেসবুক আইডি হ্যাক হলে বন্ধুদের কাছে টাকা চাইবে হ্যাকার। আগেই সাবধান হন।
-[মূল অংশ] ফেসবুক আমাদের পরিচয়। তাই ৫টা ভিডিও দেখে নিন।
-এক: "সাবধান! ফেসবুক হ্যাকের নতুন উপায় Account Dumpling"।
-দুই: "ফেসবুক, ইনস্টাগ্রাম, এক্স হ্যাক হলে যেভাবে ফিরে পাবেন অ্যাকাউন্ট"।
-তিন: "Facebook হ্যাকিং থেকে বাচান, এবং অ্যাকাউন্ট সুরক্ষিত রাখার উপায়"।
-চার: "ফেসবুক আইডি হ্যাক হয় কেন, ফেইসবুকে যে কাজ গুলো কখনো করা ঠিক নয়"।
-পাঁচ: ইংরেজিতে "Foolproof steps to help protect your Facebook account from hackers"।
-সাধারণ পরামর্শ: শক্ত পাসওয়ার্ড দিন, টু-স্টেপ ভেরিফিকেশন চালু করুন, অচেনা লিংকে লগইন করবেন না। ফেসবুকের সেটিংসে ধাপগুলো মিলিয়ে নিন।
-[CTA] সেভ করুন, আজই আপনার আইডির সিকিউরিটি চেক করুন। এই ভিডিও বন্ধুদের শেয়ার করুন।
-**Visual note:** Settings থেকে Security অংশে যাওয়ার স্ক্রিন রেকর্ডিং দেখান, সঙ্গে ৫টা টাইটেল কার্ড।
+**যাচাই করা লিংক: 5টা**
 
+(These are mostly vendor blogs; treat product claims with care.)
+Resources:
+1. [Docs] How To Write A Video Script With AI (Step-By-Step Guide) | LTX Studio | https://ltx.studio/blog/how-to-write-a-video-script-with-ai : এটা পড়লে আপনি বিস্তারিত ব্রিফ দিয়ে স্ক্রিপ্ট বানানোর ধাপ জানবেন।
+2. [Docs] How To Write Video Scripts With ChatGPT | Synthesia | https://www.synthesia.io/post/chatgpt-script : এটা পড়লে আপনি ChatGPT কে ঠিকভাবে নির্দেশ দিতে পারবেন।
+3. [Docs] Best practices for writing scripts better and faster with AI | HeyGen | https://community.heygen.com/public/resources/best-practices-for-writing-scripts-better-and-faster-with-ai : এটা পড়লে আপনি স্ক্রিপ্ট রিভিউ ও রিফাইন করার উপায় শিখবেন।
+4. [Docs] How to Use ChatGPT to Write Video Scripts | Podcastle | https://podcastle.ai/blog/how-to-use-chatgpt-write-video-scripts : এটা পড়লে আপনি আউটলাইন থেকে সেকশন ধরে লেখার পদ্ধতি পাবেন।
+5. [Docs] Prompt engineering best practices for ChatGPT | OpenAI Help Center | https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt : এটা পড়লে আপনি প্রম্পট উন্নত করার নিয়ম জানবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: YouTube Creators (YouTube)
+- Channel: Think Media (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] AI কে শুধু "স্ক্রিপ্ট লিখে দাও" বললে বোরিং স্ক্রিপ্টই পাবেন!
+[মূল অংশ] সব গাইড একটা কথায় একমত: AI কে ভালো ব্রিফ দিন, প্রথম ড্রাফটকে শুরু মনে করুন, তারপর জোরে পড়ে এডিট করুন। রিসোর্সগুলো ইংরেজি, ক্যাপশন অন রাখুন। এক: LTX Studio এর "How To Write A Video Script With AI", ব্রিফ লেখা শিখবেন। দুই: Synthesia এর "How To Write Video Scripts With ChatGPT", নির্দেশ দেওয়া শিখবেন। তিন: HeyGen এর স্ক্রিপ্ট লেখার বেস্ট প্র্যাকটিস, রিফাইন করবেন। চার: Podcastle এর গাইড, আউটলাইন থেকে লিখবেন। পাঁচ: OpenAI Help Center এর প্রম্পট গাইড, প্রম্পট ভালো করবেন। কয়েকটা ব্লগ কোম্পানির নিজের টুলের প্রচারও করে, তাই সচেতন থাকুন, আর তথ্য নিজে যাচাই করুন।
+[CTA] কোন ভিডিওর স্ক্রিপ্ট লিখতে চান? কমেন্ট করুন, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** ব্রিফ, ড্রাফট, এডিট: তিন ধাপের গ্রাফিক।
+
 ---
+
+## 27. AI দিয়ে ডিজিটাল মার্কেটিং শেখার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+(Meta Blueprint not verified, omitted.)
+Resources:
+1. [Course] Google Digital Marketing & E-commerce Professional Certificate | Google on Coursera | https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce (check pricing) : এটা করলে আপনি ক্যাম্পেইন, ই-কমার্স ও মার্কেটিংয়ে AI ব্যবহারের ভিত্তি পাবেন।
+2. [Course] Fundamentals of Digital Marketing Learning Path | HubSpot Academy | https://academy.hubspot.com/learning-paths/fundamentals-of-digital-marketing-learning-path (HubSpot describes its training as free) : এটা করলে আপনি SEO, কনটেন্ট ও অ্যানালিটিক্সের বেসিক শিখবেন।
+3. [Course] Digital Marketing Strategy Learning Path | HubSpot Academy | https://academy.hubspot.com/learning-paths/digital-marketing-strategy : এটা করলে আপনি মার্কেটিং স্ট্র্যাটেজি সাজাতে শিখবেন।
+4. [Website] Skillshop | Google | https://skillshop.withgoogle.com/ (listed as free, self-paced) : এটা দিয়ে আপনি Google টুলের সার্টিফিকেশন কোর্স করতে পারবেন।
+5. [Website] Courses and tools | Grow with Google | https://grow.google/intl/uk/courses-and-tools/ : এটা দেখলে আপনি ডিজিটাল মার্কেটিংয়ের আরও কোর্স পাবেন।
 
-## 65. VPN কী ও কখন লাগে, বোঝার ৫টা ভিডিও
-**Resources (verified via search):**
-1. VPN কিভাবে কাজ করে? বিপদজনক নাকি নিরাপদ? কেনো ব্যবহার করা হয়? | Channel unverified | https://youtube.com/watch?v=2aHo2TPBmk0
-   - ভালো-মন্দ দুদিকই জানা যায়।
-2. VPN ব্যবহার করা কেন এত জরুরী? | Channel unverified | https://youtube.com/watch?v=qrciiwVurYQ
-   - কারণগুলো বাংলায়।
-3. ভিপিএন কীভাবে কাজ করে --- How does a VPN work? -- Explained in Bangla | Channel unverified | https://youtube.com/watch?v=pN1ii-nMw30
-   - কাজের পদ্ধতি বাংলায়।
-4. VPN ব্যবহারের আগে যা যা জানা প্রয়োজন | Channel unverified | https://youtube.com/watch?v=lbGJG-b3HtI
-   - ব্যবহারের আগে সতর্কতা।
-5. What Is a VPN, and Do You Need One? (Explained Clearly) | Channel unverified | https://youtube.com/watch?v=jv2IE_WzA-g
-   - আপনার আসলেই লাগে কি না, বোঝার জন্য।
-
-**Non-video sources:** (no official source verified)
-
-**Recording script (Bangla):**
-[হুক] ফ্রি VPN ব্যবহার করছেন? তাহলে আপনার তথ্য কার কাছে যাচ্ছে, জানেন তো?
-[মূল অংশ] VPN মানেই সুপারম্যান সুরক্ষা না। কখন লাগে, কখন লাগে না, বুঝতে ৫টা ভিডিও।
-এক: "VPN কিভাবে কাজ করে? বিপদজনক নাকি নিরাপদ? কেনো ব্যবহার করা হয়?"।
-দুই: "VPN ব্যবহার করা কেন এত জরুরী?"।
-তিন: "ভিপিএন কীভাবে কাজ করে, Explained in Bangla"।
-চার: "VPN ব্যবহারের আগে যা যা জানা প্রয়োজন"।
-পাঁচ: ইংরেজিতে "What Is a VPN, and Do You Need One? Explained Clearly"।
-আমি যতদূর জানি, অচেনা ফ্রি VPN অ্যাপে ঝুঁকি থাকতে পারে, তাই ব্যবহারের আগে ভালো করে যাচাই করুন।
-[CTA] সেভ করুন, VPN নিয়ে আপনার প্রশ্ন কমেন্টে লিখুন, আর বন্ধুকে শেয়ার করুন।
-**Visual note:** ইন্টারনেট থেকে একটা "টানেলের" অ্যানিমেশন দেখান, শেষে "ফ্রি VPN সাবধান" লেখা।
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Course: Fundamentals of Digital Marketing (Google Digital Garage)
+- Course: Digital Marketing courses (HubSpot Academy)
+- Course: Meta Blueprint (Meta)
+- Website: Google Skillshop
 
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ডিজিটাল মার্কেটিং শিখতে টাকা খরচের আগে এই ৫টা অফিশিয়াল রিসোর্স দেখে নিন!
+[মূল অংশ] অনেকেই ব্যয়বহুল কোর্সে টাকা দেন, অথচ বড় কোম্পানির নিজস্ব রিসোর্স আছে। কোনো কোর্সই চাকরি বা আয়ের নিশ্চয়তা দেয় না। রিসোর্সগুলো ইংরেজি, ক্যাপশন অন রাখুন। এক: Coursera তে Google এর "Digital Marketing & E-commerce Professional Certificate", মূল ভিত্তি। দুই: HubSpot Academy এর "Fundamentals of Digital Marketing", বেসিক। তিন: HubSpot এর "Digital Marketing Strategy" লার্নিং পাথ, স্ট্র্যাটেজি। চার: Google Skillshop, Google টুলের সার্টিফিকেশন। পাঁচ: Grow with Google এর কোর্স ও টুলস পেজ। দাম ও শর্ত বদলায়, তাই আগে অফিশিয়াল সাইটে দেখে নিন।
+[CTA] কোন মার্কেটিং চ্যানেল শিখতে চান? কমেন্ট করুন, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** ৫টা লোগো/নামের কার্ড, নিচে "দাম যাচাই করুন" নোট।
+
 ---
+
+## 28. নিজের চ্যাটবট বানানোর আগে ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+(Weak fit: no no-code builder official page, custom GPT or Gemini Gems guide was verified. These cover the prompting skills a chatbot needs.)
+Resources:
+1. [Docs] Prompt engineering best practices for ChatGPT | OpenAI Help Center | https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt : এটা পড়লে আপনি চ্যাটবটের নির্দেশনা ভালো করে লিখতে পারবেন।
+2. [Docs] Prompt engineering | OpenAI Platform Docs | https://platform.openai.com/docs/guides/prompt-engineering : এটা পড়লে আপনি ডেভেলপার ও ইউজার মেসেজের ভূমিকা বুঝবেন।
+3. [Docs] Prompting best practices | Claude Platform Docs | https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/prompt-generator : এটা পড়লে আপনি জটিল নির্দেশ সাজানো শিখবেন।
+4. [Course] DeepLearning.AI Short Courses | DeepLearning.AI | https://www.deeplearning.ai/courses?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Short+Courses (check pricing) : এটা দেখলে আপনি চ্যাটবট বানানোর শর্ট কোর্স খুঁজে নিতে পারবেন।
+5. [Docs] Prompting resource | OpenAI Academy | https://academy.openai.com/public/clubs/work-users-ynjqu/resources/prompting : এটা পড়লে আপনি কাজ ভাগ করে প্রম্পট দেওয়া শিখবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Creating a GPT (OpenAI Help Center)
+- Docs: Gems in Gemini Apps (Google)
+- Docs: Botpress documentation
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] নিজের চ্যাটবট বানাতে কোড লাগে না, কিন্তু এই জিনিসটা না জানলে বট ভুল উত্তর দেবে!
+[মূল অংশ] চ্যাটবটের আসল শক্তি তার নির্দেশনা বা প্রম্পটে। কিছু টুলে বানাতে পেইড প্ল্যান লাগতে পারে, তাই আগে দাম দেখে নিন। রিসোর্সগুলো ইংরেজি, ক্যাপশন অন রাখুন। এক: OpenAI Help Center এর "Prompt engineering best practices for ChatGPT"। দুই: OpenAI Platform Docs এর "Prompt engineering" গাইড। তিন: Claude Docs এর "Prompting best practices"। চার: DeepLearning.AI এর শর্ট কোর্সের তালিকা। পাঁচ: OpenAI Academy এর "Prompting" রিসোর্স। এগুলো পড়লে ভালো নির্দেশনা লিখতে পারবেন। কোন নো-কোড টুলে বানাবেন, সেটা আলাদা করে তাদের অফিশিয়াল গাইডে দেখে নিন।
+[CTA] কোন কাজের চ্যাটবট বানাতে চান? কমেন্ট করুন, সেভ ও শেয়ার করুন।
 
-## 66. ডেটা প্রাইভেসি বোঝার ৫টা ভিডিও
-**Resources (verified via search; no Bangla video verified, all 5 English):**
-1. Data Privacy Basics | Channel unverified | https://youtube.com/watch?v=FADj7QsIjpw
-   - ডেটা প্রাইভেসির মূল ধারণা।
-2. Data Privacy: The Basics | Channel unverified | https://youtube.com/watch?v=Oytxdgqr7-g
-   - আরেকটি সহজ ভূমিকা।
-3. The Importance of Data Privacy (6 Minutes) | Channel unverified | https://youtube.com/watch?v=uM3eqo-WpaY
-   - ৬ মিনিটে কেন গুরুত্বপূর্ণ।
-4. Data privacy: protecting your personal information online | Channel unverified | https://youtube.com/watch?v=LDucneJ_fNU
-   - নিজের তথ্য রক্ষার ব্যবহারিক টিপস।
-5. 99% Don't Care About Online Privacy (Full Guide) | Channel unverified | https://youtube.com/watch?v=ZhRKENTpJns
-   - অনলাইন গোপনীয়তার পূর্ণ গাইড।
-
-**Non-video sources:** (none verified)
-
-**Recording script (Bangla):**
-[হুক] আপনি যা সার্চ করেন, যা লাইক করেন, সবই কেউ জমা করছে। জানেন কে?
-[মূল অংশ] এটাই ডেটা প্রাইভেসির বিষয়। বাংলায় ভালো ভিডিও আমি সার্চে পাইনি, তাই ইংরেজি ৫টা দিচ্ছি।
-এক: "Data Privacy Basics"।
-দুই: "Data Privacy: The Basics"।
-তিন: "The Importance of Data Privacy, 6 Minutes"।
-চার: "Data privacy: protecting your personal information online"।
-পাঁচ: "99% Don't Care About Online Privacy, Full Guide"।
-সাধারণ টিপ: অ্যাপকে অকারণে অনুমতি দেবেন না, আর প্রাইভেসি সেটিংস দেখে নিন।
-[CTA] আপনি চাইলে বাংলায় ভালো ভিডিও জানালে কমেন্টে লিখুন। সেভ ও শেয়ার করুন।
-**Visual note:** ফোনের অ্যাপ পারমিশন স্ক্রিন দেখান, তারপর টাইটেল কার্ড।
+**স্ক্রিনে যা দেখাবেন:** চ্যাটবটের নির্দেশনা লেখার স্ক্রিন, পাশে প্রশ্ন-উত্তরের নমুনা।
 
 ---
 
-## 67. ফেক নিউজ যাচাই শেখার ৫টা ভিডিও
-**Resources (verified via search):**
-1. সোশ্যাল মিডিয়ায় ভুয়া খবর বা ফেক নিউজ যেভাবে চিনতে পারবেন | Channel unverified | https://youtube.com/watch?v=3bv4klW1tXM
-   - বাংলায় ভুয়া খবর চেনা।
-2. ফ্যাক্ট চেক (playlist, search description says Ekushey Television) | Ekushey Television (per search summary, unverified) | https://www.youtube.com/playlist?list=PLIjC5gXkD2kfm-r3yqXXzYBM8YRDP6AIb
-   - বাংলাদেশি প্রসঙ্গে ফ্যাক্ট চেক।
-3. How to Spot Fake News | Channel unverified | https://youtube.com/watch?v=lQrVexzhrRI
-   - ফেক নিউজ ধরার সাধারণ উপায়।
-4. Protect Against Misinformation: How to Spot Fake News & Fact-Check Sources | Channel unverified | https://youtube.com/watch?v=eE4zEtCYflU
-   - উৎস যাচাইয়ের উপায়।
-5. Evaluating Sources & Fact Checking: Crash Course Scientific Thinking #6 | Crash Course (per title series, channel unverified) | https://youtube.com/watch?v=Fm0MpfKIs5w
-   - উৎস মূল্যায়নের গভীর আলোচনা।
-
-**Non-video sources:** (none verified)
-
-**Recording script (Bangla):**
-[হুক] যেটা শেয়ার করছেন, সেটা সত্য তো? একটা গুজব শেয়ার করে আপনিও দায়ী হতে পারেন।
-[মূল অংশ] ফেক নিউজ আজ বড় সমস্যা। যাচাই শেখার জন্য ৫টা রিসোর্স।
-এক: "সোশ্যাল মিডিয়ায় ভুয়া খবর বা ফেক নিউজ যেভাবে চিনতে পারবেন"।
-দুই: "ফ্যাক্ট চেক" প্লেলিস্ট, বাংলাদেশের প্রসঙ্গে।
-তিন: ইংরেজিতে "How to Spot Fake News"।
-চার: "Protect Against Misinformation: How to Spot Fake News & Fact-Check Sources"।
-পাঁচ: "Evaluating Sources & Fact Checking, Crash Course Scientific Thinking #6"।
-মূল নিয়ম: উৎস দেখুন, তারিখ দেখুন, আরও দু-একটা নির্ভরযোগ্য জায়গায় মিলিয়ে নিন।
-[CTA] শেয়ারের আগে একবার থামুন। সেভ করুন, কমেন্টে বলুন সর্বশেষ কোন গুজবে আপনি প্রায় বিশ্বাস করে ফেলেছিলেন।
-**Visual note:** একটা চটকদার হেডলাইন দেখান, তার ওপর "যাচাই করুন" স্ট্যাম্প।
+## 29. n8n দিয়ে অটোমেশন শেখার ৫টা রিসোর্স দেখুন
 
+**যাচাই করা লিংক: 5টা**
+
+(Only n8n verified. Make Academy and Zapier official pages were not verified.)
+Resources:
+1. [Course] Learn to build with n8n: free courses, certificates and badges | n8n | https://n8n.io/education/ (page says free courses) : এটা করলে আপনি প্রথম ওয়ার্কফ্লো থেকে API ও AI পর্যন্ত শিখবেন।
+2. [Docs] Text courses, Level One | n8n Docs | https://docs.n8n.io/courses/level-one/ : এটা পড়লে আপনি ধাপে ধাপে ওয়ার্কফ্লো বানাতে পারবেন।
+3. [Docs] Text courses | n8n Docs | https://docs.n8n.io/courses/ : এটা দেখলে আপনি বিগিনার ও ইন্টারমিডিয়েট কোর্স খুঁজে পাবেন।
+4. [Docs] A Beginner's Guide to Automation with n8n | freeCodeCamp | https://www.freecodecamp.org/news/a-beginners-guide-to-automation-with-n8n/ : এটা পড়লে আপনি অটোমেশনের বেসিক বুঝবেন।
+5. [Website] Beginner Course (1/9) Introduction to Automation | n8n Community | https://community.n8n.io/t/beginner-course-1-9-introduction-to-automation/48589 : এটা দেখলে আপনি কমিউনিটির বিগিনার সিরিজ পাবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: n8n documentation
+- Course: Zapier Learn (Zapier)
+- Course: Make Academy (Make)
+- Channel: n8n (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] বারবার একই কাজ হাতে করছেন? অটোমেশন শিখলে সেই সময় বাঁচতে পারে!
+[মূল অংশ] অটোমেশনে এক টুল থেকে আরেক টুলে কাজ নিজে নিজে চলে। n8n শেখার জন্য তাদের নিজেদের ফ্রি কোর্সই ভালো শুরু। রিসোর্সগুলো ইংরেজি, ক্যাপশন অন রাখুন। এক: n8n এর Education পেজ, ফ্রি কোর্স ও সার্টিফিকেট। দুই: n8n Docs এর "Level One" কোর্স। তিন: n8n Docs এর টেক্সট কোর্সের তালিকা। চার: freeCodeCamp এর "A Beginner's Guide to Automation with n8n"। পাঁচ: n8n কমিউনিটির "Beginner Course" সিরিজ। Zapier ও Make এর অফিশিয়াল পেজ আমি এখানে যাচাই করতে পারিনি, তাই সেগুলো আলাদা দেখে নিন। প্ল্যান ও দাম বদলায়, তাই আগে দেখুন।
+[CTA] কোন কাজটা অটোমেট করতে চান? কমেন্ট করুন, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** একটা সহজ ওয়ার্কফ্লো ডায়াগ্রাম: ট্রিগার, অ্যাকশন, ফলাফল।
+
 ---
+
+## 30. ছোট ব্যবসায় AI ব্যবহারের ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
 
-## 68. স্মার্টফোন কেনার আগে ৫টা ভিডিও
-**Resources (verified via search; all Bangla):**
-1. কি দেখে নতুন স্মার্টফোন কিনবেন | Channel unverified | https://youtube.com/watch?v=yQz2t4sXnLw
-   - কী কী দেখে কিনবেন তার ধারণা।
-2. নতুন ফোন কেনার আগে জেনে নিন! | Channel unverified | https://youtube.com/watch?v=PH_fvEbdMwE
-   - কেনার আগে জরুরি তথ্য।
-3. ফোন কেনার আগে যা জানা জরুরীঃ Phone Buying Guide 2025 | Channel unverified | https://youtube.com/watch?v=vAJRbohMiGA
-   - ফোন কেনার গাইড।
-4. ফোন কেনার আগে যে বিষয়গুলো জানা জরুরী | Channel unverified | https://youtube.com/watch?v=u3OTOSHdq9c
-   - আরেকটা দৃষ্টিকোণ।
-5. মোবাইল ফোন কেনার আগে যে বিষয়গুলো জানা দরকার। Mobile Phone Buying Guide | Channel unverified | https://youtube.com/watch?v=_ZpdiHLjG5o
-   - মূল পয়েন্টের সারসংক্ষেপ।
-
-**Non-video sources:** (none verified)
-
-**Recording script (Bangla):**
-[হুক] ফোন কিনে পস্তাচ্ছেন? কেনার আগে ৫ মিনিট খরচ করলে হাজার টাকা বাঁচতে পারে।
-[মূল অংশ] প্রতিটা ভিডিও আলাদা দৃষ্টিকোণ থেকে বলেছে।
-এক: "কি দেখে নতুন স্মার্টফোন কিনবেন"।
-দুই: "নতুন ফোন কেনার আগে জেনে নিন!"।
-তিন: "ফোন কেনার আগে যা জানা জরুরীঃ Phone Buying Guide 2025"।
-চার: "ফোন কেনার আগে যে বিষয়গুলো জানা জরুরী"।
-পাঁচ: "মোবাইল ফোন কেনার আগে যে বিষয়গুলো জানা দরকার, Mobile Phone Buying Guide"।
-মনে রাখবেন, আগে নিজের বাজেট আর দরকার ঠিক করুন। দোকানে যাওয়ার আগে রিভিউ দেখে নিন।
-[CTA] সেভ করুন, ফোন কিনতে যাচ্ছে এমন কাউকে শেয়ার করুন, আর কমেন্টে বাজেট ছাড়া শুধু আপনার প্রয়োজনটা লিখুন।
-**Visual note:** একটা চেকলিস্ট কার্ড: বাজেট, ব্যবহার, ওয়ারেন্টি, সার্ভিস সেন্টার।
+Resources:
+1. [Course] AI Fluency for Small Businesses | Anthropic on Coursera | https://www.coursera.org/learn/ai-fluency-for-small-businesses (check pricing) : এটা করলে আপনি ছোট ব্যবসায় AI বসানোর উপায় শিখবেন।
+2. [Docs] AI training guide for small business | U.S. Chamber of Commerce | https://www.uschamber.com/co/start/strategy/ai-training-guide-small-business : এটা পড়লে আপনি ছোট ব্যবসার জন্য AI প্রশিক্ষণের সাজানো পথ পাবেন।
+3. [Website] AI for SMBs, a free Google course | Digital Main Street (reports on Grow with Google) | https://digitalmainstreet.ca/ai-for-smbs-a-free-google-course/ : এটা পড়লে আপনি Google এর ফ্রি কোর্সের খোঁজ পাবেন (সেকেন্ডারি সূত্র, অফিশিয়াল পেজে মিলিয়ে নিন)।
+4. [Course] AI For Everyone | DeepLearning.AI on Coursera | https://www.coursera.org/learn/ai-for-everyone (partially free, check pricing) : এটা করলে আপনি ব্যবসায় AI এর সুযোগ চিনতে পারবেন।
+5. [Website] Courses and tools | Grow with Google | https://grow.google/intl/uk/courses-and-tools/ : এটা দেখলে আপনি ব্যবসার জন্য ডিজিটাল দক্ষতার কোর্স পাবেন।
 
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: SCORE (small business mentoring nonprofit)
+- Course: HubSpot Academy
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ছোট ব্যবসা চালান? AI ঠিকভাবে ব্যবহার না করলে সময় আর টাকা দুটোই নষ্ট হতে পারে!
+[মূল অংশ] কাস্টমার প্রশ্নের উত্তর, মার্কেটিং লেখা, হিসাবের কাজে AI সাহায্য করতে পারে, তবে ফল নিশ্চিত নয়, নিজে যাচাই করতে হবে। রিসোর্সগুলো ইংরেজি, ক্যাপশন অন রাখুন। এক: Coursera তে Anthropic এর "AI Fluency for Small Businesses"। দুই: U.S. Chamber of Commerce এর "AI training guide for small business"। তিন: Digital Main Street এর "AI for SMBs, a free Google course" লেখা, Google এর কোর্স সম্পর্কে জানতে। চার: "AI For Everyone", ব্যবসায় AI এর সুযোগ চেনার জন্য। পাঁচ: Grow with Google এর কোর্স ও টুলস পেজ। গ্রাহকের তথ্য AI টুলে দেওয়ার আগে গোপনীয়তা ভেবে নিন।
+[CTA] আপনার ব্যবসায় AI কোথায় কাজে লাগাবেন? কমেন্ট করুন, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** দোকান/অফিসের দৃশ্য, পাশে AI দিয়ে করা ৩টা কাজের আইকন।
+
 ---
+
+## 31. অনলাইন শপের প্রোডাক্ট ডেসক্রিপশন ও ছবিতে AI ব্যবহারের আগে ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+Resources:
+1. [Docs] Image link (Google Merchant Center Help) | Google | https://support.google.com/merchants/answer/6324350?hl=en : এটা পড়লে আপনি প্রোডাক্টের মেইন ছবির সাইজ, ফরম্যাট ও কী কী দেওয়া যাবে না, তা জানতে পারবেন।
+2. [Docs] Product data specification (Google Merchant Center Help) | Google | https://support.google.com/merchants/answer/7052112?hl=en : এটা পড়লে আপনি প্রোডাক্টের টাইটেল ও ডেসক্রিপশনসহ তথ্য কীভাবে সাজাতে হয় বুঝতে পারবেন।
+3. [Docs] Additional image link (Google Merchant Center Help) | Google | https://support.google.com/merchants/answer/6324370?hl=en : এটা পড়লে আপনি বাড়তি অ্যাঙ্গেলের ছবি কীভাবে যোগ করবেন জানবেন।
+4. [Docs] Lifestyle image link (Google Merchant Center Help) | Google | https://support.google.com/merchants/answer/9103186?hl=en : এটা পড়লে আপনি লাইফস্টাইল ছবির নিয়ম বুঝে ব্যবহার করতে পারবেন।
+5. [Tool] AI Product Image Description Generator | Hypotenuse AI | https://hypotenuse.ai/product-image-description-generator : এটা ব্যবহার করে আপনি ছবি থেকে ড্রাফট ডেসক্রিপশন বানিয়ে দেখতে পারবেন (check pricing, ড্রাফট নিজে যাচাই করুন)।
 
-## 69. ল্যাপটপ কেনার আগে ৫টা ভিডিও
-**Resources (verified via search):**
-1. ল্যাপটপ কেনার আগে জেনে নিন, Laptop Buying Guide Bangla, ল্যাপটপ সম্পর্কে ধারণা | Channel unverified | https://youtube.com/watch?v=eEwO9XG4i98
-   - ল্যাপটপের মৌলিক ধারণা।
-2. ল্যাপটপ কেনার আগে যেসব বিষয় মাথায় রাখা জরুরি | Channel unverified | https://youtube.com/watch?v=aCkl-hUiCy0
-   - মনে রাখার বিষয়ের তালিকা।
-3. কি দেখে নতুন ল্যাপটপ কিনবেন | Channel unverified | https://youtube.com/watch?v=rE-PUuGOBRE
-   - নতুন ল্যাপটপের চেকলিস্ট।
-4. পুরনো ল্যাপটপ কেনার আগে যা জানতে হবে । watch it Before buying used laptop । Bangla | Channel unverified | https://youtube.com/watch?v=aSHs0H2cunE
-   - ব্যবহৃত ল্যাপটপ কেনার সতর্কতা।
-5. Laptop buying guide: Things to know before you buy | Channel unverified | https://youtube.com/watch?v=-Qc3kvYGLXc
-   - ইংরেজিতে সাধারণ গাইড।
-
-**Non-video sources:** (none verified)
-
-**Recording script (Bangla):**
-[হুক] ল্যাপটপ কেনার পর যদি মনে হয় "ভুল জিনিস নিলাম", তখন আর ফেরত নেই।
-[মূল অংশ] কেনার আগে ৫টা ভিডিও দেখে নিন।
-এক: "ল্যাপটপ কেনার আগে জেনে নিন, Laptop Buying Guide Bangla"।
-দুই: "ল্যাপটপ কেনার আগে যেসব বিষয় মাথায় রাখা জরুরি"।
-তিন: "কি দেখে নতুন ল্যাপটপ কিনবেন"।
-চার: "পুরনো ল্যাপটপ কেনার আগে যা জানতে হবে"।
-পাঁচ: ইংরেজিতে "Laptop buying guide: Things to know before you buy"।
-আগে ঠিক করুন কী কাজে ব্যবহার করবেন। এরপর বাজেট, ওয়ারেন্টি আর সার্ভিসের কথা ভাবুন।
-[CTA] সেভ করুন, শেয়ার করুন, কমেন্টে বলুন আপনার কাজ কী, ছাত্র না ফ্রিল্যান্সার।
-**Visual note:** ল্যাপটপের ছবির পাশে ৪টা আইকন: প্রসেসর, RAM, স্টোরেজ, ব্যাটারি।
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Merchant Center Help (Google)
+- Docs: Shopify Help Center (Shopify)
 
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] অনলাইন শপে প্রোডাক্টের ছবি আর ডেসক্রিপশন ভুল হলে বিক্রি আটকে যেতে পারে, অথচ ভুলটা খুব সহজে এড়ানো যায়।
+[মূল অংশ] অনেকেই AI দিয়ে ডেসক্রিপশন লিখে সরাসরি পোস্ট করে দেন, ছবিও যেমন তেমন তুলে দেন। শুরুর আগে এই ৫টা রিসোর্স দেখুন, সবই ইংরেজিতে, দরকার হলে ব্রাউজারের ট্রান্সলেট ব্যবহার করুন। এক, Google Merchant Center Help-এর Image link পেজ: মেইন ছবির নিয়ম জানাবে। দুই, Product data specification: প্রোডাক্টের তথ্য কীভাবে লিখবেন বোঝাবে। তিন, Additional image link: বাড়তি ছবির নিয়ম। চার, Lifestyle image link: লাইফস্টাইল ছবির নিয়ম। পাঁচ, Hypotenuse AI-এর প্রোডাক্ট ডেসক্রিপশন টুল: ছবি থেকে ড্রাফট বানিয়ে দেখার জন্য, দাম আছে কি না নিজে দেখে নিন। মনে রাখবেন, AI-এর লেখা ড্রাফট মাত্র, পণ্যের মাপ, উপাদান ও দাম নিজে মিলিয়ে নিন। আর Google জানাচ্ছে AI দিয়ে বানানো ছবিতে সেই তথ্য মেটাডেটায় রাখতে হয়।
+[CTA] আপনার শপ থাকলে কমেন্টে বলুন কোন পণ্য বিক্রি করেন, ভিডিওটা সেভ করুন, আর কাউকে শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে Merchant Center পেজের স্ক্রিনশট ও ৫টা নাম পরপর দেখান।
+
 ---
+
+## 32. AI ভয়েসওভার ও টেক্সট-টু-স্পিচ শেখার আগে ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 4টা**
+
+Resources:
+1. [Website] Text-to-Speech: AI voices and speech synthesis | Google Cloud | https://cloud.google.com/text-to-speech : এটা দেখলে আপনি Google-এর TTS কী পারে তা বুঝতে পারবেন।
+2. [Docs] Get started with Cloud Text-to-Speech | Google Cloud Documentation | https://docs.cloud.google.com/text-to-speech/docs/get-started : এটা পড়লে আপনি ধাপে ধাপে টেক্সট থেকে অডিও বানানো শিখবেন (শুরুর জন্য Cloud প্রজেক্ট লাগে)।
+3. [Docs] Text to speech overview | Microsoft Learn | https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech : এটা পড়লে আপনি Azure-এর ভয়েস অপশন ও SSML দিয়ে পিচ, বিরতি ঠিক করা বুঝবেন।
+4. [Course] Create Realistic AI Voice Over with ElevenLabs | Udemy | https://www.udemy.com/course/create-realistic-ai-voice-over-with-elevenlabs-free-course/ : এটা দেখলে আপনি ElevenLabs দিয়ে টোন ও গতি নিয়ন্ত্রণ শিখবেন (search result-এ Free, আপডেট দেখে নিন)।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: ElevenLabs documentation (ElevenLabs)
+- Tool: Audacity
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] নিজের গলা না দিয়েও ভিডিওতে পরিষ্কার ভয়েসওভার দেওয়া যায়, কিন্তু ভুল টুল বাছলে সময় নষ্ট।
+[মূল অংশ] AI ভয়েস শুরু করার আগে এই রিসোর্সগুলো দেখুন, সবই ইংরেজিতে, ক্যাপশন বা অটো ট্রান্সলেট অন রাখুন। এক, Google Cloud-এর Text-to-Speech পেজ: কী কী ভয়েস সম্ভব দেখাবে। দুই, Cloud Text-to-Speech-এর Get started গাইড: ধাপে ধাপে অডিও বানানো শেখাবে। তিন, Microsoft Learn-এর Text to speech overview: SSML দিয়ে বিরতি ও গতি ঠিক করা বোঝাবে। চার, Udemy-তে ElevenLabs দিয়ে ভয়েসওভারের কোর্স, সার্চ রেজাল্টে ফ্রি লেখা ছিল, তবু আগে চেক করে নিন। আমি মাত্র ৪টা যাচাই করতে পেরেছি। সাবধান: কারো গলা অনুমতি ছাড়া ক্লোন করবেন না, আর ভিডিওতে AI ভয়েস ব্যবহার করলে দর্শককে জানানো ভালো।
+[CTA] কোন ভাষায় ভয়েসওভার লাগে কমেন্টে লিখুন, সেভ করুন, শেয়ার করুন।
 
-## 70. ধীর কম্পিউটার বা ফোন দ্রুত করার ৫টা ভিডিও
-**Resources (verified via search):**
-1. কম্পিউটার Hang এবং স্লো হওয়ার কারণ ও এর সমাধান Windows 11 [ঠিক করুন] | Channel unverified | https://youtube.com/watch?v=UUxVX4QG-vg
-   - কারণ ও সমাধান বাংলায়।
-2. 🚀মাত্র ৩টি টিপসে Windows 11 স্লো পিসি বানান ফাস্ট | Channel unverified | https://youtube.com/watch?v=B0zw8LZS2DY
-   - ৩টা সহজ টিপস।
-3. স্লো কম্পিউটার,ল্যাপটপ সুপার ফাষ্ট করে নিন || How to Fix Slow PC or Laptop | Channel unverified | https://youtube.com/watch?v=JrrHcJa_6YU
-   - সাধারণ সমাধান।
-4. Microsoft PC Manager দিয়ে স্লো কম্পিউটার দ্রুত করুন ৫ মিনিটে | Channel unverified | https://youtube.com/watch?v=zUUOFvYuuVc
-   - মাইক্রোসফটের টুল দিয়ে।
-5. How To Speed Up a Slow Computer - Tech Tips from Best Buy | Best Buy (per title) | https://youtube.com/watch?v=w6iGLPdsXlM
-   - ইংরেজিতে নির্ভরযোগ্য টিপস।
-
-**Non-video sources:** (none verified)
-
-**Recording script (Bangla):**
-[হুক] কম্পিউটার চালু হতে ৫ মিনিট লাগে? কিছু না কিনেও এটা ঠিক করা যেতে পারে।
-[মূল অংশ] ৫টা ভিডিও দেখুন।
-এক: "কম্পিউটার Hang এবং স্লো হওয়ার কারণ ও এর সমাধান Windows 11"।
-দুই: "মাত্র ৩টি টিপসে Windows 11 স্লো পিসি বানান ফাস্ট"।
-তিন: "স্লো কম্পিউটার, ল্যাপটপ সুপার ফাষ্ট করে নিন"।
-চার: "Microsoft PC Manager দিয়ে স্লো কম্পিউটার দ্রুত করুন ৫ মিনিটে"।
-পাঁচ: ইংরেজিতে "How To Speed Up a Slow Computer, Tech Tips from Best Buy"।
-অনেক সময় স্টার্টআপ প্রোগ্রাম কমালেই ফল পাওয়া যায়। কিছু বদলানোর আগে ব্যাকআপ রাখুন।
-[CTA] সেভ করুন, শেয়ার করুন, কমেন্টে লিখুন আপনার পিসি কতটা স্লো।
-**Visual note:** Task Manager এর Startup ট্যাব দেখান।
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে টেক্সট থেকে অডিও হওয়ার ডেমো ও ৪টা রিসোর্সের নাম।
 
 ---
 
-## 71. Google Workspace (Docs, Sheets, Drive) প্রডাক্টিভিটির ৫টা ভিডিও
-**Resources (verified via search):**
-1. Google Sheet Full Bangla Tutorial | Channel unverified | https://youtube.com/watch?v=gVDrBAEy0kk
-   - শীটস বাংলায় শুরু থেকে।
-2. How to use google docs in bangla for beginners। google docs tutorial a to z 2022 | Channel unverified | https://youtube.com/watch?v=04EIicwFdi0
-   - ডক্স বাংলায়।
-3. How to Use Google Drive (Google Drive Bangla Tutorial) | Channel unverified | https://youtube.com/watch?v=8JSTxA1-vZI
-   - ড্রাইভ বাংলায়।
-4. 7 Google Workspace Tips and Tricks for 2025 | Channel unverified | https://youtube.com/watch?v=e5RnhfA3NyA
-   - দ্রুত কাজের টিপস।
-5. 12 Tips To Use Google Sheets Like A Pro | Channel unverified | https://youtube.com/watch?v=LiQXBP_XZHo
-   - শীটসের প্রো টিপস।
-
-**Non-video sources:** (none verified)
-
-**Recording script (Bangla):**
-[হুক] Google Docs, Sheets, Drive ব্যবহার করেন, তবু কাজ ধীর? কয়েকটা টিপসেই সময় বাঁচে।
-[মূল অংশ] ৫টা ভিডিও।
-এক: "Google Sheet Full Bangla Tutorial"।
-দুই: "How to use google docs in bangla for beginners"।
-তিন: "How to Use Google Drive, Google Drive Bangla Tutorial"।
-চার: ইংরেজিতে "7 Google Workspace Tips and Tricks for 2025"।
-পাঁচ: "12 Tips To Use Google Sheets Like A Pro"।
-কিছু ভিডিও পুরনো হতে পারে, তাই স্ক্রিনের সঙ্গে মিলিয়ে দেখুন।
-[CTA] সেভ করুন, কমেন্টে লিখুন কোনটা সবচেয়ে বেশি ব্যবহার করেন, বন্ধুকে শেয়ার করুন।
-**Visual note:** তিনটা আইকন পাশাপাশি: Docs, Sheets, Drive।
+## 33. AI দিয়ে ভিডিও ডাবিং ও অনুবাদের আগে ৫টা রিসোর্স দেখুন
 
+**যাচাই করা লিংক: 3টা**
+
+Resources:
+1. [Docs] Use automatic dubbing | YouTube Help | https://support.google.com/youtube/answer/15569972?hl=en : এটা পড়লে আপনি YouTube-এর অটো ডাবিং কীভাবে চালু ও রিভিউ করবেন জানবেন (শর্ত ও সময়সীমা Studio-তে মিলিয়ে নিন)।
+2. [Docs] Add multi-language audio tracks to your videos | YouTube Help | https://support.google.com/youtube/answer/13338784?hl=en : এটা পড়লে আপনি নিজের বানানো ডাব অডিও ট্র্যাক আপলোড করা শিখবেন।
+3. [Website] How To Dub YouTube Videos | ElevenLabs blog | https://elevenlabs.io/blog/dub-youtube-videos : এটা পড়লে আপনি ElevenLabs দিয়ে ডাবিংয়ের ধাপ বুঝবেন (ভেন্ডরের নিজের লেখা, check pricing)।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Add multi-language audio tracks (YouTube Help)
+- Docs: Dubbing (ElevenLabs)
+- Tool: DeepL
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] একটাই ভিডিও, কিন্তু অন্য ভাষার দর্শকও দেখতে পারে, কীভাবে?
+[মূল অংশ] AI ডাবিংয়ে ঝাঁপ দেওয়ার আগে তিনটা রিসোর্স দেখুন, সবই ইংরেজি, ক্যাপশন অন রাখুন। এক, YouTube Help-এর Use automatic dubbing: অটো ডাব কীভাবে কাজ করে ও রিভিউ করা যায় কি না। দুই, YouTube Help-এর multi-language audio tracks: নিজের ডাব ট্র্যাক আপলোড করার নিয়ম। তিন, ElevenLabs-এর ব্লগ How To Dub YouTube Videos: ভেন্ডরের টুল দিয়ে ডাবিংয়ের ধাপ। আমি মাত্র ৩টা যাচাই করতে পেরেছি। মনে রাখুন, অটো ডাব সবসময় নিখুঁত হয় না, অনুবাদ ভুল হতে পারে, তাই প্রকাশের আগে শুনে নিন। YouTube-এর পেজেই সময়সীমা নিয়ে ভিন্ন তথ্য ছিল, তাই Studio-তে দেখে নিন।
+[CTA] কোন ভাষায় ডাব করতে চান কমেন্টে জানান, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** YouTube Studio-র ডাবিং সেটিং স্ক্রিন ও ৩টা নাম।
+
 ---
+
+## 34. ডেটা অ্যানালিটিক্স শেখার আগে ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 2টা**
 
-## 72. Notion ও Obsidian দিয়ে নোট নেওয়ার ৫টা ভিডিও
-**Resources (verified via search; only 2 Bangla found):**
-1. আমি কিভাবে Notion ব্যাবহার করি? How I Organize My Life | Channel unverified | https://youtube.com/watch?v=YVI0H8VPqmY
-   - বাস্তব ব্যবহারের অভিজ্ঞতা, বাংলায়।
-2. Notion Free Masterclass Bangla Part 10 | Channel unverified | https://youtube.com/watch?v=oPd2Q1dMPSc
-   - বাংলা মাস্টারক্লাস সিরিজের একটা পর্ব।
-3. the *ultimate* guide to note-taking in notion (with tutorial!) | Channel unverified | https://youtube.com/watch?v=NSBuuSlw7A8
-   - Notion এ নোট নেওয়ার টিউটোরিয়াল।
-4. Obsidian Vs Notion | Channel unverified | https://youtube.com/watch?v=oQuxPlmBkxs
-   - দুইটার তুলনা।
-5. Notion vs Obsidian Comparison 2025 | Channel unverified | https://youtube.com/watch?v=0uWPUyZwecQ
-   - আরেকটা তুলনা।
-
-**Non-video sources:** (none verified)
-
-**Recording script (Bangla):**
-[হুক] নোট এলোমেলো? পরীক্ষার আগে খুঁজে পান না? একটা নোট অ্যাপ বদলে দিতে পারে।
-[মূল অংশ] Notion আর Obsidian, দুটোই জনপ্রিয়। ৫টা ভিডিও।
-এক: "আমি কিভাবে Notion ব্যাবহার করি? How I Organize My Life"।
-দুই: "Notion Free Masterclass Bangla Part 10"।
-তিন: "the ultimate guide to note-taking in notion"।
-চার: "Obsidian Vs Notion"।
-পাঁচ: "Notion vs Obsidian Comparison 2025"।
-আমি যতদূর জানি, Notion গোছানো পেজের জন্য ভালো, Obsidian লিংক করা নোটের জন্য। নিজে ট্রাই করে দেখুন।
-[CTA] সেভ করুন, কমেন্টে লিখুন কোনটা ব্যবহার করেন।
-**Visual note:** দুটো অ্যাপের লোগো পাশাপাশি, মাঝে "VS"।
+Resources:
+1. [Course] AI-Enabled Data Analytics | Coursera | https://www.coursera.org/learn/ai-enabled-data-analytics : এটা করলে আপনি AI ও Excel দিয়ে অ্যানালিটিক্সের কাজের ধারা বুঝবেন (check pricing)।
+2. [Website] DeepLearning.AI Courses | DeepLearning.AI | https://www.deeplearning.ai/courses : এখানে Data Analytics কোর্সসহ অনেক কোর্স আছে, বেছে শুরু করতে পারবেন (প্রতিটির দাম আলাদা, check pricing)।
 
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Course: Google Data Analytics Professional Certificate (Google on Coursera)
+- Course: Kaggle Learn (Kaggle)
+- Course: Statistics and probability (Khan Academy)
+- Channel: Alex The Analyst (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ডেটা অ্যানালিটিক্সে ঢোকার আগে ভুল জায়গা থেকে শুরু করলে মাসের পর মাস নষ্ট হতে পারে।
+[মূল অংশ] এই বিষয়ে আমি এখন মাত্র ২টা রিসোর্স যাচাই করতে পেরেছি, সবই ইংরেজিতে, ক্যাপশন অন রাখুন। এক, Coursera-র AI-Enabled Data Analytics কোর্স: AI ও Excel নিয়ে বিগিনার কোর্স। দুই, DeepLearning.AI-এর কোর্স পেজ: সেখানে Data Analytics কোর্স আছে। সার্চে আরও নাম এসেছে, যেমন Google Data Analytics Certificate, Kaggle Learn, Microsoft Learn, কিন্তু সরাসরি লিংক যাচাই হয়নি, তাই নিজে অফিসিয়াল সাইটে খুঁজে দাম ও শর্ত দেখে নিন। সার্টিফিকেট মানেই চাকরি, এমন ধরে নেবেন না।
+[CTA] কমেন্টে বলুন Excel নাকি SQL থেকে শুরু করবেন, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** দুটো কোর্স পেজ ও "নিজে যাচাই করুন" লেখা।
+
 ---
+
+## 35. প্রম্পট ইঞ্জিনিয়ারিং শেখার আগে ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 3টা**
+
+Resources:
+1. [Course] Generative AI: Prompt Engineering Basics | Coursera (IBM, per search description) | https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone : এটা করলে আপনি কোডিং ছাড়াই প্রম্পটের মূল ধারণা শিখবেন (result-এ free to enroll, নিশ্চিত হয়ে নিন)।
+2. [Course] Google Prompting Essentials | Coursera | https://www.coursera.org/specializations/prompting-essentials-google : এটা করলে আপনি প্রম্পটিংয়ের ধাপ শিখবেন (দাম নিয়ে তথ্য পরস্পরবিরোধী, check pricing)।
+3. [Website] DeepLearning.AI Courses | DeepLearning.AI | https://www.deeplearning.ai/courses : এখানে প্রম্পটিংয়ের কোর্স খুঁজে পাবেন (check pricing)।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: Prompt Engineering Guide (DAIR.AI)
+- Docs: Prompt engineering overview (Anthropic docs)
+- Course: Short Courses (DeepLearning.AI)
 
-## 73. ফোনের ব্যাটারি ও স্টোরেজ ঠিক রাখার ৫টা ভিডিও
-**Resources (verified via search):**
-1. এইবার আর ফোনের চার্জ ফুরাবে না! - How to increase battery backup? | Channel unverified | https://youtube.com/watch?v=7lDKs12K0vs
-   - ব্যাটারি ব্যাকআপ বাড়ানোর টিপস।
-2. Phone Storage কিভাবে খালি করবেন কিছু Delete করা ছাড়াই | Channel unverified | https://youtube.com/watch?v=h55P5k1Hyc0
-   - ডিলিট ছাড়াই স্টোরেজ।
-3. Slow মোবাইল Fast করার ৭টি সহজ উপায় | Channel unverified | https://youtube.com/watch?v=GvdC24Np1kQ
-   - ফোন দ্রুত করার ৭ উপায়।
-4. Simple Settings and Habits That Improve Battery Life | Channel unverified | https://youtube.com/watch?v=ao-SwslNI5o
-   - সেটিংস ও অভ্যাস।
-5. How to Free Up Space & Memory on Any Android Phone | Channel unverified | https://youtube.com/watch?v=EXDaAptVp_c
-   - অ্যান্ড্রয়েডে জায়গা খালি করা।
-
-**Non-video sources:** (none verified)
-
-**Recording script (Bangla):**
-[হুক] "Storage Full" দেখে বিরক্ত? ব্যাটারি দুপুরেই শেষ? সমাধান আছে।
-[মূল অংশ] ৫টা ভিডিও।
-এক: "এইবার আর ফোনের চার্জ ফুরাবে না!"।
-দুই: "Phone Storage কিভাবে খালি করবেন কিছু Delete করা ছাড়াই"।
-তিন: "Slow মোবাইল Fast করার ৭টি সহজ উপায়"।
-চার: ইংরেজিতে "Simple Settings and Habits That Improve Battery Life"।
-পাঁচ: "How to Free Up Space & Memory on Any Android Phone"।
-সেটিংসের নাম ফোনভেদে আলাদা হতে পারে, তাই নিজের ফোনের সঙ্গে মিলিয়ে নিন।
-[CTA] সেভ করুন, কমেন্টে লিখুন আপনার ফোনে কত স্টোরেজ ভরা।
-**Visual note:** ফোনের Storage সেটিংস স্ক্রিন, তারপর ব্যাটারি আইকন।
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] প্রম্পট ইঞ্জিনিয়ারিং কি আলাদা ক্যারিয়ার, নাকি শুধু একটা স্কিল?
+[মূল অংশ] সৎ উত্তর: আজকের দিনে এটা আলাদা চাকরির চেয়ে অন্য কাজের সঙ্গে যোগ করার স্কিল হিসেবে বেশি দেখা হয়, আর বাজার বদলায়। শেখার জন্য এই ৩টা যাচাই করা রিসোর্স দেখুন, সবই ইংরেজি, ক্যাপশন অন রাখুন। এক, Coursera-য় Generative AI: Prompt Engineering Basics, বিগিনার কোর্স। দুই, Google Prompting Essentials, দাম আগে দেখে নিন। তিন, DeepLearning.AI-এর কোর্স পেজ। আরও ভালো উৎস আছে, যেমন Anthropic ও OpenAI-র নিজস্ব গাইড, কিন্তু সরাসরি লিংক যাচাই হয়নি, তাই অফিসিয়াল সাইটে নিজে দেখুন। কোর্স শেষ করলেই চাকরি মিলবে, এমন নিশ্চয়তা কেউ দিতে পারে না।
+[CTA] আপনি কোন কাজে প্রম্পট ব্যবহার করেন কমেন্ট করুন, সেভ ও শেয়ার করুন।
 
+**স্ক্রিনে যা দেখাবেন:** ৩টা কোর্সের নাম ও একটা প্রম্পট উদাহরণ।
+
 ---
+
+## 36. ইন্টারভিউয়ের প্রস্তুতিতে AI ব্যবহারের আগে রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 1টা**
 
-## 74. Gmail ও ইনবক্স গুছিয়ে রাখার ৫টা ভিডিও
-**Resources (verified via search; no Bangla found, all English):**
-1. Gmail Filters Tutorial: Automatically Organize Your Inbox (Labels, Auto-Delete, Rules) | Channel unverified | https://youtube.com/watch?v=1W17mPTqM5g
-   - ফিল্টার দিয়ে অটো সাজানো।
-2. How To Organize Gmail | Channel unverified | https://youtube.com/watch?v=qohXH4au4eA
-   - জিমেইল সাজানোর সাধারণ গাইড।
-3. 4 Steps To Inbox Zero In Gmail | Channel unverified | https://youtube.com/watch?v=jTGFucyRKgk
-   - ৪ ধাপে ইনবক্স জিরো।
-4. The BEST way to organize a Gmail Inbox (2026): Step-by-step | Channel unverified | https://youtube.com/watch?v=n63pgenrXJA
-   - ধাপে ধাপে।
-5. How to organize your inbox in Google Workspace and Gmail - Using Labels and Filters | Channel unverified | https://youtube.com/watch?v=INyOJlEJHwQ
-   - লেবেল ও ফিল্টার।
-
-**Non-video sources:** (none verified)
-
-**Recording script (Bangla):**
-[হুক] ইনবক্সে হাজার হাজার আনরিড মেইল? জরুরি মেইল হারিয়ে যাচ্ছে?
-[মূল অংশ] বাংলায় ভালো ভিডিও পাইনি, তাই ৫টা ইংরেজি ভিডিও।
-এক: "Gmail Filters Tutorial: Automatically Organize Your Inbox"।
-দুই: "How To Organize Gmail"।
-তিন: "4 Steps To Inbox Zero In Gmail"।
-চার: "The BEST way to organize a Gmail Inbox, Step-by-step"।
-পাঁচ: "How to organize your inbox in Google Workspace and Gmail, Using Labels and Filters"।
-ফিল্টার আর লেবেল শিখলেই অর্ধেক কাজ শেষ।
-[CTA] সেভ করুন, কমেন্টে লিখুন আপনার ইনবক্সে কয়টা আনরিড মেইল।
-**Visual note:** ভরা ইনবক্সের স্ক্রিন থেকে পরিষ্কার ইনবক্সে ট্রানজিশন।
+Resources:
+1. [Tool] Interview Warmup | Google (grow.google) | https://grow.google/certificates/interview-warmup/ : এটা ব্যবহার করে আপনি প্রশ্নের উত্তর অনুশীলন করে ফিডব্যাক পাবেন (search result অনুযায়ী ফ্রি, তবে নিশ্চিত হয়ে নিন)।
 
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Tool: Interview Warmup (Google)
+- Tool: Pramp (peer mock interviews)
+- Website: Glassdoor
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ইন্টারভিউতে গিয়ে প্রথমবার কথা বললে ভুল হবেই, তাই আগে অনুশীলন করুন।
+[মূল অংশ] এই বিষয়ে আমি মাত্র ১টা অফিসিয়াল রিসোর্স যাচাই করতে পেরেছি: Google-এর Interview Warmup, ইংরেজিতে। আপনি উত্তর বলেন, সেটা ট্রান্সক্রাইব হয় এবং আপনি আবার চেষ্টা করতে পারেন। সার্চ অনুযায়ী এটা প্রথমে Google Career Certificate শিক্ষার্থীদের জন্য বানানো, তবে যে কেউ ব্যবহার করতে পারে। বাকি টুলগুলো ছোট বা বাণিজ্যিক, তাই সুপারিশ করছি না। নিজের ইংরেজি আর উত্তর বন্ধুকে দিয়েও যাচাই করান, AI-এর ফিডব্যাক চূড়ান্ত নয়।
+[CTA] কোন চাকরির ইন্টারভিউ দিচ্ছেন কমেন্ট করুন, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** Interview Warmup পেজ ও একটা প্রশ্ন-উত্তর ডেমো।
+
 ---
+
+## 37. LinkedIn প্রোফাইল ও পোস্টে AI ব্যবহারের আগে রিসোর্স
 
-## 75. ক্লাউড ব্যাকআপ ও ডেটা হারানো ঠেকানোর ৫টা ভিডিও
-**Resources (verified via search):**
-1. How to Back-up Data in Bangla . কিভাবে ডেটা ব্যাক আপ নিতে হয় | Channel unverified | https://youtube.com/watch?v=8YECAEQ8hv0
-   - ডেটা ব্যাকআপ বাংলায়।
-2. কিভাবে অ্যান্ড্রয়েড ফোনের সবকিছু ব্যাকআপ করবেন | Channel unverified | https://youtube.com/watch?v=Egxa4GSEQQ4
-   - ফোনের ব্যাকআপ।
-3. গুগল ড্রাইভ কী এবং কিভাবে ব্যবহার করবেন | Channel unverified | https://youtube.com/watch?v=7AwJpYkN-bU
-   - ক্লাউড স্টোরেজ বোঝা।
-4. The 3-2-1 Backup Rule Explained (Never Lose Your Data Again) | Channel unverified | https://youtube.com/watch?v=62oi_G8exC8
-   - ৩-২-১ নিয়ম।
-5. How To Make A 3-2-1 Backup System | Channel unverified | https://youtube.com/watch?v=ji0SQzpOlBw
-   - ব্যাকআপ সিস্টেম বানানো।
-
-**Non-video sources:** (none verified)
-
-**Recording script (Bangla):**
-[হুক] ফোন হারালে বা হার্ডডিস্ক নষ্ট হলে সব ছবি, নথি গেলে কী করবেন?
-[মূল অংশ] ৫টা ভিডিও।
-এক: "How to Back-up Data in Bangla, কিভাবে ডেটা ব্যাক আপ নিতে হয়"।
-দুই: "কিভাবে অ্যান্ড্রয়েড ফোনের সবকিছু ব্যাকআপ করবেন"।
-তিন: "গুগল ড্রাইভ কী এবং কিভাবে ব্যবহার করবেন"।
-চার: ইংরেজিতে "The 3-2-1 Backup Rule Explained"।
-পাঁচ: "How To Make A 3-2-1 Backup System"।
-সংক্ষেপে নিয়ম: একাধিক কপি রাখুন, একটা আলাদা জায়গায়।
-[CTA] সেভ করুন, আজই একটা ব্যাকআপ নিন। কমেন্টে লিখুন নিয়েছেন কি না।
-**Visual note:** ফোন, হার্ডডিস্ক, ক্লাউড আইকন তিনটা, সঙ্গে "৩-২-১"।
+**যাচাই করা লিংক: 0টা**
 
+Resources:
+(only 0 verified: সার্চে LinkedIn-এর অফিসিয়াল হেল্প বা LinkedIn Learning পেজ আসেনি, শুধু ব্লগ ও বিক্রির পেজ এসেছে, তাই কোনো লিংক দিচ্ছি না। আবার সার্চ করার সুযোগ পেলে "LinkedIn Help profile tips" দিয়ে করুন।)
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: LinkedIn Help (LinkedIn)
+- Course: LinkedIn Learning (LinkedIn)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] LinkedIn প্রোফাইল সাজানোর আগে একটা ভুল এড়ান: AI-র লেখা যেমন আছে তেমন বসিয়ে দেবেন না।
+[মূল অংশ] এই বিষয়ে আমি এখনও যাচাই করা অফিসিয়াল রিসোর্স পাইনি, তাই ভুল লিংক দেব না। আপাতত নিয়ম: AI দিয়ে হেডলাইন ও About-এর ড্রাফট করান, তারপর নিজের সত্যিকারের অভিজ্ঞতা দিয়ে বদলান, যা করেননি তা লিখবেন না। LinkedIn-এর নিজের হেল্প সেন্টারে প্রোফাইল টিপস খুঁজে দেখুন। পরের ভিডিওতে যাচাই করা ৫টা রিসোর্স নিয়ে আসব।
+[CTA] আপনার প্রোফাইলের কোন অংশে সমস্যা, কমেন্টে বলুন, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** একটা LinkedIn প্রোফাইলের হেডলাইন-আগে-পরে উদাহরণ।
+
 ---
+
+## 38. ফ্রি AI কোর্স ও সার্টিফিকেট পাওয়ার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 3টা**
+
+Resources:
+1. [Website] Free Artificial Intelligence Courses | Coursera | https://www.coursera.org/courses?query=free&skills=Artificial+Intelligence : এখানে AI বিষয়ক কোর্সের তালিকা দেখে বেছে নিতে পারবেন (প্রতিটির ফ্রি/পেইড আলাদা, check pricing)।
+2. [Website] DeepLearning.AI Courses | DeepLearning.AI | https://www.deeplearning.ai/courses : এখানে প্রম্পটিং, এজেন্ট ইত্যাদির ছোট কোর্স পাবেন (সার্টিফিকেট শর্ত প্রতি কোর্সে আলাদা)।
+3. [Website] 7 Free AI Training Courses and Resources | eWeek | https://www.eweek.com/news/free-ai-training-courses-resources/ : এটা পড়লে Microsoft, AWS, Google-এর ফ্রি ট্রেনিংয়ের ধারণা পাবেন (নিউজ আর্টিকেল, নিজে অফিসিয়াল সাইটে মিলিয়ে নিন)।
 
-## 76. ডিজিটাল ডিটক্স ও স্ক্রিন টাইম কমানোর ৫টা ভিডিও
-**Resources (verified via search; only 2 Bangla):**
-1. মোবাইলের নেশা কাটানোর উপায় কি? ফোন আসক্তি কমানোর উপায় | Channel unverified | https://youtube.com/watch?v=Xwq9lV-f5mo
-   - ফোন আসক্তি নিয়ে বাংলা আলোচনা।
-2. ফোনের আসক্তি কমাতে পারেন যেসব উপায়ে | Channel unverified | https://youtube.com/watch?v=Ik5OcW2ZVeU
-   - কমানোর উপায়।
-3. How I reduced my screen time by 67% (guide) | Channel unverified | https://youtube.com/watch?v=D3vHfjiTUKw
-   - ব্যক্তিগত গাইড।
-4. How To Reduce Screen Time (2025) | Channel unverified | https://youtube.com/watch?v=wTz1DBGEN9I
-   - স্ক্রিন টাইম কমানো।
-5. 8 Digital Minimalism Habits That Actually Reduce Screen Time (No willpower needed) | Channel unverified | https://youtube.com/watch?v=azb7J6TPTW4
-   - ছোট অভ্যাস।
-
-**Non-video sources:** (none verified)
-
-**Recording script (Bangla):**
-[হুক] দিনে কত ঘণ্টা ফোনে? হিসাব দেখলে চমকে যেতে পারেন।
-[মূল অংশ] ৫টা ভিডিও।
-এক: "মোবাইলের নেশা কাটানোর উপায় কি? ফোন আসক্তি কমানোর উপায়"।
-দুই: "ফোনের আসক্তি কমাতে পারেন যেসব উপায়ে"।
-তিন: "How I reduced my screen time by 67%"।
-চার: "How To Reduce Screen Time"।
-পাঁচ: "8 Digital Minimalism Habits That Actually Reduce Screen Time"।
-ছোট ধাপে শুরু করুন, যেমন ঘুমের আগে ফোন দূরে রাখা। বেশি সমস্যা হলে বিশেষজ্ঞের পরামর্শ নিন।
-[CTA] সেভ করুন, কমেন্টে লিখুন গতকাল আপনার স্ক্রিন টাইম কত ছিল।
-**Visual note:** ফোনের Screen Time পেজ ব্লার করে দেখান।
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Course: Elements of AI (University of Helsinki)
+- Course: Google AI Essentials (Google on Coursera)
+- Course: AI learning paths (Microsoft Learn)
+- Course: IBM SkillsBuild (IBM)
+- Course: Hugging Face Learn
+- Course: Practical Deep Learning for Coders (fast.ai)
 
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] "ফ্রি AI সার্টিফিকেট" শুনে টাকা দিয়ে ফেলার আগে এটা দেখুন।
+[মূল অংশ] ৩টা যাচাই করা রিসোর্স, সবই ইংরেজি, ক্যাপশন অন রাখুন। এক, Coursera-র AI কোর্স তালিকা। দুই, DeepLearning.AI-এর কোর্স পেজ। তিন, eWeek-এর ফ্রি AI ট্রেনিংয়ের তালিকা। সার্চের তথ্য অনুযায়ী Kaggle Learn, Microsoft, AWS ও Elements of AI-তে ফ্রি অপশন থাকতে পারে, কিন্তু সার্টিফিকেটের নিয়ম প্রায়ই বদলায় এবং কিছু জায়গায় সার্টিফিকেট পেইড, তাই ভর্তির আগে অফিসিয়াল পেজে দেখুন। সার্টিফিকেট চাকরির নিশ্চয়তা নয়।
+[CTA] কোন কোর্স শুরু করছেন কমেন্ট করুন, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** ৩টা পেজ ও "ভর্তির আগে শর্ত দেখুন" লেখা।
+
 ---
+
+## 39. ফ্রিল্যান্স ক্লায়েন্টের সঙ্গে ইংরেজিতে কথা বলার আগে রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 2টা**
+
+Resources:
+1. [Course] English for Business Communication | Alison | https://alison.com/course/english-for-business-communication : এটা দেখলে আপনি পেশাদার ইমেইল, ফোন ও মিটিংয়ের ইংরেজি শিখবেন (ভিডিওসহ, check pricing, সার্টিফিকেট ফি আলাদা হতে পারে)।
+2. [Course] English for Freelancers: Communication Skills II | EdApp | https://www.edapp.com/course/english-for-freelancers-communication-skills-ii : এটা করলে আপনি ভদ্রভাবে "না" বলা ও ক্লায়েন্ট যোগাযোগের কৌশল শিখবেন (check pricing)।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: LearnEnglish (British Council)
+- Website: BBC Learning English (BBC)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ক্লায়েন্টকে একটা ভুল ইমেইল পাঠালেই কাজটা হাতছাড়া হতে পারে।
+[মূল অংশ] এই বিষয়ে আমি মাত্র ২টা রিসোর্স যাচাই করতে পেরেছি, ইংরেজিতে, ক্যাপশন অন রাখুন। এক, Alison-এর English for Business Communication, যেখানে পেশাদার ইমেইল ও মিটিংয়ের ইংরেজি আছে। দুই, EdApp-এর English for Freelancers: Communication Skills II, যেখানে ভদ্রভাবে না বলা শেখানো হয়। দাম আগে দেখে নিন। AI দিয়ে ইমেইল ঠিক করাতে পারেন, কিন্তু পাঠানোর আগে নিজে পড়ে নিন।
+[CTA] কোন পরিস্থিতিতে ইংরেজি আটকে যায় কমেন্ট করুন, সেভ ও শেয়ার করুন।
 
-## 77. ইন্টারনেট ও Wi-Fi স্পিড ঠিক করার ৫টা ভিডিও
-**Resources (verified via search):**
-1. কিভাবে ওয়াইফাই এর স্পিড বাড়ানো যায় | Channel unverified | https://youtube.com/watch?v=Nl-FpXra9dw
-   - বাংলায় স্পিড বাড়ানো।
-2. Wi-Fi Speed বাড়ানোর উপায় 2025-2026 | Channel unverified | https://youtube.com/watch?v=xZhZ-45QPkY
-   - সাম্প্রতিক টিপস।
-3. WiFi Speed বাড়ানোর উপায় | Channel unverified | https://youtube.com/watch?v=irNfY2in254
-   - আরেকটি গাইড।
-4. How to Get Faster WiFi at Home in 4 Steps (2026) | Channel unverified | https://youtube.com/watch?v=0wGkqkDHQsY
-   - ৪ ধাপে ঠিক করা।
-5. Why Your Wi-Fi Is Slow (And How to Fix It) | Channel unverified | https://youtube.com/watch?v=E-VozqpxhEo
-   - কেন স্লো হয়।
-
-**Non-video sources:** (none verified)
-
-**Recording script (Bangla):**
-[হুক] বিল পুরো দিচ্ছেন, কিন্তু নেট স্লো? সমস্যা আপনার রাউটারেও হতে পারে।
-[মূল অংশ] ৫টা ভিডিও।
-এক: "কিভাবে ওয়াইফাই এর স্পিড বাড়ানো যায়"।
-দুই: "Wi-Fi Speed বাড়ানোর উপায় 2025-2026"।
-তিন: "WiFi Speed বাড়ানোর উপায়"।
-চার: ইংরেজিতে "How to Get Faster WiFi at Home in 4 Steps"।
-পাঁচ: "Why Your Wi-Fi Is Slow and How to Fix It"।
-রাউটার রিস্টার্ট আর জায়গা বদলানো আগে চেষ্টা করুন। না হলে আইএসপির সঙ্গে কথা বলুন।
-[CTA] সেভ করুন, কমেন্টে লিখুন আপনার নেট কেমন চলছে।
-**Visual note:** রাউটারের ছবি আর সিগন্যাল বার।
+**স্ক্রিনে যা দেখাবেন:** একটা নমুনা ইমেইল আগে-পরে ও ২টা কোর্সের নাম।
 
 ---
 
-## 78. দ্রুত টাইপ করা শেখার ৫টা ভিডিও
-**Resources (verified via search):**
-1. বাংলা কিভাবে টাইপ করবেন? Bangla Typing Tutorial | Channel unverified | https://youtube.com/watch?v=6cPMwKoawDw
-   - বাংলা টাইপিং শুরু।
-2. ৭ দিনে টাইপিং মাস্টার হওয়ার গোপন ফর্মুলা । Bangla Typing Tutorial | Channel unverified | https://youtube.com/watch?v=E_sUBtGuTGk
-   - অনুশীলনের কৌশল (৭ দিনের দাবিটা বাড়াবাড়ি হতে পারে)।
-3. ৫ দিনেই টাইপিং শিখুন | Channel unverified | https://youtube.com/watch?v=rdHTKDVMbE0
-   - দ্রুত শেখার পরিকল্পনা।
-4. Learn How to Type Fast - Free Touch Typing Tutorial | Channel unverified | https://youtube.com/watch?v=8iBYLkaiqnA
-   - ফ্রি টাচ টাইপিং।
-5. Learn Touch Typing Fast: in 5-Days (1 Hour a Day) | Channel unverified | https://youtube.com/watch?v=bEKQQvMF8QE
-   - ৫ দিনের কোর্স।
-
-**Non-video sources:** (none verified)
-
-**Recording script (Bangla):**
-[হুক] কীবোর্ডের দিকে তাকিয়ে টাইপ করেন? তাহলে রোজ সময় নষ্ট হচ্ছে।
-[মূল অংশ] ৫টা ভিডিও।
-এক: "বাংলা কিভাবে টাইপ করবেন? Bangla Typing Tutorial"।
-দুই: "৭ দিনে টাইপিং মাস্টার হওয়ার গোপন ফর্মুলা"।
-তিন: "৫ দিনেই টাইপিং শিখুন"।
-চার: ইংরেজিতে "Learn How to Type Fast, Free Touch Typing Tutorial"।
-পাঁচ: "Learn Touch Typing Fast: in 5-Days"।
-কয়েকদিনে মাস্টার হওয়ার দাবি বাড়াবাড়ি হতে পারে। রোজ অল্প অনুশীলন করুন, আগে নির্ভুলতা।
-[CTA] সেভ করুন, কমেন্টে লিখুন আপনার টাইপিং স্পিড, শেয়ার করুন।
-**Visual note:** হোম রো আঙুলের অবস্থান দেখান।
+## 40. AI দিয়ে সাইড ইনকাম শুরুর আগে ৫টা রিসোর্স দেখুন
 
+**যাচাই করা লিংক: 2টা**
+
+Resources:
+1. [Website] Job scams and work-from-home scams advice | FTC Consumer Advice | https://consumer.ftc.gov/node/76573 : এটা পড়লে আপনি চাকরি ও কাজের নামে প্রতারণার লক্ষণ চিনতে পারবেন (সার্চ রেজাল্টে শুধু সাইটের নাম এসেছিল, পেজ খুলে মিলিয়ে নিন)।
+2. [Website] Work-at-home scams | AARP | https://www.aarp.org/money/scams-fraud/work-at-home/ : এটা পড়লে আপনি ঘরে বসে কাজের প্রতারণা এড়ানোর টিপস পাবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: Business opportunity and job scams (FTC Consumer Advice)
+- Docs: Upwork Help Center (Upwork)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] "AI দিয়ে ঘরে বসে লাখ টাকা" শুনলে আগে থামুন।
+[মূল অংশ] সৎ কথা: কেউ আয়ের নিশ্চয়তা দিতে পারে না, আর অনেক বিজ্ঞাপনই প্রতারণা। এই ২টা রিসোর্স যাচাই করেছি, ইংরেজি, ক্যাপশন অন রাখুন। এক, FTC-র কনজিউমার অ্যাডভাইস, যেখানে বলা আছে কাজ পেতে আগে টাকা চাইলে সতর্ক হতে হবে, আর বড় আয়ের নিশ্চয়তা দেওয়া বিজ্ঞাপন সন্দেহজনক। দুই, AARP-র work-at-home গাইড। চেক পাঠিয়ে টাকা ফেরত চাইলে বা গিফট কার্ড কিনতে বললে সেটা প্রতারণা। কোর্স বা কাজ কেনার আগে কোম্পানি যাচাই করুন। আমি এখানে কোনো আয় বা চাকরির প্রতিশ্রুতি দিচ্ছি না। এই বিষয়ে আরও ভালো রিসোর্স যাচাই হলে পরে যোগ করব।
+[CTA] কোনো সন্দেহজনক অফার পেলে কমেন্টে জানান, সেভ করুন, প্রিয়জনকে শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** "টাকা আগে চাইলে সাবধান" লেখা ও ২টা পেজের নাম।
+
 ---
+
+## 41. কোডিং শেখা শুরুর আগে এই ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
 
-## 79. কীবোর্ড শর্টকাটে সময় বাঁচানোর ৫টা ভিডিও
-**Resources (verified via search):**
-1. কম্পিউটার কীবোর্ড শর্টকাট Computer Keyboard Shortcut Bangla ! office word/ excel power point windows | Channel unverified | https://youtube.com/watch?v=FTuJwluTCG0
-   - অফিস অ্যাপের শর্টকাট।
-2. Most known keyboard shortcuts- Bangla Tutorial [সর্বাধিক পরিচিত কি-বোর্ড শর্টকাট] | Channel unverified | https://youtube.com/watch?v=IrXqjbEtGrs
-   - পরিচিত শর্টকাট।
-3. ৫ মিনিটে হয়ে যান কিবোর্ড মাস্টার | Channel unverified | https://youtube.com/watch?v=PJu59pKEm3Q
-   - দ্রুত শেখা।
-4. মাউস এর পরিবর্তে কীবোর্ড শর্টকাট কী | Channel unverified | https://youtube.com/watch?v=t4t3mVPqVcA
-   - মাউস ছাড়া কাজ।
-5. Amazing Windows Shortcuts You Aren't Using | Channel unverified | https://youtube.com/watch?v=QKjV_GdkTTw
-   - উইন্ডোজের কম-জানা শর্টকাট।
-
-**Non-video sources:** (none verified)
-
-**Recording script (Bangla):**
-[হুক] দিনে ২০ বার মাউসে হাত দিচ্ছেন? শর্টকাটে সেটা অর্ধেক হতে পারে।
-[মূল অংশ] ৫টা ভিডিও।
-এক: "কম্পিউটার কীবোর্ড শর্টকাট Computer Keyboard Shortcut Bangla"।
-দুই: "Most known keyboard shortcuts, Bangla Tutorial"।
-তিন: "৫ মিনিটে হয়ে যান কিবোর্ড মাস্টার"।
-চার: "মাউস এর পরিবর্তে কীবোর্ড শর্টকাট কী"।
-পাঁচ: ইংরেজিতে "Amazing Windows Shortcuts You Aren't Using"।
-আজ শুধু Ctrl C, Ctrl V, Ctrl Z দিয়ে শুরু করুন।
-[CTA] সেভ করুন, কমেন্টে লিখুন আপনার প্রিয় শর্টকাট।
-**Visual note:** কীবোর্ডে Ctrl, C, V কী হাইলাইট।
+Resources:
+1. [Course] CS50x (Introduction to Computer Science) | Harvard CS50 | https://cs50.harvard.edu/x/2025/ : এটা করলে আপনি প্রোগ্রামিং আর সমস্যা সমাধানের মূল ভিত্তি শিখতে পারবেন (check pricing)
+2. [Website] Developer Roadmaps | roadmap.sh | https://roadmap.sh/get-started : এটা দেখলে আপনি কোন পথে কী শিখবেন তার একটা ম্যাপ পাবেন
+3. [Website] Frontend Beginner roadmap | roadmap.sh | https://roadmap.sh/frontend-beginner : এটা দেখলে আপনি ধাপে ধাপে শুরু করার একটা পথ পাবেন
+4. [Docs/Guide] Beginner's roadmap to web development | freeCodeCamp | https://www.freecodecamp.org/news/beginners-roadmap-web-development/ : এটা পড়লে আপনি HTML, CSS, JavaScript কোন ক্রমে শিখবেন বুঝবেন
+5. [Docs/Guide] The best way to learn Python (beginners) | freeCodeCamp | https://www.freecodecamp.org/news/the-best-way-to-learn-python-python-programming-tutorial-for-beginners/ : এটা পড়লে আপনি প্রথম ভাষা হিসেবে Python শেখার একটা পরিকল্পনা পাবেন
 
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Course: CS50x (Harvard)
+- Course: freeCodeCamp
+- Course: The Odin Project
+- Website: Developer Roadmaps (roadmap.sh)
+- Channel: freeCodeCamp.org (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] কোডিং শিখতে গিয়ে মাস নষ্ট করছেন? ভুল জায়গা থেকে শুরু করলে এটাই হয়!
+[মূল অংশ] অনেকেই কোডিং শুরু করেন, কিন্তু কোথা থেকে শুরু করবেন বুঝতে না পেরে মাঝপথে থেমে যান। শুরুর আগে এই ৫টা রিসোর্স দেখে নিন। সব ইংরেজিতে, ক্যাপশন বা অটো-ট্রান্সলেট অন করে নিন। এক: হার্ভার্ডের CS50x, এটা প্রোগ্রামিংয়ের মূল ভিত্তি শেখায়। দুই: roadmap.sh এর Developer Roadmaps, এখানে দেখবেন কোন পথে কী শিখবেন। তিন: roadmap.sh এর Frontend Beginner, ধাপে ধাপে শুরুর পথ। চার: freeCodeCamp এর Beginner's roadmap to web development, HTML, CSS, JavaScript কোন ক্রমে শিখবেন তা বোঝায়। পাঁচ: freeCodeCamp এর Python শেখার গাইড, প্রথম ভাষা বাছাইয়ে সাহায্য করবে। কোর্সের দাম বা শর্ত বদলাতে পারে, তাই নিজে একবার চেক করে নিন।
+[CTA] আপনি কোন ভাষা দিয়ে শুরু করতে চান? কমেন্টে লিখুন। পোস্টটা সেভ করুন আর বন্ধুকে শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে পাঁচটা রিসোর্সের নাম একে একে ভেসে উঠবে, সঙ্গে ওয়েবসাইটের স্ক্রিনশট।
+
 ---
+
+## 42. Python শেখার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 3টা**
+
+Resources:
+1. [Course] CS50's Introduction to Programming with Python | Harvard CS50 | https://cs50.harvard.edu/python/ : এটা করলে আপনি Python এর মূল বিষয় আর প্রবলেম সেটে হাত পাকাতে পারবেন (result says a free CS50 Certificate is possible with 70% scores)
+2. [Docs] CS50P Lecture 0 notes | Harvard CS50 | https://cs50.harvard.edu/python/notes/0/ : এটা পড়লে আপনি প্রথম লেকচারের লেখা নোট থেকে নিজের গতিতে শিখতে পারবেন
+3. [Docs/Guide] The best way to learn Python | freeCodeCamp | https://www.freecodecamp.org/news/the-best-way-to-learn-python-python-programming-tutorial-for-beginners/ : এটা পড়লে আপনি ছোট প্রজেক্টসহ শেখার পথ পাবেন
 
-## 80. ChatGPT, Claude, Gemini ও অন্যান্য AI টুলের তুলনা বোঝার ৫টা ভিডিও
-**Resources (verified via search; no Bangla found, all English; plans and prices change, so check):**
-1. ChatGPT vs Claude vs Gemini: Which AI Is Worth $20 in 2026? | Channel unverified | https://youtube.com/watch?v=d1IcX-7SVtU
-   - তিনটির পাশাপাশি তুলনা।
-2. Claude vs ChatGPT vs Gemini 2026: honest comparison - which AI is actually best? | Channel unverified | https://youtube.com/watch?v=8spP0PUwdH0
-   - খোলামেলা তুলনা।
-3. ChatGPT vs Claude vs Gemini: Which AI Assistant Should You Use? | Channel unverified | https://youtube.com/watch?v=IUeaTiJypFA
-   - কোনটা কার জন্য।
-4. I Tested Gemini vs Claude vs ChatGPT So You Don't Have To | Channel unverified | https://youtube.com/watch?v=18mkropUvl0
-   - বাস্তব পরীক্ষা।
-5. Gemini vs. ChatGPT vs. Claude vs. Grok vs. Perplexity! (The Best Way To Use Each One) | Channel unverified | https://youtube.com/watch?v=qan82QT8Ql4
-   - আরও টুলসহ তুলনা।
-
-**Non-video sources:** (none verified; check each vendor's own site for current plans)
-
-**Recording script (Bangla):**
-[হুক] ChatGPT, Claude, Gemini: কোনটা আপনার জন্য? ভুল বেছে নিলে সময় নষ্ট।
-[মূল অংশ] বাংলায় ভিডিও পাইনি, ৫টা ইংরেজি তুলনা দিচ্ছি।
-এক: "ChatGPT vs Claude vs Gemini: Which AI Is Worth $20 in 2026?"।
-দুই: "Claude vs ChatGPT vs Gemini 2026: honest comparison"।
-তিন: "ChatGPT vs Claude vs Gemini: Which AI Assistant Should You Use?"।
-চার: "I Tested Gemini vs Claude vs ChatGPT So You Don't Have To"।
-পাঁচ: "Gemini vs. ChatGPT vs. Claude vs. Grok vs. Perplexity!"।
-প্ল্যান ও ফিচার দ্রুত বদলায়, তাই নিজের কাজে ফ্রি ভার্সনে পরীক্ষা করে দেখুন।
-[CTA] সেভ করুন, কমেন্টে লিখুন আপনি কোনটা ব্যবহার করেন।
-**Visual note:** তিনটা লোগো পাশাপাশি, নিচে "নিজের কাজে টেস্ট করুন"।
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: The Python Tutorial (python.org)
+- PDF: Automate the Boring Stuff with Python (Al Sweigart, free to read online)
+- Course: Python (Kaggle Learn)
+- Channel: Corey Schafer (YouTube)
 
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] Python শিখছেন কিন্তু কিছুই মনে থাকছে না? কারণটা হয়তো আপনার রিসোর্সে!
+[মূল অংশ] Python শেখা শুরু করা সহজ, কিন্তু ভুল রিসোর্স বাছলে সময় নষ্ট হয়। আজ আমি এমন তিনটা রিসোর্স বলছি যেগুলো যাচাই করা। সবই ইংরেজিতে, তাই ক্যাপশন বা অটো-ট্রান্সলেট অন রাখুন। এক: হার্ভার্ডের CS50's Introduction to Programming with Python, এটা করলে হাতে-কলমে প্রবলেম সলভ করে Python শিখবেন। দুই: একই কোর্সের লেকচার নোট, ভিডিও না দেখেও পড়ে শিখতে পারবেন। তিন: freeCodeCamp এর The best way to learn Python গাইড, এখানে ছোট ছোট প্রজেক্ট দিয়ে শেখার পথ পাবেন। দাম বা সার্টিফিকেটের শর্ত বদলাতে পারে, তাই নিজে চেক করে নিন। কোন রিসোর্স থেকে শুরু করবেন, ঠিক করে আজই প্রথম লেকচারটা খুলুন।
+[CTA] Python শেখার পথে আপনি কোথায় আটকে আছেন? কমেন্টে জানান। সেভ করে রাখুন, বন্ধুদের শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** CS50 Python সাইটের হোমপেজ আর নোটের পাতা স্ক্রিনে দেখান।
+
 ---
+
+## 43. ওয়েব ডেভেলপমেন্ট রোডম্যাপের ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+Resources:
+1. [Website] Frontend Developer Roadmap | roadmap.sh | https://roadmap.sh/frontend : এটা দেখলে আপনি ফ্রন্টএন্ডের পুরো স্কিল ম্যাপ একনজরে পাবেন
+2. [Website] Frontend Beginner | roadmap.sh | https://roadmap.sh/frontend-beginner : এটা দেখলে আপনি একদম নতুনদের জন্য ধাপে ধাপে পথ পাবেন
+3. [Website] JavaScript Developer Roadmap | roadmap.sh | https://roadmap.sh/javascript : এটা দেখলে আপনি JavaScript শেখার ক্রম বুঝবেন
+4. [Docs/Guide] Beginner's roadmap to web development | freeCodeCamp | https://www.freecodecamp.org/news/beginners-roadmap-web-development/ : এটা পড়লে আপনি বেসিক থেকে রেসপনসিভ ডিজাইন আর ফ্রেমওয়ার্ক পর্যন্ত ক্রম বুঝবেন
+5. [Docs/Guide] Web Development Learning Roadmap | Coursera | https://www.coursera.org/resources/web-development-learning-roadmap : এটা পড়লে আপনি ফ্রন্টএন্ড-ব্যাকএন্ড পার্থক্যসহ পুরো পথ বুঝবেন
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Learn web development (MDN, Mozilla)
+- Course: Learn (web.dev, Google)
+- Course: The Odin Project
+- Channel: Traversy Media (YouTube)
+- Channel: Kevin Powell (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ওয়েব ডেভেলপার হতে চান? রোডম্যাপ ছাড়া শুরু করলে বছর পার হয়ে যাবে!
+[মূল অংশ] সমস্যা হলো, একসঙ্গে অনেক কিছু শিখতে গিয়ে সবাই গুলিয়ে ফেলে। তাই আগে রোডম্যাপ দেখুন। এই ৫টা রিসোর্স ইংরেজিতে, ক্যাপশন বা ট্রান্সলেট অন রাখুন। এক: roadmap.sh এর Frontend Developer Roadmap, পুরো স্কিল ম্যাপ। দুই: roadmap.sh এর Frontend Beginner, একদম নতুনদের পথ। তিন: roadmap.sh এর JavaScript Developer Roadmap, JavaScript এর ক্রম। চার: freeCodeCamp এর Beginner's roadmap to web development, বেসিক থেকে ফ্রেমওয়ার্ক পর্যন্ত। পাঁচ: Coursera এর Web Development Learning Roadmap, ফ্রন্টএন্ড আর ব্যাকএন্ডের পার্থক্য বোঝায়। রোডম্যাপ সময়ের সঙ্গে বদলায়, তাই নিজের লক্ষ্য অনুযায়ী বেছে নিন।
+[CTA] আপনি ফ্রন্টএন্ড নাকি ব্যাকএন্ড? কমেন্টে লিখুন। সেভ করুন, শেয়ার করুন।
 
-## 81. ক্রিপ্টো ও ব্লকচেইন স্ক্যাম এড়াতে ৫টা ভিডিও
-**Resources (verified via search):**
-1. ক্রিপ্টোকারেন্সিতে হাজার হাজার কোটি টাকা পাচারের শঙ্কা | Channel: unverified | https://youtube.com/watch?v=VjDquVSaiYk : বাংলায় ক্রিপ্টো নিয়ে ঝুঁকির খবর, প্রেক্ষাপট বুঝতে কাজে লাগবে।
-2. অর্থপাচারে জনপ্রিয় হচ্ছে ক্রিপ্টোকারেন্সি; সর্বস্বান্ত অনেকে | Channel: unverified | https://youtube.com/watch?v=XPDho8VnTvw : বাংলায় ক্ষতিগ্রস্তদের কথা, সতর্ক হতে সাহায্য করবে।
-3. 6 ways to spot a rug pull in crypto - How to avoid scams! | Channel: unverified | https://youtube.com/watch?v=VlIcoKJsIP8 : রাগ পুল স্ক্যাম চেনার লক্ষণ।
-4. What is the 'pig butchering' scam? How fake relationships lead to crypto theft | Channel: unverified | https://youtube.com/watch?v=btLvrQifeOs : ভুয়া সম্পর্কের ফাঁদে ক্রিপ্টো প্রতারণা কীভাবে হয়।
-5. How does a blockchain work - Simply Explained | Channel: unverified | https://youtube.com/watch?v=SSo_EIwHSd4 : ব্লকচেইন কী, সেটা সহজে বোঝার জন্য।
-Non-video: PhishFort, 12 Common Cryptocurrency Scams (a security vendor guide, not an official body) https://phishfort.com/cryptocurrency-scams/
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] ক্রিপ্টোতে টাকা ঢালার আগে এই ৫টা ভিডিও না দেখলে সব টাকা হারাতে পারেন।
-[মূল অংশ] আমি কোনো বিনিয়োগের পরামর্শ দিচ্ছি না, শুধু স্ক্যাম থেকে সাবধান করছি। ইউটিউব, ফেসবুক বা মেসেজে "দ্বিগুণ টাকা" বা "নিশ্চিত লাভ" শুনলেই সতর্ক হতে হবে। একবার টাকা চলে গেলে সাধারণত ফেরত আসে না। তাই আগে স্ক্যামের ধরন চিনুন।
-এক নম্বর ভিডিও: "ক্রিপ্টোকারেন্সিতে হাজার হাজার কোটি টাকা পাচারের শঙ্কা", বাংলায় ঝুঁকির প্রেক্ষাপট।
-দুই নম্বর: "অর্থপাচারে জনপ্রিয় হচ্ছে ক্রিপ্টোকারেন্সি; সর্বস্বান্ত অনেকে", বাংলায় ক্ষতিগ্রস্তদের কথা।
-তিন নম্বর: "6 ways to spot a rug pull in crypto", রাগ পুল চেনার ৬টা উপায়।
-চার নম্বর: "What is the pig butchering scam?", ভুয়া ভালোবাসার ফাঁদে ক্রিপ্টো প্রতারণা।
-পাঁচ নম্বর: "How does a blockchain work, Simply Explained", ব্লকচেইনের মূল ধারণা।
-সব নির্মাতাকে ধন্যবাদ।
-[CTA] আপনি কি কখনো এমন স্ক্যাম মেসেজ পেয়েছেন? কমেন্টে জানান, ভিডিওটা সেভ করুন, আর যে বন্ধু ক্রিপ্টো নিয়ে মেতে আছে তাকে শেয়ার করুন।
-Visual note: স্ক্রিনে ৫টা ভিডিওর থাম্বনেইল পরপর দেখান, শুরুতে লাল "সাবধান" লেখা।
+**স্ক্রিনে যা দেখাবেন:** roadmap.sh এর ম্যাপের স্ক্রিনশট স্ক্রল করে দেখান।
 
 ---
 
-## 82. IoT (Internet of Things) বোঝার ৫টা ভিডিও
-**Resources (verified via search):**
-1. আই ও টি ( ইন্টারনেট অফ থিংস ) বা IoT ( Internet of Things ) কি ও কাকে বলে | Channel: unverified | https://youtube.com/watch?v=m3s1ZfdVDuw : বাংলায় IoT এর মূল সংজ্ঞা।
-2. IoT কী এবং কিভাবে কাজ করে? | Channel: unverified | https://youtube.com/watch?v=yyzfXfvgDS0 : বাংলায় কাজের ধরন।
-3. IoT কিভাবে কাজ করে? | Channel: unverified | https://youtube.com/watch?v=QRdaFot2kSk : আরেকটি বাংলা ব্যাখ্যা, তুলনা করে বুঝতে সুবিধা।
-4. Internet of Things (IoT) Explained in 3 minutes | Channel: unverified | https://youtube.com/watch?v=-M74HobvzGA : ৩ মিনিটে ইংরেজি সারসংক্ষেপ।
-5. What is IoT (Internet of Things)? An Introduction | Channel: unverified | https://youtube.com/watch?v=4FxU-xpuCww : ইংরেজিতে ভূমিকা।
-Non-video: Common Craft, Internet of Things video page https://www.commoncraft.com/node/8082 ; IoT For All podcast episode https://www.iotforall.com/podcasts/podcast-e002-iotexplained-what-is-iot/
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] আপনার ঘরের ফ্রিজ, ঘড়ি, এমনকি বাল্বও ইন্টারনেটে কথা বলছে, জানতেন?
-[মূল অংশ] এটাকেই বলে IoT, Internet of Things। নামটা শুনে অনেকে ভয় পান, অথচ ধারণাটা সহজ। চলুন ৫টা ভিডিও দিয়ে বুঝে নিই।
-প্রথম তিনটা বাংলায়। এক: "আই ও টি বা IoT কি ও কাকে বলে"। দুই: "IoT কী এবং কিভাবে কাজ করে?"। তিন: "IoT কিভাবে কাজ করে?"।
-চার নম্বর ইংরেজিতে: "Internet of Things (IoT) Explained in 3 minutes", মাত্র ৩ মিনিটে পুরো ছবি।
-পাঁচ নম্বর: "What is IoT? An Introduction"।
-চাইলে Common Craft-এর ছোট ভিডিও পেজটাও দেখতে পারেন, লিংক ক্যাপশনে। নির্মাতাদের ধন্যবাদ।
-[CTA] আপনার বাসায় কোন স্মার্ট ডিভাইস আছে? কমেন্টে লিখুন। ভিডিওটা সেভ করে রাখুন, আর যে বন্ধু টেক শিখছে তাকে শেয়ার করুন।
-Visual note: স্ক্রিনে ঘরের স্মার্ট ডিভাইসের আইকন (বাল্ব, ঘড়ি, ফ্রিজ) আর তারপর ভিডিওর থাম্বনেইল।
+## 44. ফ্রিতে নিজের ওয়েবসাইট বানানোর ৫টা রিসোর্স দেখুন
 
+**যাচাই করা লিংক: 3টা**
+
+Resources:
+1. [Docs/Guide] How to Publish a Site with Cloudflare | UCLA Humanities Technology | https://humtech.ucla.edu/web-support/student-site-web-hosting-options/how-to-publish-a-site-with-cloudflare/ : এটা পড়লে আপনি GitHub রেপো থেকে Cloudflare Pages এ সাইট প্রকাশ করতে পারবেন
+2. [Docs/Guide] How to Create a Free Web Page Using GitHub Pages | Virtualization Review | https://virtualizationreview.com/Articles/2026/01/15/How-to-Create-a-Free-Web-Page-Using-GitHub-Pages.aspx : এটা পড়লে আপনি GitHub Pages এ স্ট্যাটিক সাইট চালু করতে পারবেন
+3. [Docs/Guide] GitHub Pages with Cloudflare | Toptal | https://www.toptal.com/developers/github/unlimited-scale-web-hosting-github-pages-cloudflare : এটা পড়লে আপনি SSL সহ স্ট্যাটিক সাইট সাজানো শিখবেন
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: GitHub Pages documentation (GitHub)
+- Docs: Cloudflare Pages documentation (Cloudflare)
+- Docs: Netlify documentation
+- Docs: Vercel documentation
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ওয়েবসাইট বানাতে হোস্টিংয়ে টাকা দিচ্ছেন? আগে এই ফ্রি পথটা দেখুন!
+[মূল অংশ] ছোট পোর্টফোলিও বা ল্যান্ডিং পেজের জন্য অনেক সময় স্ট্যাটিক ফ্রি হোস্টিংই যথেষ্ট। তিনটা ইংরেজি গাইড দেখুন, ক্যাপশন বা ট্রান্সলেট অন রাখুন। এক: UCLA এর How to Publish a Site with Cloudflare, GitHub থেকে Cloudflare Pages এ প্রকাশের ধাপ। দুই: Virtualization Review এর GitHub Pages গাইড, রেপো বানিয়ে সাইট চালু করার পথ। তিন: Toptal এর GitHub Pages ও Cloudflare গাইড, SSL সহ সাজানোর উপায়। মনে রাখবেন, ফ্রি প্ল্যানের শর্ত বদলায়, আর WordPress এর মতো সার্ভার-ভিত্তিক সাইট এভাবে চলে না। তাই আগে অফিশিয়াল পেজে লিমিট দেখে নিন।
+[CTA] আপনার কিসের সাইট বানাতে চান? কমেন্টে বলুন। সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** GitHub রেপো থেকে সাইট লাইভ হওয়ার একটা ফ্লো দেখান।
+
 ---
+
+## 45. GitHub শুরু করার আগে ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 2টা**
 
-## 83. রোবটিক্স শুরুর ৫টা ভিডিও
-**Resources (verified via search):**
-1. রোবটিক্স আদ্যোপান্ত। রোবটিক্স ও রোবট কি। রোবট কিভাবে কাজ করে। রোবটের উপাদান।রোবটের ইতিহাস।প্রকারভেদ | Channel: unverified | https://youtube.com/watch?v=Hy6vX7sdy0g : বাংলায় রোবটিক্সের পুরো ধারণা।
-2. 1.Arduino Programming In Bangla| Starting with Basic rules(Blinking an LED) | Channel: unverified | https://youtube.com/watch?v=kn8LrAKoccQ : বাংলায় Arduino দিয়ে হাতেকলমে শুরু।
-3. Arduino Programming Full Course (FREE) // Full Bangla Tutorial | Channel: unverified | https://youtube.com/watch?v=DLqApWZHfaw : সম্পূর্ণ বাংলা কোর্স।
-4. Introduction to Robotics Complete Beginner's Guide to Robotics | Channel: unverified | https://youtube.com/watch?v=MaEPtQa189s : ইংরেজিতে শুরুর গাইড।
-5. Robotics 101: The Ultimate Guide to Getting Started in Robotics | Channel: unverified | https://youtube.com/watch?v=v7c6raCx_cY : কীভাবে শুরু করবেন তার রোডম্যাপ।
-Non-video: Robots Guide, How to get started in robotics https://robotsguide.com/learn/how-to-get-started-in-robotics
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] রোবট বানানো শিখতে ল্যাব লাগে না, শুরুটা কিন্তু আপনার ঘরেই হতে পারে।
-[মূল অংশ] সমস্যা হলো, কোথা থেকে শুরু করবেন সেটাই বোঝা যায় না। আমি ৫টা ভিডিও বেছেছি।
-এক: "রোবটিক্স আদ্যোপান্ত", বাংলায় রোবট কী, কীভাবে কাজ করে।
-দুই: "Arduino Programming In Bangla, Blinking an LED", প্রথম হাতেকলমে ধাপ।
-তিন: "Arduino Programming Full Course, Full Bangla Tutorial", ফ্রি পূর্ণ কোর্স।
-চার: "Introduction to Robotics, Complete Beginner's Guide", ইংরেজিতে ভূমিকা।
-পাঁচ: "Robotics 101: The Ultimate Guide to Getting Started in Robotics"।
-একটা পরামর্শ: আগে বেসিক ইলেকট্রনিক্স আর সাধারণ কোড শিখুন, তারপর কিট কিনুন। সব নির্মাতাকে ধন্যবাদ।
-[CTA] আপনি কি রোবট বানাতে চান? কমেন্টে লিখুন কী বানাতে চান। সেভ করুন, শেয়ার করুন।
-Visual note: স্ক্রিনে Arduino বোর্ডের ছবি, তারপর ৫টা থাম্বনেইল।
+Resources:
+1. [PDF/Book] Git learn page with free Pro Git book and short videos | git-scm.com | https://git-scm.com/learn : এটা পড়লে আপনি Git এর বেসিক থেকে গভীর পর্যন্ত বুঝবেন (result says the book is free to read online)
+2. [Docs] Git and GitHub learning resources | GitHub Docs | https://docs.github.com/en/enterprise-cloud%40latest/get-started/start-your-journey/git-and-github-learning-resources : এটা দেখলে আপনি GitHub flow, GitHub Skills আর শুরুর গাইডগুলোর লিংক পাবেন
 
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- PDF: Pro Git book (git-scm.com)
+- Course: GitHub Skills (GitHub)
+- Docs: Get started (GitHub Docs)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] Git না জানলে চাকরির ইন্টারভিউয়ে আটকে যেতে পারেন!
+[মূল অংশ] Git আর GitHub প্রায় সব ডেভেলপারের রোজকার টুল। শুরুর জন্য আমি দুটো যাচাই করা রিসোর্স দিচ্ছি, দুটোই ইংরেজিতে, ক্যাপশন অন রাখুন। এক: git-scm.com এর Learn পেজ, এখানে Pro Git বইটা অনলাইনে ফ্রি পড়া যায়, সঙ্গে ছোট ছোট ভিডিও আছে। দুই: GitHub Docs এর Git and GitHub learning resources পেজ, এখানে GitHub flow আর GitHub Skills এর মতো ইন্টারঅ্যাক্টিভ কোর্সের পথ পাবেন। প্রথমে বেসিক বুঝুন, তারপর নিজের একটা ছোট রেপো বানিয়ে commit আর pull request প্র্যাকটিস করুন।
+[CTA] GitHub অ্যাকাউন্ট খুলেছেন? কমেন্টে জানান। সেভ করুন, শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** git-scm.com এর বইয়ের পাতা আর GitHub Docs পেজ দেখান।
+
 ---
+
+## 46. AI কোডিং সহকারী ব্যবহারের ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 4টা**
+
+Resources:
+1. [Docs] Quickstart for GitHub Copilot in your IDE | GitHub Docs | https://docs.github.com/en/copilot/get-started/quickstart-for-using-github-copilot-in-your-ide : এটা পড়লে আপনি VS Code বা অন্য IDE তে Copilot দিয়ে কোড সাজেশন নিতে পারবেন
+2. [Docs] Quickstart for using GitHub Copilot on GitHub.com | GitHub Docs | https://docs.github.com/en/copilot/get-started/quickstart : এটা পড়লে আপনি কিছু ইনস্টল ছাড়াই ব্রাউজারে Copilot ব্যবহার করতে পারবেন
+3. [Docs] Getting started with GitHub Copilot CLI | GitHub Docs | https://docs.github.com/en/copilot/get-started/cli-quickstart : এটা পড়লে আপনি টার্মিনালে Copilot চালাতে পারবেন
+4. [Docs] Where to use GitHub Copilot | GitHub Docs | https://docs.github.com/copilot/setting-up-github-copilot/setting-up-github-copilot-for-yourself : এটা পড়লে আপনি কোথায় কোনটা ব্যবহার করবেন বুঝবেন
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: GitHub Copilot documentation (GitHub)
+- Docs: Claude Code documentation (Anthropic)
+- Docs: Cursor documentation (Cursor)
+- Course: Short Courses (DeepLearning.AI)
 
-## 84. কোয়ান্টাম কম্পিউটিং বোঝার ৫টা ভিডিও
-**Resources (verified via search):**
-1. কোয়ান্টাম কম্পিউটার - BBC CLICK Bangla : Episode 03 | Channel: BBC Click Bangla (from title) | https://youtube.com/watch?v=C232n52pBjc : বাংলায় ধারণা।
-2. কোয়ান্টাম কম্পিউটার তৈরিতে কাজ করছে আইবিএম | Channel: unverified | https://youtube.com/watch?v=SyDfNGu0byE : বাংলা সংবাদ, বাস্তব অগ্রগতি।
-3. Quantum Computing Explained by a Retired Microsoft Engineer | Channel: unverified | https://youtube.com/watch?v=IzGJw6daRTw : ইংরেজি ব্যাখ্যা।
-4. Quantum Computing Explained in Simple Terms | Channel: unverified | https://youtube.com/watch?v=KBJEZ4CRPVs : সহজ ভাষায়।
-5. Quantum Computers Explained: How Quantum Computing Works | Channel: unverified | https://youtube.com/watch?v=B3U1NDUiwSA : কীভাবে কাজ করে।
-Non-video: IBM, What is Quantum Computing? https://mediacenter.ibm.com/media/What+is+Quantum+Computing/1_xeokksj7 ; arXiv lecture notes (advanced) https://arxiv.org/pdf/1907.09415
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] কোয়ান্টাম কম্পিউটার নাকি সাধারণ কম্পিউটারের নিয়মই বদলে দেবে, আসল কথাটা কী?
-[মূল অংশ] বিষয়টা জটিল শোনায়, তাই আগে ভিত্তিটা বুঝে নিন। আমি যতদূর জানি, এখনো এটা অনেকটাই গবেষণার পর্যায়ে, তাই বড় দাবি দেখলে যাচাই করে নিন।
-এক: "কোয়ান্টাম কম্পিউটার, BBC Click Bangla Episode 03", বাংলায়।
-দুই: "কোয়ান্টাম কম্পিউটার তৈরিতে কাজ করছে আইবিএম"।
-তিন: "Quantum Computing Explained by a Retired Microsoft Engineer"।
-চার: "Quantum Computing Explained in Simple Terms"।
-পাঁচ: "Quantum Computers Explained: How Quantum Computing Works"।
-আরও জানতে IBM-এর পেজ ক্যাপশনে দিলাম। নির্মাতাদের ধন্যবাদ।
-[CTA] কোয়ান্টাম নিয়ে আপনার প্রশ্ন কমেন্টে লিখুন। সেভ করুন, শেয়ার করুন।
-Visual note: স্ক্রিনে "বিট বনাম কিউবিট" একটা সহজ স্কেচ, তারপর থাম্বনেইল।
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] AI দিয়ে কোড লেখা না শিখলে পিছিয়ে পড়বেন, এমনটা হতে পারে!
+[মূল অংশ] এখন অনেক ডেভেলপার AI কোডিং সহকারী ব্যবহার করেন। শুরুর জন্য GitHub এর অফিশিয়াল চারটা ডকুমেন্ট দেখুন, সব ইংরেজিতে, তাই ক্যাপশন বা ট্রান্সলেট অন রাখুন। এক: Copilot in your IDE quickstart, এডিটরে সাজেশন নেওয়ার ধাপ। দুই: GitHub.com এ Copilot quickstart, ইনস্টল ছাড়াই ব্রাউজারে। তিন: Copilot CLI quickstart, টার্মিনালে ব্যবহার। চার: Where to use GitHub Copilot, কোথায় শুরু করবেন তার গাইড। প্ল্যান আর ফিচার প্রায়ই বদলায়, তাই দাম বা ফ্রি লিমিট নিজে চেক করুন। আর মনে রাখবেন, AI এর কোড না বুঝে চালাবেন না, সবসময় নিজে রিভিউ করুন।
+[CTA] আপনি কোন AI কোডিং টুল ব্যবহার করেন? কমেন্টে লিখুন। সেভ ও শেয়ার করুন।
 
+**স্ক্রিনে যা দেখাবেন:** VS Code এ Copilot সাজেশন আসার স্ক্রিন রেকর্ডিং দেখান।
+
 ---
+
+## 47. অ্যাপ ডেভেলপমেন্ট শুরুর আগে ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 2টা**
 
-## 85. 5G ও ভবিষ্যৎ নেটওয়ার্ক বোঝার ৫টা ভিডিও (only 1 Bangla verified)
-**Resources (verified via search):**
-1. ৫জি কি? ৫জির ভবিষ্যত | Channel: unverified | https://youtube.com/watch?v=3gy__7pqfUM : বাংলায় ৫জি ও ভবিষ্যৎ।
-2. 5G Networks Explained: A Beginner's Guide to Fifth Generation Technology | Channel: unverified | https://youtube.com/watch?v=imE7y3lXv0c : নতুনদের জন্য।
-3. 5G Explained | Channel: unverified | https://youtube.com/watch?v=dWwsco4xzEk : সংক্ষিপ্ত ব্যাখ্যা।
-4. How Does 5G Work | Channel: unverified | https://youtube.com/watch?v=u005uWJoaFQ : কাজের পদ্ধতি।
-5. Explaining 5G...the new (and super fast) mobile network | Channel: unverified | https://youtube.com/watch?v=dmFjo6QtlqA : সহজ ব্যাখ্যা।
-Non-video: (none verified)
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] 5G মানে কি শুধু বেশি স্পিড, নাকি এর পেছনে আরও কিছু আছে?
-[মূল অংশ] নাম সবাই শুনেছে, কিন্তু কাজটা কী সেটা অনেকেই জানে না। আমি ৫টা ভিডিও বেছেছি। কোন এলাকায় সেবা আছে, তা আপনার অপারেটরের কাছে চেক করে নিন।
-এক: "৫জি কি? ৫জির ভবিষ্যত", বাংলায়।
-দুই: "5G Networks Explained: A Beginner's Guide to Fifth Generation Technology"।
-তিন: "5G Explained"।
-চার: "How Does 5G Work"।
-পাঁচ: "Explaining 5G, the new and super fast mobile network"।
-নির্মাতাদের ধন্যবাদ।
-[CTA] আপনার এলাকায় কেমন নেটওয়ার্ক পান? কমেন্টে জানান। সেভ ও শেয়ার করুন।
-Visual note: 2G থেকে 5G পর্যন্ত একটা সিঁড়ি গ্রাফিক, তারপর থাম্বনেইল।
+Resources:
+1. [Course] Android Basics with Compose | Google (developer.android.com) | https://goo.gle/abc : এটা করলে আপনি কোডিং অভিজ্ঞতা ছাড়াই Jetpack Compose দিয়ে সহজ Android অ্যাপ বানানো শিখবেন
+2. [Course] Android Basics with Compose (course page) | Google | https://developer.android.google.cn/kotlin/androidbasics?hl=en : এটা দেখলে আপনি কোর্সের ইউনিট আর পূর্বশর্ত বুঝবেন (result: first unit about 10 hours)
 
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Course: Android Basics with Compose (Google)
+- Docs: Flutter documentation and codelabs (Google)
+- Docs: React Native documentation (Meta)
+- Course: Develop in Swift tutorials (Apple)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] অ্যাপ বানাতে চান কিন্তু কোথায় শুরু করবেন জানেন না?
+[মূল অংশ] Android অ্যাপের জন্য গুগলের নিজস্ব একটা শুরুর কোর্স আছে, Android Basics with Compose। সার্চ রেজাল্ট অনুযায়ী এটা স্বনির্ধারিত গতির কোর্স, কোডিং অভিজ্ঞতা লাগে না, আর Kotlin ও Jetpack Compose এর বেসিক শেখায়। প্রথম ইউনিট শেষ করতে প্রায় দশ ঘণ্টার মতো লাগতে পারে। কোর্সটা ইংরেজিতে, তাই ক্যাপশন বা অটো-ট্রান্সলেট অন রাখুন। Android Studio চালানোর মতো একটা কম্পিউটার লাগবে। iOS বা Flutter নিয়ে পরে আলাদা ভিডিও করব। প্রথমে দুই নম্বর লিংকে কোর্সের কাঠামো দেখে নিন।
+[CTA] আপনি Android নাকি iOS? কমেন্টে জানান। সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** Android Studio তে একটা সহজ অ্যাপ চলছে, এমন দৃশ্য।
+
 ---
+
+## 48. SQL ও ডেটাবেস শেখার ৫টা রিসোর্স দেখুন
 
-## 86. ইলেকট্রিক গাড়ি ও ব্যাটারি টেক বোঝার ৫টা ভিডিও (only 1 Bangla verified; battery-specific videos not found)
-**Resources (verified via search):**
-1. ইলেকট্রিক গাড়ি কী ভাবে কাজ করে? How does Electric Vehicles Work | Channel: unverified | https://youtube.com/watch?v=PBuZneS5Ig4 : বাংলায় মূল কাজের ধারণা।
-2. How an Electric Car Works | Channel: unverified | https://youtube.com/watch?v=NLadnabHWLs : ইংরেজি ব্যাখ্যা।
-3. How an Electric Car Works? Its Parts & Functions [Explained] | Channel: unverified | https://youtube.com/watch?v=tJfERzrG-D8 : যন্ত্রাংশ চেনার জন্য।
-4. How Electric Vehicles Work: The Ultimate Beginner's Guide | Channel: unverified | https://youtube.com/watch?v=Umi6j6K_CsQ : নতুনদের গাইড।
-5. How Do Electric Cars Actually Work? (It's Simpler Than You Think!) | Channel: unverified | https://youtube.com/watch?v=4XChnjMjVt0 : সহজ ব্যাখ্যা।
-Non-video: PMC review on EV technologies (technical) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11513458/
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] পেট্রোল ছাড়া গাড়ি চলে কীভাবে, আর ব্যাটারিটাই বা কী?
-[মূল অংশ] ইলেকট্রিক গাড়ির কথা সবাই বলে, কিন্তু ভেতরের কাজ কম লোকই জানে। দাম বা রেঞ্জ নিয়ে কোনো দাবি আমি করছি না, সেটা কেনার আগে নিজে যাচাই করবেন।
-এক: "ইলেকট্রিক গাড়ি কী ভাবে কাজ করে?", বাংলায়।
-দুই: "How an Electric Car Works"।
-তিন: "How an Electric Car Works? Its Parts & Functions"।
-চার: "How Electric Vehicles Work: The Ultimate Beginner's Guide"।
-পাঁচ: "How Do Electric Cars Actually Work?"।
-নির্মাতাদের ধন্যবাদ।
-[CTA] ইলেকট্রিক গাড়ি কিনবেন কি? কমেন্টে জানান। সেভ ও শেয়ার করুন।
-Visual note: ব্যাটারি, মোটর, চাকা: তিনটা বাক্সের সহজ ফ্লো, তারপর থাম্বনেইল।
+**যাচাই করা লিংক: 2টা**
 
+Resources:
+1. [Docs/Guide] Top resources to learn SQL for free | DataCamp blog | https://www.datacamp.com/blog/top-resources-to-learn-sql-for-free : এটা পড়লে আপনি Khan Academy, SQLBolt, Kaggle Learn ইত্যাদি ফ্রি রিসোর্সের তুলনা পাবেন
+2. [Docs/Guide] Best free SQL learning resources | Estuary blog | https://estuary.dev/blog/best-free-sql-learning-resources/ : এটা পড়লে আপনি ভিজ্যুয়াল ও প্র্যাকটিস-ভিত্তিক বিকল্প পাবেন
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: SQLBolt
+- Course: Intro to SQL (Khan Academy)
+- Website: SQLZoo
+- Website: SQL Tutorial (Mode)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] SQL না জানলে ডেটার চাকরিতে ঢোকা কঠিন হতে পারে!
+[মূল অংশ] ডেটা নিয়ে কাজ করতে চাইলে SQL প্রায় অপরিহার্য। শুরুর জন্য দুটো ইংরেজি গাইড দেখুন, ক্যাপশন অন রাখুন। এক: DataCamp এর Top resources to learn SQL for free, এখানে Khan Academy, SQLBolt, Kaggle Learn ও freeCodeCamp এর মতো ফ্রি অপশনের তুলনা আছে। দুই: Estuary এর Best free SQL learning resources। গাইড দুটো ব্লগ, তাই সরাসরি Khan Academy, SQLBolt বা Kaggle Learn এর অফিশিয়াল সাইটে গিয়ে ফ্রি স্ট্যাটাস আর সার্টিফিকেট নিজে যাচাই করুন। প্রথমে ছোট কোয়েরি লিখে প্র্যাকটিস শুরু করুন।
+[CTA] SQL নিয়ে কোথায় আটকে আছেন? কমেন্টে লিখুন। সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** একটা SELECT কোয়েরি আর তার রেজাল্ট টেবিল দেখান।
+
 ---
+
+## 49. Data Structures ও Algorithms শেখার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+Resources:
+1. [Course] Algorithms, Part I | Princeton (Coursera) | https://www.coursera.org/learn/algorithms-part1 : এটা করলে আপনি মৌলিক অ্যালগরিদম ও ডেটা স্ট্রাকচার শিখবেন (result says free on Coursera, no certificate)
+2. [Course] Algorithms, Part II | Princeton (Coursera) | https://www.coursera.org/learn/algorithms-part2 : এটা করলে আপনি গ্রাফ, স্ট্রিং সহ উন্নত বিষয় শিখবেন (intermediate level)
+3. [PDF/Book] Algorithms, 4th Edition | Sedgewick and Wayne, Princeton | https://algs4.cs.princeton.edu/home/ : এটা পড়লে আপনি বইয়ের অংশ, কোড আর এক্সারসাইজ পাবেন
+4. [Docs/Guide] Best free courses for data structures and algorithms | freeCodeCamp (javinpaul) | https://www.freecodecamp.org/news/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a : এটা পড়লে আপনি আরও ফ্রি কোর্সের তালিকা পাবেন (older article, check dates)
+5. [Website] Algorithms and data structures courses | Class Central | https://classcentral.com/subject/algorithms-and-data-structures?page=3 : এটা দেখলে আপনি বিভিন্ন বিশ্ববিদ্যালয়ের কোর্স খুঁজে পাবেন (many Coursera ones free to audit per result)
 
-## 87. স্পেস টেক ও স্যাটেলাইট ইন্টারনেট বোঝার ৫টা ভিডিও (only 5 verified, all Starlink focused)
-**Resources (verified via search):**
-1. স্টারলিংক থেকে কী সুবিধা পাবে বাংলাদেশ; গ্রাহকের কী লাভ? | Channel: unverified | https://youtube.com/watch?v=9mH10fIt598 : বাংলাদেশের প্রেক্ষাপট।
-2. স্টারলিংক এখন বাংলাদেশে! কীভাবে পাবেন আপনার বাসায়? | Channel: unverified | https://youtube.com/watch?v=QNynAN5iuiw : ব্যবহারিক দিক।
-3. স্টারলিংক বাংলাদেশে আসলে লাভ না ক্ষতি ? | Channel: unverified | https://youtube.com/watch?v=4uyxRJMJSq0 : দুই দিকের আলোচনা।
-4. How Starlink Satellite Internet Works | Channel: unverified | https://youtube.com/watch?v=cc_ozZ-gZlc : কীভাবে কাজ করে।
-5. How Starlink Actually Works | Channel: unverified | https://youtube.com/watch?v=DW-aL_MiUz4 : আরেকটি ব্যাখ্যা।
-Non-video: (none verified; check BTRC and Starlink official site for current rules and prices)
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] আকাশের স্যাটেলাইট থেকে সরাসরি ইন্টারনেট, ব্যাপারটা কীভাবে সম্ভব?
-[মূল অংশ] স্টারলিংক নিয়ে অনেক কথা চলছে। দাম আর নিয়ম বদলায়, তাই কিনবার আগে অফিশিয়াল সাইট বা BTRC থেকে চেক করে নিন।
-এক: "স্টারলিংক থেকে কী সুবিধা পাবে বাংলাদেশ; গ্রাহকের কী লাভ?"।
-দুই: "স্টারলিংক এখন বাংলাদেশে! কীভাবে পাবেন আপনার বাসায়?"।
-তিন: "স্টারলিংক বাংলাদেশে আসলে লাভ না ক্ষতি?"।
-চার: "How Starlink Satellite Internet Works"।
-পাঁচ: "How Starlink Actually Works"।
-নির্মাতাদের ধন্যবাদ।
-[CTA] আপনি কি স্যাটেলাইট ইন্টারনেট চাইবেন? কমেন্টে জানান। সেভ ও শেয়ার করুন।
-Visual note: পৃথিবী, স্যাটেলাইট ও ডিশের সহজ অ্যানিমেশন, তারপর থাম্বনেইল।
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Course: Algorithms Part I (Princeton, Coursera)
+- Course: Introduction to Algorithms 6.006 (MIT OpenCourseWare)
+- Website: NeetCode
+- Channel: Abdul Bari (YouTube)
+- Channel: William Fiset (YouTube)
 
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] টেক ইন্টারভিউতে সবচেয়ে বেশি আটকায় যে বিষয়, সেটা হলো DSA!
+[মূল অংশ] Data Structures আর Algorithms ঠিকমতো না শিখলে ইন্টারভিউয়ে সমস্যায় পড়তে পারেন। এই ৫টা রিসোর্স ইংরেজিতে, ক্যাপশন অন রাখুন। এক: Princeton এর Algorithms Part I, Coursera তে। দুই: Algorithms Part II, এটা আরেকটু কঠিন। সার্চ রেজাল্টে এগুলো ফ্রি দেখানো হয়েছে, তবে সার্টিফিকেট নেই, শর্ত নিজে চেক করুন। তিন: Sedgewick ও Wayne এর Algorithms 4th Edition বইয়ের ওয়েবসাইট, কোড আর এক্সারসাইজসহ। চার: freeCodeCamp এ ফ্রি DSA কোর্সের তালিকা, লেখাটা পুরোনো হতে পারে। পাঁচ: Class Central, যেখানে নানা ইউনিভার্সিটির কোর্স একসঙ্গে খুঁজে পাবেন। শুধু দেখে নয়, নিজে কোড করে প্র্যাকটিস করুন।
+[CTA] DSA তে আপনার সবচেয়ে কঠিন টপিক কোনটা? কমেন্টে লিখুন। সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** একটা সর্টিং অ্যালগরিদমের অ্যানিমেশন বা বইয়ের সাইটের স্ক্রিনশট।
+
 ---
+
+## 50. ক্লাউড (AWS, Google Cloud, Azure) শুরুর রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 3টা**
+
+Resources:
+1. [Course] Cloud Practitioner learning path | AWS Training | https://aws.amazon.com/training/learn-about/cloud-practitioner/ : এটা দেখলে আপনি AWS এর শুরুর কোর্স আর পরীক্ষার প্রস্তুতির পথ পাবেন
+2. [Docs/Guide] New AWS Cloud Practitioner Essentials | AWS blog | https://aws.amazon.com/blogs/training-and-certification/new-aws-cloud-practitioner-essentials/ : এটা পড়লে আপনি আপডেটেড কোর্সটা কী কী শেখায় বুঝবেন (result: free six-hour course, 13 modules)
+3. [Docs] Cloud Digital Leader | Google Cloud | https://cloud.google.com/learn/certification/cloud-digital-leader : এটা দেখলে আপনি Google Cloud এর বেসিক সার্টিফিকেশনের টপিক বুঝবেন (exam fee shown in result, check current price)
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Course: Cloud Practitioner Essentials (AWS Skill Builder)
+- Course: Google Cloud Skills Boost (Google)
+- Course: Azure Fundamentals (Microsoft Learn)
+- Channel: TechWorld with Nana (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ক্লাউড স্কিল থাকলে চাকরির বাজারে এগিয়ে থাকবেন, তাই না?
+[মূল অংশ] AWS, Google Cloud বা Azure, কোনটা দিয়ে শুরু করবেন ভাবছেন? আজ তিনটা অফিশিয়াল রিসোর্স দেখুন, সবই ইংরেজিতে, ক্যাপশন অন রাখুন। এক: AWS Training এর Cloud Practitioner পেজ, শুরুর কোর্স আর পরীক্ষার পথ। দুই: AWS ব্লগের New Cloud Practitioner Essentials লেখা, সার্চ রেজাল্ট অনুযায়ী কোর্সটা ফ্রি আর প্রায় ছয় ঘণ্টার। তিন: Google Cloud এর Cloud Digital Leader পেজ, ক্লাউডের বেসিক বোঝার জন্য। Azure এর জন্য Microsoft Learn অফিশিয়াল সাইটে নিজে দেখে নিন। কোর্স, পরীক্ষার ফি আর শর্ত বদলায়, তাই কিছু কেনার আগে চেক করুন।
+[CTA] আপনি কোন ক্লাউড দিয়ে শুরু করবেন? কমেন্টে লিখুন। সেভ ও শেয়ার করুন।
 
-## 88. AR ও VR বোঝার ৫টা ভিডিও (only 1 Bangla verified)
-**Resources (verified via search):**
-1. ভার্চুয়াল রিয়েলিটি এবং অগমেন্টেড রিয়েলিটি কি! WHAT IS VR AND AR? | Channel: unverified | https://youtube.com/watch?v=7-oGtV3pccY : বাংলায় মূল পার্থক্য।
-2. Augmented Reality vs. VR Virtual Reality: AR and VR Explained for Beginners | Channel: unverified | https://youtube.com/watch?v=T0_rjPz-w_s : নতুনদের জন্য।
-3. AR vs. VR: What's the Difference? | Channel: unverified | https://youtube.com/watch?v=esUhTF9fk-w : সংক্ষিপ্ত তুলনা।
-4. VR, AR, and MR... what's the difference? | Channel: unverified | https://youtube.com/watch?v=IIsxVbBi05A : MR-সহ তিনটার পার্থক্য।
-5. XR in 60 Seconds Series: What is the difference between AR and VR? | Channel: unverified | https://youtube.com/watch?v=31paTignsE8 : ৬০ সেকেন্ডে।
-Non-video: PMC review, AR and VR displays https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8546092/
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] AR আর VR, দুটো একই জিনিস ভাবছেন? ভুল ভাবছেন।
-[মূল অংশ] সহজ করে বললে, VR আপনাকে সম্পূর্ণ নতুন জগতে নিয়ে যায়, আর AR বাস্তব জগতের ওপর ডিজিটাল জিনিস বসায়। বিস্তারিত বোঝার জন্য এই ৫টা ভিডিও।
-এক: "ভার্চুয়াল রিয়েলিটি এবং অগমেন্টেড রিয়েলিটি কি! WHAT IS VR AND AR?", বাংলায়।
-দুই: "Augmented Reality vs. VR: AR and VR Explained for Beginners"।
-তিন: "AR vs. VR: What's the Difference?"।
-চার: "VR, AR, and MR... what's the difference?"।
-পাঁচ: "XR in 60 Seconds Series", এক মিনিটে পার্থক্য।
-নির্মাতাদের ধন্যবাদ।
-[CTA] কোনটা আপনি আগে চেষ্টা করতে চান, AR নাকি VR? কমেন্টে লিখুন। সেভ ও শেয়ার করুন।
-Visual note: স্ক্রিনে দুই ভাগ: বাঁ দিকে হেডসেট (VR), ডান দিকে ফোনের ক্যামেরায় AR।
+**স্ক্রিনে যা দেখাবেন:** তিন ক্লাউড প্রোভাইডারের লোগো ও কোর্স পেজ পাশাপাশি দেখান।
 
 ---
 
-## 89. স্টার্টআপ শুরুর আগে ৫টা ভিডিও (tech startups)
-**Resources (verified via search):**
-1. Business শুরু করার আগে এটা জানতেই হবে | Channel: unverified | https://youtube.com/watch?v=nOMWWjIqLr8 : বাংলায় ব্যবসার প্রাথমিক ধারণা।
-2. Startup Business Ideas: Start Up শুরু করবেন? ব্যবসা করতে চান? রইল সব খোঁজ | Channel: unverified | https://youtube.com/watch?v=spkOtWXuTvY : বাংলায় আইডিয়া ও অর্থায়ন।
-3. Everything We Teach at YCombinator in 10 Minutes | Channel: unverified | https://youtube.com/watch?v=Pg72m3CjuK4 : ১০ মিনিটে YC-র শিক্ষা।
-4. Lecture 1 - How to Start a Startup (Sam Altman, Dustin Moskovitz) | Channel: unverified | https://youtube.com/watch?v=CBYhVcO4WgI : স্টার্টআপ কোর্সের প্রথম ক্লাস।
-5. How to START a STARTUP with Michael Seibel Ycombinator | Channel: unverified | https://youtube.com/watch?v=AJ313ei-ayE : টেক ফাউন্ডারদের পরামর্শ।
-Non-video: (none verified)
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] স্টার্টআপ শুরুর আগে এই ভুলটা করলে বছরখানেকের পরিশ্রম জলে যেতে পারে।
-[মূল অংশ] আইডিয়া অনেকের থাকে, কিন্তু আগে বুঝতে হবে মানুষের আসল সমস্যাটা কী। আমি কোনো সফলতার নিশ্চয়তা দিচ্ছি না, শুধু শেখার ভিডিও দিচ্ছি।
-এক: "Business শুরু করার আগে এটা জানতেই হবে", বাংলায়।
-দুই: "Startup Business Ideas: Start Up শুরু করবেন?", বাংলায়।
-তিন: "Everything We Teach at YCombinator in 10 Minutes"।
-চার: "Lecture 1 - How to Start a Startup", Sam Altman ও Dustin Moskovitz।
-পাঁচ: "How to START a STARTUP with Michael Seibel"।
-নির্মাতাদের ধন্যবাদ।
-[CTA] আপনার স্টার্টআপ আইডিয়া কী? কমেন্টে লিখুন। সেভ ও শেয়ার করুন।
-Visual note: "সমস্যা, সমাধান, ক্রেতা" তিনটা বাক্স, তারপর থাম্বনেইল।
+## 51. সাইবার সিকিউরিটি ক্যারিয়ার শুরুর আগে এই ৫টা রিসোর্স দেখুন
 
+**যাচাই করা লিংক: 3টা**
+
+(only 3 verified)
+Resources:
+1. [PDF/Book] Cyber Security Roadmap (PDF) | roadmap.sh | https://roadmap.sh/pdfs/roadmaps/cyber-security.pdf : এটা দেখলে আপনি বুঝতে পারবেন সাইবার সিকিউরিটিতে কোন কোন বিষয় ধাপে ধাপে শিখতে হয়, check pricing
+2. [Website] Free cyber security labs for beginners | TryHackMe | https://tryhackme.com/resources/blog/the-best-free-cyber-security-labs-for-beginners-in-the-us-2025 : এটা পড়লে আপনি বিগিনারদের জন্য ফ্রি হ্যান্ডস-অন ল্যাবের ধারণা পাবেন (একটি সোর্সে ফ্রি টিয়ারের কথা আছে, check pricing)
+3. [Website] Top online cybersecurity courses list | TechTarget | https://www.techtarget.com/cybersecurity/tip/Top-12-online-cybersecurity-courses-for-2025 : এটা পড়লে আপনি কোন কোর্স দিয়ে শুরু করবেন তার তুলনা পাবেন, check pricing
+(CISA Learning and NIST courses appeared in the search summary but without a direct URL, so not listed.)
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: TryHackMe
+- Website: OWASP
+- Website: Cybersecurity resources (CISA)
+- Channel: NetworkChuck (YouTube)
+- Channel: Professor Messer (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] সাইবার সিকিউরিটি শিখতে গিয়ে ভুল রাস্তায় হাঁটলে মাসের পর মাস নষ্ট হবে!
+[মূল অংশ] অনেকেই "হ্যাকিং" শব্দ শুনে শুরু করেন, কিন্তু কোথা থেকে শুরু করবেন বুঝতে পারেন না। আজ শুধু নৈতিক ও ডিফেন্সিভ শেখার জন্য রিসোর্স বলছি। মনে রাখবেন, সবগুলো ইংরেজিতে, ক্যাপশন বা অটো-ট্রান্সলেট চালু করে নিন। এক: roadmap.sh-এর Cyber Security Roadmap PDF। এটা দেখলে বুঝবেন কোন বিষয়ের পর কোনটা শিখবেন। দুই: TryHackMe-এর ব্লগ, যেখানে বিগিনারদের জন্য হ্যান্ডস-অন ল্যাবের কথা আছে। এখানে ফ্রি আর পেইড অংশ কোনটা, সেটা নিজে একবার দেখে নেবেন। তিন: TechTarget-এর অনলাইন সাইবার সিকিউরিটি কোর্সের তালিকা। এটা পড়লে কোন কোর্স আপনার জন্য মানানসই, তুলনা করতে পারবেন। আমি এখানে তিনটা যাচাই করা রিসোর্স দিলাম। এছাড়া সরকারি সংস্থা CISA-র ফ্রি ট্রেনিংও খুঁজে দেখতে পারেন। শুধু নিজের বা অনুমতি পাওয়া সিস্টেমে প্র্যাকটিস করবেন, অন্যের অ্যাকাউন্টে নয়। কোর্স বা সার্টিফিকেটের দাম বদলায়, তাই অফিসিয়াল সাইটে দেখে নেবেন।
+[CTA] কমেন্টে লিখুন আপনি নেটওয়ার্কিং নাকি হ্যাকিং শেখায় আগ্রহী। ভিডিওটা সেভ করুন, আর বন্ধুকে শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে roadmap.sh-এর রোডম্যাপ PDF ও TryHackMe ব্লগের পেজ দেখান, সঙ্গে "শুধু নৈতিক শেখা" লেখা টেক্সট।
+
 ---
+
+## 52. Linux শেখার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 4টা**
 
-## 90. AI নৈতিকতা ও ঝুঁকি বোঝার ৫টা ভিডিও (only 4 verified)
-**Resources (verified via search):**
-1. এআই কি সত্যিই মানুষকে পৃথিবী থেকে নিশ্চিহ্ন করে দিতে পারে? | Channel: unverified | https://youtube.com/watch?v=hbMTaA-NbGQ : বাংলায় ঝুঁকি নিয়ে আলোচনা।
-2. AI 2027: এভাবেই কি মানবজাতিকে ধ্বংস করবে কৃত্রিম বুদ্ধিমত্তা? BBC Bangla | Channel: BBC Bangla (from title) | https://youtube.com/watch?v=f-dPQRz8BFw : একটি পূর্বাভাস নিয়ে আলোচনা, নিশ্চিত তথ্য নয়।
-3. Artificial Intelligent কৃত্রিম বুদ্ধিমত্তা কী আমাদের জন্য ক্ষতিকর? Eduport | Channel: Eduport (from title) | https://youtube.com/watch?v=Y5WR8jyEvvA : বাংলায় ক্ষতির দিক।
-4. AI Ethics Explained | Channel: unverified | https://youtube.com/watch?v=zIh_JWEHeJk : ইংরেজিতে নৈতিকতার ভূমিকা।
 (only 4 verified)
-Non-video: PMC, Ethical perspective on AI hazards to humans: A review https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10695628/
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] AI কি আসলেই বিপজ্জনক, নাকি শুধু ভয় দেখানো হচ্ছে?
-[মূল অংশ] দুই দিকই বোঝা দরকার। কেউ বলছেন বড় ঝুঁকি, কেউ বলছেন বাড়াবাড়ি। কোনো ভবিষ্যদ্বাণীকে আমি সত্য বলছি না, শুধু আলোচনাগুলো দেখতে বলছি।
-এক: "এআই কি সত্যিই মানুষকে পৃথিবী থেকে নিশ্চিহ্ন করে দিতে পারে?"।
-দুই: "AI 2027" BBC Bangla, এটা একটা পূর্বাভাস, নিশ্চিত তথ্য নয়।
-তিন: Eduport-এর "কৃত্রিম বুদ্ধিমত্তা কী আমাদের জন্য ক্ষতিকর?"।
-চার: "AI Ethics Explained"।
-আর একটা গবেষণা রিভিউ ক্যাপশনে দিলাম। নির্মাতাদের ধন্যবাদ।
-[CTA] আপনার মতে AI-এর সবচেয়ে বড় ঝুঁকি কী? কমেন্টে লিখুন। সেভ ও শেয়ার করুন।
-Visual note: স্ক্রিনে "সুবিধা বনাম ঝুঁকি" দাঁড়িপাল্লা।
+Resources:
+1. [Website] DevOps Roadmap (Linux is a core topic) | roadmap.sh | https://roadmap.sh/devops : এটা দেখলে আপনি বুঝবেন Linux-এর কোন কোন অংশ কাজে লাগে এবং কীভাবে ধাপে ধাপে এগোবেন
+2. [PDF/Book] 20 Best Linux Books You Can Download For Free Legally | It's FOSS | https://itsfoss.com/learn-linux-for-free/ : এটা পড়লে আপনি ফ্রি লিগ্যাল Linux বইয়ের তালিকা পাবেন
+3. [Website] Seven Useful Resources for Linux Beginners | Linux.com | https://www.linux.com/news/seven-useful-resources-linux-beginners/ : এটা পড়লে আপনি বিগিনারদের জন্য কাজের কিছু শেখার সাইট খুঁজে পাবেন (লেখাটি পুরোনো হতে পারে, যাচাই করে নিন)
+4. [Website] My favorite Resources to Learn Linux in 2026 (FREE) | Cloud Handbook (Substack) | https://cloudhandbook.substack.com/p/my-favorite-resources-to-learn-linux : এটা পড়লে আপনি ২০২৬-এর ফ্রি লার্নিং রিসোর্সের একটি কিউরেটেড তালিকা পাবেন
+(Linux Foundation LFS101 and Linux Journey appeared in a summary without direct URLs, so not listed.)
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: Linux Journey
+- PDF: The Linux Command Line (William Shotts, free book)
+- Website: OverTheWire Bandit wargame
+- Course: Introduction to Linux (Linux Foundation, edX)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] Linux না জানলে টেক ক্যারিয়ারে আপনি অনেক দরজার সামনে আটকে যাবেন!
+[মূল অংশ] সার্ভার, ক্লাউড, DevOps, সবখানেই Linux লাগে। কিন্তু কোথা থেকে শুরু করবেন? সবগুলো রিসোর্স ইংরেজিতে, তাই ক্যাপশন অন করে নিন। এক: roadmap.sh-এর DevOps Roadmap। এখানে Linux একটা মূল টপিক, এটা দেখলে বুঝবেন কী কী শিখতে হবে। দুই: It's FOSS-এর "20 Best Linux Books You Can Download For Free Legally"। এটা পড়লে ফ্রি বইয়ের তালিকা পাবেন। তিন: Linux.com-এর "Seven Useful Resources for Linux Beginners"। বিগিনারদের জন্য কিছু সাইট পাবেন, তবে লেখাটা পুরোনো হতে পারে। চার: Cloud Handbook-এর "My favorite Resources to Learn Linux in 2026"। এখানে আপডেটেড ফ্রি রিসোর্সের তালিকা আছে। আমি চারটা যাচাই করা রিসোর্স দিলাম। Linux Foundation-এর ইন্ট্রো কোর্সও খুঁজে দেখতে পারেন, তবে দাম বা ফ্রি কি না, অফিসিয়াল সাইটে দেখে নেবেন। শুধু পড়বেন না, প্রতিদিন টার্মিনালে কমান্ড চালিয়ে প্র্যাকটিস করবেন।
+[CTA] কমেন্টে লিখুন আপনি কোন Linux ডিস্ট্রো ব্যবহার করেন। সেভ করে রাখুন আর শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে টার্মিনালে কয়েকটি বেসিক কমান্ড আর roadmap.sh-এর DevOps রোডম্যাপ দেখান।
 
 ---
 
-## 91. LLM কীভাবে কাজ করে, বোঝার ৫টা ভিডিও
-**Resources (verified via search):**
-1. E-2: LLM কী | Channel: unverified | https://youtube.com/watch?v=YhFv_0zidTw : বাংলায় LLM-এর ভূমিকা।
-2. (Bangla) LLM for Everyone: A Beginner's Guide to Ollama | Channel: unverified | https://youtube.com/watch?v=XNpamet3C8g : বাংলায় নিজে চালিয়ে দেখার গাইড।
-3. Large Language Models (LLMs) Explained | Channel: unverified | https://youtube.com/watch?v=VofQIOBPNIE : ইংরেজি ব্যাখ্যা।
-4. LLMs Like ChatGPT, Explained Visually | Channel: unverified | https://youtube.com/watch?v=NLOBYtfdxuM : ছবির মাধ্যমে।
-5. How ChatGPT Works: LLMs From Scratch in Plain English | Channel: unverified | https://youtube.com/watch?v=QMVnSfSJg0k : সহজ ইংরেজিতে।
-Non-video: (none verified)
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] ChatGPT আসলে কীভাবে উত্তর দেয়, জানেন?
-[মূল অংশ] সহজ কথায়, LLM হলো এমন একটা মডেল যা প্রচুর লেখা থেকে শিখে পরের শব্দ অনুমান করে। এই ভাবনাটা বুঝলে ভুল তথ্য কেন আসে সেটাও বোঝা যায়।
-এক: "E-2: LLM কী", বাংলায়।
-দুই: "LLM for Everyone: A Beginner's Guide to Ollama", বাংলায়।
-তিন: "Large Language Models (LLMs) Explained"।
-চার: "LLMs Like ChatGPT, Explained Visually"।
-পাঁচ: "How ChatGPT Works: LLMs From Scratch in Plain English"।
-নির্মাতাদের ধন্যবাদ।
-[CTA] আপনার কোন প্রশ্নের উত্তর AI ভুল দিয়েছে? কমেন্টে জানান। সেভ ও শেয়ার করুন।
-Visual note: একটা বাক্য আর পরের শব্দ অনুমানের অ্যানিমেশন।
+## 53. UI/UX ডিজাইন শেখার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+Resources:
+1. [Course] Google UX Design learning path (Foundations of UX Design listed as a beginner course) | Coursera | https://www.coursera.org/resources/ux-learning-roadmap : এটা পড়লে আপনি UX শেখার ধাপ ও কোর্সের রোডম্যাপ বুঝতে পারবেন (Google UX Design Certificate paid, free-audit আছে কি না check pricing)
+2. [Course] Beginner UX courses | Coursera | https://www.coursera.org/courses?query=ux&productDifficultyLevel=Beginner : এখানে বিগিনার UX কোর্স দেখে নিজের পছন্দেরটা বেছে নিতে পারবেন, check pricing
+3. [Website] Getting started in design | Figma | https://www.figma.com/resource-library/getting-started-in-design/ : এটা দেখলে আপনি UI, প্রোটোটাইপ, ডিজাইন সিস্টেমের বেসিক বুঝবেন (Figma-র নিজস্ব ফ্রি কোর্স বলে উল্লেখ আছে)
+4. [Website] The best (free) resources for new UX/UI designers | UX Collective (uxdesign.cc) | https://uxdesign.cc/the-best-free-resources-for-new-ux-ui-designers-39d73ce18bfb : এটা পড়লে আপনি নতুন ডিজাইনারদের জন্য ফ্রি রিসোর্সের তালিকা পাবেন
+5. [Website] The 10 Best Free UX Design Courses | CareerFoundry | https://careerfoundry.com/blog/ux-design/best-free-ux-design-courses : এটা পড়লে আপনি ফ্রি UX কোর্সের তুলনা পাবেন (প্রকাশের তারিখ দেখে নিন)
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Course: Google UX Design Professional Certificate (Google on Coursera)
+- Website: Nielsen Norman Group
+- Docs: Figma Learn (Figma)
+- Website: Laws of UX
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] সুন্দর ডিজাইন বানানোই UI/UX নয়, এই ভুলটা করলে পোর্টফোলিও দুর্বল হবে!
+[মূল অংশ] UI/UX শিখতে চাইলে আগে বুঝুন ইউজার কী চায়। রিসোর্সগুলো ইংরেজিতে, ক্যাপশন বা অটো-ট্রান্সলেট চালু রাখুন। এক: Coursera-র UX Learning Roadmap পেজ। এখানে Google-এর UX কোর্সের পথ বোঝা যাবে, আর ফ্রি-অডিট আছে কি না, সেটা নিজে দেখে নেবেন। দুই: Coursera-র বিগিনার UX কোর্সের তালিকা। এখান থেকে নিজের লেভেলের কোর্স বেছে নিন। তিন: Figma-র "Getting started in design"। এটা দেখলে UI, প্রোটোটাইপ আর ডিজাইন সিস্টেমের বেসিক শিখবেন। চার: UX Collective-এর ফ্রি রিসোর্সের লিস্ট। এটা পড়লে অনেক ফ্রি সোর্স একসঙ্গে পাবেন। পাঁচ: CareerFoundry-র ফ্রি UX কোর্সের তুলনা। এটা পড়লে আপনার জন্য কোন ফ্রি কোর্স ভালো, বুঝবেন। মনে রাখবেন, শুধু কোর্স দেখলে হবে না, ছোট একটা প্রজেক্ট বানিয়ে পোর্টফোলিওতে রাখুন। চাকরির নিশ্চয়তা কেউ দিতে পারে না।
+[CTA] কমেন্টে লিখুন আপনি UI নাকি UX-এ আগ্রহী। সেভ করুন, বন্ধুকে শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে Figma-র পেজ, একটা ওয়্যারফ্রেমের স্কেচ আর পাঁচটা রিসোর্সের নাম পরপর দেখান।
 
 ---
 
-## 92. Neural Network সহজে বোঝার ৫টা ভিডিও (only 1 Bangla, loosely related)
-**Resources (verified via search):**
-1. But what is a neural network? | Channel: 3Blue1Brown | https://youtube.com/watch?v=aircAruvnKk : দৃশ্যের মাধ্যমে সবচেয়ে ভালো শুরু।
-2. What is backpropagation really doing? | Channel: 3Blue1Brown | https://youtube.com/watch?v=Ilg3gGewQ5U : নেটওয়ার্ক কীভাবে শেখে।
-3. Neural networks (3Blue1Brown playlist) | Channel: 3Blue1Brown | https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi : পুরো সিরিজ।
-4. মেশিন লার্নিং আসলে কী? | Channel: unverified | https://youtube.com/watch?v=cXIt5JPnjxo : বাংলায় ML-এর ভূমিকা।
-5. I built a neural network in 4 hours (from scratch) | Channel: unverified | https://youtube.com/watch?v=PWDwNceYhr8 : কোড করে বোঝার জন্য।
-Non-video: (none verified)
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] AI-এর ভেতরটা দেখতে চান? এই ৫টা ভিডিও আপনাকে সেখানে নিয়ে যাবে।
-[মূল অংশ] Neural network শুনলে ভয় লাগে, অথচ মূল ধারণা সহজ: অনেকগুলো ছোট হিসাব মিলে একটা সিদ্ধান্ত। 
-এক: 3Blue1Brown-এর "But what is a neural network?"।
-দুই: একই চ্যানেলের "What is backpropagation really doing?"।
-তিন: তাদের পুরো Neural networks প্লেলিস্ট।
-চার: বাংলায় "মেশিন লার্নিং আসলে কী?"।
-পাঁচ: "I built a neural network in 4 hours (from scratch)", যারা কোড করে শিখতে চান।
-নির্মাতাদের ধন্যবাদ।
-[CTA] কোন অংশটা কঠিন লেগেছে? কমেন্টে লিখুন। সেভ ও শেয়ার করুন।
-Visual note: স্ক্রিনে বিন্দু ও রেখার একটা সহজ নেটওয়ার্ক ডায়াগ্রাম।
+## 54. Figma ও Canva শেখার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 4টা**
+
+(only 4 verified)
+Resources:
+1. [Course] Canva essentials | Canva Design School | https://www.canva.com/en/design-school/courses/canva-essentials?gn=1 : এটা করলে আপনি Canva-র বেসিক টুল ব্যবহার করে ডিজাইন বানাতে পারবেন (প্রায় এক ঘণ্টার ১০টি লেসন, শেষে কুইজ ও সার্টিফিকেট, সার্চ রেজাল্ট অনুযায়ী)
+2. [Course] Graphic design essentials | Canva Design School | https://www.canva.com/design-school/courses/graphic-design-essentials/?lesson=welcome-graphic-design : এটা করলে আপনি টাইপোগ্রাফি, কালার ও ডিজাইনের মূল নিয়ম বুঝবেন
+3. [Website] Free Figma Tutorials | Figma Community | https://www.figma.com/community/design-tutorials/figma : এখানে ফ্রি অ্যাকাউন্টে করা যায় এমন Figma টিউটোরিয়াল পাবেন (কিছু অ্যাডভান্সড ফিচার পেইড হতে পারে)
+4. [Website] Getting started in design | Figma | https://www.figma.com/resource-library/getting-started-in-design/ : এটা দেখলে আপনি UI, প্রোটোটাইপ, ডিজাইন সিস্টেম ও ওয়্যারফ্রেমের বেসিক শিখবেন
+(YouTube beginner videos appeared but the channel names were not shown, so not listed.)
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Figma Learn (Figma)
+- Website: Design School (Canva)
+- Channel: Figma (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] Figma আর Canva দুটোই ফ্রিতে শেখা যায়, কিন্তু বেশিরভাগ মানুষ ভুল জায়গা থেকে শেখে!
+[মূল অংশ] ডিজাইন শেখার জন্য সবচেয়ে ভালো শুরু হলো টুলের অফিসিয়াল লার্নিং হাব। সব রিসোর্স ইংরেজিতে, তাই ক্যাপশন অন করুন। এক: Canva Design School-এর "Canva essentials" কোর্স। এটা করলে Canva-র বেসিক টুল ব্যবহার শিখবেন। দুই: একই স্কুলের "Graphic design essentials"। এটা করলে টাইপোগ্রাফি আর কালারের মূল ধারণা পাবেন। তিন: Figma Community-র ফ্রি টিউটোরিয়াল। এখানে ফ্রি অ্যাকাউন্টেই বেশিরভাগ কাজ প্র্যাকটিস করা যায়। চার: Figma-র "Getting started in design"। এটা দেখলে UI আর প্রোটোটাইপের বেসিক বুঝবেন। আমি চারটা যাচাই করা রিসোর্স দিলাম। প্ল্যান ও ফিচার বদলায়, তাই কোনটা ফ্রি, অফিসিয়াল সাইটে দেখে নেবেন। শেখার পর নিজের পেজের জন্য একটা পোস্টার বা ব্যানার বানিয়ে প্র্যাকটিস করুন।
+[CTA] কমেন্টে লিখুন আপনি আগে Canva নাকি Figma শিখবেন। সেভ করুন আর শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে Canva ও Figma-র হোমপেজ পাশাপাশি আর একটা বানানো ব্যানারের নমুনা দেখান।
 
 ---
 
-## 93. AI-র ইতিহাস জানার ৫টা ভিডিও (only 5 verified; English creators unverified)
-**Resources (verified via search):**
-1. কৃত্রিম বুদ্ধিমত্তার আসল পিতা কে? Father of AI কিভাবে হলেন? Artificial Intelligence এর ইতিহাস | Channel: unverified | https://youtube.com/watch?v=cCUmRIRQI9s : বাংলায় ইতিহাস।
-2. কৃত্রিম বুদ্ধিমত্তা কি? কিভাবে কাজ করে? ব্যবহার, সুবিধা-অসুবিধা সবকিছু জানুন | Channel: unverified | https://youtube.com/watch?v=TBhlbRXrGr8 : বাংলায় সার্বিক ধারণা।
-3. Complete History of AI in 6 minutes | Channel: unverified | https://youtube.com/watch?v=lomIbAbdqzk : ৬ মিনিটে সারসংক্ষেপ।
-4. A History of AI (Part 1): Where the Dream Began (1936-1973) | Channel: unverified | https://youtube.com/watch?v=CoSTQ6SSjKY : বিস্তারিত সিরিজের প্রথম পর্ব।
-5. The Secret History of AI (Documentary) | Channel: unverified | https://youtube.com/watch?v=ZvRMq04Tr_I : ডকুমেন্টারি।
-Non-video: (none verified)
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] AI কিন্তু নতুন কিছু না, এর গল্প কয়েক দশকের পুরনো।
-[মূল অংশ] ইতিহাস জানলে আজকের হাইপ বোঝা সহজ হয়। ভিডিওগুলো ইউটিউবের নির্মাতাদের তৈরি, তথ্য আলাদা করে যাচাই করে নেবেন।
-এক: "কৃত্রিম বুদ্ধিমত্তার আসল পিতা কে?", বাংলায়।
-দুই: "কৃত্রিম বুদ্ধিমত্তা কি? কিভাবে কাজ করে?", বাংলায়।
-তিন: "Complete History of AI in 6 minutes"।
-চার: "A History of AI, Part 1: Where the Dream Began"।
-পাঁচ: "The Secret History of AI"।
-নির্মাতাদের ধন্যবাদ।
-[CTA] আপনি AI-র কোন সময়টা নিয়ে জানতে চান? কমেন্টে লিখুন। সেভ ও শেয়ার করুন।
-Visual note: স্ক্রিনে সময়রেখা (টাইমলাইন), তারপর থাম্বনেইল।
+## 55. সফটওয়্যার টেস্টিং (QA) ক্যারিয়ারের ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 4টা**
+
+(only 4 verified)
+Resources:
+1. [PDF/Book] ISTQB Resources (syllabi, glossary, practice exams) | ASTQB | https://astqb.org/resources/ : এটা দেখলে আপনি ISTQB সিলেবাস ও টেস্টিং শব্দকোষ পাবেন (সার্চ রেজাল্ট অনুযায়ী সিলেবাস ফ্রি ডাউনলোড করা যায়)
+2. [Website] Learn Software Testing | AT*SQA | https://atsqa.org/educational-resources : এটা দেখলে আপনি টেস্টিং শেখার শিক্ষামূলক রিসোর্সের তালিকা পাবেন
+3. [Website] 7 best sources to look for knowledge in the software testing area | Apptension | https://apptension.com/blog/7-best-sources-to-look-for-knowledge-in-the-software-testing-area : এটা পড়লে আপনি টেস্টিং শেখার সেরা কিছু সোর্স চিনবেন
+4. [Website] Top resources to pass the ISTQB Foundation exam | TestDevLab | https://www.testdevlab.com/blog/top-resources-that-will-help-you-pass-istqb-foundation-exam-and-become-a-certified-tester : এটা পড়লে আপনি ISTQB ফাউন্ডেশন পরীক্ষার প্রস্তুতির রিসোর্স জানবেন
+(Test Automation University and roadmap.sh QA did not appear, so not listed.)
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- PDF: ISTQB Foundation syllabus (ISTQB)
+- Website: Ministry of Testing
+- Course: Test Automation University (Applitools)
+- Docs: Playwright documentation (Microsoft)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] কোডিং না পারলেও টেক ক্যারিয়ার শুরু করা যায়, QA হতে পারে সেই পথ!
+[মূল অংশ] সফটওয়্যার টেস্টিং মানে বাগ খুঁজে বের করা, কিন্তু এর পেছনে নিয়ম আছে। রিসোর্সগুলো ইংরেজিতে, ক্যাপশন চালু রাখুন। এক: ASTQB-র ISTQB Resources পেজ। এখানে সিলেবাস, শব্দকোষ ও প্র্যাকটিস এক্সাম পাবেন, আর সিলেবাস ফ্রি ডাউনলোড করা যায় বলে উল্লেখ আছে। দুই: AT*SQA-র Learn Software Testing পেজ। এটা দেখলে শেখার রিসোর্সের তালিকা পাবেন। তিন: Apptension-এর সফটওয়্যার টেস্টিং শেখার সেরা সোর্সের লেখা। চার: TestDevLab-এর ISTQB পরীক্ষার প্রস্তুতির গাইড। আমি চারটা যাচাই করা রিসোর্স দিলাম। তবে এক ব্লগার বলেছেন, সার্টিফিকেটের চেয়ে হাতে-কলমে প্র্যাকটিস বেশি দামি। তাই যেকোনো ওয়েবসাইটে গিয়ে টেস্ট কেস লেখার অভ্যাস করুন। সার্টিফিকেটের ফি বদলায়, অফিসিয়াল সাইটে দেখে নেবেন।
+[CTA] কমেন্টে লিখুন আপনি ম্যানুয়াল নাকি অটোমেশন টেস্টিং শিখতে চান। সেভ করুন, শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে ISTQB সিলেবাসের পেজ আর একটা বাগ রিপোর্টের নমুনা দেখান।
 
 ---
 
-## 94. কম্পিউটার কীভাবে কাজ করে, বোঝার ৫টা ভিডিও
-**Resources (verified via search):**
-1. কম্পিউটার কীভাবে কাজ করে? Hardware, Software, Binary Explained in Bangla. Think in Bits - Class 3 | Channel: Think in Bits (from title, unverified) | https://youtube.com/watch?v=2lpe92zwp4A : বাংলায় হার্ডওয়্যার ও বাইনারি।
-2. কম্পিউটার কী ও কীভাবে কাজ করে? | Channel: unverified | https://youtube.com/watch?v=CHHqzWH9nEE : বাংলায় ভিত্তি।
-3. Hello World থেকে CPU পর্যন্ত - Code আসলে কীভাবে কাজ করে? | Channel: unverified | https://youtube.com/watch?v=sho6JRrRP3I : কোড থেকে CPU পর্যন্ত।
-4. CPU & Memory Explained | Channel: unverified | https://youtube.com/watch?v=v4iuu4dcJJA : ইংরেজিতে CPU ও মেমোরি।
-5. CPU and RAM | Channel: unverified | https://youtube.com/watch?v=YRqdkNRPaBs : CPU ও RAM-এর সম্পর্ক।
-Non-video: (none verified)
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] আপনি যে কম্পিউটার রোজ চালান, তার ভেতরে আসলে কী ঘটে?
-[মূল অংশ] CPU, RAM আর বাইনারি, এই তিনটা বুঝলে আপনি অর্ধেক বুঝে গেলেন।
-এক: "কম্পিউটার কীভাবে কাজ করে? Hardware, Software, Binary Explained in Bangla"।
-দুই: "কম্পিউটার কী ও কীভাবে কাজ করে?"।
-তিন: "Hello World থেকে CPU পর্যন্ত, Code আসলে কীভাবে কাজ করে?"।
-চার: "CPU & Memory Explained"।
-পাঁচ: "CPU and RAM"।
-নির্মাতাদের ধন্যবাদ।
-[CTA] কম্পিউটারের কোন অংশটা নিয়ে আরও জানতে চান? কমেন্টে লিখুন। সেভ ও শেয়ার করুন।
-Visual note: CPU, RAM, স্টোরেজ তিনটা বাক্সে সহজ চিত্র।
+## 56. DevOps রোডম্যাপের ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+Resources:
+1. [Website] DevOps Roadmap | roadmap.sh | https://roadmap.sh/devops : এটা দেখলে আপনি DevOps শেখার সম্পূর্ণ ধাপ বুঝবেন
+2. [PDF/Book] DevOps Roadmap (PDF) | roadmap.sh | https://roadmap.sh/pdfs/roadmaps/devops.pdf : এটা সেভ করলে অফলাইনে রোডম্যাপ দেখে চেকলিস্ট বানাতে পারবেন
+3. [Website] Learn DevOps YouTube channels (mentions TechWorld with Nana, freeCodeCamp) | Linux Handbook | https://linuxhandbook.com/blog/devops-learn-youtube-channels/ : এটা পড়লে আপনি কোন ইউটিউব চ্যানেল থেকে DevOps শিখবেন তা জানবেন
+4. [Website] Mastering DevOps in 2026: free resources, roadmaps | DEV Community | https://dev.to/meena_nukala/mastering-devops-in-2026-free-resources-roadmaps-and-real-world-tips-3c4a : এটা পড়লে আপনি ফ্রি রিসোর্স ও বাস্তব টিপস পাবেন
+5. [Website] DevOps-Roadmap (community GitHub repo, unofficial) | GitHub | https://github.com/devops204400/DevOps-Roadmap : এখানে Docker ও Kubernetes-এর ফ্রি মেটেরিয়ালের লিংক পাবেন (কমিউনিটি রিপো, যাচাই করে নিন)
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: DevOps roadmap (roadmap.sh)
+- Docs: Get started (Docker Docs)
+- Docs: Kubernetes tutorials (Kubernetes docs)
+- Channel: TechWorld with Nana (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] DevOps শেখা শুরু করে বেশিরভাগ মানুষ প্রথম মাসেই থেমে যায়, কারণ রোডম্যাপ নেই!
+[মূল অংশ] DevOps-এ Linux, Docker, Kubernetes, CI/CD, অনেক কিছু একসঙ্গে আসে। সব রিসোর্স ইংরেজিতে, ক্যাপশন অন করুন। এক: roadmap.sh-এর DevOps Roadmap। এটা দেখলে পুরো পথ বুঝবেন। দুই: একই রোডম্যাপের PDF। এটা সেভ করে রাখলে অগ্রগতি মিলিয়ে নিতে পারবেন। তিন: Linux Handbook-এর DevOps ইউটিউব চ্যানেলের তালিকা। এতে TechWorld with Nana আর freeCodeCamp-এর কথা আছে। চার: DEV Community-র "Mastering DevOps in 2026" লেখা, ফ্রি রিসোর্সের জন্য। পাঁচ: GitHub-এর একটি কমিউনিটি DevOps-Roadmap রিপো, যেটা অফিসিয়াল নয়, তাই যাচাই করে নেবেন। একটা কথা, শুধু দেখলে হবে না। ফ্রি ক্লাউড ক্রেডিট বা লোকাল মেশিনে নিজে একটা ছোট অ্যাপ ডিপ্লয় করে দেখুন। টুল ও ফি বদলায়, অফিসিয়াল ডক দেখে নেবেন।
+[CTA] কমেন্টে লিখুন আপনি এখন কোন ধাপে আছেন। সেভ করুন আর শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে roadmap.sh-এর DevOps রোডম্যাপ জুম করে দেখান।
 
 ---
 
-## 95. ইন্টারনেট কীভাবে কাজ করে, বোঝার ৫টা ভিডিও
-**Resources (verified via search):**
-1. ইন্টারনেট কী? | Channel: unverified | https://youtube.com/watch?v=f2e8mn_Skrw : বাংলায় ভিত্তি।
-2. ইন্টারনেট যেভাবে এলো! | Channel: unverified | https://youtube.com/watch?v=SXI-sjSm7UY : ইতিহাস।
-3. Submarine Cable Landing Station In Bangladesh | Channel: unverified | https://youtube.com/watch?v=VUAvcBycvcs : বাংলাদেশে ইন্টারনেট কীভাবে আসে।
-4. How the Internet Works in 5 Minutes | Channel: unverified | https://youtube.com/watch?v=7_LPdttKXPc : ৫ মিনিটে।
-5. How the Internet Works? DNS, IP Address, Routers & Servers Explained | Channel: unverified | https://youtube.com/watch?v=s054qiBUUZY : DNS, IP, রাউটার।
-Non-video: (MDN search was blocked by budget; none verified)
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] আপনি একটা লিংকে ক্লিক করলেন, কয়েক সেকেন্ডে পেজ এল। মাঝখানে কী ঘটল?
-[মূল অংশ] ইন্টারনেট কিন্তু কোনো জাদু না, এটা তার, সাবমেরিন ক্যাবল আর কম্পিউটারের নেটওয়ার্ক।
-এক: "ইন্টারনেট কী?", বাংলায়।
-দুই: "ইন্টারনেট যেভাবে এলো!"।
-তিন: "Submarine Cable Landing Station In Bangladesh"।
-চার: "How the Internet Works in 5 Minutes"।
-পাঁচ: "How the Internet Works? DNS, IP Address, Routers & Servers Explained"।
-নির্মাতাদের ধন্যবাদ।
-[CTA] ইন্টারনেট নিয়ে আপনার কোন প্রশ্ন আছে? কমেন্টে লিখুন। সেভ ও শেয়ার করুন।
-Visual note: ব্রাউজার থেকে সার্ভার পর্যন্ত তীর চিহ্নে পথ।
+## 57. Machine Learning শেখার রোডম্যাপের ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 4টা**
+
+(only 4 verified)
+Resources:
+1. [Course] Machine Learning Crash Course | Google for Developers | https://developers.google.com/machine-learning/crash-course : এটা করলে আপনি অ্যানিমেটেড ভিডিও ও হাতে-কলমে এক্সারসাইজে ML-এর বেসিক ও নিউরাল নেটওয়ার্ক শিখবেন (পেজে এভাবেই বর্ণনা আছে)
+2. [Website] Top 18 Free Training Resources for AI and Machine Learning | DSIAC | https://dsiac.dtic.mil/articles/top-18-free-training-resources-for-ai-and-machine-learning-skills : এটা পড়লে আপনি ফ্রি AI/ML ট্রেনিংয়ের বড় তালিকা পাবেন
+3. [Website] 18 Best YouTube Channels For AI and Machine Learning | Kaggle (community thread) | https://www.kaggle.com/discussions/getting-started/335009 : এটা পড়লে আপনি কোন চ্যানেল থেকে ML শিখবেন তার আইডিয়া পাবেন (কমিউনিটি পোস্ট)
+4. [Website] Free Machine Learning Resources For Beginners | Kaggle (community thread) | https://www.kaggle.com/discussions/general/564339 : এটা পড়লে আপনি বিগিনারদের জন্য ফ্রি রিসোর্সের কমিউনিটি তালিকা পাবেন
+(Kaggle Learn micro-courses, StatQuest, 3Blue1Brown were named in summaries only, without direct URLs, so not listed.)
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Course: Machine Learning Specialization (DeepLearning.AI and Stanford, Andrew Ng)
+- Course: Practical Deep Learning for Coders (fast.ai)
+- Course: Machine Learning Crash Course (Google)
+- Course: Kaggle Learn
+- Channel: StatQuest with Josh Starmer (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] Machine Learning শিখতে প্রথমেই গণিতের ভয়ে থেমে যাবেন না!
+[মূল অংশ] ML শেখার আগে একটা পরিষ্কার পথ দরকার। রিসোর্সগুলো ইংরেজিতে, ক্যাপশন অন করে দেখুন। এক: Google for Developers-এর Machine Learning Crash Course। এখানে ভিডিও, ইন্টারঅ্যাক্টিভ ভিজ্যুয়াল আর এক্সারসাইজ আছে। দুই: DSIAC-এর "Top 18 Free Training Resources for AI and Machine Learning"। এটা পড়লে ফ্রি ট্রেনিংয়ের তালিকা পাবেন। তিন: Kaggle-এর "18 Best YouTube Channels For AI and ML" থ্রেড। এটা কমিউনিটির পোস্ট, তাই সুপারিশ দেখে নিজে যাচাই করুন। চার: Kaggle-এর "Free Machine Learning Resources For Beginners" থ্রেড। আমি চারটা যাচাই করা রিসোর্স দিলাম। এছাড়া Kaggle Learn-এর মাইক্রো-কোর্স আর StatQuest, 3Blue1Brown চ্যানেল অনেকে সুপারিশ করেন, ওগুলো নিজে সার্চ করে দেখতে পারেন। শিখতে শিখতে ছোট প্রজেক্ট করুন।
+[CTA] কমেন্টে লিখুন আপনার গণিতের ভয় কোথায়। সেভ করুন, শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে Google ML Crash Course-এর পেজ আর একটা সহজ গ্রাফ দেখান।
 
 ---
 
-## 96. টেক শেখার ৫টা সেরা পডকাস্ট বা বই (only 5 verified, 0 Bangla; 2 books with official pages, 3 podcasts)
-**Resources (verified via search):**
-1. Eloquent JavaScript (বই, লেখক Marijn Haverbeke, ফ্রি অনলাইন, ৪র্থ সংস্করণ) | https://eloquentjavascript.net/ : JavaScript শেখার বই, ইংরেজি।
-2. Automate the Boring Stuff with Python (বই, লেখক Al Sweigart, সাইটে ফ্রি পড়ার কথা উল্লেখ) | https://www.automatetheboringstuff.com : প্রোগ্রামিং না জানা মানুষের জন্য, ইংরেজি।
-3. The Changelog (পডকাস্ট, হোস্ট Adam Stacoviak ও Jerod Santo) | https://changelog.com/podcast : ওপেন সোর্স ও সফটওয়্যার ডেভেলপমেন্ট নিয়ে (ঠিকানাটি সার্চ ফলাফলের লেখায় পেয়েছি, সরাসরি পেজ খুলে যাচাই বাকি)।
-4. Syntax (পডকাস্ট, হোস্ট Wes Bos ও Scott Tolinski) | https://syntax.fm : ওয়েব ডেভেলপমেন্ট বিষয়ে (ঠিকানাটি ফলাফলের লেখায় পেয়েছি, যাচাই বাকি)।
-5. Software Engineering Daily (পডকাস্ট) | https://softwareengineeringdaily.com : সফটওয়্যার বিষয়ক ইন্টারভিউ (ফলাফলের লেখায় অফিসিয়াল সাইট হিসেবে উল্লেখ, যাচাই বাকি)।
+## 58. টেক ইন্টারভিউয়ের প্রস্তুতির ৫টা রিসোর্স দেখুন
 
-Not listed as official: The Pragmatic Programmer (Dave Thomas ও Andy Hunt) appeared only on retailer pages (e.g. https://mitpressbookstore.mit.edu/book/9780135957059), so mention it only as a name if you wish.
+**যাচাই করা লিংক: 4টা**
 
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] ভিডিও দেখতে দেখতে ক্লান্ত? টেক শেখার জন্য এই ৫টা বই আর পডকাস্ট চেষ্টা করে দেখুন।
-[মূল অংশ] সবগুলো ইংরেজিতে, বাংলা কিছু পাইনি। বই দুটো দিয়ে শুরু করি। এক, Marijn Haverbeke এর Eloquent JavaScript, যার অনলাইন সংস্করণ তাদের সাইটে পড়া যায়। দুই, Al Sweigart এর Automate the Boring Stuff with Python, যেটা কোডিং না জানা মানুষকে মাথায় রেখে লেখা বলে সাইটে বলা হয়েছে। এবার পডকাস্ট। তিন, The Changelog, ওপেন সোর্স নিয়ে। চার, Syntax, ওয়েব ডেভেলপমেন্ট নিয়ে, হোস্ট Wes Bos আর Scott Tolinski। পাঁচ, Software Engineering Daily, সফটওয়্যার নিয়ে নানা ইন্টারভিউ। পডকাস্টের এপিসোড পছন্দ করতে নিজে কয়েকটা শুনে দেখুন, আর লিংকে গিয়ে একবার নিশ্চিত হয়ে নিন। সব লেখক ও হোস্টকে ধন্যবাদ। বই বা পডকাস্ট, কোনোটাই এক রাতে ম্যাজিক করবে না, নিয়মিত শুনুন বা পড়ুন।
-[CTA] আপনার প্রিয় টেক পডকাস্ট বা বইয়ের নাম কমেন্টে লিখুন। সেভ করুন, শেয়ার করুন।
-**Visual note:** স্ক্রিনে বইয়ের কভার বা সাইটের স্ক্রিনশট (নিজে তুলে নিন) ও পডকাস্টের নাম পরপর দেখান।
+(only 4 verified)
+Resources:
+1. [Website] Coding Interview Preparation | freeCodeCamp | https://www.freecodecamp.org/news/coding-interview-preparation/ : এটা পড়লে আপনি কোডিং ইন্টারভিউয়ের প্রস্তুতির কাঠামো পাবেন
+2. [Website] My recommended materials for cracking your next technical interview | ByteByteGo | https://bytebytego.com/guides/my-recommended-materials-for-cracking-your-next-technical-interview/ : এটা পড়লে আপনি সিস্টেম ডিজাইন ও কোডিংয়ের সুপারিশকৃত মেটেরিয়াল জানবেন (কিছু বই পেইড)
+3. [Website] 10 GitHub Repositories to Ace Any Tech Interview | KDnuggets | https://www.kdnuggets.com/10-github-repositories-to-ace-any-tech-interview : এটা পড়লে আপনি ফ্রি GitHub রিপোজিটরির তালিকা পাবেন
+4. [Website] Tech Interview Resources | DesignGurus | https://designgurus.io/answers/detail/tech-interview-resources : এটা পড়লে আপনি টেক ইন্টারভিউ রিসোর্সের একটি সংকলন পাবেন (বিক্রয়কারী সাইট, দাম check pricing)
+(Tech Interview Handbook, NeetCode, LeetCode, System Design Primer were mentioned in summaries without direct URLs, so not listed.)
 
----
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: Tech Interview Handbook
+- Website: NeetCode
+- Website: LeetCode
+- Website: The System Design Primer (GitHub)
 
-## 97. টেক ইংলিশ ও টেকনিক্যাল রাইটিং শেখার ৫টা ভিডিও (0 Bangla verified)
-**Resources (verified via search):**
-1. Free Technical Writing Course from Google, Introduction and review of top Technical Writing Course | Channel: unverified | https://youtube.com/watch?v=e0-RDifJHu4 : Google-এর ফ্রি কোর্সের পরিচিতি, নতুন সেশন আছে কি না অফিশিয়াল সাইটে দেখুন।
-2. Technical Writing Course for Beginners | Channel: unverified | https://youtube.com/watch?v=vT5pcc30Ffw : নতুনদের কোর্স।
-3. Technical Writing Tutorial For Beginners | Channel: unverified | https://youtube.com/watch?v=dCV8uyeT7wU : টিউটোরিয়াল।
-4. Technical Writing 101: Introduction to Technical Writing | Channel: unverified | https://youtube.com/watch?v=LTDsgd0ytbE : ভূমিকা।
-5. Technical Writing for Beginners | Channel: unverified | https://youtube.com/watch?v=_kFAXQCaufc : আরেকটি শুরুর ভিডিও।
-Non-video: (Google course page not verified because of search budget)
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] ইংরেজি ভালো না? তবু টেকনিক্যাল রাইটিং শেখা সম্ভব।
-[মূল অংশ] টেকে ভালো ক্যারিয়ারের জন্য পরিষ্কার লেখা দরকার। ভিডিওগুলো ইংরেজিতে, তবে সহজ ভাষায়।
-এক: "Free Technical Writing Course from Google, Introduction and review"।
-দুই: "Technical Writing Course for Beginners"।
-তিন: "Technical Writing Tutorial For Beginners"।
-চার: "Technical Writing 101: Introduction to Technical Writing"।
-পাঁচ: "Technical Writing for Beginners"।
-Google-এর কোর্সের তারিখ বদলায়, তাই অফিশিয়াল সাইটে চেক করে নেবেন। নির্মাতাদের ধন্যবাদ।
-[CTA] আপনি কি লিখতে ভালোবাসেন? কমেন্টে জানান। সেভ ও শেয়ার করুন।
-Visual note: খারাপ বাক্য বনাম পরিষ্কার বাক্যের পাশাপাশি তুলনা।
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ইন্টারভিউয়ের আগে ভুল জিনিস প্র্যাকটিস করলে সময় নষ্ট, সঠিক রিসোর্স কোনগুলো?
+[মূল অংশ] টেক ইন্টারভিউতে কোডিং, সিস্টেম ডিজাইন আর বিহেভিয়ারাল, তিনটাই আসে। সব রিসোর্স ইংরেজিতে, ক্যাপশন অন রাখুন। এক: freeCodeCamp-এর Coding Interview Preparation গাইড। এটা পড়লে প্রস্তুতির কাঠামো বুঝবেন। দুই: ByteByteGo-র ইন্টারভিউ ম্যাটেরিয়াল গাইড, কিছু বই পেইড হতে পারে। তিন: KDnuggets-এর ১০টি GitHub রিপোজিটরির তালিকা, ফ্রি প্র্যাকটিসের জন্য। চার: DesignGurus-এর টেক ইন্টারভিউ রিসোর্স লিস্ট, এটা একটা বিক্রয়কারী সাইট, তাই দাম দেখে নেবেন। আমি চারটা যাচাই করা রিসোর্স দিলাম। এছাড়া অনেকে LeetCode, NeetCode ও Tech Interview Handbook ব্যবহার করেন, ওগুলো নিজে সার্চ করে দেখবেন। প্রতিদিন অল্প অল্প প্রবলেম সমাধান করুন, আর নিজের সমাধান জোরে বলে ব্যাখ্যা করার অভ্যাস করুন।
+[CTA] কমেন্টে লিখুন আপনি কোন কোম্পানির জন্য প্রস্তুতি নিচ্ছেন। সেভ করুন, শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে কোডিং প্রবলেমের একটা স্ক্রিন আর রিসোর্সের নাম একে একে দেখান।
 
 ---
 
-## 98. টেক কনফারেন্স ও কীনোট থেকে শেখার ৫টা ভিডিও
-**Resources (verified via search):**
-1. Google I/O '26 Keynote | Channel: unverified (likely Google) | https://youtube.com/watch?v=wYSncx9zLIU : Google-এর মূল কীনোট।
-2. Developer Keynote (Google I/O '26) | Channel: unverified | https://youtube.com/watch?v=aqmpZocmR8o : ডেভেলপারদের জন্য।
-3. Microsoft Build 2026 | Channel: unverified | https://youtube.com/watch?v=FFMm454fxNA : Microsoft Build।
-4. Microsoft Build 2026: 20+ Big Announcements in 16 Minutes | Channel: unverified | https://youtube.com/watch?v=OlbD0L7gr1Y : ১৬ মিনিটের সারসংক্ষেপ।
-5. NVIDIA GTC 2026 Keynote with Jensen Huang Highlights | Channel: unverified | https://youtube.com/watch?v=kDd24YOeqQQ : হাইলাইটস।
-Non-video: (none verified)
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] ঘণ্টার পর ঘণ্টার কীনোট না দেখেই কীভাবে বড় টেক খবর ধরবেন?
-[মূল অংশ] আমার পদ্ধতি: আগে ছোট সারসংক্ষেপ, তারপর যেটা কাজের শুধু সেই অংশ।
-এক: "Google I/O '26 Keynote"।
-দুই: "Developer Keynote, Google I/O '26"।
-তিন: "Microsoft Build 2026"।
-চার: "Microsoft Build 2026: 20+ Big Announcements in 16 Minutes", এটা আগে দেখুন।
-পাঁচ: "NVIDIA GTC 2026 Keynote with Jensen Huang Highlights"।
-নির্মাতাদের ধন্যবাদ। কীনোটের ঘোষণা আর বাস্তব ফিচার আলাদা হতে পারে, অফিশিয়াল পেজে মিলিয়ে নেবেন।
-[CTA] আপনি কোন কনফারেন্স দেখেন? কমেন্টে লিখুন। সেভ ও শেয়ার করুন।
-Visual note: ১৬ মিনিটের সারসংক্ষেপ আগে, তারপর পূর্ণ কীনোট, এই ক্রম দেখান।
+## 59. ওপেন সোর্সে অবদান রাখা শুরুর ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+Resources:
+1. [Docs] How to Contribute to Open Source | Open Source Guides (opensource.guide) | https://opensource.guide/how-to-contribute/ : এটা পড়লে আপনি ওপেন সোর্সে কীভাবে অবদান রাখবেন তার ধাপ বুঝবেন
+2. [Docs] Make your first open source contribution in four easy steps | GitHub | https://github.com/readme/guides/first-oss-contribution : এটা পড়লে আপনি "good first issue" খুঁজে প্রথম অবদান রাখার চার ধাপ শিখবেন
+3. [Website] How to Contribute to Open Source Projects: Beginners Guide | freeCodeCamp | https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/ : এটা পড়লে আপনি ফর্ক, ব্রাঞ্চ ও পুল রিকোয়েস্টের ধারা বুঝবেন
+4. [Website] How to Contribute to Open Source Projects as a Beginner | freeCodeCamp | https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-as-a-beginner/ : এটা পড়লে আপনি প্রজেক্ট বাছাই ও সাধারণ ভুল এড়ানো শিখবেন
+5. [Website] How to Start Your Open Source Journey: Beginners Guide | freeCodeCamp | https://www.freecodecamp.org/news/how-to-start-your-open-source-journey-beginners-guide/ : এটা পড়লে আপনি শুরুর মানসিকতা ও পরিকল্পনা পাবেন
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: Open Source Guides (GitHub)
+- Website: First Timers Only
+- Website: Good First Issue
+- Website: Up For Grabs
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] পোর্টফোলিওতে একটা ওপেন সোর্স কন্ট্রিবিউশন থাকলে আপনি আলাদা হয়ে যাবেন!
+[মূল অংশ] কিন্তু প্রথম পুল রিকোয়েস্ট করতে ভয় লাগে, তাই না? রিসোর্সগুলো ইংরেজিতে, ক্যাপশন চালু রাখুন। এক: Open Source Guides-এর "How to Contribute to Open Source"। এটা পড়লে অবদান রাখার ধাপ বুঝবেন। দুই: GitHub-এর "Make your first open source contribution in four easy steps"। এটা পড়লে "good first issue" খুঁজে প্রথম কাজ শুরু করবেন। তিন, চার ও পাঁচ: freeCodeCamp-এর তিনটা বিগিনার গাইড। এগুলো পড়লে ফর্ক থেকে পুল রিকোয়েস্ট পর্যন্ত পুরো ধারা, প্রজেক্ট বাছাই আর সাধারণ ভুল বুঝবেন। একটা টিপ: প্রজেক্টের CONTRIBUTING ফাইল আগে পড়ুন, আর বড় পরিবর্তন করার আগে আলোচনা করুন। রিভিউ আসতে কয়েক দিন লাগতে পারে, ধৈর্য ধরুন।
+[CTA] কমেন্টে লিখুন আপনি কোন ল্যাঙ্গুয়েজে অবদান রাখতে চান। সেভ করুন, শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে GitHub-এ একটি রিপোর "good first issue" লেবেল আর Fork বাটন দেখান।
 
 ---
 
-## 99. অভিভাবকদের জন্য: সন্তানকে AI যুগে প্রস্তুত করার ৫টা ভিডিও (0 Bangla verified)
-**Resources (verified via search):**
-1. Raising Kids in the Age of AI: Safety, Learning and Human Connection | Channel: unverified | https://youtube.com/watch?v=Uevki6kLz6c : নিরাপত্তা ও শেখা।
-2. Raising Critical Thinkers in the Age of AI: Tips and Strategies for Parents | Channel: unverified | https://youtube.com/watch?v=YwhALjMDQOg : চিন্তাশক্তি গড়া।
-3. Is AI Safe for Kids? A Parent's Guide to the Hidden Risks | Channel: unverified | https://youtube.com/watch?v=1sc-darJNoE : ঝুঁকি।
-4. Back-to-school: A parent's guide to AI | Channel: unverified | https://youtube.com/watch?v=jEUYja7gSxk : স্কুল ও AI।
-5. How to Raise Kids in the Age of AI, with Dana Suskind | Channel: unverified | https://youtube.com/watch?v=alqS2EeYdpA : Dana Suskind-এর আলোচনা।
-Non-video: (none verified)
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] আপনার সন্তান কি AI-কে হোমওয়ার্ক করতে দিচ্ছে? এই ভিডিওগুলো আগে দেখুন।
-[মূল অংশ] AI থেকে সন্তানকে দূরে রাখা কঠিন, তাই শেখাতে হবে কীভাবে ভেবে ব্যবহার করতে হয়। ভিডিওগুলো ইংরেজিতে, তবে কথাগুলো আমাদের জন্যও কাজের।
-এক: "Raising Kids in the Age of AI: Safety, Learning and Human Connection"।
-দুই: "Raising Critical Thinkers in the Age of AI"।
-তিন: "Is AI Safe for Kids? A Parent's Guide to the Hidden Risks"।
-চার: "Back-to-school: A parent's guide to AI"।
-পাঁচ: "How to Raise Kids in the Age of AI, with Dana Suskind"।
-নির্মাতাদের ধন্যবাদ।
-[CTA] আপনি কীভাবে সন্তানের AI ব্যবহার সামলান? কমেন্টে লিখুন। সেভ করুন, অন্য অভিভাবককে শেয়ার করুন।
-Visual note: অভিভাবক ও সন্তান একসাথে ল্যাপটপে, সহজ আইকন।
+## 60. রিমোট সফটওয়্যার জব খোঁজার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 3টা**
+
+(only 3 verified, and all three are lower-authority guides; no official/major source URL was found)
+Resources:
+1. [Website] How to Find Remote Web Developer Jobs | G2 Learning Hub | https://learn.g2.com/remote-web-developer-jobs : এটা পড়লে আপনি রিমোট ওয়েব ডেভেলপার জব খোঁজার সাধারণ কৌশল জানবেন
+2. [Website] How to Land Remote Software Developer Jobs | BlueCoding | https://www.bluecoding.com/post/how-to-land-remote-software-developer-jobs : এটা পড়লে আপনি রিমোট জবের জন্য প্রস্তুতির ধাপ বুঝবেন
+3. [Website] How to Find and Land Software Developer Jobs: 2 Minute Guide | Crossover | https://www.crossover.com/resources/how-to-find-and-land-software-developer-jobs-2-minute-guide : সংক্ষিপ্ত গাইড (এটা একটি কোম্পানির মার্কেটিং কনটেন্ট, তাই সতর্ক থাকুন)
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: We Work Remotely
+- Website: Remote OK
+- Website: Wellfound
+- Warning: never pay to get a job, check any company before sharing documents
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] রিমোট জবের নামে স্ক্যামে পড়ার আগে এই কথাগুলো জেনে নিন!
+[মূল অংশ] রিমোট জব সবার জন্য নিশ্চিত নয়, আর কেউ চাকরির গ্যারান্টি দিতে পারে না। সার্চে আমি তিনটা ইংরেজি গাইড পেয়েছি, ক্যাপশন অন করে পড়ুন। এক: G2 Learning Hub-এর "How to Find Remote Web Developer Jobs"। দুই: BlueCoding-এর "How to Land Remote Software Developer Jobs"। তিন: Crossover-এর ২ মিনিটের গাইড, তবে এটা একটা কোম্পানির নিজের কনটেন্ট, তাই সতর্ক থাকুন। এই গাইডগুলোর সাধারণ পরামর্শ হলো, নিজের স্ট্যাক অনুযায়ী টার্গেট করা, LinkedIn প্রোফাইল হালনাগাদ রাখা আর GitHub-এ কাজ দেখানো। কোনো চাকরির জন্য টাকা চাইলে সেটা স্ক্যাম হতে পারে, সরে আসুন। আমি মাত্র তিনটা যাচাই করতে পেরেছি, তাই আরও নির্ভরযোগ্য সোর্স নিজে খুঁজে দেখবেন।
+[CTA] কমেন্টে লিখুন আপনার কোনো রিমোট জব স্ক্যামের অভিজ্ঞতা আছে কি না। সেভ করুন, শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে "চাকরির জন্য টাকা চাইলে সাবধান" ওয়ার্নিং টেক্সট আর তিনটা গাইডের নাম দেখান।
 
 ---
 
-## 100. শিক্ষকদের জন্য: ক্লাসরুমে AI ব্যবহারের ৫টা ভিডিও (only 1 Bangla, and it is student-focused)
-**Resources (verified via search):**
-1. ChatGPT 101 for Teachers: A Beginner's Tutorial | Channel: unverified | https://youtube.com/watch?v=Y6cp89S6W8M : শিক্ষকদের জন্য শুরুর টিউটোরিয়াল।
-2. 12 Ways to Use Chat GPT in the Classroom [ 100 ChatGPT Prompts for Teachers ] | Channel: unverified | https://youtube.com/watch?v=UnzZWqBciG0 : ক্লাসে ব্যবহারের আইডিয়া।
-3. How to use ChatGPT as a teacher to create lessons, resources & save time | Channel: unverified | https://youtube.com/watch?v=8AJvOiUSmeI : পাঠ পরিকল্পনা।
-4. The Ultimate AI Classroom Masterclass for Teachers | Channel: unverified | https://youtube.com/watch?v=UaQcMxEIz4o : মাস্টারক্লাস।
-5. শিক্ষার্থীদের জন্য ৫ টি এআই টুলস | Channel: unverified | https://youtube.com/watch?v=5VPDld_I-VQ : বাংলায়, শিক্ষার্থীরা কী ব্যবহার করছে তা জানতে।
-Non-video: PMC study, AI in Pakistani ESL classrooms https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12483258/
-**Recording script (Bangla, 60 to 90 seconds):**
-[হুক] শিক্ষক ভাইবোনেরা, রোজ এক ঘণ্টা সময় বাঁচাতে চান? AI পারে সাহায্য করতে।
-[মূল অংশ] পাঠ পরিকল্পনা, প্রশ্ন বানানো, উদাহরণ তৈরি, এসব কাজে AI সহায়ক হতে পারে। তবে AI-র দেওয়া উত্তর নিজে যাচাই করে নেবেন, আর ছাত্রছাত্রীর ব্যক্তিগত তথ্য দেবেন না।
-এক: "ChatGPT 101 for Teachers: A Beginner's Tutorial"।
-দুই: "12 Ways to Use Chat GPT in the Classroom"।
-তিন: "How to use ChatGPT as a teacher to create lessons, resources & save time"।
-চার: "The Ultimate AI Classroom Masterclass for Teachers"।
-পাঁচ: বাংলায় "শিক্ষার্থীদের জন্য ৫ টি এআই টুলস", ছাত্রছাত্রীরা কী ব্যবহার করছে জানতে।
-নির্মাতাদের ধন্যবাদ।
-[CTA] আপনি কি ক্লাসে AI ব্যবহার করেছেন? কমেন্টে জানান। সেভ করুন, সহকর্মীকে শেয়ার করুন।
-Visual note: শিক্ষকের টেবিলে ল্যাপটপ, পাশে পাঠ পরিকল্পনার চেকলিস্ট।
+## 61. অনলাইন স্ক্যাম চিনতে এই ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 4টা**
+
+Resources: (only 4 verified)
+1. [Video] FTC "Pass It On" video | FTC (consumer.ftc.gov) | https://consumer.ftc.gov/media/79830 : এটা দেখলে আপনি "থামুন, যাচাই করুন, তারপর কাজ করুন" অভ্যাসটা শিখে স্ক্যামারের টাকা চাওয়ার ফাঁদ চিনতে পারবেন। (free ও শেয়ারযোগ্য বলা আছে)
+2. [Website] FTC Consumer Advice video library | FTC | https://consumer.ftc.gov/node/298315 : এটা দেখলে আপনি পরিচয় চুরি, ছোট ব্যবসার স্ক্যামসহ নানা ধরনের স্ক্যামের ভিডিও একজায়গায় পাবেন।
+3. [Video] Phishing Scams in Plain English | Common Craft | https://www.commoncraft.com/node/5584 : এটা দেখলে আপনি ভুয়া ব্যাংক ইমেইল ও ফিশিং লিংকের লক্ষণ সহজে বুঝতে পারবেন। (pricing: check pricing)
+4. [Website] What is phishing (3 min video and guide) | Own Your Online, NZ Government | https://www.ownyouronline.govt.nz/resources/for-individuals/what-is-phishing/ : এটা দেখলে আপনি পার্সেল, ট্যাক্স রিফান্ডের মতো টোপ দেওয়া মেসেজ ধরতে পারবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: Consumer Advice scams (FTC)
+- Website: Stay Safe Online (National Cybersecurity Alliance)
+- Website: Safety Center (Google)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] এক মেসেজেই আপনার ব্যাংক একাউন্ট খালি হতে পারে! ক্লিক করার আগে ৩০ সেকেন্ড দিন।
+[মূল অংশ] স্ক্যামাররা এখন খুব চালাক। জরুরি তাড়া দেয়, লিংকে ক্লিক করাতে চায়, টাকা পাঠাতে বলে। তাই শেখার আগে এই ৫টা রিসোর্স দেখুন, সব ইংরেজিতে, ক্যাপশন বা অটো ট্রান্সলেট চালু করে নিন। এক: আমেরিকার FTC-র "Pass It On" ভিডিও, এটা শেখায় থামুন, যাচাই করুন, তারপর কাজ করুন। দুই: FTC-র ভিডিও লাইব্রেরি, নানা ধরনের স্ক্যামের উদাহরণ পাবেন। তিন: Common Craft-এর "Phishing Scams in Plain English", ভুয়া ব্যাংক ইমেইলের লক্ষণ সহজে বোঝায়। চার: নিউজিল্যান্ড সরকারের Own Your Online-এর ফিশিং ভিডিও ও গাইড, কোন টোপ বেশি চলে সেটা দেখায়। পাঁচ: সব দেখে নিজে একটা নিয়ম বানান, অচেনা লিংকে ক্লিক নয়, কেউ টাকা চাইলে আগে অফিসিয়াল নম্বরে ফোন। সবগুলোর প্রাইসিং আগে দেখে নেবেন।
+[CTA] আপনি কখনো স্ক্যাম মেসেজ পেয়েছেন? কমেন্টে জানান, সেভ করুন, প্রিয়জনকে শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে সন্দেহজনক মেসেজের উদাহরণ ও প্রতিটি রিসোর্সের নাম-লোগো পরপর দেখান।
+
+---
+
+## 62. পাসওয়ার্ড ম্যানেজার ও 2FA ব্যবহারের ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 4টা**
+
+Resources: (only 4 verified; no dedicated password manager guide from CISA or EFF was seen)
+1. [Docs] How to Enable Two-factor Authentication | EFF Surveillance Self-Defense | https://ssd.eff.org/module/how-enable-two-factor-authentication : এটা পড়লে আপনি 2FA কী এবং SMS, অথেনটিকেটর অ্যাপ, সিকিউরিটি কী কীভাবে কাজ করে বুঝে চালু করতে পারবেন।
+2. [Docs] Surveillance Self-Defense Basics | EFF | https://ssd.eff.org/module-categories/basics : এটা পড়লে আপনি পাসওয়ার্ড ম্যানেজার, শক্তিশালী পাসওয়ার্ডসহ নিরাপত্তার মূল ধারণা শিখবেন।
+3. [Website] Online account security | Freedom of the Press Foundation | https://freedom.press/training/online-account-security/ : এটা পড়লে আপনি ধাপে ধাপে একাউন্ট সুরক্ষার কৌশল ও 2FA সেটআপ শিখবেন।
+4. [Website] Passwords: 1-2-3 Protect Yourself | Digital Moment | https://resources.digitalmoment.org/cybersecurity/passwords/1-2-3-protect-yourself : এটা পড়লে আপনি পাসওয়ার্ড ম্যানেজার কী এবং একটা মাস্টার পাসফ্রেজ দিয়ে সবকিছু কীভাবে সামলানো যায় বুঝবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Tool: Bitwarden (Help Center)
+- Tool: Have I Been Pwned
+- Website: Surveillance Self-Defense (EFF)
+- Website: 2FA Directory
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] আপনার একটা পাসওয়ার্ড ফাঁস হলে কি সব একাউন্ট যাবে? যদি একই পাসওয়ার্ড দেন, হ্যাঁ।
+[মূল অংশ] সমাধান দুটো: পাসওয়ার্ড ম্যানেজার আর 2FA। শেখার আগে এই রিসোর্সগুলো দেখুন, সব ইংরেজিতে, তাই ট্রান্সলেট অপশন চালু রাখুন। এক: EFF-এর Surveillance Self-Defense-এ 2FA চালুর গাইড, SMS, অ্যাপ আর সিকিউরিটি কীর পার্থক্য বোঝায়। দুই: একই সাইটের Basics সেকশন, পাসওয়ার্ড ম্যানেজার ও শক্তিশালী পাসওয়ার্ডের ধারণা দেয়। তিন: Freedom of the Press Foundation-এর অনলাইন একাউন্ট সিকিউরিটি গাইড, ধাপে ধাপে সেটআপ শেখায়। চার: Digital Moment-এর পাসওয়ার্ড গাইড, একটা মাস্টার পাসফ্রেজের ধারণা সহজ করে। মনে রাখবেন, আমি কোনো নির্দিষ্ট অ্যাপের কথা বলছি না, নিজে যাচাই করে নিন। আর আজই ফেসবুক ও জিমেইলে 2FA চালু করে ফেলুন।
+[CTA] আপনি কি 2FA চালু করেছেন? কমেন্টে বলুন, সেভ করুন, বন্ধুদের শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে 2FA চালুর ধাপ ও ভুয়া লগইন কোডের উদাহরণ দেখান।
+
+---
+
+## 63. ফোন হ্যাক থেকে বাঁচার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 3টা**
+
+Resources: (only 3 verified; CISA's own guide page was NOT seen in results, only news coverage of it, so check the original CISA page yourself before recording)
+1. [Website] CISA: Use Signal or other secure communications app (coverage of CISA mobile guide) | Help Net Security | https://www.helpnetsecurity.com/2024/12/20/cisa-guide-secure-communications-mfa-iphone-android-signal/ : এটা পড়লে আপনি CISA-র মোবাইল নিরাপত্তা পরামর্শের সারকথা জানবেন।
+2. [Website] CISA mobile security best practices | CyberScoop | https://cyberscoop.com/cisa-mobile-security-best-practices-salt-typhoon/ : এটা পড়লে আপনি iPhone ও Android আলাদাভাবে কী কী সেটিংস দেবেন বুঝবেন।
+3. [Docs] Surveillance Self-Defense Basics | EFF | https://ssd.eff.org/module-categories/basics : এটা পড়লে আপনি ডিভাইস সুরক্ষার মূল নিয়ম শিখবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: Surveillance Self-Defense (EFF)
+- Tool: Security Checkup (Google)
+- Docs: Apple Support, security
+- Website: Mobile security tips (CISA)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] আপনার ফোনের একটা ভুল সেটিং হ্যাকারকে দরজা খুলে দিতে পারে!
+[মূল অংশ] ফোনে আমাদের ব্যাংক, ছবি, মেসেজ সব থাকে। তাই এই রিসোর্সগুলো দেখুন, সব ইংরেজিতে, ক্যাপশন বা অটো ট্রান্সলেট চালু করবেন। এক: Help Net Security-র লেখা, যেখানে আমেরিকার সাইবার সিকিউরিটি সংস্থা CISA-র মোবাইল গাইডের মূল পরামর্শ আছে, যেমন SMS কোডের বদলে অথেনটিকেটর অ্যাপ বা পাসকি ব্যবহার, পাসওয়ার্ড ম্যানেজার, নিয়মিত আপডেট। দুই: CyberScoop-এর লেখা, iPhone ও Android-এর আলাদা সেটিং বলে। তিন: EFF-এর Surveillance Self-Defense Basics, ডিভাইস সুরক্ষার ভিত্তি শেখায়। পরামর্শ: মূল CISA পেজটাও নিজে খুঁজে দেখুন। আর অ্যাপ পারমিশন যাচাই করুন, অচেনা লিংকে ক্লিক করবেন না, ফোন আপডেট রাখুন।
+[CTA] আপনার ফোনে সবচেয়ে বেশি ভয় কীসের? কমেন্টে জানান, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** ফোনের সেটিংস স্ক্রিন ও আপডেট চেকলিস্ট দেখান।
+
+---
+
+## 64. ফেসবুক অ্যাকাউন্ট সুরক্ষিত রাখার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 3টা**
+
+Resources: (only 3 verified)
+1. [Docs] Secure your account | Meta Safety Center | https://www.meta.com/safety/topics/safety-basics/tools/security/ : এটা পড়লে আপনি Security Checkup, লগইন অ্যালার্ট ও 2FA চালুর অফিসিয়াল ধাপ জানবেন।
+2. [Docs] Privacy and security features you can use with your Meta Account | Meta Help | https://www.meta.com/help/meta-account/553000504008092/?ref=gtm : এটা পড়লে আপনি পাসকি ও "Where you're logged in" দিয়ে অচেনা ডিভাইস বের করতে শিখবেন।
+3. [Docs] How to Enable Two-factor Authentication | EFF | https://ssd.eff.org/module/how-enable-two-factor-authentication : এটা পড়লে আপনি 2FA-র ধরন বুঝে নিরাপদটা বেছে নিতে পারবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Security and Login Help (Meta Help Center)
+- Website: Surveillance Self-Defense (EFF)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] আপনার ফেসবুক পেজ হ্যাক হলে কী হবে ভেবেছেন? এখনই ২ মিনিটে ঠিক করুন।
+[মূল অংশ] ক্রিয়েটর হিসেবে পেজ হারানো মানে সব হারানো। এই রিসোর্সগুলো দেখুন, সব ইংরেজি, তাই ট্রান্সলেট চালু রাখুন। এক: Meta-র নিজের "Secure your account" পেজ, Security Checkup ও লগইন অ্যালার্ট শেখায়। দুই: Meta Help-এর প্রাইভেসি ও সিকিউরিটি ফিচারের পেজ, পাসকি আর "কোথায় লগইন আছে" দেখা শেখায়। তিন: EFF-এর 2FA গাইড, কোন ধরনের 2FA নিরাপদ বুঝতে সাহায্য করে। বাকি রিসোর্স আমি যাচাই করতে পারিনি, তাই তিনটাই বলছি। সবসময় Meta-র অফিসিয়াল পেজ থেকেই সেটিং দেখুন, থার্ড পার্টি ব্লগের মেনু পথ ভরসা করবেন না।
+[CTA] আপনি কি 2FA চালু করেছেন? কমেন্ট করুন, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** Facebook Security Checkup স্ক্রিন ও লগইন অ্যালার্ট দেখান।
+
+---
+
+## 65. VPN কী ও কখন লাগে, বোঝার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 2টা**
+
+Resources: (only 2 verified; EFF-specific VPN guide was not seen)
+1. [Docs] What is a VPN? | Cloudflare Learning Paths | https://developers.cloudflare.com/learning-paths/replace-vpn/concepts/vpn-overview/index.md : এটা পড়লে আপনি VPN কী, পাবলিক ওয়াইফাইতে কী সুরক্ষা দেয় ও কী দেয় না বুঝবেন।
+2. [Docs] Surveillance Self-Defense Basics | EFF | https://ssd.eff.org/module-categories/basics : এটা পড়লে আপনি VPN-এর বাইরেও গোপনীয়তার মূল নিয়ম জানবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: Surveillance Self-Defense (EFF)
+- Website: What is a VPN (Cloudflare Learning Center)
+- Website: Privacy Guides
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] VPN মানেই কি নিরাপদ? অনেকে ভুল জানেন!
+[মূল অংশ] বিজ্ঞাপনে বলে VPN সবকিছু বাঁচায়, কিন্তু আসলে তা নয়। বোঝার জন্য দুটো ইংরেজি রিসোর্স দেখুন, ক্যাপশন চালু করে। এক: Cloudflare-এর "What is a VPN?" পেজ, ব্যাখ্যা করে VPN ট্রাফিক এনক্রিপ্ট করে, পাবলিক ওয়াইফাইয়ে স্নুপিং ঠেকাতে সাহায্য করে। দুই: EFF-এর Surveillance Self-Defense Basics, দেখায় শুধু VPN নয়, পাসওয়ার্ড ও 2FA-ও দরকার। মনে রাখবেন, VPN আপনার ISP থেকে ট্রাফিক আড়াল করে, কিন্তু প্রোভাইডারকে আপনার ভরসা করতে হয়। নির্দিষ্ট VPN-এর নাম বা দাম আমি বলছি না।
+[CTA] আপনি কি VPN ব্যবহার করেন? কমেন্ট করুন, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** এনক্রিপ্টেড টানেলের ছোট অ্যানিমেশন দেখান।
+
+---
+
+## 66. ডেটা প্রাইভেসি বোঝার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 4টা**
+
+Resources: (only 4 verified)
+1. [Docs] Surveillance Self-Defense: Basics | EFF | https://ssd.eff.org/module-categories/basics : এটা পড়লে আপনি ঝুঁকি যাচাই, এনক্রিপশন, মেটাডেটা ও পাসওয়ার্ডের ভিত্তি শিখবেন।
+2. [Docs] Your Security Plan / New to security | EFF | https://ssd.eff.org/new-security : এটা পড়লে আপনি নিজের জন্য একটা নিরাপত্তা পরিকল্পনা কীভাবে বানাবেন বুঝবেন।
+3. [Website] Privacy Not Included: Why We Made This Guide | Mozilla Foundation | https://www.mozillafoundation.org/en/privacynotincluded/about/why : এটা পড়লে আপনি কানেক্টেড প্রোডাক্ট কীভাবে আপনার ডেটা সামলায় তা যাচাই করতে শিখবেন।
+4. [Website] Privacy Not Included: Methodology | Mozilla Foundation | https://www.mozillafoundation.org/en/privacynotincluded/about/methodology/ : এটা পড়লে আপনি কীভাবে প্রোডাক্টের প্রাইভেসি রেটিং হয় জানবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: Surveillance Self-Defense (EFF)
+- Website: Privacy Not Included (Mozilla)
+- Website: Privacy Guides
+- Tool: Have I Been Pwned
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] আপনার ডেটা কার কাছে যাচ্ছে, জানেন? জানলে অবাক হবেন।
+[মূল অংশ] ফ্রি অ্যাপের দাম অনেক সময় আপনার ডেটা। শেখার জন্য এই চারটা ইংরেজি রিসোর্স দেখুন, ক্যাপশন চালু করে। এক: EFF-এর Surveillance Self-Defense Basics, ঝুঁকি, এনক্রিপশন ও মেটাডেটা বোঝায়। দুই: EFF-এর New to security, নিজের জন্য নিরাপত্তা পরিকল্পনা বানাতে শেখায়। তিন: Mozilla Foundation-এর Privacy Not Included, কেন এই গাইড বানানো হয়েছে তা বলে। চার: একই গাইডের Methodology পেজ, দেখায় কীভাবে প্রাইভেসি যাচাই হয়। তালিকা পুরনো হতে পারে, তাই চলতি সংস্করণ নিজে দেখে নিন। অ্যাপ পারমিশন কমান আর অপ্রয়োজনীয় তথ্য দেবেন না।
+[CTA] কোন অ্যাপকে আপনি সন্দেহ করেন? কমেন্ট করুন, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** অ্যাপ পারমিশন স্ক্রিন ও EFF সাইটের হোম দেখান।
+
+---
+
+## 67. ফেক নিউজ যাচাই (fact-checking) শেখার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 3টা**
+
+Resources: (only 3 verified; the Poynter, MediaWise and Jigsaw courses were not seen)
+1. [Course] RMIT Fact-Check Short Course | RMIT University | https://sites.rmit.edu.au/info-integrity/2025/11/01/rmits-fact-check-short-course : এটা করলে আপনি তথ্য যাচাই, সোর্স মূল্যায়ন ও জেনারেটিভ AI সহ ভুয়া তথ্য ধরতে শিখবেন। (search result says free)
+2. [Course] Module: Fact Checking | Media Helping Media | https://mediahelpingmedia.org/modules/module-fact-checking/ : এটা পড়লে আপনি SIFT পদ্ধতি ও lateral reading নিয়ে সেলফ স্টাডি করতে পারবেন।
+3. [Course] How To Be Media Literate | BOOM Labs | https://labs.boomlive.in/courses/How-To-Be-Media-Literate-62834ef90cf2399a9b88d64d : এটা করলে আপনি মিডিয়া লিটারেসির মূল কৌশল শিখবেন। (check pricing; a related BOOM course was shown as paid)
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Tool: Fact Check Explorer (Google)
+- Website: International Fact-Checking Network (Poynter)
+- Website: Civic Online Reasoning (Stanford)
+- Website: News Literacy Project
+- Website: Snopes
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] যে খবরটা এইমাত্র শেয়ার করলেন, সেটা ভুয়া হলে?
+[মূল অংশ] ফেক নিউজ ছড়ানো এখন সহজ, তাই যাচাই শেখা জরুরি। এই রিসোর্সগুলো ইংরেজিতে, ক্যাপশন চালু রাখবেন। এক: অস্ট্রেলিয়ার RMIT University-র Fact-Check Short Course, সার্চ ফলাফলে ফ্রি বলা আছে, ভুয়া তথ্য ও AI-জেনারেটেড কনটেন্ট ধরা শেখায়। দুই: Media Helping Media-র Fact Checking মডিউল, SIFT পদ্ধতি ও lateral reading শেখায়, মানে কোনো সাইটের বাইরে গিয়ে অন্য সোর্সে মিলিয়ে দেখা। তিন: BOOM Labs-এর How To Be Media Literate কোর্স, প্রাইসিং আগে দেখে নিন। মূল নিয়ম: শেয়ারের আগে থামুন, সোর্স দেখুন, আরেকটা বিশ্বাসযোগ্য সূত্রে মিলিয়ে নিন।
+[CTA] কখনো ভুয়া খবরে ঠকেছেন? কমেন্ট করুন, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** একটা ভাইরাল পোস্টের পাশে অন্য সোর্সে যাচাইয়ের ট্যাব দেখান।
+
+---
+
+## 68. স্মার্টফোন কেনার আগে ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 1টা**
+
+Resources: (only 1 verified; no Wirecutter or major reviewer channel page was seen)
+1. [Website] Phone Buying Guide: Everything To Consider When Buying A New Phone | BGR | https://www.bgr.com/guides/phone-buying-guide/ : এটা পড়লে আপনি নিজের ব্যবহার অনুযায়ী ফোন বাছাইয়ের হিসাব শিখবেন। (check pricing; free to read per result)
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: GSMArena
+- Website: DXOMARK
+- Website: Wirecutter (The New York Times)
+- Channel: MKBHD (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ফোন কেনার পর পস্তাচ্ছেন? তাহলে আগে এই নিয়মগুলো জানুন!
+[মূল অংশ] আমি মডেল বা দাম বলছি না, কীভাবে বাছবেন সেটা বলছি। ইংরেজি রিসোর্স BGR-এর Phone Buying Guide, ক্যাপশন বা ট্রান্সলেট করে পড়ুন। শিখবেন: আগে নিজের ব্যবহার লিখুন, তারপর পারফরম্যান্স, ক্যামেরার সেন্সর ও লো-লাইট মান, ব্যাটারি, পানি-ধুলো সুরক্ষা আর কত বছর সফটওয়্যার আপডেট পাবেন তা দেখুন। মেগাপিক্সেল দেখে ভুলবেন না। আর কেনার আগে একাধিক নির্ভরযোগ্য রিভিউ মিলিয়ে নিন, গাইডের তারিখ দেখুন কারণ পুরনো গাইড ভুল পথ দেখায়।
+[CTA] আপনার ফোন কেনার বাজেট কত? কমেন্ট করুন, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** একটা চেকলিস্ট স্লাইড: ব্যবহার, ব্যাটারি, ক্যামেরা, আপডেট।
+
+---
+
+## 69. ল্যাপটপ কেনার আগে ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 1টা**
+
+Resources: (only 1 verified; Wirecutter page was not seen)
+1. [Website] Laptop Buying Guide | RTINGS | https://www.rtings.com/laptop/learn/buying-guide : এটা পড়লে আপনি বাজেট ও কাজ ঠিক করে CPU, RAM, স্টোরেজ, স্ক্রিন মেলাতে শিখবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: Notebookcheck
+- Website: RTINGS
+- Website: Wirecutter (The New York Times)
+- Channel: Dave2D (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ভুল ল্যাপটপ কিনলে কয়েক বছর ভুগতে হবে!
+[মূল অংশ] কোনো মডেল বা দাম বলছি না, শুধু কীভাবে বাছবেন। রিসোর্স: RTINGS-এর Laptop Buying Guide, ইংরেজি, ক্যাপশন বা ট্রান্সলেট চালু করুন। প্রথম কাজ, বাজেট ও আসল ব্যবহার ঠিক করা, কারণ নিখুঁত ল্যাপটপ বলে কিছু নেই, কোনটা জরুরি আর কোনটা ছাড় দেওয়া যায় তা ঠিক করতে হয়। তারপর প্রসেসর, RAM, SSD, স্ক্রিন মিলিয়ে দেখুন। শুধু পাতলা ডিজাইন বা চকচকে ফিনিশ দেখে কিনবেন না। আরও রিভিউ মিলিয়ে নিন।
+[CTA] ল্যাপটপ কেন লাগবে, কমেন্টে জানান। সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** ব্যবহার অনুযায়ী CPU, RAM, স্টোরেজের টেবিল দেখান।
+
+---
+
+## 70. ধীর কম্পিউটার বা ফোন দ্রুত করার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 3টা**
+
+Resources: (only 3 verified; official Google Android and Apple pages were not directly seen)
+1. [Docs] Tips to improve PC performance in Windows | Microsoft Support | https://support.microsoft.com/en-us/kb/4028731 : এটা পড়লে আপনি আপডেট, স্টার্টআপ প্রোগ্রাম বন্ধ, ডিস্ক খালি করা ও ম্যালওয়্যার স্ক্যান শিখবেন।
+2. [Website] Easy ways to speed up a slow PC | Which? | https://www.which.co.uk/news/article/easy-ways-to-speed-up-a-slow-pc-abUNf2w4hYDE : এটা পড়লে আপনি স্টার্টআপ অ্যাপ ও অপ্রয়োজনীয় সফটওয়্যার সরানো শিখবেন।
+3. [Website] Why is my computer so slow | Digital Unite | https://www.digitalunite.com/computer-basics/using-computer/why-my-computer-so-slow : এটা পড়লে আপনি Disk Cleanup ও সাধারণ ধীরগতির কারণ বুঝবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Improve PC performance (Microsoft Support)
+- Docs: Free up storage (Android Help, Google)
+- Docs: Apple Support, storage and performance
+- Channel: Linus Tech Tips (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] কম্পিউটার ধীর? টাকা খরচের আগে এই ফ্রি ধাপগুলো করুন!
+[মূল অংশ] এই রিসোর্সগুলো ইংরেজিতে, ক্যাপশন চালু করুন। এক: Microsoft Support-এর পেজ, আপডেট, রিস্টার্ট, ডিস্ক খালি করা, স্টার্টআপ বন্ধ ও ম্যালওয়্যার স্ক্যান ক্রমানুসারে বলে। দুই: Which?-এর গাইড, বুটের সময় চালু হওয়া অ্যাপ কমাতে ও অপ্রয়োজনীয় সফটওয়্যার সরাতে বলে, আর সিকিউরিটি অ্যাপ চালু রাখতে বলে। তিন: Digital Unite-এর গাইড, Disk Cleanup-সহ কারণ ব্যাখ্যা করে। সতর্কতা: "স্পিড বাড়ানোর" ভুয়া সফটওয়্যার থেকে দূরে থাকুন, সেগুলো উল্টো ক্ষতি করতে পারে। ফোনের জন্য অফিসিয়াল Android বা Apple সাপোর্ট পেজ দেখুন।
+[CTA] আপনার পিসি কতটা ধীর? কমেন্ট করুন, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** Task Manager-এর Startup ট্যাব ও Disk Cleanup স্ক্রিন দেখান।
+
+---
+
+## 71. Google Workspace (Docs, Sheets, Drive) প্রডাক্টিভিটির ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+Resources:
+1. [Docs] Google Workspace Learning Center | Google | https://support.google.com/a/users/answer/9389764 : এটা পড়লে আপনি Docs, Drive আর Gmail এর বেসিক থেকে প্রডাক্টিভিটি টিপস পর্যন্ত এক জায়গায় শিখতে পারবেন।
+2. [Docs] Use Google Workspace keyboard shortcuts | Google Workspace Learning Center | https://support.google.com/a/users/answer/9298571?hl=en : এটা পড়লে আপনি সব Workspace অ্যাপের শর্টকাট শিখে কাজ দ্রুত করতে পারবেন।
+3. [Docs] Keyboard shortcuts for Google Docs | Google Docs Editors Help | https://support.google.com/docs/answer/179738?hl=en&co=GENIE.Platform%3DDesktop : এটা দেখলে আপনি Docs এ লেখা ও ফরম্যাটিং মাউস ছাড়াই করতে পারবেন।
+4. [Docs] Keyboard shortcuts for Google Sheets | Google Docs Editors Help | https://support.google.com/docs/answer/181110?hl=en&co=GENIE.Platform%3DDesktop : এটা পড়লে আপনি Sheets এ দ্রুত নেভিগেট ও এডিট করতে পারবেন।
+5. [Website] Google Workspace tips and tutorials | Computerworld | https://www.computerworld.com/business/page/2/ : এটা পড়লে আপনি Docs, Sheets, Meet সহ নানা অ্যাপের বাস্তব টিপস পাবেন (থার্ড পার্টি, check pricing)।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: Learning Center (Google Workspace)
+- Website: Skillshop (Google)
+- Channel: Jeff Su (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] Docs আর Sheets এ আপনি যে কাজ ১০ মিনিটে করেন, সেটা ২ মিনিটে হয়, শুধু এই ৫টা রিসোর্স না দেখলে জানবেন না!
+[মূল অংশ] অনেকেই Google Docs, Sheets আর Drive ব্যবহার করেন, কিন্তু শুধু মাউস দিয়ে। ফলে অনেক সময় নষ্ট হয়। শেখার আগে এই ৫টা রিসোর্স দেখুন, সবগুলো ইংরেজিতে, তাই ব্রাউজারের ট্রান্সলেট বা ক্যাপশন অন করে নিন। এক: Google Workspace Learning Center, এটা গুগলের নিজের শেখার হাব, এখান থেকে Docs, Drive আর Gmail এর বেসিক শিখবেন। দুই: Google Workspace keyboard shortcuts পেজ, এতে সব অ্যাপের শর্টকাট আছে। তিন: Keyboard shortcuts for Google Docs, লেখালেখি দ্রুত হবে। চার: Keyboard shortcuts for Google Sheets, ডেটার কাজে সময় বাঁচবে। পাঁচ: Computerworld এর Google Workspace tips and tutorials, বাস্তব কাজের টিপস পাবেন। সবগুলোর ফ্রি বা পেইড অবস্থা নিজে চেক করে নিন।
+[CTA] আপনি কোনটা সবচেয়ে বেশি ব্যবহার করেন, Docs নাকি Sheets? কমেন্টে জানান, পোস্টটা সেভ করুন আর যে বন্ধু অফিসের কাজে ধীর, তাকে শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে Docs ও Sheets এর ছবি, প্রতিটি রিসোর্সের নাম ও লিংকের লেবেল পর পর দেখান।
+
+---
+
+## 72. Notion ও Obsidian দিয়ে নোট নেওয়ার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+Resources:
+1. [Course] Notion Academy | Notion | https://academy.notion.com/ : এটা দেখলে আপনি Notion এর অফিশিয়াল লার্নিং হাব থেকে ধাপে ধাপে শিখতে পারবেন (check pricing)।
+2. [Course] Essentials Path | Notion Academy | https://academy.notion.com/page/essentials-catalogue : এটা করলে আপনি ব্লক, ডেটাবেস আর উইকি বানানোর বেসিক শিখবেন।
+3. [Docs] Help, Support, and Documentation for Notion | Notion | https://www.notion.com/help : এটা পড়লে আপনি যেকোনো Notion সমস্যার সমাধান পাবেন।
+4. [Docs] Obsidian Help | Obsidian | https://obsidian.md/help/Home : এটা পড়লে আপনি Obsidian ইন্সটল থেকে নোট লিংক করা পর্যন্ত শিখতে পারবেন।
+5. [Website] Obsidian Hub, for Beginners | Obsidian Publish | https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+Beginners : এটা দেখলে আপনি নতুনদের জন্য গাইড ও ওয়ার্কফ্লো পাবেন (কমিউনিটি হাব)।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Notion Help Center (Notion)
+- Docs: Obsidian Help (Obsidian)
+- Channel: Thomas Frank (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] নোট রাখতে গিয়ে সব এলোমেলো হয়ে যাচ্ছে? ভুল টুল বেছে নেওয়ার আগে এই ৫টা দেখে নিন!
+[মূল অংশ] Notion আর Obsidian দুটোই জনপ্রিয় নোট টুল, কিন্তু শুরুতে কোথা থেকে শিখবেন বুঝতে পারেন না। এই ৫টা রিসোর্স ইংরেজিতে, তাই ক্যাপশন বা ট্রান্সলেট অন রাখুন। এক: Notion Academy, Notion এর নিজস্ব শেখার সাইট। দুই: Essentials Path, এখানে ব্লক, ডেটাবেস আর উইকির বেসিক পাবেন। তিন: Notion Help, কোনো সমস্যায় আটকালে এখানে উত্তর মিলবে। চার: Obsidian Help, অফিশিয়াল ডকুমেন্টেশন, ইন্সটল থেকে নোট লিংক করা পর্যন্ত। পাঁচ: Obsidian Hub এর for Beginners পেজ, নতুনদের জন্য কমিউনিটির গাইড। প্রথমে একটা টুল বেছে একটাই কোর্স শেষ করুন। দাম বা ফ্রি কি না, সেটা সাইটে গিয়ে চেক করে নিন।
+[CTA] আপনি Notion না Obsidian, কোনটা চালাবেন? কমেন্টে লিখুন, সেভ করুন আর শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে Notion ও Obsidian এর লোগো পাশাপাশি, তারপর প্রতিটি পেজের নাম।
+
+---
+
+## 73. ফোনের ব্যাটারি ও স্টোরেজ ঠিক রাখার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+(only 5 verified, but no official iPhone storage page was seen)
+Resources:
+1. [Docs] Free up storage on your Android device | Android Help (Google) | https://support.google.com/android/answer/7431795?hl=en : এটা পড়লে আপনি অ্যান্ড্রয়েডে জায়গা খালি করার অফিশিয়াল উপায় জানবেন।
+2. [Docs] Get the most life from your Android device's battery | Android Help (Google) | https://support.google.com/android/answer/7664692?hl=en : এটা পড়লে আপনি ব্যাটারি বেশিক্ষণ টিকিয়ে রাখার টিপস পাবেন।
+3. [Docs] Fix battery drain problem | Pixel Phone Help (Google) | https://support.google.com/pixelphone/answer/6090599?hl=en : এটা পড়লে আপনি ব্যাটারি দ্রুত শেষ হওয়ার কারণ খুঁজে ঠিক করতে পারবেন (Pixel কেন্দ্রিক)।
+4. [Docs] Understand your iPhone battery usage and health | Apple Support | https://support.apple.com/guide/iphone/understand-iphone-battery-usage-health-iphd453d043a/ios : এটা পড়লে আপনি iPhone ব্যাটারির হেলথ ও ব্যবহার দেখতে পারবেন।
+5. [Docs] If the battery in your iPhone or iPad drains too quickly | Apple Support | https://support.apple.com/en-us/120745 : এটা পড়লে আপনি iPhone এর দ্রুত চার্জ শেষ হওয়ার সমাধান পাবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Android Help, battery and storage (Google)
+- Docs: Apple Support, battery and storage
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ফোনের চার্জ আর স্টোরেজ নিয়ে বিরক্ত? ভুল অ্যাপ ক্লিনারে টাকা নষ্ট করার আগে এটা দেখুন!
+[মূল অংশ] অনেকে ব্যাটারি আর স্টোরেজ ঠিক করতে অজানা ক্লিনার অ্যাপ নামান, যা উল্টো ক্ষতি করতে পারে। তার চেয়ে ফোন কোম্পানির নিজের গাইড দেখুন। সবগুলো ইংরেজিতে, তাই ট্রান্সলেট অন রাখুন। এক: Android Help এর Free up storage, জায়গা খালি করার অফিশিয়াল উপায়। দুই: Get the most life from your Android battery, ব্যাটারি টিকিয়ে রাখার টিপস। তিন: Pixel Help এর Fix battery drain problem, ব্যাটারি দ্রুত শেষ হলে কারণ খোঁজার উপায়, এটা Pixel ফোনের জন্য। চার: Apple Support এর iPhone battery usage and health, ব্যাটারি হেলথ বোঝার জন্য। পাঁচ: Apple এর পেজ, iPhone এর ব্যাটারি দ্রুত শেষ হলে কী করবেন। আপনার ফোনের মডেল অনুযায়ী মেনু একটু আলাদা হতে পারে।
+[CTA] আপনার ফোনের কোন সমস্যা সবচেয়ে বেশি, ব্যাটারি না স্টোরেজ? কমেন্ট করুন, সেভ করুন, শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে ফোনের Settings এর Battery ও Storage পেজের স্ক্রিনশট স্টাইল গ্রাফিক।
+
+---
+
+## 74. Gmail ও ইনবক্স গুছিয়ে রাখার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+Resources:
+1. [Docs] Create & manage labels in Gmail | Gmail Help (Google) | https://support.google.com/mail/answer/118708?hl=en&co=GENIE.Platform%3DDesktop : এটা পড়লে আপনি লেবেল বানিয়ে মেইল সাজাতে পারবেন।
+2. [Docs] Organize & archive email | Gmail Help (Google) | https://support.google.com/mail/answer/9259770?hl=en-GB : এটা পড়লে আপনি আর্কাইভ ও গোছানোর নিয়ম শিখবেন।
+3. [Docs] Tips to optimize your Gmail inbox | Google Workspace Learning Center | https://support.google.com/a/users/answer/9282734?hl=en : এটা পড়লে আপনি ইনবক্স ঠিকঠাক চালানোর টিপস পাবেন।
+4. [Website] Learn these Gmail pro tips to help you declutter your inbox | Google Workspace Blog | https://workspace.google.com/blog/productivity-collaboration/g-suite-pro-tips-declutter-your-inbox-with-gmail-filters : এটা পড়লে আপনি ফিল্টার দিয়ে মেইল অটো সাজানো শিখবেন।
+5. [Website] How to master Gmail's advanced search and labelling | Google Workspace Blog | https://workspace.google.com/blog/productivity-collaboration/how-to-master-gmails-advanced-search-and-labelling : এটা পড়লে আপনি অ্যাডভান্সড সার্চ দিয়ে দ্রুত মেইল খুঁজে পাবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Gmail Help (Google)
+- Website: Learning Center (Google Workspace)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] আপনার ইনবক্সে হাজার হাজার আনরিড মেইল? জরুরি মেইল হারানোর আগে এই ৫টা দেখুন!
+[মূল অংশ] Gmail এ ফোল্ডার নেই, আছে লেবেল আর ফিল্টার, আর সেটাই ইনবক্স গোছানোর চাবি। সবগুলো রিসোর্স ইংরেজিতে, তাই ট্রান্সলেট অন রাখুন। এক: Gmail Help এর Create and manage labels, লেবেল বানানো শিখবেন। দুই: Organize and archive email, আর্কাইভ করে ইনবক্স হালকা রাখবেন। তিন: Google Workspace Learning Center এর Tips to optimize your Gmail inbox। চার: Google Workspace Blog এর Gmail pro tips to declutter your inbox, ফিল্টার দিয়ে অটো সাজানো। পাঁচ: How to master Gmail's advanced search and labelling, দ্রুত মেইল খোঁজার কৌশল। একটা একটা করে সেটআপ করুন, দেখবেন ইনবক্স অনেক শান্ত।
+[CTA] আপনার ইনবক্সে এখন কতগুলো আনরিড মেইল? কমেন্টে লিখুন, সেভ করুন, শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে ভরা ইনবক্স থেকে পরিষ্কার ইনবক্সে ট্রানজিশন।
+
+---
+
+## 75. ক্লাউড ব্যাকআপ ও ডেটা হারানো ঠেকানোর ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+Resources:
+1. [Docs] Back Up Business Data | CISA (US government) | https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/back-up-business-data : এটা পড়লে আপনি সরকারি সংস্থার ব্যাকআপ নির্দেশনা জানবেন।
+2. [Docs] How to Protect the Data that is Stored on Your Devices | CISA | https://www.cisa.gov/resources-tools/training/how-protect-data-stored-your-devices : এটা পড়লে আপনি ডিভাইসের ডেটা সুরক্ষার উপায় শিখবেন।
+3. [Website] Backups | National Cybersecurity Alliance | https://www.staysafeonline.org/articles/backups : এটা পড়লে আপনি সহজ ভাষায় ব্যাকআপের নিয়ম বুঝবেন (নন-প্রফিট)।
+4. [Website] Three ways to protect the personal info on your phone | FTC Consumer Advice | https://consumer.ftc.gov/consumer-alerts/2024/08/three-ways-protect-personal-info-your-phone : এটা পড়লে আপনি ফোনের তথ্য রক্ষার সহজ ধাপ জানবেন।
+5. [Website] 3-2-1 backup rule | U.S. Chamber of Commerce | https://uschamber.com/co/run/technology/3-2-1-backup-rule : এটা পড়লে আপনি 3-2-1 ব্যাকআপ নিয়মটা বুঝবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Back up your device (Google Drive Help)
+- Docs: iCloud Support (Apple)
+- Website: The 3-2-1 Backup Strategy (Backblaze)
+- PDF: Data Backup Options (CISA)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ফোন হারালে বা হ্যাক হলে আপনার সব ছবি ও ফাইল কি থাকবে? না থাকলে এটা দেখুন!
+[মূল অংশ] ডেটা হারানোর পর ব্যাকআপ ভাবলে অনেক দেরি। ইংরেজি এই ৫টা রিসোর্স দেখুন, ট্রান্সলেট অন রাখুন। এক: CISA এর Back Up Business Data, মার্কিন সরকারি সংস্থার গাইড। দুই: CISA এর How to Protect the Data Stored on Your Devices। তিন: National Cybersecurity Alliance এর Backups পেজ, সহজ ভাষায়। চার: FTC এর Three ways to protect the personal info on your phone। পাঁচ: U.S. Chamber of Commerce এর 3-2-1 backup rule, মানে তিন কপি, দুই ধরনের স্টোরেজ, এক কপি দূরে বা ক্লাউডে। আর মনে রাখবেন, শুধু ব্যাকআপ নিলেই হবে না, রিস্টোর করা যায় কি না মাঝে মাঝে পরীক্ষা করুন।
+[CTA] আপনি শেষ কবে ব্যাকআপ নিয়েছেন? কমেন্ট করুন, সেভ করুন, শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে 3-2-1 নিয়মের সহজ ডায়াগ্রাম: ৩ কপি, ২ মাধ্যম, ১ ক্লাউড।
+
+---
+
+## 76. ডিজিটাল ডিটক্স ও স্ক্রিন টাইম কমানোর ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 3টা**
+
+Note: no official Google/Apple page appeared in results; these are older mainstream articles, menu paths may have changed.
+Resources:
+1. [Website] How to limit screen time | CNN Underscored | https://amp.cnn.com/cnn/cnn-underscored/health-fitness/how-to-limit-screen-time : এটা পড়লে আপনি স্ক্রিন টাইম কমানোর ব্যবহারিক উপায় পাবেন।
+2. [Website] All the ways you can reduce screen time across your devices | Popular Science | https://www.popsci.com/how-to-reduce-device-screen-time/ : এটা পড়লে আপনি Android ও iPhone দুটোতেই সেটিংস জানবেন।
+3. [Website] How to spend less time on your phone | TechRadar | https://www.techradar.com/how-to/how-to-spend-less-time-on-your-phone-this-year : এটা পড়লে আপনি ফোনে সময় কমানোর কৌশল শিখবেন (আগের বছরের লেখা)।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Screen Time (Apple Support)
+- Docs: Digital Wellbeing (Google)
+- Website: Center for Humane Technology
+- PDF: Digital Minimalism (Cal Newport, book)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] দিনে কত ঘণ্টা ফোনে যায়, হিসাব করেছেন? সংখ্যাটা দেখলে চমকে যাবেন!
+[মূল অংশ] ফোন আপনার সময় খেয়ে ফেলছে, কিন্তু ঠিক কতটা, সেটা অনেকেই জানেন না। আমি তিনটা যাচাই করা ইংরেজি রিসোর্স পেয়েছি, ট্রান্সলেট অন রাখুন। এক: CNN Underscored এর How to limit screen time। দুই: Popular Science এর All the ways you can reduce screen time across your devices, Android ও iPhone দুটোর জন্য। তিন: TechRadar এর How to spend less time on your phone। এগুলো কিছুটা পুরোনো, তাই মেনুর নাম আপনার ফোনে আলাদা হতে পারে। আপনার ফোনের সেটিংসে Digital Wellbeing বা Screen Time খুঁজে নিন। ছোট শুরু করুন: ঘুমের আগে ফোন বেডরুমের বাইরে রাখুন।
+[CTA] আজ কত ঘণ্টা স্ক্রিন টাইম? কমেন্টে সংখ্যাটা লিখুন, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে ফোনের স্ক্রিন টাইম গ্রাফ ও ঘড়ির অ্যানিমেশন।
+
+---
+
+## 77. ইন্টারনেট ও Wi-Fi স্পিড ঠিক করার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 3টা**
+
+Note: sources are an ISP help page, a university IT page and a tech blog; core steps agree across them.
+Resources:
+1. [Docs] Troubleshoot slow Wi-Fi | iiNet Help | https://help.iinet.net.au/troubleshoot-slow-wi-fi : এটা পড়লে আপনি ISP এর গাইড ধরে ধীর Wi-Fi এর কারণ খুঁজতে পারবেন।
+2. [Docs] Slow Internet or Network Performance | Oklahoma State University IT | https://services.okstate.edu/TDClient/856/Portal/KB/PrintArticle?ID=20802 : এটা পড়লে আপনি ধীর কানেকশন ধাপে ধাপে পরীক্ষা করতে পারবেন।
+3. [Website] How to Fix Slow Wi-Fi on Laptop or PC | Digital Citizen | https://www.digitalcitizen.life/how-to-fix-slow-wi%e2%80%91fi-on-laptop-or-pc/ : এটা পড়লে আপনি ল্যাপটপ বা পিসিতে Wi-Fi ঠিক করার উপায় পাবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Tool: Speedtest (Ookla)
+- Tool: Fast.com (Netflix)
+- Tool: Cloudflare Speed Test
+- Docs: Your router maker's support page
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] রাউটার বদলানোর আগে এটা করুন, হয়তো সমস্যা রাউটারে নেই!
+[মূল অংশ] Wi-Fi ধীর হলে অনেকে সঙ্গে সঙ্গে নতুন রাউটার বা প্যাকেজ কেনেন, কিন্তু আগে কারণ খুঁজতে হয়। তিনটা ইংরেজি রিসোর্স পেয়েছি, ট্রান্সলেট অন রাখুন। এক: iiNet এর Troubleshoot slow Wi-Fi, একটা ISP এর হেল্প পেজ। দুই: Oklahoma State University IT এর Slow Internet or Network Performance। তিন: Digital Citizen এর How to Fix Slow Wi-Fi on Laptop or PC। সাধারণ ধাপ: আগে তার দিয়ে সংযোগ করে স্পিড টেস্ট দিন, তারপর রাউটার রিস্টার্ট করুন, রাউটারের জায়গা বদলান, 5 GHz ব্যান্ড চেষ্টা করুন। তাতেও না হলে ISP কে জানান।
+[CTA] আপনার Wi-Fi কি রাতে বেশি ধীর হয়? কমেন্ট করুন, সেভ করুন, শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে রাউটারের ছবি ও ধাপগুলো চেকলিস্ট আকারে।
+
+---
+
+## 78. দ্রুত টাইপ করা শেখার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 3টা**
+
+Note: GoodTyping, Keybr, TypingClub, Ratatype were named in results but no clean URL was shown, so they are not linked. Search them by name.
+Resources:
+1. [Tool] Typing Trainer | typingtest.com | https://typingtest.com/trainer : এটা ব্যবহার করলে আপনি অন-স্ক্রিন কীবোর্ডে আঙুল বসানো শিখবেন (check pricing)।
+2. [Website] Improve Your Typing Speed: 4 Free Online Tutors | eLearning Industry | https://elearningindustry.com/improve-typing-speed-4-free-online-tutors-help : এটা পড়লে আপনি কোন ফ্রি টাইপিং টিউটর বেছে নেবেন বুঝবেন।
+3. [Website] Improving your typing | University of St Andrews | https://study-skills.wp.st-andrews.ac.uk/?p=371 : এটা পড়লে আপনি বিশ্ববিদ্যালয়ের স্টাডি স্কিল টিপস পাবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Tool: Keybr
+- Tool: Monkeytype
+- Tool: TypingClub
+- Tool: Ratatype
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] দুই আঙুলে টাইপ করে কত সময় নষ্ট করছেন, জানেন?
+[মূল অংশ] টাইপিং ধীর হলে প্রতিটা কাজই ধীর। তিনটা যাচাই করা ইংরেজি রিসোর্স পেয়েছি, ট্রান্সলেট অন রাখুন। এক: typingtest.com এর Typing Trainer, অন-স্ক্রিন কীবোর্ড দেখায় কোন আঙুলে কোন কী। দুই: eLearning Industry এর লেখা, চারটা ফ্রি অনলাইন টাইপিং টিউটরের তুলনা। তিন: University of St Andrews এর Improving your typing। দাম বা ফ্রি কি না, সাইটে চেক করে নিন। রোজ ১৫ মিনিট প্র্যাকটিস করুন, গতির চেয়ে নির্ভুলতা আগে।
+[CTA] আপনার বর্তমান স্পিড কত? কমেন্টে লিখুন, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে কীবোর্ডের হোম রো ও আঙুলের রঙিন ম্যাপ।
+
+---
+
+## 79. কীবোর্ড শর্টকাটে সময় বাঁচানোর ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+Note: no official Microsoft or Apple shortcut page appeared, so all picks are Google-app focused plus general guides.
+Resources:
+1. [Docs] Keyboard shortcuts for Google Docs | Google Docs Editors Help | https://support.google.com/docs/answer/179738?hl=en&co=GENIE.Platform%3DDesktop : এটা দেখলে আপনি Docs এর শর্টকাট জানবেন, Ctrl+/ চাপলে লিস্ট খুলবে।
+2. [Docs] Keyboard shortcuts for Google Sheets | Google Docs Editors Help | https://support.google.com/docs/answer/181110?hl=en&co=GENIE.Platform%3DDesktop : এটা দেখলে আপনি Sheets এ দ্রুত কাজ করতে পারবেন।
+3. [Docs] Use Google Workspace keyboard shortcuts | Google Workspace Learning Center | https://support.google.com/a/users/answer/9298571?hl=en : এটা দেখলে আপনি সব Workspace অ্যাপের শর্টকাট একসাথে পাবেন।
+4. [Website] Google Docs keyboard shortcuts | GCFGlobal (non-profit education) | https://EDU.GCFGLOBAL.ORG/en/googledocuments/keyboard-shortcuts/1/ : এটা পড়লে আপনি ধাপে ধাপে শর্টকাট শিখবেন।
+5. [PDF/Book] 100+ Google Docs Keyboard Shortcuts for Windows and Mac | Hongkiat | https://hongkiat.com/blog/keyboard-shortcuts-google-doc : এটা দেখলে আপনি Windows ও Mac দুই সিস্টেমের লিস্ট পাবেন (ব্লগ লিস্ট, PDF নয়)।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Windows keyboard shortcuts (Microsoft Support)
+- Docs: Mac keyboard shortcuts (Apple Support)
+- Docs: Keyboard shortcuts (Google Docs Editors Help)
+- Channel: Jeff Su (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] Ctrl+C আর Ctrl+V ছাড়া আর কয়টা শর্টকাট জানেন? বাকিগুলোই আপনার সময় বাঁচাবে!
+[মূল অংশ] শর্টকাট শিখলে দিনে অনেকটা সময় বাঁচে। ইংরেজি এই ৫টা রিসোর্স দেখুন, ট্রান্সলেট অন রাখুন। এক: Google Docs এর অফিশিয়াল Keyboard shortcuts পেজ। দুই: Google Sheets এর শর্টকাট পেজ। তিন: Google Workspace Learning Center এর Use keyboard shortcuts। চার: GCFGlobal এর Keyboard shortcuts লেসন, ধাপে ধাপে শেখার জন্য। পাঁচ: Hongkiat এর 100+ Docs shortcuts, Windows আর Mac দুটোর জন্য। Docs খুলে Ctrl আর স্ল্যাশ চাপলে নিজেই শর্টকাটের লিস্ট দেখা যায়। প্রতি সপ্তাহে ৩টা করে শিখুন।
+[CTA] আপনার প্রিয় শর্টকাট কোনটা? কমেন্ট করুন, সেভ করুন, শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে কীবোর্ডের কী হাইলাইট হয়ে শর্টকাট ও তার কাজ দেখাবে।
+
+---
+
+## 80. ChatGPT, Claude, Gemini ও অন্যান্য AI টুলের তুলনা বোঝার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+(teaches HOW to compare, no winner, no prices)
+Resources:
+1. [Website] LLM Leaderboard, comparison of AI models | Artificial Analysis | https://artificialanalysis.ai/leaderboards/models : এটা দেখলে আপনি মডেলের বুদ্ধিমত্তা, গতি ও খরচের তুলনা কীভাবে হয় বুঝবেন।
+2. [Website] Comparison of AI Models across Intelligence, Performance, and Price | Artificial Analysis | https://artificialanalysis.ai/models : এটা দেখলে আপনি একাধিক মাপকাঠিতে মডেল পাশাপাশি দেখতে পারবেন।
+3. [Docs] Arena Leaderboard Policy | Arena (LMArena) | https://news.lmarena.ai/policy/ : এটা পড়লে আপনি বুঝবেন ভোটভিত্তিক র‍্যাংকিং কীভাবে তৈরি হয়।
+4. [PDF/Book] Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference | PMLR (ICML paper) | https://proceedings.mlr.press/v235/chiang24b.html : এটা পড়লে আপনি পেয়ারওয়াইজ তুলনার পদ্ধতির গবেষণা-ভিত্তি জানবেন (শিক্ষামূলক পেপার)।
+5. [Website] AA-Image-T2I Leaderboard, Top AI Image Models | Artificial Analysis | https://artificialanalysis.ai/image/leaderboard/text-to-image : এটা দেখলে আপনি ছবির AI মডেল কীভাবে ব্লাইন্ড ভোটে র‍্যাংক হয় বুঝবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: LMArena
+- Website: Artificial Analysis
+- Website: HELM (Stanford CRFM)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] কোন AI সেরা, এই প্রশ্নের উত্তর খুঁজে সময় নষ্ট করছেন? প্রশ্নটাই ভুল!
+[মূল অংশ] AI টুলের র‍্যাংক প্রতি মাসে বদলায়, তাই কে সেরা তা না জেনে শিখুন কীভাবে তুলনা করতে হয়। এই ৫টা রিসোর্স ইংরেজিতে, ট্রান্সলেট অন রাখুন। এক: Artificial Analysis এর LLM Leaderboard, বুদ্ধিমত্তা, গতি, খরচ পাশাপাশি দেখায়। দুই: তাদের Comparison of AI Models পেজ। তিন: Arena এর Leaderboard Policy, ভোটের র‍্যাংক কীভাবে চলে, বোঝার জন্য। চার: Chatbot Arena এর রিসার্চ পেপার। পাঁচ: Artificial Analysis এর ইমেজ মডেল লিডারবোর্ড। শেষ কথা: নিজের কাজের ৫টা প্রম্পট দিয়ে নিজেই টেস্ট করুন, আর দাম ও লিমিট অফিশিয়াল সাইটে চেক করুন।
+[CTA] আপনি কোন কাজে AI চালান? কমেন্টে লিখুন, সেভ করুন, শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে তুলনার টেবিল: বুদ্ধিমত্তা, গতি, খরচ, নিজের টেস্ট।
+
+---
+
+## 81. ক্রিপ্টো ও ব্লকচেইন স্ক্যাম এড়াতে ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 4টা**
+
+Resources: (only 4 verified)
+1. [Docs] Can you spot an investment scam? | FTC Consumer Advice | https://www.consumer.ftc.gov/consumer-alerts/2024/07/can-you-spot-investment-scam : এটা পড়লে আপনি "দ্রুত লাভ" ও "গ্যারান্টি রিটার্ন" ধরনের লাল পতাকা চিনতে পারবেন।
+2. [Website] What are common crypto scams | National Cybersecurity Alliance (StaySafeOnline) | https://www.staysafeonline.org/articles/what-are-common-crypto-scams : এটা পড়লে আপনি ক্রিপ্টো প্রতারণার সাধারণ ধরনগুলো চিনতে পারবেন।
+3. [Docs] How to Avoid Cryptocurrency Scams | Experian | https://experian.com/blogs/ask-experian/how-to-avoid-cryptocurrency-scams : এটা পড়লে আপনি ভুয়া এক্সচেঞ্জ ও প্রতারণা এড়ানোর ধাপগুলো জানতে পারবেন।
+4. [Docs] When Cryptocurrency Investments Really Are Too Good To Be True | KnowBe4 blog | https://blog.knowbe4.com/when-cryptocurrency-investments-really-are-too-good-to-be-true : এটা পড়লে আপনি "অতি লোভনীয় অফার" কেন ফাঁদ হতে পারে তা বুঝতে পারবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: Cryptocurrency scams (FTC Consumer Advice)
+- PDF: Bitcoin whitepaper (bitcoin.org)
+- Website: Learn hub (ethereum.org)
+- Channel: 3Blue1Brown (YouTube), "But how does bitcoin actually work?"
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ক্রিপ্টোতে টাকা ঢালার আগে এই ৪টা রিসোর্স না দেখলে পুরো টাকাই হারাতে পারেন!
+[মূল অংশ] অনলাইনে "দ্রুত দ্বিগুণ টাকা" ধরনের অফার এখন অনেক। আমি এখানে কোনো বিনিয়োগ পরামর্শ দিচ্ছি না, শুধু প্রতারণা চেনার কথা বলছি। সব রিসোর্স ইংরেজিতে, তাই ক্যাপশন বা অটো-ট্রান্সলেট চালু করে নিন। এক: FTC-র "Can you spot an investment scam", এটা পড়লে লাল পতাকাগুলো চিনবেন। দুই: StaySafeOnline-এর "What are common crypto scams", এতে প্রচলিত প্রতারণার ধরন জানবেন। তিন: Experian-এর "How to Avoid Cryptocurrency Scams", এতে ভুয়া এক্সচেঞ্জ এড়ানোর উপায় পাবেন। চার: KnowBe4-এর "When Cryptocurrency Investments Really Are Too Good To Be True", এতে বুঝবেন লোভনীয় অফারের পেছনের ফাঁদ। মনে রাখবেন, কেউ চাপ দিলে বা গ্যারান্টি দিলে থেমে যান।
+[CTA] আপনি কি কখনো এমন ফাঁদে পড়েছেন? কমেন্টে জানান, ভিডিওটা সেভ করুন, আর পরিচিতদের শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে "গ্যারান্টি রিটার্ন = সতর্ক হোন" লেখা ও চারটা রিসোর্সের নাম একে একে দেখান।
+
+---
+
+## 82. IoT (Internet of Things) বোঝার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+Resources:
+1. [Website] What is the Internet of Things (IoT)? | IBM | https://www.ibm.com/think/topics/internet-of-things : এটা পড়লে আপনি সেন্সর, কানেক্টিভিটি ও ক্লাউড মিলে IoT কীভাবে কাজ করে বুঝবেন।
+2. [Docs] What is IoT? | AWS | https://aws.amazon.com/what-is/iot/ : এটা পড়লে আপনি একটি IoT সিস্টেমের অংশগুলো (ডিভাইস, অ্যাপ, ইন্টারফেস) জানতে পারবেন।
+3. [Docs] What Is IoT? | Cisco | https://www.cisco.com/site/us/en/learn/topics/industrial-iot/what-is-iot.html : এটা পড়লে আপনি শিল্প ও স্মার্ট সিটিতে IoT-র ব্যবহার দেখতে পারবেন।
+4. [Website] What Is the Internet of Things (IoT)? | Coursera | https://www.coursera.org/articles/internet-of-things : এটা পড়লে আপনি IoT-র উদাহরণ, ঝুঁকি ও প্রাইভেসি বিষয় বুঝবেন।
+5. [PDF/Book] An Introduction to the Internet of Things (IoT) | Cisco | https://www.cisco.com/c/dam/global/pt_br/assets/brand/iot/iot/pdfs/introduction_to_iot_november.pdf : এটা পড়লে আপনি IoT-র মূল ধারণা পাবেন (পুরনো, প্রায় ২০১৩ সালের, তাই সংখ্যাগুলো মিলিয়ে নিন)।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Arduino documentation (Arduino)
+- Docs: Raspberry Pi documentation (Raspberry Pi)
+- Course: Internet of Things Specialization (UC San Diego, Coursera)
+- Course: IoT courses (Cisco Networking Academy)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] আপনার ঘরের স্মার্ট বাল্বও ইন্টারনেটে কথা বলে, কীভাবে জানেন?
+[মূল অংশ] IoT শেখার আগে ভুল জায়গা থেকে শুরু করলে সময় নষ্ট হয়। সব রিসোর্স ইংরেজিতে, তাই ক্যাপশন বা অটো-ট্রান্সলেট চালু রাখুন। এক: IBM-এর "What is the Internet of Things", এটা পড়লে মূল কাঠামো বুঝবেন। দুই: AWS-এর "What is IoT", এতে একটি সিস্টেমের অংশগুলো জানবেন। তিন: Cisco-র "What Is IoT", এতে বাস্তব ব্যবহার দেখবেন। চার: Coursera-র "What Is the Internet of Things", এতে ঝুঁকি ও প্রাইভেসির দিক বুঝবেন। পাঁচ: Cisco-র "Introduction to the Internet of Things" PDF, এটা পুরনো, তাই সংখ্যাগুলো আজকের সঙ্গে মিলিয়ে দেখবেন। এই পাঁচটা শেষ করলে IoT-র পুরো ছবি পরিষ্কার হবে।
+[CTA] আপনার বাসায় কোন স্মার্ট ডিভাইস আছে? কমেন্টে লিখুন, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে সেন্সর, ক্লাউড, অ্যাপের সহজ অ্যানিমেশন ও পাঁচটা রিসোর্সের নাম দেখান।
+
+---
+
+## 83. রোবটিক্স শুরুর ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 3টা**
+
+Resources: (only 3 verified)
+1. [PDF/Book] New ROS Online Course for Beginner (ROS Robot Programming handbook, free per the post) | ROS Discourse (Open Robotics) | https://discourse.openrobotics.org/t/new-ros-online-course-for-beginner/5320 : এটা দেখলে আপনি ROS, TurtleBot3 ও Gazebo দিয়ে রোবট প্রোগ্রামিংয়ের শুরু জানতে পারবেন।
+2. [Video] Free ROS 1 and ROS 2 Video Tutorials (announcement, 120+ sessions per post) | ROS Discourse (Open Robotics) | https://discourse.openrobotics.org/t/free-ros-1-ros-2-video-tutorials-released/50730 : এটা দেখলে আপনি ধাপে ধাপে ROS ভিডিও টিউটোরিয়ালের সন্ধান পাবেন।
+3. [Course] Hello (Real) World with ROS | TU Delft (edX, per search summary) | https://ocw.tudelft.nl/?p=30708 : এটা করলে আপনি রোবটিক্সের বেসিক শিখতে পারবেন (এখনো চালু আছে কিনা যাচাই করুন, check pricing)।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: ROS documentation (Open Robotics)
+- Course: Robotics courses (MIT OpenCourseWare)
+- Course: Robotics Specialization (University of Pennsylvania, Coursera)
+- Channel: Boston Dynamics (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] রোবটিক্স শিখতে ব্যয়বহুল কিট কেনার আগে এটা দেখুন!
+[মূল অংশ] অনেকেই হার্ডওয়্যার কিনে শুরু করেন, তারপর আটকে যান। আমি এখানে যাচাই করা তিনটা রিসোর্স রেখেছি, সবই ইংরেজিতে, তাই ক্যাপশন চালু করুন। এক: ROS Discourse-এর "New ROS Online Course for Beginner", যেখানে পোস্ট অনুযায়ী একটি ফ্রি হ্যান্ডবুক আছে, এতে ROS, TurtleBot3 ও Gazebo-র শুরু শিখবেন। দুই: একই কমিউনিটির "Free ROS 1 and ROS 2 Video Tutorials", ধাপে ধাপে ভিডিও পাবেন। তিন: TU Delft-এর "Hello (Real) World with ROS" কোর্স, তবে এটা এখনো চালু আছে কিনা আগে দেখে নিন। এটা সংক্ষিপ্ত তালিকা, কিন্তু ভুল লিংকের চেয়ে ভালো। আগে সিমুলেশনে শিখুন, তারপর হার্ডওয়্যারে যান।
+[CTA] আপনি কোন রোবট বানাতে চান? কমেন্টে জানান, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে রোবট সিমুলেশনের ছবি ও তিনটা রিসোর্সের নাম দেখান।
+
+---
+
+## 84. কোয়ান্টাম কম্পিউটিং বোঝার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+Resources:
+1. [Course] IBM Quantum Learning | IBM | https://quantum.cloud.ibm.com/learning/en : এটা করলে আপনি ফ্রি কোর্সে কোয়ান্টাম তথ্যের বেসিক শিখবেন (search result অনুযায়ী ফ্রি কোর্স আছে, প্রাইসিং যাচাই করুন)।
+2. [Course] Build and run your first quantum program | IBM Quantum Learning | https://quantum.cloud.ibm.com/learning/en/courses/use-a-qc-today/build-and-run-your-first-quantum-program : এটা করলে আপনি নিজের প্রথম কোয়ান্টাম সার্কিট চালাতে পারবেন।
+3. [Docs] Get started with Qiskit in the classroom | IBM Quantum Learning | https://quantum.cloud.ibm.com/learning/en/modules/quantum-mechanics/get-started-with-qiskit : এটা পড়লে আপনি বিট, কিউবিট, সুপারপজিশন ও গেট বুঝবেন।
+4. [Docs] Qiskit documentation (Introduction) | IBM | https://quantum.cloud.ibm.com/docs : এটা দেখলে আপনি Qiskit-এর Quickstart ও রেফারেন্স পাবেন।
+5. [Website] Learn quantum computing fundamentals on IBM Quantum Learning | IBM Quantum blog | https://www.ibm.com/quantum/blog/understanding-quantum-information-and-computation : এটা পড়লে আপনি কোন কোর্স থেকে শুরু করবেন তা ঠিক করতে পারবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Course: IBM Quantum Learning (IBM)
+- Website: Qiskit documentation (IBM)
+- Website: Quantum Country (Andy Matuschak and Michael Nielsen)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] কোয়ান্টাম কম্পিউটার চালানোর কোড আপনিও লিখতে পারেন, কঠিন গণিত ছাড়াই শুরু করা যায়!
+[মূল অংশ] কোয়ান্টাম শুনলেই অনেকে ভয় পান। অথচ IBM নিজেই শিক্ষা-সাইট চালায়। সব ইংরেজিতে, তাই ক্যাপশন চালু করুন। এক: IBM Quantum Learning, মূল কোর্সের জায়গা। দুই: "Build and run your first quantum program", এতে প্রথম সার্কিট বানাবেন। তিন: "Get started with Qiskit in the classroom", এতে কিউবিট ও সুপারপজিশন বুঝবেন। চার: Qiskit documentation, কোড লেখার রেফারেন্স। পাঁচ: IBM Quantum-এর ব্লগ, কোন কোর্স আগে করবেন তার দিকনির্দেশ। কোর্সের বর্তমান অবস্থা ও দাম সাইটে একবার দেখে নিন।
+[CTA] কোয়ান্টাম নিয়ে আপনার প্রশ্ন কী? কমেন্টে লিখুন, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে কিউবিটের সহজ ছবি ও IBM Quantum Learning সাইটের স্ক্রিনশট দেখান।
+
+---
+
+## 85. 5G ও ভবিষ্যৎ নেটওয়ার্ক বোঝার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+Resources:
+1. [Docs] 5G networks (backgrounder) | ITU | https://www.itu.int/en/mediacentre/backgrounders/Pages/5G-fifth-generation-of-mobile-technologies.aspx : এটা পড়লে আপনি আন্তর্জাতিক মান (IMT-2020) কী তা বুঝবেন।
+2. [Docs] 5G System Overview | 3GPP | https://www.3gpp.org/technologies/5g-system-overview : এটা পড়লে আপনি 5G-র প্রযুক্তিগত কাঠামো জানবেন।
+3. [Website] What Is 5G? | Cisco | https://www.cisco.com/site/us/en/learn/topics/networking/what-is-5g.html : এটা পড়লে আপনি 5G কীভাবে কাজ করে সহজ ভাষায় বুঝবেন।
+4. [Website] What is 5G? How it transforms our world | Ericsson | https://www.ericsson.com/en/5g : এটা পড়লে আপনি 5G-র ব্যবহার ক্ষেত্র জানবেন।
+5. [Website] 5G vs 4G | Ericsson | https://www.ericsson.com/en/5g/5g-vs-4g : এটা পড়লে আপনি 4G ও 5G-র পার্থক্য বুঝবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: IMT-2020 and 5G (ITU)
+- Website: What is 5G (Qualcomm)
+- Website: GSMA
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] 5G মানে শুধু বেশি স্পিড, এই ধারণাটা কি ঠিক?
+[মূল অংশ] 5G নিয়ে অনেক গুজব ও বিজ্ঞাপন চলে। আসল তথ্য পেতে এই পাঁচটা দেখুন। সব ইংরেজিতে, তাই ক্যাপশন চালু করুন। এক: ITU-র 5G backgrounder, আন্তর্জাতিক মান। দুই: 3GPP-র "5G System Overview", প্রযুক্তির কাঠামো। তিন: Cisco-র "What Is 5G", সহজ ব্যাখ্যা। চার: Ericsson-এর "What is 5G", ব্যবহার ক্ষেত্র। পাঁচ: Ericsson-এর "5G vs 4G", পার্থক্য। মনে রাখবেন, পেজগুলোর গতির সংখ্যা তাত্ত্বিক সর্বোচ্চ, বাস্তবে ভিন্ন হতে পারে। তাই আপনার এলাকার বাস্তব সেবা অপারেটরের কাছে যাচাই করুন।
+[CTA] আপনি কি 5G ব্যবহার করেছেন? কমেন্টে জানান, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে 4G বনাম 5G তুলনার সহজ চার্ট ও পাঁচটা নাম দেখান।
+
+---
+
+## 86. ইলেকট্রিক গাড়ি ও ব্যাটারি টেক বোঝার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+Resources: (publisher of items 4 and 5 not fully confirmed in results)
+1. [Video] Energy 101: Electric Vehicles | U.S. Department of Energy | https://www.energy.gov/node/353155 : এটা দেখলে আপনি ব্যাটারি থেকে মোটর ও চাকা পর্যন্ত EV-র মূল কাজ বুঝবেন।
+2. [Docs] A Closed-Loop Process for End-of-Life Electric Vehicle Lithium-Ion Batteries | U.S. Department of Energy | https://www.energy.gov/node/4810274 : এটা পড়লে আপনি পুরনো ব্যাটারি রিসাইকেলের ধারণা পাবেন।
+3. [Website] EVs explained: how do electric cars actually work | Euronews | https://euronews.com/next/2024/11/25/evs-explained-how-do-electric-cars-actually-work-and-are-they-really-better-than-tradition : এটা পড়লে আপনি ইলেকট্রিক মোটর ও পেট্রল ইঞ্জিনের পার্থক্য বুঝবেন।
+4. [Video] How EV Batteries Work | GreenCars | https://www.greencars.com/video/how-ev-batteries-work : এটা দেখলে আপনি EV ব্যাটারির কাজ ও রিজেনারেটিভ ব্রেকিং বুঝবেন।
+5. [Video] What is a Lithium-Ion Battery? | LabXchange | https://www.labxchange.org/library/items/lb:LabXchange:dbb96f93:video:1 : এটা দেখলে আপনি লিথিয়াম-আয়ন ব্যাটারির গঠন বুঝবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: Alternative Fuels Data Center (US Department of Energy)
+- PDF: Global EV Outlook (International Energy Agency)
+- Channel: Engineering Explained (YouTube)
+- Website: Battery University
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ইলেকট্রিক গাড়ির আসল দাম লুকিয়ে আছে ব্যাটারিতে, সেটা কি জানেন?
+[মূল অংশ] EV কেনার আগে ব্যাটারি বোঝা জরুরি। সব রিসোর্স ইংরেজিতে, ক্যাপশন চালু করুন। এক: মার্কিন এনার্জি বিভাগের "Energy 101: Electric Vehicles", মূল কাজ বুঝবেন। দুই: একই বিভাগের ব্যাটারি রিসাইকেল প্রক্রিয়ার লেখা। তিন: Euronews-এর "EVs explained", মোটর ও ইঞ্জিনের পার্থক্য। চার: GreenCars-এর "How EV Batteries Work"। পাঁচ: LabXchange-এর "What is a Lithium-Ion Battery"। দাম ও রেঞ্জ নিয়ে কোনো সংখ্যা আমি বলছি না, কারণ তা প্রতিনিয়ত বদলায়, নির্মাতার সাইটে দেখুন।
+[CTA] EV কি আপনার পরের গাড়ি হবে? কমেন্টে জানান, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে ব্যাটারি, মোটর ও চাকার প্রবাহ-চিত্র দেখান।
+
+---
+
+## 87. স্পেস টেক ও স্যাটেলাইট ইন্টারনেট বোঝার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 3টা**
+
+Resources: (only 3 verified; no NASA/ESA page or channel-confirmed video appeared)
+1. [Website] Starlink Technology | Starlink (SpaceX) | https://starlink.com/technology : এটা দেখলে আপনি কোম্পানির নিজের ভাষায় LEO স্যাটেলাইট প্রযুক্তি জানবেন (বিজ্ঞাপনী দৃষ্টিকোণ মাথায় রাখুন)।
+2. [Website] How do SpaceX's Starlink satellites actually work? | Astronomy.com | https://www.astronomy.com/space-exploration/how-do-spacexs-starlink-satellites-actually-work/ : এটা পড়লে আপনি ডিশ-স্যাটেলাইট-গ্রাউন্ড স্টেশনের প্রবাহ বুঝবেন।
+3. [Website] How does satellite internet work | ScienceABC | https://www.scienceabc.com/innovation/how-does-satellite-internet-work : এটা পড়লে আপনি পুরনো ও নতুন স্যাটেলাইট ইন্টারনেটের পার্থক্য বুঝবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: NASA
+- Website: European Space Agency
+- Channel: Scott Manley (YouTube)
+- Channel: Kurzgesagt (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] আকাশ থেকে ইন্টারনেট আসে, তাহলে তারের কী দরকার?
+[মূল অংশ] স্যাটেলাইট ইন্টারনেট নিয়ে অনেক কৌতূহল। আমি তিনটা যাচাই করা রিসোর্স রেখেছি, সবই ইংরেজিতে, ক্যাপশন চালু করুন। এক: Starlink-এর "Technology" পেজ, তাদের নিজের ব্যাখ্যা, তবে এটা কোম্পানির প্রচারও বটে। দুই: Astronomy.com-এর "How do Starlink satellites actually work", ডিশ থেকে গ্রাউন্ড স্টেশন পর্যন্ত। তিন: ScienceABC-র "How does satellite internet work", প্রচলিত ও লো-অরবিট পার্থক্য। উপগ্রহের সংখ্যা ও দাম প্রতিনিয়ত বদলায়, তাই সংখ্যা সরাসরি অফিসিয়াল সাইটে যাচাই করুন।
+[CTA] আপনার এলাকায় স্যাটেলাইট ইন্টারনেট দরকার? কমেন্টে জানান, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে পৃথিবী, কক্ষপথ ও ডিশের সহজ অ্যানিমেশন দেখান।
+
+---
+
+## 88. AR ও VR বোঝার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 3টা**
+
+Resources: (only 3 verified; Coursera direct links did not appear)
+1. [Course] Meta AR Developer (Coursera program, listed on Class Central) | Meta via Coursera | https://classcentral.com/course/meta-ar-developer-277802 : এটা করলে আপনি AR-এর মূল ধারণা ও ডেভেলপমেন্ট টুল চিনবেন (check pricing)।
+2. [Course] Augmented Reality basics | Udemy | https://udemy.com/course/augmented-reality-basics/ : এটা করলে আপনি Unity ও Vuforia দিয়ে AR-এর শুরুর ধাপ শিখবেন (check pricing)।
+3. [Website] Best Virtual Reality Courses | AI Time Journal | https://aitimejournal.com/best-virtual-reality-courses : এটা পড়লে আপনি VR কোর্সের তালিকা দেখে নিজের লেভেলের কোর্স বাছতে পারবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Docs: Meta Quest developer documentation (Meta)
+- Docs: visionOS developer documentation (Apple)
+- Course: Unity Learn (Unity)
+- Docs: ARCore documentation (Google)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] AR আর VR-এর পার্থক্য না জেনে ডিভাইস কিনলে টাকা নষ্ট!
+[মূল অংশ] AR মানে বাস্তবের ওপর ডিজিটাল স্তর, VR মানে পুরো ভার্চুয়াল জগৎ। শিখতে চাইলে তিনটা যাচাই করা রিসোর্স দেখুন, সবই ইংরেজিতে, ক্যাপশন চালু করুন। এক: Meta AR Developer প্রোগ্রাম, Class Central-এ তালিকাভুক্ত। দুই: Udemy-র "Augmented Reality basics", Unity ও Vuforia দিয়ে হাতেকলমে। তিন: AI Time Journal-এর VR কোর্স তালিকা, নিজের লেভেল অনুযায়ী বাছাই করতে। দাম ও বর্তমান অবস্থা প্রতিটি পেজে যাচাই করুন। আমি তালিকা ছোট রেখেছি, কারণ ভুল লিংকের চেয়ে কম ভালো।
+[CTA] AR না VR, কোনটা আপনার পছন্দ? কমেন্টে জানান, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে AR ফিল্টার ও VR হেডসেটের পাশাপাশি ছবি দেখান।
+
+---
+
+## 89. স্টার্টআপ শুরুর আগে ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 3টা**
+
+Resources: (only 3 verified; official Startup School page itself did not appear)
+1. [Website] Announcing Startup School 2019 | Y Combinator blog | https://www.ycombinator.com/blog/announcing-startup-school-2019 : এটা পড়লে আপনি YC-র ফ্রি অনলাইন Startup School কী তা জানবেন (বর্তমান ব্যাচ সাইটে যাচাই করুন)।
+2. [Website] Y Combinator opens registration for its free Startup School online course | VentureBeat | https://venturebeat.com/ai/y-combinator-opens-registration-for-its-free-startup-school-online-course : এটা পড়লে আপনি কোর্সের কাঠামো ও কী শেখানো হয় বুঝবেন।
+3. [Website] For 3,000 startups, Y Combinator's class is in session online | MIT Technology Review | https://www.technologyreview.com/2017/04/26/152138/for-3000-startups-y-combinators-class-is-in-session-online/ : এটা পড়লে আপনি অনলাইন লেকচার ও মেন্টরিং কীভাবে হয় বুঝবেন (২০১৭ সালের লেখা)।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Course: Startup School (Y Combinator)
+- Website: Essays (Paul Graham)
+- PDF: The Lean Startup (Eric Ries, book)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] স্টার্টআপ শুরুর আগে কোথায় শিখবেন, জানেন না? বিশ্বসেরা ইনকিউবেটরের ফ্রি ক্লাস আছে!
+[মূল অংশ] Y Combinator-এর Startup School নামে একটি ফ্রি অনলাইন কোর্স রয়েছে বলে রিপোর্টে এসেছে। সব রিসোর্স ইংরেজিতে, ক্যাপশন চালু করুন। এক: YC ব্লগের "Announcing Startup School 2019"। দুই: VentureBeat-এর রেজিস্ট্রেশন নিয়ে লেখা। তিন: MIT Technology Review-র লেখা, তবে সেটা ২০১৭ সালের। এই লেখাগুলো পুরনো, তাই বর্তমান ব্যাচ, তারিখ ও নিয়ম অবশ্যই YC-র অফিসিয়াল সাইটে দেখে নিন। এখানে কোনো টাকা বা গ্র্যান্টের সংখ্যা আমি নিশ্চিত করছি না।
+[CTA] আপনার স্টার্টআপ আইডিয়া কী? কমেন্টে লিখুন, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে "Idea → Product → Users" প্রবাহ ও তিনটা রিসোর্সের নাম দেখান।
+
+---
+
+## 90. AI নৈতিকতা ও ঝুঁকি বোঝার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+Resources:
+1. [Docs] Recommendation on the Ethics of Artificial Intelligence | UNESCO | https://www.unesco.org/en/artificial-intelligence/recommendation-ethics : এটা পড়লে আপনি AI নৈতিকতার বৈশ্বিক মান ও মূল নীতিগুলো জানবেন।
+2. [PDF/Book] Recommendation on the Ethics of Artificial Intelligence (full text) | UNESCO | https://unesdoc.unesco.org/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_import_fa6f4b4a-9298-4a92-ba07-8108ac513153?_=380455eng.pdf&from=1&to=21 : এটা পড়লে আপনি পূর্ণ দলিলের প্রস্তাবনা অংশ দেখতে পারবেন (লম্বা লিংক, প্রস্তাবনা অংশ)।
+3. [Website] Recommendation on the Ethics of AI | OECD.AI | https://oecd.ai/en/dashboards/policy-initiatives/recommendation-on-the-ethics-of-artificial-intelligence : এটা দেখলে আপনি দেশগুলোর নীতি-উদ্যোগের সঙ্গে সংযোগ বুঝবেন।
+4. [Website] UNESCO's Recommendation on the Ethics of AI: key facts | Africa Education Knowledge Platform (UNESCO IICBA) | https://www.iicba.unesco.org/en/africa-education-knowledge-platform/unescos-recommendation-ethics-artificial-intelligence-key-facts : এটা পড়লে আপনি সংক্ষেপে মূল তথ্য ও টুলগুলো পাবেন।
+5. [Course] Understanding and Implementing the NIST AI Risk Management Framework (RMF) | University of Miami | https://customcareer.miami.edu/classes/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/ : এটা করলে আপনি AI ঝুঁকি ব্যবস্থাপনার কাঠামো শিখবেন (check pricing)।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- PDF: Recommendation on the Ethics of Artificial Intelligence (UNESCO)
+- Website: AI Principles (OECD)
+- PDF: AI Risk Management Framework (NIST)
+- PDF: AI Index Report (Stanford HAI)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] AI-র ঝুঁকি না বুঝে ব্যবহার করলে আপনার তথ্যই বিপদে পড়তে পারে!
+[মূল অংশ] AI কাজ সহজ করে, কিন্তু পক্ষপাত, ভুল তথ্য ও প্রাইভেসির ঝুঁকিও আছে। সব রিসোর্স ইংরেজিতে, ক্যাপশন চালু করুন। এক: UNESCO-র "Recommendation on the Ethics of AI", বৈশ্বিক মান। দুই: একই দলিলের পূর্ণ PDF। তিন: OECD.AI-র পেজ। চার: UNESCO-র সংক্ষিপ্ত "key facts"। পাঁচ: University of Miami-র NIST AI Risk Management Framework কোর্স, দাম যাচাই করুন। এগুলো পড়লে ন্যায্যতা, স্বচ্ছতা ও মানুষের তদারকির মতো নীতি বুঝবেন।
+[CTA] AI নিয়ে আপনার সবচেয়ে বড় ভয় কী? কমেন্টে জানান, সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে "ন্যায্যতা, স্বচ্ছতা, মানুষের তদারকি" লেখা ও পাঁচটা নাম দেখান।
+
+---
+
+## 91. ChatGPT-র মতো LLM কীভাবে কাজ করে, বোঝার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 1টা**
+
+Resources:
+1. [Website] Large Language Models explained briefly | 3Blue1Brown | https://www.3blue1brown.com/lessons/mini-llm/ : এটা দেখলে আপনি LLM আসলে কীভাবে পরের শব্দ অনুমান করে লেখা বানায়, তা ছবি দেখে বুঝতে পারবেন।
+(Other candidates named in the brief, such as Karpathy's Intro to LLMs, Hugging Face LLM course and Transformer Explainer, did not return a verifiable URL, so they are left out. Only 1 verified.)
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Channel: 3Blue1Brown (YouTube), deep learning series
+- Channel: Andrej Karpathy (YouTube), Intro to Large Language Models
+- Website: The Illustrated Transformer (Jay Alammar)
+- Course: LLM Course (Hugging Face)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ChatGPT রোজ ব্যবহার করেন, কিন্তু ভেতরে কী ঘটে জানেন না? তাহলে আপনি ভুল উত্তর ধরতেও পারবেন না।
+[মূল অংশ] বেশিরভাগ মানুষ LLM-কে জাদু ভাবে। আসলে এটা প্রচুর লেখা পড়ে পরের শব্দ অনুমান করা শেখে। এটা বুঝলে বুঝবেন কেন AI মাঝে মাঝে ভুল তথ্য দেয়। শুরুর জন্য আমি একটাই রিসোর্স যাচাই করে পেয়েছি: 3Blue1Brown-এর "Large Language Models explained briefly"। এটা ইংরেজিতে, তাই ক্যাপশন বা অটো-ট্রান্সলেট অন করে নিন। দেখলে আপনি টোকেন, অনুমান আর ট্রেনিংয়ের মূল ধারণা সহজ ছবিতে বুঝবেন। বাকি রিসোর্স আমি আলাদা পোস্টে দেব, যাচাই না করে আপনাদের কাছে কিছু দেব না।
+[CTA] আপনি কোন অংশটা সবচেয়ে কঠিন পান, কমেন্টে লিখুন। পোস্টটা সেভ করুন আর যে বন্ধু ChatGPT ব্যবহার করে তাকে শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে 3Blue1Brown পেজের নাম আর লিংক দেখান, সঙ্গে "পরের শব্দ অনুমান" লেখা অ্যানিমেশন।
+
+---
+
+## 92. Neural Network সহজে বোঝার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 2টা**
+
+Resources:
+1. [Website] 5 Free Resources to Understand Neural Networks | KDnuggets | https://www.kdnuggets.com/5-free-resources-understand-neural-networks : এটা পড়লে আপনি ফ্রি রিসোর্সের একটা বাছাই করা তালিকা পাবেন, কোনটা দিয়ে শুরু করবেন বুঝতে পারবেন।
+2. [Website] 5 Free Resources for Understanding Neural Networks | Machine Learning Mastery | https://machinelearningmastery.com/5-free-resources-for-understanding-neural-networks/ : এটা পড়লে আপনি আরেকটা তালিকা থেকে নিজের লেভেলের উপযোগী ফ্রি উপকরণ বেছে নিতে পারবেন।
+(Search snippets mention 3Blue1Brown's neural network series, Karpathy's Zero to Hero and Michael Nielsen's free book, but no direct official URL appeared, so they are not listed as resources. Only 2 verified.)
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Channel: 3Blue1Brown (YouTube), neural networks series
+- Tool: TensorFlow Playground (Google)
+- PDF: Neural Networks and Deep Learning (Michael Nielsen, free book)
+- Channel: Andrej Karpathy (YouTube), Neural Networks: Zero to Hero
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] Neural network নাম শুনেই ভয় পান? ভুল জায়গা থেকে শুরু করলে মাসখানেক নষ্ট হবে।
+[মূল অংশ] সমস্যা হলো ইন্টারনেটে এত রিসোর্স যে কোনটা ধরবেন বোঝা যায় না। আমি যাচাই করা দুটো ইংরেজি তালিকা পেয়েছি। এক, KDnuggets-এর "5 Free Resources to Understand Neural Networks"। দুই, Machine Learning Mastery-র "5 Free Resources for Understanding Neural Networks"। দুটোই ইংরেজি, তাই ব্রাউজারের ট্রান্সলেট অন করে পড়ুন। এগুলো পড়লে আপনি ফ্রি ভিডিও, বই আর কোর্সের বাছাই করা পথ পাবেন, আর বুঝবেন প্রথমে কোনটা দিয়ে শুরু করা ভালো। সবচেয়ে ভালো হয় একটা ভিজ্যুয়াল সিরিজ দিয়ে শুরু করে পরে বই ধরলে।
+[CTA] আপনি কি কোডিং জানেন? কমেন্টে জানান, আমি সেই অনুযায়ী পরের গাইড বানাব। সেভ আর শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে দুটো তালিকার শিরোনাম আর একটা সরল নিউরাল নেটওয়ার্ক ডায়াগ্রাম।
+
+---
+
+## 93. AI-র ইতিহাস জানার ৪টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 4টা**
+
+Resources:
+1. [Docs] A Short History of AI (AI100 report, Appendix I) | Stanford One Hundred Year Study on AI | https://ai100.stanford.edu/2016-report/appendix-i-short-history-ai : এটা পড়লে আপনি ১৯৫৬ সালের Dartmouth কর্মশালা থেকে AI-র জন্মের গল্প জানতে পারবেন।
+2. [Website] AI & Robotics timeline | Computer History Museum | https://www.computerhistory.org/timeline/ai-robotics/ : এটা দেখলে আপনি সময়ের ক্রমে AI ও রোবটিক্সের বড় মাইলফলকগুলো এক নজরে দেখতে পারবেন।
+3. [Docs] History of artificial intelligence (AI): Connectionism | Britannica | https://www.britannica.com/science/history-of-artificial-intelligence/Connectionism : এটা পড়লে আপনি নিউরাল নেটওয়ার্কের শুরুর গবেষণা, যেমন perceptron, কীভাবে এসেছে বুঝবেন।
+4. [PDF/Book] Essay on the history of AI | Harvard Data Science Review (MIT Press) | https://hdsr.mitpress.mit.edu/pub/0aytgrau : এটা পড়লে আপনি জানবেন AI-র জন্ম নিয়ে গবেষকদের মধ্যে কী তর্ক আছে।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- PDF: AI100 reports (Stanford)
+- Website: Computer History Museum
+- Website: Britannica, artificial intelligence
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] AI কিন্তু ChatGPT-র সঙ্গে জন্মায়নি। এর গল্প আরও পুরনো, আর সেটা না জানলে আজকের হাইপ বোঝা কঠিন।
+[মূল অংশ] অনেকেই ভাবে AI নতুন জিনিস। অথচ ঐতিহাসিক সূত্র অনুযায়ী ১৯৫৬ সালের Dartmouth কর্মশালা থেকে এই নাম এসেছে, আর তার আগেও কাজ হয়েছে। চারটা ইংরেজি রিসোর্স দেখুন, ক্যাপশন বা ট্রান্সলেট অন রেখে। এক, Stanford-এর AI100 রিপোর্টের "A Short History of AI"। দুই, Computer History Museum-এর AI and Robotics টাইমলাইন। তিন, Britannica-র AI ইতিহাসের Connectionism অংশ। চার, Harvard Data Science Review-র প্রবন্ধ, যেটা বলে AI-র জন্ম নিয়ে সরল গল্পটা পুরো সত্য নয়। এগুলো পড়লে আপনি পুরো টাইমলাইন আর AI winter-এর মতো উত্থান-পতন বুঝবেন।
+[CTA] আপনার মতে AI-র সবচেয়ে বড় মোড় কোনটা? কমেন্ট করুন, সেভ করুন, শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে ১৯৪৩ থেকে আজ পর্যন্ত একটা টাইমলাইন, সঙ্গে চারটা সোর্সের নাম।
+
+---
+
+## 94. কম্পিউটার কীভাবে কাজ করে, বোঝার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 2টা**
+
+Resources:
+1. [Course] Computers and the Internet | Khan Academy (with Code.org) | https://www.khanacademy.org/computing/code-org/computers-and-the-internet : এটা দেখলে আপনি কম্পিউটারের হার্ডওয়্যার, স্টোরেজ ও তার-কেবল থেকে ইন্টারনেট পর্যন্ত মূল ধারণা শিখবেন। Pricing: check pricing.
+2. [Course] Build a Modern Computer from First Principles: From Nand to Tetris | Hebrew University of Jerusalem on Coursera | https://www.coursera.org/course/nand2tetris1 : এটা করলে আপনি সবচেয়ে ছোট logic gate থেকে একটা পুরো কম্পিউটার সিস্টেম কীভাবে তৈরি হয় বুঝবেন। Pricing: check pricing.
+(Ben Eater's 8-bit computer series appeared only via third-party pages, so it is not listed. Only 2 verified.)
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Course: CS50x (Harvard)
+- Channel: Crash Course Computer Science (YouTube)
+- Course: Nand to Tetris (Hebrew University, Coursera)
+- Channel: Ben Eater (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] প্রতিদিন কম্পিউটার চালান, কিন্তু ভেতরে কী হয় জানেন না। এই দুটো কোর্স সেই ফাঁক ভরবে।
+[মূল অংশ] কোডিং বা টেক ক্যারিয়ারে ভিত্তি মজবুত না হলে পরে আটকে যাবেন। দুটো যাচাই করা ইংরেজি রিসোর্স দিচ্ছি, ক্যাপশন অন রাখুন। এক, Khan Academy-র "Computers and the Internet"। এটা দেখলে হার্ডওয়্যার থেকে ইন্টারনেটের মূল ধারণা সহজে বুঝবেন। দুই, Coursera-তে Hebrew University-র "From Nand to Tetris"। এখানে সবচেয়ে ছোট logic gate থেকে শুরু করে একটা পুরো কম্পিউটার সিস্টেম পর্যন্ত যাওয়া যায়। দাম বা ফ্রি কি না, তা Coursera আর Khan Academy পেজে গিয়ে দেখে নিন। আরও রিসোর্স যাচাই হলে আলাদা পোস্টে দেব।
+[CTA] কোনটা দিয়ে শুরু করবেন কমেন্টে লিখুন। সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে Khan Academy ও Coursera পেজের নাম আর logic gate থেকে কম্পিউটারের সিঁড়ি-ছবি।
+
+---
+
+## 95. ইন্টারনেট কীভাবে কাজ করে, বোঝার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+Resources:
+1. [Docs] How does the Internet work? | MDN Web Docs (Mozilla) | https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work : এটা পড়লে আপনি ইন্টারনেট আর ওয়েবের পার্থক্য এবং ডেটা কীভাবে যাতায়াত করে বুঝতে পারবেন।
+2. [Docs] How does the Internet work? | Cloudflare Learning Center | https://www.cloudflare.com/learning/network-layer/how-does-the-internet-work/ : এটা পড়লে আপনি packet, protocol, IP address ও DNS-এর ধারণা পরিষ্কার করতে পারবেন।
+3. [Course] The Internet | Khan Academy | https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet : এটা দেখলে আপনি ধাপে ধাপে IP address, DNS ও packet routing শিখবেন। Pricing: check pricing.
+4. [Website] The Internet Is for Everyone (lesson) | Code.org | https://curriculum.code.org/csp-18/unit1/8/ : এটা করলে আপনি বার্তা packet-এ ভেঙে সার্ভারে পৌঁছানোর প্রক্রিয়া হাতে-কলমে বুঝবেন।
+5. [Course] Computers and the Internet | Khan Academy (with Code.org) | https://www.khanacademy.org/computing/code-org/computers-and-the-internet : এটা দেখলে আপনি ছোট ভিডিওতে তার থেকে ওয়েবসাইট পর্যন্ত পুরো ছবিটা বুঝবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: Learning Center (Cloudflare)
+- Docs: How the web works (MDN, Mozilla)
+- Channel: Code.org (YouTube), "How the Internet Works"
+- Channel: Computerphile (YouTube)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] আপনার ফোনে একটা ওয়েবসাইট খুলতে কী কী ঘটে, জানেন? বেশিরভাগ মানুষ জানে না।
+[মূল অংশ] ইন্টারনেট বোঝা সব টেক শেখার ভিত্তি। পাঁচটা ইংরেজি রিসোর্স দেখুন, ক্যাপশন বা ট্রান্সলেট অন করে। এক, MDN-এর "How does the Internet work?"। দুই, Cloudflare Learning Center-এর একই নামের লেখা। এ দুটো পড়লে packet, IP আর DNS পরিষ্কার হবে। তিন, Khan Academy-র "The Internet" কোর্স। চার, Code.org-এর "The Internet Is for Everyone" লেসন, যেখানে হাতে-কলমে packet পাঠানো বোঝা যায়। পাঁচ, Khan Academy-র "Computers and the Internet", ছোট ছোট ভিডিওতে পুরো ছবি। এগুলো শেষ করলে নেটওয়ার্কের কোনো ভয় থাকবে না।
+[CTA] আপনার কোন অংশ কঠিন লাগে কমেন্টে বলুন। সেভ করুন, শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে ব্রাউজার থেকে সার্ভার পর্যন্ত packet যাওয়ার অ্যানিমেশন আর পাঁচ সোর্সের নাম।
+
+---
+
+## 96. টেক শেখার সেরা পডকাস্ট ও বই, ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 3টা**
+
+Resources:
+1. [Website] Practical AI (podcast) | Daniel Whitenack and Chris Benson | https://podcasts.apple.com/us/podcast/practical-ai/id1406537385 : এটা শুনলে আপনি বাস্তবে AI কীভাবে ব্যবহার হয়, তা সাপ্তাহিক পর্বে জানবেন।
+2. [Website] A Beginner's Guide to AI (podcast) | Dietmar Fischer | https://podcasts.apple.com/us/podcast/a-beginners-guide-to-ai/id1701165010 : এটা শুনলে আপনি সহজ ভাষায় AI-র ধারণা শিখবেন।
+3. [Website] Everyday AI Podcast | Jordan Wilson | https://podcasts.apple.com/us/podcast/everyday-ai-podcast-an-ai-and-chatgpt-podcast/id1683401861 : এটা শুনলে আপনি ক্যারিয়ারে AI ব্যবহারের প্র্যাকটিক্যাল আইডিয়া পাবেন।
+(Lex Fridman, Latent Space, Hard Fork and Dive into Deep Learning appeared in text only, with no official page link, and no free book was confirmed. Only 3 verified. Check pricing/availability on each page.)
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Podcast: Lex Fridman Podcast
+- Podcast: Hard Fork (The New York Times)
+- Podcast: Latent Space
+- Podcast: Syntax
+- PDF: Eloquent JavaScript (Marijn Haverbeke, free to read online)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] গাড়িতে বা হাঁটতে হাঁটতে টেক শিখতে চান? কান দিয়ে শেখার তিনটা পডকাস্ট।
+[মূল অংশ] সময় নেই বলে শেখা বন্ধ রাখবেন না। যাচাই করা তিনটা ইংরেজি পডকাস্ট বলছি, ক্যাপশন নেই তাই ধীরে শুনুন। এক, Practical AI, যেখানে বাস্তবে AI কীভাবে কাজে লাগে সেটা সাপ্তাহিক আলোচনা হয়। দুই, A Beginner's Guide to AI, যা সহজ ভাষায় ধারণা বোঝায়। তিন, Everyday AI Podcast, যা ক্যারিয়ারে AI ব্যবহারের আইডিয়া দেয়। বইয়ের ফ্রি লিংক আমি এখনও যাচাই করতে পারিনি, তাই ভুল লিংক দেব না। পরের পোস্টে বই আসবে।
+[CTA] কোন পডকাস্ট শুনছেন কমেন্টে লিখুন। সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে তিন পডকাস্টের কভার ও নাম, হেডফোনের আইকন।
+
+---
+
+## 97. টেক ইংলিশ ও টেকনিক্যাল রাইটিং শেখার ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 3টা**
+
+Resources:
+1. [Course] Free technical writing courses (Technical Writing One, Two) | Google Developers | https://developers.google.com/tech-writing/announcements : এটা করলে আপনি audience চেনা, active voice, ছোট বাক্য ও তালিকা দিয়ে পরিষ্কার টেকনিক্যাল লেখা শিখবেন। Free (page title: "Free technical writing courses").
+2. [Docs] Technical writing overview | Google Developers | https://developers.google.cn/tech-writing/overview : এটা পড়লে আপনি কোর্সগুলো কী কী শেখায় আর কীভাবে এগোবেন বুঝবেন।
+3. [Docs] Teaching the art of great documentation | Google Developers Blog | https://developers.googleblog.com/en/teaching-the-art-of-great-documentation/ : এটা পড়লে আপনি জানবেন Google কেন ইঞ্জিনিয়ারদের লেখা শেখায় আর তা থেকে কী নিতে পারেন।
+(Microsoft Writing Style Guide and Coursera English for IT did not return URLs. Only 3 verified.)
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Course: Technical Writing (Google)
+- Docs: Writing Style Guide (Microsoft)
+- Website: plainlanguage.gov
+- Website: Write the Docs
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] কোড ভালো, কিন্তু ইংরেজিতে ডকুমেন্ট লিখতে পারেন না? ইন্টারভিউ আর ফ্রিল্যান্সে এটাই আপনাকে পিছিয়ে দেবে।
+[মূল অংশ] টেক ক্যারিয়ারে পরিষ্কার ইংরেজি লেখা একটা বড় দক্ষতা। Google ইঞ্জিনিয়ারদের জন্য ফ্রি টেকনিক্যাল রাইটিং কোর্স দেয়, যা শুধু ইংরেজিতে। এক, "Free technical writing courses" পেজ, এখানে Technical Writing One আর Two আছে। দুই, একই জায়গার overview পেজ। তিন, Google Developers Blog-এর "Teaching the art of great documentation"। এগুলো করলে আপনি ছোট বাক্য, active voice আর পরিষ্কার কাঠামোয় লেখা শিখবেন। পড়ার সময় ট্রান্সলেট ব্যবহার করতে পারেন। বাকি রিসোর্স যাচাই হলে জানাব।
+[CTA] আপনি কোথায় লিখতে আটকান কমেন্টে বলুন। সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে "passive vs active" বাক্যের তুলনা আর Google পেজের নাম।
+
+---
+
+## 98. টেক কনফারেন্স ও কীনোট থেকে শেখার রিসোর্স
+
+**যাচাই করা লিংক: 2টা**
+
+Resources:
+1. [Website] "Your Career Starts at the Beginning of the AI Revolution," NVIDIA CEO Tells Graduates | NVIDIA Blog | https://blogs.nvidia.com/blog/nvidia-ceo-carnegie-mellon-commencement-address/ : এটা পড়লে আপনি AI যুগে ক্যারিয়ার নিয়ে একজন শীর্ষ টেক নেতার বক্তব্য জানবেন।
+2. [Website] The Intelligent Industrial Revolution | NVIDIA Blog | https://blogs.nvidia.com/blog/intelligent-industrial-revolution/ : এটা পড়লে আপনি AI কীভাবে শিল্পকে বদলাচ্ছে সে সম্পর্কে একটা কোম্পানির দৃষ্টিভঙ্গি পাবেন।
+(No official Google I/O, Microsoft Build or WWDC 2026 page was verified. Recommend re-searching official event pages before posting. Only 2 verified.)
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Channel: Google (YouTube), Google I/O
+- Channel: Apple (YouTube), WWDC
+- Channel: Microsoft (YouTube), Microsoft Build
+- Channel: NVIDIA (YouTube), GTC
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] বড় টেক কোম্পানির কীনোট কি শুধু বিজ্ঞাপন? ঠিকভাবে দেখলে এটা বিনামূল্যের ভবিষ্যৎ-ক্লাস।
+[মূল অংশ] কনফারেন্সের বক্তব্য থেকে আপনি জানতে পারেন টেক কোন দিকে যাচ্ছে। এখন আমি দুটো যাচাই করা ইংরেজি লেখা দিচ্ছি, ট্রান্সলেট অন করে পড়ুন। এক, NVIDIA Blog-এ "Your Career Starts at the Beginning of the AI Revolution", যেখানে স্নাতকদের উদ্দেশে বক্তব্য আছে। দুই, NVIDIA Blog-এর "The Intelligent Industrial Revolution"। এগুলো পড়লে আপনি AI নিয়ে কোম্পানির দৃষ্টিভঙ্গি বুঝবেন, তবে মনে রাখবেন এগুলো কোম্পানির নিজের মত। Google, Microsoft ও Apple-এর অফিশিয়াল ইভেন্ট পেজ আমি যাচাই করে পরে দেব।
+[CTA] কোন কীনোট দেখেছেন? কমেন্টে লিখুন। সেভ ও শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে মঞ্চের কীনোটের ছবি আর দুই লেখার শিরোনাম।
+
+---
+
+## 99. অভিভাবকদের জন্য: সন্তানকে AI যুগে প্রস্তুত করার ৪টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 4টা**
+
+Resources:
+1. [Docs] AI Guidance for Schools Toolkit, family section | TeachAI | https://www.teachai.org/toolkit-parent : এটা পড়লে আপনি স্কুলে AI ব্যবহার, ডেটা প্রাইভেসি ও বয়সের নিয়ম নিয়ে অভিভাবক হিসেবে কী জানা দরকার বুঝবেন।
+2. [Docs] Using AI Wisely for School Success | Common Sense Media | https://www.commonsensemedia.org/using-ai-wisely-for-school-success : এটা পড়লে আপনি সন্তানকে AI দিয়ে শেখা, কিন্তু নিজে না ভেবে ছেড়ে না দেওয়ার উপায় জানবেন।
+3. [PDF/Book] Empowering Learners for the Age of AI | OECD | https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/06/empowering-learners-for-the-age-of-ai_2f8315e7/65cd27d4-en.pdf : এটা পড়লে আপনি AI literacy কী এবং অভিভাবকদের ভূমিকা কী, তা আন্তর্জাতিক কাঠামোয় বুঝবেন।
+4. [Docs] Parent guide on AI | UNICRI (United Nations) | https://unicri.org/node/3990 : এটা পড়লে আপনি পরিবারে AI নিয়ে কথা বলা, সীমা ঠিক করা ও ভুল তথ্য নিয়ে আলোচনার চার ধাপ শিখবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: AI resources for families (Common Sense Media)
+- Website: Be Internet Awesome (Google)
+- PDF: AI competency framework for students (UNESCO)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] আপনার সন্তান AI ব্যবহার করছে, আপনি কি জানেন কীভাবে? না জানলে ঝুঁকিটা আপনার চোখের আড়ালে।
+[মূল অংশ] নিষেধ করাই সমাধান নয়, বোঝাটাই আসল। চারটা ইংরেজি রিসোর্স দেখুন, ট্রান্সলেট অন করে। এক, TeachAI-এর টুলকিটের অভিভাবক অংশ, যেখানে ডেটা প্রাইভেসি আর বয়সের নিয়ম আছে। দুই, Common Sense Media-র "Using AI Wisely for School Success"। তিন, OECD-র রিপোর্ট "Empowering Learners for the Age of AI"। চার, জাতিসংঘের UNICRI-র অভিভাবক গাইড, যেখানে কথা বলা, শেখা, বোঝানো ও নজর রাখার চার ধাপ আছে। এগুলো পড়লে সন্তানকে AI ব্যবহারে সীমা আর সচেতনতা শেখাতে পারবেন। নীতিমালা বদলাতে পারে, তাই নিজে পেজ দেখে নিন।
+[CTA] আপনার সন্তান কি AI ব্যবহার করে? কমেন্টে জানান। সেভ করুন, অন্য অভিভাবককে শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে অভিভাবক ও সন্তান একসঙ্গে ল্যাপটপে, সঙ্গে চার সোর্সের নাম।
+
+---
+
+## 100. শিক্ষকদের জন্য: ক্লাসরুমে AI ব্যবহারের ৫টা রিসোর্স দেখুন
+
+**যাচাই করা লিংক: 5টা**
+
+Resources:
+1. [Docs] AI Guidance for Schools Toolkit: guidance | TeachAI | https://www.teachai.org/toolkit-guidance : এটা পড়লে আপনি AI literacy-র সংজ্ঞা এবং স্কুলে ব্যবহারের নির্দেশিকা বুঝবেন।
+2. [Docs] AI Guidance for Schools Toolkit: for users | TeachAI | https://www.teachai.org/toolkit-users : এটা পড়লে আপনি শিক্ষক, প্রধান শিক্ষক ও পরিবার, প্রত্যেকের জন্য আলাদা পরামর্শ পাবেন।
+3. [PDF/Book] AI Guidance for Schools Toolkit Summary (4 pager) | TeachAI | https://www.teachai.org/media/4-pager-ai-guidance-for-schools-toolkit-summary-8-5-x-11 : এটা পড়লে আপনি ৪ পাতায় পুরো টুলকিটের সারসংক্ষেপ পাবেন।
+4. [PDF/Book] Empowering Learners for the Age of AI | OECD | https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/06/empowering-learners-for-the-age-of-ai_2f8315e7/65cd27d4-en.pdf : এটা পড়লে আপনি শিক্ষার্থীদের AI literacy গড়তে স্কুল ও শিক্ষকের ভূমিকা বুঝবেন।
+5. [Docs] Using AI Wisely for School Success | Common Sense Media | https://www.commonsensemedia.org/using-ai-wisely-for-school-success : এটা পড়লে আপনি শিক্ষার্থীদের শেখায় AI-কে সহায়ক হিসেবে রাখার উপায় পাবেন।
+
+**আরও পরিচিত সোর্স (লিংক যাচাই হয়নি, নাম দিয়ে সার্চ করুন):**
+- Website: TeachAI
+- Website: Khanmigo for teachers (Khan Academy)
+- PDF: AI competency framework for teachers (UNESCO)
+- Website: Computer science and AI curriculum (Code.org)
+
+**রেকর্ডিং স্ক্রিপ্ট:**
+[হুক] ক্লাসে AI আসছে, আপনি কি প্রস্তুত? না হলে শিক্ষার্থীরা আপনার চেয়ে এগিয়ে যাবে।
+[মূল অংশ] AI নিষিদ্ধ করা কঠিন, তাই শেখানোই ভালো পথ। পাঁচটা ইংরেজি রিসোর্স দেখুন, ট্রান্সলেট অন করে। এক, TeachAI টুলকিটের গাইডেন্স পেজ, এখানে AI literacy কী তা বলা আছে। দুই, একই টুলকিটের শিক্ষক-প্রধান শিক্ষক-পরিবারের জন্য পেজ। তিন, চার পাতার সারসংক্ষেপ, যদি সময় কম থাকে। চার, OECD-র রিপোর্ট "Empowering Learners for the Age of AI"। পাঁচ, Common Sense Media-র "Using AI Wisely for School Success"। এগুলো পড়লে আপনি নিজের ক্লাসের জন্য নিয়ম আর পরিকল্পনা বানাতে পারবেন। নিয়ম দেশভেদে আলাদা, তাই প্রতিষ্ঠানের নীতি আগে দেখুন।
+[CTA] আপনি ক্লাসে AI কীভাবে ব্যবহার করেন? কমেন্টে লিখুন। সেভ করুন, সহকর্মী শিক্ষককে শেয়ার করুন।
+
+**স্ক্রিনে যা দেখাবেন:** স্ক্রিনে ক্লাসরুমের দৃশ্য আর পাঁচ সোর্সের নাম।
 
 ---
 

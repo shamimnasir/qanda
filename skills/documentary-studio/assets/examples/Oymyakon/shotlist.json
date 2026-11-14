@@ -1,0 +1,891 @@
+[
+ {
+  "id": "S01",
+  "w": 0,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [
+   "wolf snow",
+   "wolf winter"
+  ],
+  "desc": "Wolf tracks in snow, slow push in"
+ },
+ {
+  "id": "S02",
+  "w": 8,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [
+   "frost on fur",
+   "snow covered animal fur"
+  ],
+  "desc": "Frost on fur, stillness"
+ },
+ {
+  "id": "S03",
+  "w": 11,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [
+   "snow blowing ground wind",
+   "drifting snow"
+  ],
+  "desc": "Wind drifting snow along ground"
+ },
+ {
+  "id": "S04",
+  "w": 16,
+  "ch": "Cold open",
+  "kind": "commons",
+  "q": "Oymyakon village",
+  "desc": "Real Oymyakon village photo"
+ },
+ {
+  "id": "S05",
+  "w": 24,
+  "ch": "Cold open",
+  "kind": "mg",
+  "mg": "thermo",
+  "props": {
+   "to": -60,
+   "label": "-60 °C"
+  },
+  "desc": "Thermometer drops to -60 C"
+ },
+ {
+  "id": "S06",
+  "w": 39,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [
+   "blizzard",
+   "snow storm dark"
+  ],
+  "desc": "Blizzard, menace"
+ },
+ {
+  "id": "S07",
+  "w": 46,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [
+   "person walking snow storm",
+   "man walking blizzard"
+  ],
+  "desc": "Figure walking in storm"
+ },
+ {
+  "id": "S08",
+  "w": 63,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [
+   "frozen beard",
+   "frost face cold man"
+  ],
+  "desc": "Frost on face, tension"
+ },
+ {
+  "id": "T01",
+  "w": "after:69",
+  "dur": 3.2,
+  "ch": "Title",
+  "kind": "mg",
+  "mg": "title",
+  "desc": "Title card OYMYAKON",
+  "props": {
+   "title": "OYMYAKON",
+   "subtitle": "The place where standing still can kill you"
+  }
+ },
+ {
+  "id": "S09",
+  "w": 70,
+  "ch": "Journey",
+  "kind": "mg",
+  "mg": "map",
+  "props": {
+   "leg": 0
+  },
+  "desc": "Map Moscow to Yakutsk, 7 hours"
+ },
+ {
+  "id": "S10",
+  "w": 82,
+  "ch": "Journey",
+  "kind": "pexels",
+  "q": [
+   "truck driving snowy road",
+   "car driving winter road"
+  ],
+  "desc": "Vehicle on icy road"
+ },
+ {
+  "id": "S11",
+  "w": 87,
+  "ch": "Journey",
+  "kind": "mg",
+  "mg": "map",
+  "props": {
+   "leg": 1
+  },
+  "desc": "Map Yakutsk to Oymyakon, 900 km, 18 hours"
+ },
+ {
+  "id": "S12",
+  "w": 92,
+  "ch": "Journey",
+  "kind": "pexels",
+  "q": [
+   "icy road night driving",
+   "snowy road headlights night"
+  ],
+  "desc": "Frozen road at night"
+ },
+ {
+  "id": "S13",
+  "w": 96,
+  "ch": "Journey",
+  "kind": "pexels",
+  "q": [
+   "snowy village night",
+   "winter night street lights snow"
+  ],
+  "desc": "Arrival at night"
+ },
+ {
+  "id": "S14",
+  "w": 103,
+  "ch": "Journey",
+  "kind": "mg",
+  "mg": "thermo",
+  "props": {
+   "to": -60.5,
+   "label": "-60.5 °C",
+   "clock": "2:00 AM"
+  },
+  "desc": "Thermometer -60.5 C at 2 a.m."
+ },
+ {
+  "id": "S15",
+  "w": 108,
+  "ch": "Journey",
+  "kind": "pexels",
+  "q": [
+   "opening door snow",
+   "door open winter"
+  ],
+  "desc": "Door opening to cold"
+ },
+ {
+  "id": "S16",
+  "w": 112,
+  "ch": "Journey",
+  "kind": "pexels",
+  "q": [
+   "ice fog sun winter",
+   "frozen landscape fog"
+  ],
+  "desc": "Alien frozen landscape"
+ },
+ {
+  "id": "S17",
+  "w": 120,
+  "ch": "First minutes",
+  "kind": "pexels",
+  "q": [
+   "frost beard closeup",
+   "frozen mustache"
+  ],
+  "desc": "Frozen facial hair"
+ },
+ {
+  "id": "S18",
+  "w": 127,
+  "ch": "First minutes",
+  "kind": "pexels",
+  "q": [
+   "breath vapor cold",
+   "cold breath steam"
+  ],
+  "desc": "Warm breath into cold hands"
+ },
+ {
+  "id": "S19",
+  "w": 130,
+  "ch": "First minutes",
+  "kind": "pexels",
+  "q": [
+   "frost eyelashes",
+   "frozen eyelashes"
+  ],
+  "desc": "Ice on eyelashes"
+ },
+ {
+  "id": "S20",
+  "w": 138,
+  "ch": "First minutes",
+  "kind": "commons",
+  "q": "Oymyakon houses winter",
+  "overlay": "ABOUT 800 RESIDENTS",
+  "desc": "Real Oymyakon houses"
+ },
+ {
+  "id": "S21",
+  "w": 143,
+  "ch": "First minutes",
+  "kind": "pexels",
+  "q": [
+   "empty snowy village street",
+   "empty winter street"
+  ],
+  "desc": "Empty street"
+ },
+ {
+  "id": "S22",
+  "w": 150,
+  "ch": "First minutes",
+  "kind": "pexels",
+  "q": [
+   "person walking fast snow cold",
+   "people walking winter cold"
+  ],
+  "desc": "Someone hurrying outside"
+ },
+ {
+  "id": "Q01",
+  "w": "after:159",
+  "dur": 3.6,
+  "ch": "First minutes",
+  "kind": "quote",
+  "lines": [
+   [
+    "HOST",
+    "Is this frostbite?"
+   ],
+   [
+    "LOCAL GUIDE",
+    "Yes."
+   ]
+  ],
+  "desc": "Quote card"
+ },
+ {
+  "id": "S23",
+  "w": 160,
+  "ch": "First minutes",
+  "kind": "mg",
+  "mg": "timer",
+  "props": {
+   "minutes": 15,
+   "label": "MINUTES OUTSIDE",
+   "alert": "FROSTBITE"
+  },
+  "desc": "15 minute timer"
+ },
+ {
+  "id": "S24",
+  "w": 166,
+  "ch": "Science",
+  "kind": "mg",
+  "mg": "vessels",
+  "props": {
+   "phase": 1
+  },
+  "desc": "Blood vessels constrict"
+ },
+ {
+  "id": "S25",
+  "w": 179,
+  "ch": "Science",
+  "kind": "mg",
+  "mg": "vessels",
+  "props": {
+   "phase": 2
+  },
+  "desc": "Ice crystals in cells"
+ },
+ {
+  "id": "S26",
+  "w": 191,
+  "ch": "Science",
+  "kind": "mg",
+  "mg": "vessels",
+  "props": {
+   "phase": 3
+  },
+  "desc": "Tissue darkening"
+ },
+ {
+  "id": "S27",
+  "w": 203,
+  "ch": "Science",
+  "kind": "pexels",
+  "q": [
+   "snowstorm person alone",
+   "blizzard walking"
+  ],
+  "overlay": "10 MINUTES",
+  "desc": "Even 10 minutes too dangerous"
+ },
+ {
+  "id": "S28",
+  "w": 212,
+  "ch": "Survival gear",
+  "kind": "pexels",
+  "q": [
+   "fur hat winter clothing",
+   "people in fur coats winter"
+  ],
+  "desc": "Winter clothing"
+ },
+ {
+  "id": "S29",
+  "w": 219,
+  "ch": "Survival gear",
+  "kind": "mg",
+  "mg": "stack",
+  "desc": "20 layers, 14 kg",
+  "props": {
+   "count": 20,
+   "unit": "LAYERS",
+   "value": "ALMOST 14 KG",
+   "note": "Gloves, boots and coats of reindeer fur"
+  }
+ },
+ {
+  "id": "S30",
+  "w": 226,
+  "ch": "Survival gear",
+  "kind": "pexels",
+  "q": [
+   "reindeer",
+   "reindeer snow"
+  ],
+  "desc": "Reindeer"
+ },
+ {
+  "id": "S31",
+  "w": 234,
+  "ch": "Survival gear",
+  "kind": "mg",
+  "mg": "compare",
+  "desc": "+30 C inside to -60 C outside",
+  "props": {
+   "left": {
+    "value": "+30 °C",
+    "label": "INSIDE"
+   },
+   "right": {
+    "from": 30,
+    "to": -60,
+    "unit": "°C",
+    "label": "OUTSIDE"
+   }
+  }
+ },
+ {
+  "id": "S32",
+  "w": 248,
+  "ch": "Survival gear",
+  "kind": "pexels",
+  "q": [
+   "frost on window",
+   "frozen window"
+  ],
+  "desc": "Frost creeping on glass"
+ },
+ {
+  "id": "S33",
+  "w": 256,
+  "ch": "Survival gear",
+  "kind": "pexels",
+  "q": [
+   "snow night silence",
+   "quiet winter night"
+  ],
+  "desc": "Quiet night"
+ },
+ {
+  "id": "S34",
+  "w": 261,
+  "ch": "Survival gear",
+  "kind": "pexels",
+  "q": [
+   "breath steam slow motion",
+   "exhale cold air"
+  ],
+  "desc": "Breath in slow motion"
+ },
+ {
+  "id": "S35",
+  "w": 273,
+  "ch": "Survival gear",
+  "kind": "pexels",
+  "q": [
+   "ice crystals forming",
+   "frost crystals macro"
+  ],
+  "desc": "Ice crystals forming"
+ },
+ {
+  "id": "S36",
+  "w": 280,
+  "ch": "House",
+  "kind": "pexels",
+  "q": [
+   "wooden house snow chimney smoke",
+   "log cabin winter smoke"
+  ],
+  "desc": "Wooden house in snow"
+ },
+ {
+  "id": "S37",
+  "w": 290,
+  "ch": "House",
+  "kind": "mg",
+  "mg": "permafrost",
+  "desc": "Permafrost cross section",
+  "props": {
+   "title": "PERMAFROST",
+   "sub": "Frozen for hundreds of meters down"
+  }
+ },
+ {
+  "id": "S38",
+  "w": 300,
+  "ch": "House",
+  "kind": "mg",
+  "mg": "wall",
+  "props": {
+   "phase": 1,
+   "inside": "Warm inside",
+   "outside": "-60 °C outside"
+  },
+  "desc": "House on beams, insulation"
+ },
+ {
+  "id": "S39",
+  "w": 312,
+  "ch": "House",
+  "kind": "mg",
+  "mg": "wall",
+  "props": {
+   "phase": 2,
+   "inside": "Warm inside",
+   "outside": "-60 °C outside"
+  },
+  "desc": "Triple glazing, basalt wool, foam"
+ },
+ {
+  "id": "S40",
+  "w": 322,
+  "ch": "House",
+  "kind": "pexels",
+  "q": [
+   "coal furnace fire",
+   "boiler fire coal"
+  ],
+  "desc": "Coal boiler fire"
+ },
+ {
+  "id": "S41",
+  "w": 334,
+  "ch": "House",
+  "kind": "pexels",
+  "q": [
+   "chimney smoke winter",
+   "boiler house chimney"
+  ],
+  "desc": "Chimney smoke"
+ },
+ {
+  "id": "S42",
+  "w": 340,
+  "ch": "House",
+  "kind": "mg",
+  "mg": "boiler",
+  "desc": "Boiler network, pipes freeze",
+  "props": {
+   "title": "ONE COAL BOILER",
+   "line1": "PIPES FREEZE",
+   "line2": "HOMES GO COLD"
+  }
+ },
+ {
+  "id": "S43",
+  "w": 354,
+  "ch": "House",
+  "kind": "pexels",
+  "q": [
+   "frozen fish market",
+   "frozen meat winter"
+  ],
+  "desc": "Frozen food storage"
+ },
+ {
+  "id": "Q02",
+  "w": "after:363",
+  "dur": 2.8,
+  "ch": "House",
+  "kind": "quote",
+  "lines": [
+   [
+    "RESIDENT",
+    "This is our refrigerator."
+   ]
+  ],
+  "desc": "Quote card"
+ },
+ {
+  "id": "S44",
+  "w": 364,
+  "ch": "Barn",
+  "kind": "pexels",
+  "q": [
+   "cow barn night",
+   "barn cows dark"
+  ],
+  "desc": "Barn before sunrise"
+ },
+ {
+  "id": "S45",
+  "w": 372,
+  "ch": "Barn",
+  "kind": "pexels",
+  "q": [
+   "cows winter",
+   "cow snow"
+  ],
+  "desc": "Cows in winter"
+ },
+ {
+  "id": "S47",
+  "w": 384,
+  "ch": "Barn",
+  "kind": "pexels",
+  "q": [
+   "cows walking snow",
+   "cattle walking winter"
+  ],
+  "desc": "Animals walk to the river"
+ },
+ {
+  "id": "S48",
+  "w": 402,
+  "ch": "Barn",
+  "kind": "pexels",
+  "q": [
+   "man face snow cold",
+   "face covered snow wind"
+  ],
+  "desc": "Face going numb"
+ },
+ {
+  "id": "Q03",
+  "w": "after:413",
+  "dur": 3.6,
+  "ch": "Barn",
+  "kind": "quote",
+  "lines": [
+   [
+    "LOCAL GUIDE",
+    "It is frostbite. Cover it immediately."
+   ]
+  ],
+  "desc": "Quote card"
+ },
+ {
+  "id": "S49",
+  "w": 414,
+  "ch": "Barn",
+  "kind": "pexels",
+  "q": [
+   "horses snow",
+   "horses winter field"
+  ],
+  "desc": "Horses in deep snow"
+ },
+ {
+  "id": "S50",
+  "w": 422,
+  "ch": "Barn",
+  "kind": "pexels",
+  "q": [
+   "horse frost",
+   "horse snow closeup"
+  ],
+  "overlay": "BELOW -70 °C",
+  "desc": "Hardy horse"
+ },
+ {
+  "id": "S51",
+  "w": 434,
+  "ch": "Hunt",
+  "kind": "pexels",
+  "q": [
+   "walking on frozen river",
+   "frozen lake walking"
+  ],
+  "desc": "Crossing frozen river"
+ },
+ {
+  "id": "S52",
+  "w": 442,
+  "ch": "Hunt",
+  "kind": "pexels",
+  "q": [
+   "cracking ice",
+   "thin ice"
+  ],
+  "desc": "Thin ice"
+ },
+ {
+  "id": "S53",
+  "w": 456,
+  "ch": "Hunt",
+  "kind": "pexels",
+  "q": [
+   "icy water",
+   "ice water river"
+  ],
+  "desc": "Freezing water"
+ },
+ {
+  "id": "S54",
+  "w": 465,
+  "ch": "Hunt",
+  "kind": "pexels",
+  "q": [
+   "ice fishing",
+   "fishing hole ice"
+  ],
+  "desc": "Ice fishing"
+ },
+ {
+  "id": "S55",
+  "w": 480,
+  "ch": "Hunt",
+  "kind": "pexels",
+  "q": [
+   "frozen fish",
+   "fish on ice"
+  ],
+  "desc": "Fish frozen"
+ },
+ {
+  "id": "S56",
+  "w": 489,
+  "ch": "Hunt",
+  "kind": "pexels",
+  "q": [
+   "campfire snow",
+   "fire winter forest"
+  ],
+  "desc": "Fire offering"
+ },
+ {
+  "id": "S57",
+  "w": 498,
+  "ch": "Hunt",
+  "kind": "pexels",
+  "q": [
+   "hare snow",
+   "white rabbit snow"
+  ],
+  "desc": "Hare"
+ },
+ {
+  "id": "S58",
+  "w": 507,
+  "ch": "Hunt",
+  "kind": "pexels",
+  "q": [
+   "frozen forest",
+   "snow covered branches frozen"
+  ],
+  "desc": "Frozen in place"
+ },
+ {
+  "id": "S59",
+  "w": 518,
+  "ch": "Lesson",
+  "kind": "mg",
+  "mg": "card",
+  "props": {
+   "items": [
+    [
+     "BATH",
+     "4 to 5 hours"
+    ]
+   ],
+   "kicker": "STRICT RULES",
+   "title": "A BATH",
+   "value": "4 TO 5 HOURS"
+  },
+  "desc": "Rule card: bath"
+ },
+ {
+  "id": "S60",
+  "w": 532,
+  "ch": "Lesson",
+  "kind": "pexels",
+  "q": [
+   "car snow winter morning",
+   "car covered snow"
+  ],
+  "overlay": "3 TO 4 HOURS OF HEATING",
+  "desc": "Car in deep cold"
+ },
+ {
+  "id": "S61",
+  "w": 543,
+  "ch": "Lesson",
+  "kind": "mg",
+  "mg": "scale",
+  "desc": "School closes below -55, today -51",
+  "props": {
+   "min": -60,
+   "max": -40,
+   "threshold": -55,
+   "thresholdLabel": "SCHOOLS CLOSE BELOW ABOUT -55 °C",
+   "value": -51,
+   "valueLabel": "TODAY",
+   "unit": "°C"
+  }
+ },
+ {
+  "id": "S62",
+  "w": 552,
+  "ch": "Lesson",
+  "kind": "pexels",
+  "q": [
+   "children walking snow",
+   "kids winter walk"
+  ],
+  "desc": "Children walking, faces covered"
+ },
+ {
+  "id": "S63",
+  "w": 558,
+  "ch": "Lesson",
+  "kind": "commons",
+  "desc": "Callback: wolf tracks"
+ },
+ {
+  "id": "Q04",
+  "w": "after:560",
+  "dur": 4.6,
+  "ch": "Lesson",
+  "kind": "quote",
+  "lines": [
+   [
+    "IVAN",
+    "If an animal stops moving in this cold, it can die."
+   ]
+  ],
+  "desc": "Quote card"
+ },
+ {
+  "id": "S64",
+  "w": 561,
+  "ch": "Lesson",
+  "kind": "pexels",
+  "q": [
+   "person standing in snowstorm",
+   "man standing snow"
+  ],
+  "desc": "A person standing still"
+ },
+ {
+  "id": "S65",
+  "w": 567,
+  "ch": "Close",
+  "kind": "pexels",
+  "q": [
+   "village chimney smoke winter",
+   "houses smoke snow"
+  ],
+  "desc": "Chimney smoke"
+ },
+ {
+  "id": "S66",
+  "w": 580,
+  "ch": "Close",
+  "kind": "pexels",
+  "q": [
+   "warm window snow night",
+   "cozy window winter night"
+  ],
+  "desc": "Warm windows"
+ },
+ {
+  "id": "S67",
+  "w": 593,
+  "ch": "Close",
+  "kind": "pexels",
+  "q": [
+   "fireplace fire",
+   "stove fire wood"
+  ],
+  "desc": "Warmth"
+ },
+ {
+  "id": "S68",
+  "w": 599,
+  "ch": "Close",
+  "kind": "pexels",
+  "q": [
+   "hot soup steam",
+   "hot tea steam"
+  ],
+  "desc": "Food and water"
+ },
+ {
+  "id": "S69",
+  "w": 604,
+  "ch": "Close",
+  "kind": "pexels",
+  "q": [
+   "family dinner warm home",
+   "family celebrating home"
+  ],
+  "desc": "Families celebrate"
+ },
+ {
+  "id": "S70",
+  "w": 618,
+  "ch": "Close",
+  "kind": "pexels",
+  "q": [
+   "snowy night village lights",
+   "snow falling night lights"
+  ],
+  "desc": "Snow at night, fade out"
+ },
+ {
+  "id": "E01",
+  "w": "end",
+  "dur": 6.0,
+  "ch": "Close",
+  "kind": "mg",
+  "mg": "endcard",
+  "desc": "Oymyakon, Sakha Republic, Russia",
+  "props": {
+   "title": "OYMYAKON",
+   "lines": [
+    "Sakha Republic, Russia",
+    "One of the coldest inhabited places on Earth."
+   ]
+  }
+ },
+ {
+  "id": "E02",
+  "w": "end2",
+  "dur": 7.0,
+  "ch": "Close",
+  "kind": "mg",
+  "mg": "credits",
+  "desc": "Credits and disclaimer"
+ }
+]

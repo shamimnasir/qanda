@@ -1,0 +1,40 @@
+[
+ {
+  "name": "A_moment_one",
+  "_moment": "Which moment of the film (m:ss) and why it gets the click",
+  "shot": "S01",
+  "t": 2.0,
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "darken": "left",
+  "items": [
+   {
+    "text": "WORD",
+    "x": 80,
+    "y": 200,
+    "size": 220,
+    "color": "#ffffff"
+   }
+  ]
+ },
+ {
+  "name": "Short_cover_one",
+  "vertical": true,
+  "_moment": "A moment in the Short",
+  "shot": "S01",
+  "t": 2.0,
+  "darken": "top",
+  "items": [
+   {
+    "text": "WORD",
+    "x": 540,
+    "y": 200,
+    "size": 240,
+    "color": "#ffffff",
+    "align": "center"
+   }
+  ]
+ }
+]

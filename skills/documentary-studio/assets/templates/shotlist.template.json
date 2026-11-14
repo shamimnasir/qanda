@@ -1,0 +1,9 @@
+[
+ {"id": "H1", "w": 0, "ch": "Open", "kind": "commons", "q": "location search", "place": "Place name", "cut": "hard", "desc": "Hook: strong real picture at frame 0. 3 or 4 shots of about 2 to 3 s that show what the voice says. Add hit: true on the turn"},
+ {"id": "S01", "w": 15, "ch": "Cold open", "kind": "pexels", "q": ["search words", "fallback words"], "desc": "What the viewer should see, 3 s at most"},
+ {"id": "S02", "w": "a phrase from the narration", "ch": "Cold open", "kind": "mg", "mg": "stat", "props": {"value": "-60 °C", "label": "LABEL"}, "desc": "Big number"},
+ {"id": "T01", "after": "end of the cold open sentence.", "dur": 3.0, "ch": "Title", "kind": "commons", "q": "location search", "mg": "title", "props": {"title": "TITLE", "subtitle": "Subtitle"}, "desc": "Title card"},
+ {"id": "Q01", "after": "line before the quote.", "dur": 3.0, "ch": "Chapter 1", "kind": "quote", "lines": [["SPEAKER", "Quoted line."]], "desc": "Quote card"},
+ {"id": "E01", "w": "end", "dur": 3.0, "ch": "Close", "kind": "commons", "q": "location landmark", "mg": "endcard", "props": {"title": "PLACE", "lines": ["Region, Country"]}, "desc": "End card"},
+ {"id": "E02", "w": "end2", "dur": 3.0, "ch": "Close", "kind": "pexels", "q": ["dramatic sky timelapse"], "desc": "Plain picture behind the end screen, no text"}
+]

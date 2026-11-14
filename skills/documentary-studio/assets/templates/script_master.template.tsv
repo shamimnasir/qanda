@@ -1,0 +1,9 @@
+break	tags	en	en_tts	bn
+		Situation in 2 or 3 words.		পরিস্থিতি।
+		Desire.		চাওয়া।
+		Conflict.		বাধা।
+		Change.		মোড়।
+		Result.		ফল।
+	[quietly]	First hook sentence.		প্রথম হুক বাক্য।
+line		Second sentence with 60 degrees.	Second sentence with sixty degrees.	দ্বিতীয় বাক্য, ষাট ডিগ্রি।
+para	[long pause]			

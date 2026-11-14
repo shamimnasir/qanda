@@ -1,0 +1,446 @@
+{
+ "_help": "Per-film settings. See the documentary-studio skill: assets/examples/Oymyakon/project.json for a complete worked example and references/playbook.md for every field.",
+ "title": "Picher, Oklahoma",
+ "slug": "Picher_Oklahoma",
+ "place": "Picher, Oklahoma",
+ "look": "dusk",
+ "fps": 30,
+ "tail": 0.8,
+ "languages": {
+  "en": {
+   "vo": "VO_en.mp3",
+   "voice": "[your voice clone] (own instant voice clone, English), Eleven v4"
+  }
+ },
+ "chapter_gap": 0.7,
+ "chapter_gap_skip": [
+  "Open",
+  "Close"
+ ],
+ "gaps": [],
+ "sfx": [
+  {
+   "type": "impact",
+   "at": {
+    "item": "T01"
+   }
+  },
+  {
+   "type": "impact",
+   "at": {
+    "item": "S46"
+   }
+  },
+  {
+   "type": "impact",
+   "at": {
+    "item": "S55"
+   }
+  }
+ ],
+ "ambience": {
+  "wind": 0.0
+ },
+ "music_level": 0.65,
+ "opener": {
+  "to": "isn't what killed this town"
+ },
+ "score": {
+  "mode": "minor",
+  "sections": [
+   {
+    "from": {
+     "item": "S06"
+    },
+    "to": {
+     "item": "T01"
+    },
+    "mood": "suspense",
+    "level": 0.8,
+    "feel": "A flat correction: you thought you knew how this ended"
+   },
+   {
+    "from": {
+     "item": "T01"
+    },
+    "to": {
+     "item": "S18"
+    },
+    "mood": "drive",
+    "feel": "Boomtown energy, money and noise, a town born overnight"
+   },
+   {
+    "from": {
+     "item": "S18"
+    },
+    "to": {
+     "item": "S22"
+    },
+    "mood": "tension",
+    "feel": "Something huge is being built, in both directions"
+   },
+   {
+    "from": {
+     "item": "S22"
+    },
+    "to": {
+     "item": "S27"
+    },
+    "mood": "warm",
+    "level": 0.8,
+    "feel": "Fondness, and an unease the viewer feels before the people did"
+   },
+   {
+    "from": {
+     "item": "S27"
+    },
+    "to": {
+     "item": "S34"
+    },
+    "mood": "dread",
+    "feel": "Slow water rising in the dark"
+   },
+   {
+    "from": {
+     "item": "S34"
+    },
+    "to": {
+     "item": "S39"
+    },
+    "mood": "hush",
+    "level": 0.8,
+    "feel": "A held breath over the children"
+   },
+   {
+    "from": {
+     "item": "S39"
+    },
+    "to": {
+     "item": "S44"
+    },
+    "mood": "light",
+    "feel": "Real relief: the fight worked and the town could live"
+   },
+   {
+    "from": {
+     "item": "S44"
+    },
+    "to": {
+     "item": "S52"
+    },
+    "mood": "suspense",
+    "feel": "The floor drops: the one problem they could not fix"
+   },
+   {
+    "from": {
+     "item": "S52"
+    },
+    "to": {
+     "item": "S55"
+    },
+    "mood": "hush",
+    "level": 0.75,
+    "feel": "Quiet loss, people who did not want to go"
+   },
+   {
+    "from": {
+     "item": "S55"
+    },
+    "to": {
+     "item": "S57"
+    },
+    "mood": "tension",
+    "feel": "The storm arrives"
+   },
+   {
+    "from": {
+     "item": "S57"
+    },
+    "to": {
+     "item": "S63"
+    },
+    "mood": "dread",
+    "level": 0.7,
+    "feel": "Grave and still, out of respect for the people who died"
+   },
+   {
+    "from": {
+     "item": "S63"
+    },
+    "to": {
+     "item": "S67"
+    },
+    "mood": "curious",
+    "level": 0.8,
+    "feel": "A long patient job, led by the people whose land this is"
+   },
+   {
+    "from": {
+     "item": "S67"
+    },
+    "to": {
+     "end": true
+    },
+    "mood": "warm",
+    "feel": "Gone, but not forgotten: people still come home"
+   }
+  ],
+  "hits": [
+   {
+    "at": {
+     "item": "T01"
+    },
+    "size": 0.7,
+    "riser": 3.0,
+    "drop": 0.3
+   },
+   {
+    "at": {
+     "item": "S35"
+    },
+    "size": 0.5,
+    "riser": 2.0,
+    "drop": 0.3
+   },
+   {
+    "at": {
+     "item": "S46"
+    },
+    "size": 0.7,
+    "riser": 2.5,
+    "drop": 0.3
+   },
+   {
+    "at": {
+     "item": "S55"
+    },
+    "size": 0.8,
+    "riser": 3.0,
+    "drop": 0.35
+   },
+   {
+    "at": {
+     "item": "S62"
+    },
+    "size": 0.5,
+    "riser": 2.0,
+    "drop": 0.2
+   }
+  ],
+  "drops": [
+   {
+    "from": {
+     "word": 598,
+     "offset": -0.6
+    },
+    "to": {
+     "word": 598,
+     "offset": -0.05
+    }
+   }
+  ]
+ },
+ "short": {
+  "max_seconds": 59.5,
+  "drop_order": [],
+  "header": {
+   "title": "NOT THE TORNADO",
+   "sub": "What really killed Picher, Oklahoma"
+  },
+  "segments": [
+   {
+    "name": "hook",
+    "from": {
+     "start": true
+    },
+    "to": {
+     "word_end": 30,
+     "offset": 0.3
+    }
+   },
+   {
+    "name": "worked",
+    "from": {
+     "word": 375,
+     "offset": -0.1
+    },
+    "to": {
+     "word_end": 381,
+     "offset": 0.2
+    }
+   },
+   {
+    "name": "numbers",
+    "from": {
+     "word": 396,
+     "offset": -0.1
+    },
+    "to": {
+     "word_end": 439,
+     "offset": 0.25
+    }
+   },
+   {
+    "name": "third",
+    "from": {
+     "word": 459,
+     "offset": -0.1
+    },
+    "to": {
+     "word_end": 497,
+     "offset": 0.2
+    }
+   },
+   {
+    "name": "end",
+    "from": {
+     "word": 498,
+     "offset": -0.1
+    },
+    "to": {
+     "word_end": 516,
+     "offset": 0.3
+    }
+   }
+  ],
+  "brief": {
+   "story": "A town beat lead poisoning, then learned the ground under it could cave in. The tornado only got the blame.",
+   "first_frame": "NOT THE TORNADO over the real 1918 street photo of Picher, on screen at frame 0, no sound needed",
+   "hook_line": "Picher, Oklahoma. Boomtown.",
+   "foreshadow": "Three months before it hit, the EPA had already signed a plan to buy people out.",
+   "mechanism": "A mystery: if not the tornado, then what? Win first, then the real reason",
+   "ending": "But there's no easy fix for a town with nothing underneath it.",
+   "why_share": "A surprising true twist on a famous American ghost town"
+  }
+ },
+ "quotes": {},
+ "credits_description": [
+  "Narration: AI voice generated with ElevenLabs, using the producer's own voice clone.",
+  "Music and sound design: original.",
+  "Fonts: Oswald, Inter (SIL Open Font License)."
+ ],
+ "tracker_extra": [
+  [
+   "A01",
+   "whole film",
+   "Audio",
+   "English narration",
+   "AI",
+   "ElevenLabs (Eleven v4, producer's own instant voice clone)",
+   "06_Audio_Voiceover/VO_en.mp3",
+   "ElevenLabs",
+   "ElevenLabs paid plan (commercial license for Speech)",
+   "yes",
+   "no",
+   "about 4,540 credits",
+   "downloaded",
+   "AI-generated with a clone of the producer's own voice. Check YouTube's current synthetic-content disclosure rules."
+  ],
+  [
+   "A02",
+   "whole film",
+   "Audio",
+   "Original score and sound design",
+   "motion graphic",
+   "original (build_score.py, build_audio.py)",
+   "07_Music_SFX/score.wav",
+   "this production",
+   "original",
+   "yes",
+   "no",
+   "0",
+   "downloaded",
+   "Synthesized from scratch, no third-party audio."
+  ],
+  [
+   "F01",
+   "whole film",
+   "Graphics",
+   "Fonts Oswald, Inter",
+   "Creative Commons",
+   "Google Fonts",
+   "remotion/public/*.ttf",
+   "Font authors",
+   "SIL Open Font License 1.1",
+   "yes",
+   "no",
+   "0",
+   "downloaded",
+   "OFL allows commercial use."
+  ],
+  [
+   "I01",
+   "S13",
+   "Image",
+   "Street scene in Picher, 1918, cropped from a National Archives card",
+   "Public domain",
+   "U.S. National Archives via Wikimedia Commons, NARA 31480202",
+   "03_Images/archive/picher_1918_street.jpg",
+   "George R. Wright (U.S. government photographer)",
+   "Public domain, U.S. National Archives",
+   "yes",
+   "no",
+   "0",
+   "downloaded",
+   "Photographer reads George R. Wright on the card, George E. Wright on Commons. Card caption about explosives is not used in the film."
+  ]
+ ],
+ "map": {
+  "highlight": "United States of America",
+  "points": {
+   "Oklahoma City": [
+    -97.52,
+    35.47
+   ],
+   "Picher": [
+    -94.83,
+    36.98
+   ]
+  },
+  "legs": [
+   {
+    "from": "Oklahoma City",
+    "to": "Picher",
+    "mode": "road",
+    "label": "FAR NORTHEAST OKLAHOMA",
+    "sub": "PICHER"
+   }
+  ]
+ },
+ "local_assets": {
+  "03_Images/archive/picher_1918_street.jpg": {
+   "credit": "Picher, Oklahoma, 1918. Photo: George R. Wright, U.S. National Archives (NARA 31480202), public domain"
+  }
+ },
+ "credits_public_domain_summary": "Public domain images: National Weather Service Tulsa, FEMA, U.S. National Archives, Sanborn map (1920), NASA ASTER, U.S. Army Corps of Engineers.",
+ "media_pool": {
+  "X01": "lightning storm night",
+  "X02": "dark storm clouds timelapse",
+  "X03": "strong wind storm trees",
+  "X04": "quarry blast explosion",
+  "X05": "miners underground tunnel",
+  "X06": "giant mining truck",
+  "X07": "molten metal foundry sparks",
+  "X08": "counting cash money",
+  "X09": "old steam train",
+  "X10": "rock drilling machine",
+  "X11": "artillery bullets ammunition",
+  "X12": "children running outdoors",
+  "X13": "polluted orange water",
+  "X14": "hazard warning sign",
+  "X15": "scientist laboratory test tube",
+  "X16": "doctor examining child",
+  "X17": "sinkhole ground collapse",
+  "X18": "building demolition collapse",
+  "X19": "abandoned house interior",
+  "X20": "empty abandoned town aerial",
+  "X21": "signing document pen",
+  "X22": "moving boxes family leaving home",
+  "X23": "dump truck construction",
+  "X24": "dust blowing desert wind",
+  "X25": "cracked ground earth",
+  "X26": "christmas lights night street",
+  "X27": "rusty metal abandoned",
+  "X28": "dark cave tunnel flashlight"
+ }
+}

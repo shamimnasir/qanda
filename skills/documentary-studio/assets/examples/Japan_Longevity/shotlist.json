@@ -1,0 +1,900 @@
+[
+ {
+  "id": "S01",
+  "w": 0,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [
+   "elderly japanese woman",
+   "old asian woman portrait"
+  ],
+  "desc": "Tokyo intersection time-lapse"
+ },
+ {
+  "id": "S01b",
+  "w": 4,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [],
+  "desc": "Older visitors at a temple, illustrative"
+ },
+ {
+  "id": "S02",
+  "w": 8,
+  "ch": "Cold open",
+  "kind": "mg",
+  "mg": "count",
+  "props": {
+   "from": 0,
+   "to": 107677,
+   "label": "PEOPLE AGED 100 OR OLDER",
+   "sub": "Japan, 1 September 2026"
+  },
+  "desc": "Counter to 107,677"
+ },
+ {
+  "id": "S03",
+  "w": 14,
+  "ch": "Cold open",
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "153",
+   "label": "IN 1963",
+   "sub": "when the count began"
+  },
+  "desc": "153 in 1963"
+ },
+ {
+  "id": "S04",
+  "w": 24,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [
+   "shibuya crossing crowd",
+   "tokyo crowd crossing"
+  ],
+  "desc": "Tokyo crowd",
+  "overlay": "ABOUT 700 TIMES AS MANY"
+ },
+ {
+  "id": "S05",
+  "w": 31,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [
+   "elderly man walking japan",
+   "old man walking street asia"
+  ],
+  "desc": "Older man walking, illustrative"
+ },
+ {
+  "id": "S06",
+  "w": 47,
+  "ch": "Cold open",
+  "kind": "commons",
+  "q": "Okinawa coast",
+  "place": "Okinawa, Japan",
+  "desc": "Real Okinawa coast photo"
+ },
+ {
+  "id": "S07",
+  "w": 54,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [
+   "torii gate sea sunset",
+   "japan shrine gate ocean"
+  ],
+  "desc": "Torii by the sea, mood"
+ },
+ {
+  "id": "T01",
+  "w": "after:60",
+  "ch": "Cold open",
+  "kind": "mg",
+  "mg": "title",
+  "props": {
+   "title": "LIVING LONGER",
+   "subtitle": "Why Japanese people live longer"
+  },
+  "desc": "Title card",
+  "dur": 3.2
+ },
+ {
+  "id": "S08",
+  "w": 61,
+  "ch": "Numbers",
+  "kind": "pexels",
+  "q": [
+   "tokyo skyline",
+   "tokyo city aerial"
+  ],
+  "desc": "Tokyo skyline"
+ },
+ {
+  "id": "S09",
+  "w": 66,
+  "ch": "Numbers",
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "87.33",
+   "label": "YEARS: WOMEN",
+   "sub": "Average life expectancy, Japan, 2025"
+  },
+  "desc": "Women 87.33"
+ },
+ {
+  "id": "S10",
+  "w": 78,
+  "ch": "Numbers",
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "81.35",
+   "label": "YEARS: MEN",
+   "sub": "Health ministry life tables, 2025"
+  },
+  "desc": "Men 81.35"
+ },
+ {
+  "id": "S11",
+  "w": 83,
+  "ch": "Numbers",
+  "kind": "pexels",
+  "q": [
+   "elderly asian women smiling",
+   "old women laughing together"
+  ],
+  "desc": "Older women smiling, illustrative"
+ },
+ {
+  "id": "S12",
+  "w": 92,
+  "ch": "Stroke",
+  "kind": "pexels",
+  "q": [
+   "empty hospital corridor",
+   "hospital hallway"
+  ],
+  "desc": "Hospital corridor, turn"
+ },
+ {
+  "id": "S13",
+  "w": 101,
+  "ch": "Stroke",
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "1965",
+   "label": "WORLD'S HIGHEST STROKE DEATH RATE",
+   "sub": "Age-adjusted, by one estimate (Ueshima, 2011)"
+  },
+  "desc": "1965 stroke"
+ },
+ {
+  "id": "S14",
+  "w": 116,
+  "ch": "Stroke",
+  "kind": "pexels",
+  "q": [
+   "miso soup",
+   "japanese pickles"
+  ],
+  "desc": "Salty food: miso, pickles"
+ },
+ {
+  "id": "S15",
+  "w": 125,
+  "ch": "Stroke",
+  "kind": "pexels",
+  "q": [
+   "blood pressure measurement",
+   "blood pressure monitor"
+  ],
+  "desc": "Blood pressure check"
+ },
+ {
+  "id": "S16",
+  "w": 130,
+  "ch": "Stroke",
+  "kind": "pexels",
+  "q": [
+   "salt shaker",
+   "pouring salt"
+  ],
+  "desc": "Salt, cutting back"
+ },
+ {
+  "id": "S17",
+  "w": 139,
+  "ch": "Stroke",
+  "kind": "pexels",
+  "q": [
+   "cigarette ashtray",
+   "breaking cigarette"
+  ],
+  "desc": "Cigarettes, fewer smokers"
+ },
+ {
+  "id": "S18",
+  "w": 143,
+  "ch": "Stroke",
+  "kind": "mg",
+  "mg": "bars",
+  "props": {
+   "title": "STROKE DEATH RATE, AGE-ADJUSTED",
+   "left": {
+    "label": "1965",
+    "value": 100,
+    "text": "100"
+   },
+   "right": {
+    "label": "1990",
+    "value": 20,
+    "text": "ABOUT 20"
+   },
+   "note": "Index, 1965 = 100. Fall of around 80% (Ueshima, 2011)"
+  },
+  "desc": "Bars 80% fall"
+ },
+ {
+  "id": "S19",
+  "w": 155,
+  "ch": "Public health",
+  "kind": "pexels",
+  "q": [
+   "doctor elderly patient",
+   "doctor talking with old patient"
+  ],
+  "desc": "Doctor and older patient, illustrative"
+ },
+ {
+  "id": "S20",
+  "w": 165,
+  "ch": "Public health",
+  "kind": "pexels",
+  "q": [
+   "hospital exterior",
+   "clinic building"
+  ],
+  "desc": "Clinic exterior",
+  "overlay": "PUBLIC HEALTH"
+ },
+ {
+  "id": "S21",
+  "w": 169,
+  "ch": "Public health",
+  "kind": "mg",
+  "mg": "card",
+  "props": {
+   "kicker": "1961",
+   "title": "UNIVERSAL",
+   "value": "HEALTH INSURANCE"
+  },
+  "desc": "1961 universal insurance"
+ },
+ {
+  "id": "S22",
+  "w": 176,
+  "ch": "Public health",
+  "kind": "pexels",
+  "q": [
+   "pharmacy shelves",
+   "hospital reception"
+  ],
+  "desc": "Pharmacy, covered"
+ },
+ {
+  "id": "S23a",
+  "w": 183,
+  "ch": "Public health",
+  "kind": "pexels",
+  "q": [],
+  "desc": "Blood pressure device",
+  "overlay": "AGES 40 TO 74"
+ },
+ {
+  "id": "S23",
+  "w": 195,
+  "ch": "Public health",
+  "kind": "pexels",
+  "q": [
+   "measuring waist tape",
+   "tape measure waist"
+  ],
+  "desc": "Waist measurement"
+ },
+ {
+  "id": "S24",
+  "w": 200,
+  "ch": "Public health",
+  "kind": "mg",
+  "mg": "card",
+  "props": {
+   "kicker": "ONE STUDY (RIETI)",
+   "title": "MORE CHECKUPS",
+   "value": "LITTLE CLEAR EFFECT"
+  },
+  "desc": "Honest caveat"
+ },
+ {
+  "id": "S25",
+  "w": 217,
+  "ch": "Food",
+  "kind": "pexels",
+  "q": [
+   "japanese food table",
+   "washoku"
+  ],
+  "desc": "Japanese meal on table"
+ },
+ {
+  "id": "S26",
+  "w": 222,
+  "ch": "Food",
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "UNDER 4%",
+   "label": "OF ADULTS ARE OBESE (BMI 30+)",
+   "sub": "Japan, OECD data"
+  },
+  "desc": "Obesity under 4%"
+ },
+ {
+  "id": "S27",
+  "w": 239,
+  "ch": "Food",
+  "kind": "pexels",
+  "q": [
+   "japanese breakfast",
+   "rice fish miso soup"
+  ],
+  "desc": "Japanese breakfast",
+  "overlay": "80,000 ADULTS. 15 YEARS."
+ },
+ {
+  "id": "S28",
+  "w": 249,
+  "ch": "Food",
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "-15%",
+   "label": "RISK OF DEATH",
+   "sub": "Closest vs furthest from Japan's food guide (BMJ, 2016)"
+  },
+  "desc": "-15%"
+ },
+ {
+  "id": "S29",
+  "w": 266,
+  "ch": "Food",
+  "kind": "pexels",
+  "q": [
+   "tofu vegetables",
+   "fresh vegetables market asia"
+  ],
+  "desc": "Vegetables, tofu",
+  "overlay": "A LINK, NOT PROOF"
+ },
+ {
+  "id": "S30",
+  "w": 274,
+  "ch": "Food",
+  "kind": "commons",
+  "q": "Okinawa market",
+  "place": "Okinawa, Japan",
+  "desc": "Real Okinawa market photo",
+  "overlay": "HARA HACHI BU"
+ },
+ {
+  "id": "S31",
+  "w": 286,
+  "ch": "Food",
+  "kind": "mg",
+  "mg": "bowl",
+  "props": {
+   "percent": 80,
+   "label": "STOP AT 80% FULL",
+   "sub": "hara hachi bu"
+  },
+  "desc": "Bowl fills to 80%"
+ },
+ {
+  "id": "S32",
+  "w": 294,
+  "ch": "Food",
+  "kind": "pexels",
+  "q": [
+   "old woman cooking vegetables",
+   "elderly woman cooking kitchen"
+  ],
+  "desc": "Older woman cooking, illustrative"
+ },
+ {
+  "id": "S33",
+  "w": 302,
+  "ch": "Food",
+  "kind": "pexels",
+  "q": [
+   "rice bowl chopsticks",
+   "small bowl food"
+  ],
+  "desc": "Vegetables and tofu stir-fry"
+ },
+ {
+  "id": "S34",
+  "w": 312,
+  "ch": "Purpose",
+  "kind": "pexels",
+  "q": [
+   "sunrise sea",
+   "morning sunrise ocean"
+  ],
+  "desc": "Sunrise, turn"
+ },
+ {
+  "id": "S35",
+  "w": 319,
+  "ch": "Purpose",
+  "kind": "mg",
+  "mg": "card",
+  "props": {
+   "kicker": "A JAPANESE WORD",
+   "title": "IKIGAI",
+   "value": ""
+  },
+  "desc": "Ikigai card"
+ },
+ {
+  "id": "S36",
+  "w": 325,
+  "ch": "Purpose",
+  "kind": "pexels",
+  "q": [
+   "elderly man gardening",
+   "old man garden morning"
+  ],
+  "desc": "Older man gardening, illustrative"
+ },
+ {
+  "id": "S37a",
+  "w": 333,
+  "ch": "Purpose",
+  "kind": "pexels",
+  "q": [],
+  "desc": "Tokyo subway commuters"
+ },
+ {
+  "id": "S37",
+  "w": 342,
+  "ch": "Purpose",
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "1.5x",
+   "label": "RISK OF DEATH WITHOUT IKIGAI",
+   "sub": "43,391 adults, 7 years (Ohsaki Study, 2008)"
+  },
+  "desc": "1.5x"
+ },
+ {
+  "id": "S38",
+  "w": 359,
+  "ch": "Purpose",
+  "kind": "pexels",
+  "q": [
+   "elderly woman painting",
+   "old man calligraphy"
+  ],
+  "desc": "Purpose, hobby"
+ },
+ {
+  "id": "S39",
+  "w": 367,
+  "ch": "Purpose",
+  "kind": "mg",
+  "desc": "Moai card",
+  "mg": "card",
+  "props": {
+   "kicker": "OKINAWA",
+   "title": "MOAI",
+   "value": "A CIRCLE OF FRIENDS"
+  }
+ },
+ {
+  "id": "S40a",
+  "w": 384,
+  "ch": "Purpose",
+  "kind": "pexels",
+  "q": [],
+  "desc": "Older women playing cards, illustrative"
+ },
+ {
+  "id": "S40",
+  "w": 391,
+  "ch": "Purpose",
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "+50%",
+   "label": "ODDS OF SURVIVAL",
+   "sub": "Strong social ties. 148 studies (PLoS Medicine, 2010)"
+  },
+  "desc": "+50%"
+ },
+ {
+  "id": "S41",
+  "w": 403,
+  "ch": "Purpose",
+  "kind": "pexels",
+  "q": [
+   "elderly women walking together",
+   "old friends walking park"
+  ],
+  "desc": "Older couple in nature, illustrative"
+ },
+ {
+  "id": "S42",
+  "w": 413,
+  "ch": "Walking",
+  "kind": "pexels",
+  "q": [
+   "people walking tokyo street",
+   "commuters walking japan"
+  ],
+  "desc": "People walking in Japan"
+ },
+ {
+  "id": "S43",
+  "w": 418,
+  "ch": "Walking",
+  "kind": "commons",
+  "q": "Utsunomiya Light Rail",
+  "place": "Utsunomiya, Japan",
+  "desc": "Real Utsunomiya tram photo"
+ },
+ {
+  "id": "S44",
+  "w": 428,
+  "ch": "Walking",
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "+826",
+   "label": "STEPS PER WEEKDAY",
+   "sub": "Residents within 550 m of a station (Hino et al., 2025)"
+  },
+  "desc": "+826 steps"
+ },
+ {
+  "id": "S45",
+  "w": 440,
+  "ch": "Walking",
+  "kind": "pexels",
+  "q": [
+   "japan train station walking",
+   "walking train station platform"
+  ],
+  "desc": "Walking to the train"
+ },
+ {
+  "id": "S46",
+  "w": 446,
+  "ch": "Twist",
+  "kind": "pexels",
+  "q": [
+   "dark clouds sea",
+   "storm clouds ocean"
+  ],
+  "desc": "Clouds, the twist"
+ },
+ {
+  "id": "S47",
+  "w": 449,
+  "ch": "Twist",
+  "kind": "commons",
+  "q": "Ogimi Okinawa",
+  "place": "Okinawa, Japan",
+  "desc": "Real Okinawa village photo"
+ },
+ {
+  "id": "S48",
+  "w": 462,
+  "ch": "Twist",
+  "kind": "pexels",
+  "q": [
+   "burger fries",
+   "fast food closeup"
+  ],
+  "desc": "Fast food, change"
+ },
+ {
+  "id": "S49",
+  "w": 466,
+  "ch": "Twist",
+  "kind": "mg",
+  "mg": "rank",
+  "props": {
+   "title": "OKINAWAN MEN: LIFE EXPECTANCY RANK",
+   "of": 47,
+   "steps": [
+    {
+     "year": "1995",
+     "rank": 4,
+     "at": 0
+    },
+    {
+     "year": "2000",
+     "rank": 26,
+     "at": 0.3
+    },
+    {
+     "year": "2015",
+     "rank": 36,
+     "at": 5.86
+    },
+    {
+     "year": "2020",
+     "rank": 43,
+     "at": 6.46
+    }
+   ]
+  },
+  "desc": "Rank drop 4 to 43"
+ },
+ {
+  "id": "S50",
+  "w": 484,
+  "ch": "Twist",
+  "kind": "pexels",
+  "q": [
+   "fried food closeup",
+   "fried chicken"
+  ],
+  "desc": "Fried food"
+ },
+ {
+  "id": "S51",
+  "w": 495,
+  "ch": "Twist",
+  "kind": "pexels",
+  "q": [
+   "bitter melon",
+   "stir fry vegetables wok"
+  ],
+  "desc": "Traditional vegetables"
+ },
+ {
+  "id": "S52",
+  "w": 501,
+  "ch": "Twist",
+  "kind": "pexels",
+  "q": [
+   "tropical island sunset",
+   "island ocean sunset"
+  ],
+  "desc": "Island at sunset",
+  "overlay": "SAME ISLAND. DIFFERENT HABITS."
+ },
+ {
+  "id": "S53",
+  "w": 507,
+  "ch": "Twist",
+  "kind": "pexels",
+  "q": [
+   "hourglass",
+   "sand through fingers"
+  ],
+  "desc": "Time slipping away"
+ },
+ {
+  "id": "S54",
+  "w": 515,
+  "ch": "Myth check",
+  "kind": "pexels",
+  "q": [
+   "old documents archive",
+   "dusty files"
+  ],
+  "desc": "Old records"
+ },
+ {
+  "id": "S55",
+  "w": 523,
+  "ch": "Myth check",
+  "kind": "pexels",
+  "q": [
+   "tokyo street night",
+   "tokyo alley night rain"
+  ],
+  "desc": "Tokyo at night"
+ },
+ {
+  "id": "S56",
+  "w": 540,
+  "ch": "Myth check",
+  "kind": "pexels",
+  "q": [
+   "empty old room",
+   "abandoned room dust"
+  ],
+  "desc": "Empty room"
+ },
+ {
+  "id": "S57",
+  "w": 547,
+  "ch": "Myth check",
+  "kind": "mg",
+  "mg": "count",
+  "props": {
+   "from": 0,
+   "to": 234354,
+   "label": "NEVER REMOVED FROM FAMILY REGISTERS",
+   "sub": "Born over a century ago (Justice Ministry, 2010)"
+  },
+  "desc": "Counter 234,354"
+ },
+ {
+  "id": "S57b",
+  "w": 558,
+  "ch": "Myth check",
+  "kind": "pexels",
+  "q": [],
+  "desc": "Files, registers"
+ },
+ {
+  "id": "S58",
+  "w": 566,
+  "ch": "Myth check",
+  "kind": "mg",
+  "mg": "card",
+  "props": {
+   "kicker": "EFFECT ON LIFE EXPECTANCY FIGURES",
+   "title": "EFFECTIVELY",
+   "value": "ZERO"
+  },
+  "desc": "Effect nil"
+ },
+ {
+  "id": "S59",
+  "w": 579,
+  "ch": "Myth check",
+  "kind": "pexels",
+  "q": [
+   "scientist reading papers",
+   "researcher documents desk"
+  ],
+  "desc": "Researcher, back view",
+  "overlay": "BLUE ZONES?"
+ },
+ {
+  "id": "S59b",
+  "w": 590,
+  "ch": "Myth check",
+  "kind": "pexels",
+  "q": [],
+  "desc": "Old record cards"
+ },
+ {
+  "id": "S60",
+  "w": 597,
+  "ch": "Myth check",
+  "kind": "mg",
+  "mg": "card",
+  "props": {
+   "kicker": "THE BLUE ZONES DEBATE",
+   "title": "STILL",
+   "value": "OPEN"
+  },
+  "desc": "Debate open"
+ },
+ {
+  "id": "S61",
+  "w": 608,
+  "ch": "Close",
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "107,677",
+   "label": "AGED 100 OR OLDER",
+   "sub": "Japan, 2026"
+  },
+  "desc": "Callback 107,677 over footage"
+ },
+ {
+  "id": "S62",
+  "w": 613,
+  "ch": "Close",
+  "kind": "pexels",
+  "q": [
+   "elderly couple sunset",
+   "old couple walking sunset"
+  ],
+  "desc": "Tokyo street"
+ },
+ {
+  "id": "S63",
+  "w": 623,
+  "ch": "Close",
+  "kind": "pexels",
+  "q": [
+   "bento box",
+   "japanese meal small dishes"
+  ],
+  "desc": "Small dishes"
+ },
+ {
+  "id": "S64",
+  "w": 632,
+  "ch": "Close",
+  "kind": "pexels",
+  "q": [
+   "elderly friends laughing",
+   "old people park"
+  ],
+  "desc": "Friends"
+ },
+ {
+  "id": "S65",
+  "w": 645,
+  "ch": "Close",
+  "kind": "pexels",
+  "q": [
+   "morning walk path",
+   "walking path sunrise"
+  ],
+  "desc": "Walking path"
+ },
+ {
+  "id": "S66",
+  "w": 650,
+  "ch": "Close",
+  "kind": "pexels",
+  "q": [
+   "elderly woman walking",
+   "old man walking morning"
+  ],
+  "desc": "Older person walking"
+ },
+ {
+  "id": "S67",
+  "w": 658,
+  "ch": "Close",
+  "kind": "pexels",
+  "q": [
+   "sunset japan",
+   "mount fuji sunset"
+  ],
+  "desc": "Japan at sunset"
+ },
+ {
+  "id": "E01",
+  "w": "end",
+  "ch": "Close",
+  "kind": "mg",
+  "mg": "endcard",
+  "props": {
+   "title": "JAPAN",
+   "lines": [
+    "Sources for every number are in the description",
+    "Not medical advice"
+   ]
+  },
+  "desc": "End card",
+  "dur": 6.0
+ },
+ {
+  "id": "E02",
+  "w": "end2",
+  "ch": "Close",
+  "kind": "mg",
+  "mg": "credits",
+  "props": {},
+  "desc": "Credits",
+  "dur": 7.0
+ }
+]

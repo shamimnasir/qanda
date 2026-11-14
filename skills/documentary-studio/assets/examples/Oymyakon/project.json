@@ -1,0 +1,674 @@
+{
+ "title": "Oymyakon: The Place Where Standing Still Can Kill You",
+ "slug": "Oymyakon",
+ "place": "Oymyakon",
+ "fps": 30,
+ "tail": 0.8,
+ "languages": {
+  "en": {
+   "vo": "VO_Roger_v4_take1.mp3",
+   "voice": "Roger - Laid-Back, Casual, Resonant (ElevenLabs library), Eleven v4"
+  },
+  "bn": {
+   "vo": "VO_Bangla_v4_take1.mp3",
+   "voice": "[your voice clone] (own instant voice clone), Eleven v4",
+   "silence_db": -38
+  }
+ },
+ "chapter_gap": 0.7,
+ "chapter_gap_skip": [
+  "Close"
+ ],
+ "gaps": [
+  {
+   "after": 272,
+   "seconds": 1.3,
+   "why": "room for the dry grass rustle before 'That sound?'"
+  }
+ ],
+ "sfx": [
+  {
+   "type": "impact",
+   "at": {
+    "item": "T01"
+   }
+  },
+  {
+   "type": "impact",
+   "at": {
+    "word": 24
+   }
+  },
+  {
+   "type": "impact",
+   "at": {
+    "word": 160
+   }
+  },
+  {
+   "type": "impact",
+   "at": {
+    "word": 513
+   }
+  },
+  {
+   "type": "impact",
+   "at": {
+    "word": 558
+   }
+  },
+  {
+   "type": "impact",
+   "at": {
+    "word": 103
+   }
+  },
+  {
+   "type": "crack",
+   "at": {
+    "word": 442,
+    "offset": 0.3
+   }
+  },
+  {
+   "type": "crack",
+   "at": {
+    "word": 448,
+    "offset": 0.4
+   }
+  },
+  {
+   "type": "fire",
+   "from": {
+    "word": 322
+   },
+   "to": {
+    "word": 334
+   }
+  },
+  {
+   "type": "fire",
+   "from": {
+    "word": 489
+   },
+   "to": {
+    "word": 498
+   }
+  },
+  {
+   "type": "fire",
+   "from": {
+    "word": 593
+   },
+   "to": {
+    "word": 599
+   }
+  },
+  {
+   "type": "tick",
+   "from": {
+    "word": 160
+   },
+   "to": {
+    "word": 166
+   }
+  },
+  {
+   "type": "rustle",
+   "at": {
+    "gap": 272
+   }
+  },
+  {
+   "type": "rustle_soft",
+   "at": {
+    "word": 261,
+    "offset": 0.6
+   }
+  }
+ ],
+ "ambience": {
+  "wind": 0.22
+ },
+ "music_level": 0.65,
+ "opener": {
+  "situation": "Minus 76 degrees.",
+  "desire": "Just to live.",
+  "conflict": "Standing still can kill.",
+  "change": "So they prepare.",
+  "result": "Life goes on.",
+  "to": null,
+  "_note": "Draft of how this film would open today. Not voiced and not in this script. For a new film, put the lines first in the script and set \"to\" to the last word of the Result line."
+ },
+ "score": {
+  "mode": "minor",
+  "sections": [
+   {
+    "from": {
+     "start": true
+    },
+    "to": {
+     "item": "T01"
+    },
+    "mood": "dread",
+    "feel": "Cold shock: a wolf, and a rule of this place"
+   },
+   {
+    "from": {
+     "item": "T01"
+    },
+    "to": {
+     "item": "S09"
+    },
+    "mood": "hush",
+    "feel": "Stillness before the journey"
+   },
+   {
+    "from": {
+     "item": "S09"
+    },
+    "to": {
+     "item": "S14"
+    },
+    "mood": "drive",
+    "feel": "The long, hard road in"
+   },
+   {
+    "from": {
+     "item": "S14"
+    },
+    "to": {
+     "word": 112
+    },
+    "mood": "tension",
+    "level": 0.8,
+    "feel": "Getting closer, and the danger growing"
+   },
+   {
+    "from": {
+     "word": 112
+    },
+    "to": {
+     "item": "S17"
+    },
+    "mood": "hush",
+    "feel": "A held breath at the door"
+   },
+   {
+    "from": {
+     "item": "S17"
+    },
+    "to": {
+     "item": "Q01"
+    },
+    "mood": "tension",
+    "feel": "The body in danger within seconds"
+   },
+   {
+    "from": {
+     "item": "Q01"
+    },
+    "to": {
+     "item": "S24"
+    },
+    "mood": "hush",
+    "level": 0.7,
+    "feel": "Listening closely to someone who knows"
+   },
+   {
+    "from": {
+     "item": "S24"
+    },
+    "to": {
+     "item": "S28"
+    },
+    "mood": "pulse",
+    "feel": "A clock ticking inside the body"
+   },
+   {
+    "from": {
+     "item": "S28"
+    },
+    "to": {
+     "word": 256
+    },
+    "mood": "curious",
+    "feel": "Fascinated by how they survive"
+   },
+   {
+    "from": {
+     "word": 256
+    },
+    "to": {
+     "item": "S36"
+    },
+    "mood": "hush",
+    "feel": "Eerie wonder at the sound of breath"
+   },
+   {
+    "from": {
+     "item": "S36"
+    },
+    "to": {
+     "word": 354
+    },
+    "mood": "drive",
+    "level": 0.85,
+    "feel": "Everything depends on one boiler"
+   },
+   {
+    "from": {
+     "word": 354
+    },
+    "to": {
+     "item": "S44"
+    },
+    "mood": "hush",
+    "feel": "A quiet moment before the morning's work"
+   },
+   {
+    "from": {
+     "item": "S44"
+    },
+    "to": {
+     "word": 414
+    },
+    "mood": "tension",
+    "level": 0.8,
+    "feel": "Hard daily chores in brutal cold"
+   },
+   {
+    "from": {
+     "word": 414
+    },
+    "to": {
+     "item": "S51"
+    },
+    "mood": "awe",
+    "feel": "Wonder at an animal built for this"
+   },
+   {
+    "from": {
+     "item": "S51"
+    },
+    "to": {
+     "item": "S59"
+    },
+    "mood": "suspense",
+    "feel": "One wrong step on thin ice"
+   },
+   {
+    "from": {
+     "item": "S59"
+    },
+    "to": {
+     "word": 558
+    },
+    "mood": "light",
+    "feel": "The odd rules of ordinary life"
+   },
+   {
+    "from": {
+     "item": "Q04"
+    },
+    "to": {
+     "word": 567
+    },
+    "mood": "dread",
+    "level": 0.7,
+    "feel": "The wolf returns: the rule applies to people"
+   },
+   {
+    "from": {
+     "word": 567
+    },
+    "to": {
+     "end": true
+    },
+    "mood": "warm",
+    "feel": "Respect: people live here, and live well"
+   }
+  ],
+  "hits": [
+   {
+    "at": {
+     "item": "T01"
+    },
+    "size": 0.85,
+    "riser": 4.2,
+    "drop": 0.35
+   },
+   {
+    "at": {
+     "item": "S14"
+    },
+    "size": 0.7,
+    "riser": 3.0,
+    "drop": 0.3
+   },
+   {
+    "at": {
+     "word": 160
+    },
+    "size": 0.55,
+    "drop": 0
+   },
+   {
+    "at": {
+     "word": 197
+    },
+    "size": 0.6,
+    "drop": 0.25
+   },
+   {
+    "at": {
+     "word": 348
+    },
+    "size": 0.6,
+    "riser": 3.5,
+    "drop": 0.2
+   },
+   {
+    "at": {
+     "word": 422
+    },
+    "size": 0.35,
+    "drop": 0,
+    "root": 3
+   },
+   {
+    "at": {
+     "word": 448
+    },
+    "size": 0.4,
+    "drop": 0
+   },
+   {
+    "at": {
+     "word": 513
+    },
+    "size": 0.75,
+    "riser": 4.0,
+    "drop": 0.3
+   },
+   {
+    "at": {
+     "word": 561
+    },
+    "size": 0.85,
+    "drop": 0
+   }
+  ],
+  "drops": [
+   {
+    "from": {
+     "word": 108,
+     "offset": -0.1
+    },
+    "to": {
+     "word": 112,
+     "offset": -0.15
+    }
+   },
+   {
+    "from": {
+     "word": 150,
+     "offset": -0.05
+    },
+    "to": {
+     "word": 151,
+     "offset": -0.1
+    }
+   },
+   {
+    "from": {
+     "word": 558,
+     "offset": -0.25
+    },
+    "to": {
+     "item": "Q04",
+     "offset": 0.1
+    }
+   }
+  ]
+ },
+ "short": {
+  "max_seconds": 59.5,
+  "drop_order": [
+   "frostbite"
+  ],
+  "header": {
+   "title": "OYMYAKON, -60 °C",
+   "sub": "One of the coldest villages on Earth"
+  },
+  "segments": [
+   {
+    "name": "hook",
+    "from": {
+     "start": true
+    },
+    "to": {
+     "word_end": 45,
+     "offset": 0.35
+    }
+   },
+   {
+    "name": "arrival",
+    "from": {
+     "word": 96,
+     "offset": -0.15
+    },
+    "to": {
+     "word_end": 107,
+     "offset": 0.35
+    }
+   },
+   {
+    "name": "frostbite",
+    "from": {
+     "item": "Q01"
+    },
+    "to": {
+     "word_end": 165,
+     "offset": 0.3
+    }
+   },
+   {
+    "name": "breath",
+    "from": {
+     "word": 256,
+     "offset": -0.15
+    },
+    "to": {
+     "word_end": 279,
+     "offset": 0.35
+    }
+   },
+   {
+    "name": "hare",
+    "from": {
+     "word": 498,
+     "offset": -0.15
+    },
+    "to": {
+     "word_end": 517,
+     "offset": 0.4
+    }
+   },
+   {
+    "name": "callback",
+    "from": {
+     "word": 558,
+     "offset": -0.15
+    },
+    "to": {
+     "word_end": 566,
+     "offset": 0.9
+    }
+   }
+  ],
+  "brief": {
+   "story": "In a village this cold, the rule of survival is simple: standing still can kill you",
+   "first_frame": "A big temperature in US units, in Fahrenheit, with a frozen picture at frame 0",
+   "hook_line": "This wolf did not die in a fight.",
+   "foreshadow": "In this village, standing still can kill you.",
+   "mechanism": "A rule tested again and again: each danger proves it, and the wolf comes back at the end",
+   "ending": "The same rule applies to people.",
+   "why_share": "The strangest everyday details, such as a breath that sounds like dry grass"
+  }
+ },
+ "map": {
+  "highlight": "Russia",
+  "points": {
+   "Moscow": [
+    37.62,
+    55.75
+   ],
+   "Yakutsk": [
+    129.73,
+    62.03
+   ],
+   "Oymyakon": [
+    143.15,
+    63.46
+   ]
+  },
+  "legs": [
+   {
+    "from": "Moscow",
+    "to": "Yakutsk",
+    "mode": "air",
+    "label": "7 HOURS BY AIR"
+   },
+   {
+    "from": "Yakutsk",
+    "to": "Oymyakon",
+    "mode": "road",
+    "via": [
+     [
+      135.6,
+      62.66
+     ],
+     [
+      139.9,
+      63.3
+     ]
+    ],
+    "label": "900 KM",
+    "sub": "18 HOURS BY ROAD"
+   }
+  ]
+ },
+ "quotes": {
+  "bn": {
+   "HOST": "উপস্থাপক",
+   "LOCAL GUIDE": "স্থানীয় গাইড",
+   "RESIDENT": "বাসিন্দা",
+   "IVAN": "ইভান",
+   "Is this frostbite?": "এটা কি ফ্রস্টবাইট?",
+   "Yes.": "হ্যাঁ।",
+   "This is our refrigerator.": "এটাই আমাদের ফ্রিজ।",
+   "It is frostbite. Cover it immediately.": "এটা ফ্রস্টবাইট। এখনই ঢেকে ফেলুন।",
+   "If an animal stops moving in this cold, it can die.": "এই ঠান্ডায় কোনো প্রাণী নড়াচড়া থামালে, সে মারা যেতে পারে।"
+  }
+ },
+ "credits": {
+  "en": [
+   "Narration voice generated with ElevenLabs (AI voice)",
+   "Stock footage: Pexels contributors (full list in the description)",
+   "Photos of Oymyakon: Ilya Varlamov (CC BY-SA 4.0) and Maarten Takens (CC BY-SA 2.0), via Wikimedia Commons",
+   "Wolf tracks: U.S. Fish and Wildlife Service (public domain)",
+   "Map data: Natural Earth (public domain)",
+   "Music and sound design: original",
+   "Stock footage is illustrative and was not filmed in Oymyakon. Photos credited as Oymyakon are real."
+  ]
+ },
+ "credits_description": [
+  "Narration: AI voice generated with ElevenLabs.",
+  "Music and sound design: original.",
+  "Map data: Natural Earth (public domain).",
+  "Fonts: Oswald, Inter, Noto Sans Bengali (SIL Open Font License)."
+ ],
+ "tracker_extra": [
+  [
+   "A01",
+   "whole film",
+   "Audio",
+   "English narration",
+   "AI",
+   "ElevenLabs (Eleven v4, voice Roger)",
+   "06_Audio_Voiceover/VO_Roger_v4_take1.mp3",
+   "ElevenLabs",
+   "ElevenLabs paid plan (commercial license for Speech)",
+   "yes",
+   "no",
+   "plan credits",
+   "downloaded",
+   "AI-generated voice. Check YouTube's current synthetic-content disclosure rules."
+  ],
+  [
+   "A01-BN",
+   "Bangla version",
+   "Audio",
+   "Bangla narration",
+   "AI",
+   "ElevenLabs (Eleven v4, own voice clone)",
+   "06_Audio_Voiceover/VO_Bangla_v4_take1.mp3",
+   "ElevenLabs",
+   "ElevenLabs paid plan (commercial license for Speech)",
+   "yes",
+   "no",
+   "about 4,350 credits",
+   "downloaded",
+   "AI-generated with a clone of the producer's own voice."
+  ],
+  [
+   "A02",
+   "whole film",
+   "Audio",
+   "Original cinematic score and sound design",
+   "motion graphic",
+   "original (build_score.py, build_audio.py)",
+   "07_Music_SFX/score.wav",
+   "this production",
+   "original",
+   "yes",
+   "no",
+   "0",
+   "downloaded",
+   "Synthesized from scratch, no third-party audio."
+  ],
+  [
+   "F01",
+   "whole film",
+   "Graphics",
+   "Fonts Oswald, Inter, Noto Sans Bengali",
+   "Creative Commons",
+   "Google Fonts",
+   "remotion/public/*.ttf",
+   "Font authors",
+   "SIL Open Font License 1.1",
+   "yes",
+   "no",
+   "0",
+   "downloaded",
+   "OFL allows commercial use."
+  ],
+  [
+   "M01",
+   "map shots",
+   "Graphics",
+   "Country outlines",
+   "public domain",
+   "Natural Earth",
+   "ne_50m_admin_0_countries",
+   "Natural Earth",
+   "public domain",
+   "yes",
+   "no (credited)",
+   "0",
+   "downloaded",
+   ""
+  ]
+ ]
+}

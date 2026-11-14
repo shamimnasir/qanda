@@ -1,0 +1,580 @@
+{
+ "_help": "Per-film settings. See the documentary-studio skill: assets/examples/Oymyakon/project.json for a complete worked example and references/playbook.md for every field.",
+ "title": "One Day to Fix Your Life",
+ "slug": "Fix_Your_Life_In_One_Day",
+ "place": "",
+ "look": "dusk",
+ "fps": 30,
+ "tail": 0.8,
+ "languages": {
+  "en": {
+   "vo": "VO_en.mp3",
+   "voice": "[your voice clone] (own instant voice clone, English), Eleven v4"
+  },
+  "bn": {
+   "vo": "VO_bn.mp3",
+   "voice": "[your voice clone] (own clone), Eleven v4",
+   "silence_db": -38
+  }
+ },
+ "chapter_gap": 0.7,
+ "chapter_gap_skip": [
+  "Close"
+ ],
+ "gaps": [],
+ "sfx": [
+  {
+   "type": "alarm",
+   "at": {
+    "word": 46
+   },
+   "gain": 0.24
+  },
+  {
+   "type": "impact",
+   "at": {
+    "word": 83
+   }
+  },
+  {
+   "type": "tick",
+   "from": {
+    "word": 88
+   },
+   "to": {
+    "word": 98
+   }
+  },
+  {
+   "type": "rustle_soft",
+   "at": {
+    "item": "S15"
+   }
+  },
+  {
+   "type": "impact",
+   "at": {
+    "word": 150
+   }
+  },
+  {
+   "type": "crack",
+   "at": {
+    "word": 297
+   }
+  },
+  {
+   "type": "impact",
+   "at": {
+    "word": 301
+   }
+  },
+  {
+   "type": "whoosh",
+   "at": {
+    "item": "S48"
+   }
+  },
+  {
+   "type": "rustle_soft",
+   "at": {
+    "item": "S52"
+   }
+  },
+  {
+   "type": "alarm",
+   "at": {
+    "word": 557
+   },
+   "gain": 0.2
+  },
+  {
+   "type": "rustle_soft",
+   "at": {
+    "item": "S65"
+   }
+  },
+  {
+   "type": "whoosh",
+   "at": {
+    "item": "S68"
+   }
+  },
+  {
+   "type": "tick",
+   "from": {
+    "word": 634
+   },
+   "to": {
+    "word": 644
+   }
+  },
+  {
+   "type": "impact",
+   "at": {
+    "word": 644
+   }
+  },
+  {
+   "type": "impact",
+   "at": {
+    "word": 704
+   }
+  },
+  {
+   "type": "alarm",
+   "at": {
+    "word": 719
+   },
+   "gain": 0.12
+  },
+  {
+   "type": "rustle_soft",
+   "at": {
+    "word": 756
+   }
+  }
+ ],
+ "ambience": {
+  "wind": 0.0
+ },
+ "music_level": 0.65,
+ "opener": {
+  "situation": "Same Tuesday again.",
+  "desire": "You want out.",
+  "conflict": "One day can't.",
+  "change": "It turns the wheel.",
+  "result": "You start steering.",
+  "to": null,
+  "_note": "Draft of how this film would open today. Not voiced and not in this script. For a new film, put the lines first in the script and set \"to\" to the last word of the Result line."
+ },
+ "score": {
+  "mode": "minor",
+  "sections": [
+   {
+    "from": {
+     "start": true
+    },
+    "to": {
+     "item": "T01"
+    },
+    "mood": "dread",
+    "level": 0.85,
+    "feel": "Quiet dread of an ordinary future"
+   },
+   {
+    "from": {
+     "item": "T01"
+    },
+    "to": {
+     "item": "S19"
+    },
+    "mood": "pulse",
+    "feel": "Momentum: the trial begins"
+   },
+   {
+    "from": {
+     "item": "S19"
+    },
+    "to": {
+     "item": "S25"
+    },
+    "mood": "curious",
+    "feel": "Interest: real numbers on who keeps going"
+   },
+   {
+    "from": {
+     "item": "S25"
+    },
+    "to": {
+     "item": "S34"
+    },
+    "mood": "suspense",
+    "level": 0.85,
+    "feel": "Suspicion grows: what is really stopping you?"
+   },
+   {
+    "from": {
+     "item": "S34"
+    },
+    "to": {
+     "item": "S35"
+    },
+    "mood": "tension",
+    "level": 0.9,
+    "feel": "Caught out by your own excuses"
+   },
+   {
+    "from": {
+     "item": "S35"
+    },
+    "to": {
+     "item": "S43"
+    },
+    "mood": "dread",
+    "level": 0.9,
+    "feel": "Heavy: the cost of staying the same"
+   },
+   {
+    "from": {
+     "item": "S43"
+    },
+    "to": {
+     "item": "S44"
+    },
+    "mood": "hush",
+    "level": 0.6,
+    "feel": "A breath before the turn"
+   },
+   {
+    "from": {
+     "item": "S44"
+    },
+    "to": {
+     "item": "S49"
+    },
+    "mood": "awe",
+    "level": 0.8,
+    "feel": "Release: stop fighting, start steering"
+   },
+   {
+    "from": {
+     "item": "S49"
+    },
+    "to": {
+     "item": "S51"
+    },
+    "mood": "light",
+    "feel": "Relief in the image of a ship's pilot"
+   },
+   {
+    "from": {
+     "item": "S51"
+    },
+    "to": {
+     "item": "S69"
+    },
+    "mood": "drive",
+    "level": 0.75,
+    "feel": "Ready: the day, step by step"
+   },
+   {
+    "from": {
+     "item": "S69"
+    },
+    "to": {
+     "item": "S72"
+    },
+    "mood": "tension",
+    "level": 0.9,
+    "feel": "Waiting for the verdict"
+   },
+   {
+    "from": {
+     "item": "S72"
+    },
+    "to": {
+     "item": "S75"
+    },
+    "mood": "curious",
+    "feel": "Interest in what the habit study found"
+   },
+   {
+    "from": {
+     "item": "S75"
+    },
+    "to": {
+     "item": "S79"
+    },
+    "mood": "awe",
+    "level": 0.85,
+    "feel": "Hope: one day can turn the wheel"
+   },
+   {
+    "from": {
+     "item": "S79"
+    },
+    "to": {
+     "end": true
+    },
+    "mood": "warm",
+    "feel": "Quiet resolve: today is ordinary enough"
+   }
+  ],
+  "hits": [
+   {
+    "at": {
+     "item": "T01"
+    },
+    "size": 0.8,
+    "riser": 3.5,
+    "drop": 0.35
+   },
+   {
+    "at": {
+     "word": 83
+    },
+    "size": 0.5,
+    "drop": 0.25
+   },
+   {
+    "at": {
+     "word": 301
+    },
+    "size": 0.8,
+    "riser": 3.0,
+    "drop": 0.4
+   },
+   {
+    "at": {
+     "word": 383
+    },
+    "size": 0.45,
+    "drop": 0.3
+   },
+   {
+    "at": {
+     "word": 402
+    },
+    "size": 0.55,
+    "riser": 2.0,
+    "drop": 0.2
+   },
+   {
+    "at": {
+     "word": 644
+    },
+    "size": 0.9,
+    "riser": 2.5,
+    "drop": 0.5
+   },
+   {
+    "at": {
+     "word": 704
+    },
+    "size": 0.7,
+    "riser": 3.0,
+    "drop": 0.3
+   }
+  ],
+  "drops": [
+   {
+    "from": {
+     "word": 644,
+     "offset": -0.8
+    },
+    "to": {
+     "word": 644,
+     "offset": -0.05
+    }
+   },
+   {
+    "from": {
+     "word": 765,
+     "offset": -1.2
+    },
+    "to": {
+     "word": 765,
+     "offset": -0.05
+    }
+   }
+  ]
+ },
+ "short": {
+  "max_seconds": 59.5,
+  "drop_order": [
+   "habit"
+  ],
+  "header": {
+   "title": "1 DAY TO FIX YOUR LIFE?",
+   "sub": "A viral promise, on trial"
+  },
+  "header_bn": {
+   "title": "১ দিনে পুরো জীবন ঠিক?",
+   "sub": "ভাইরাল প্রতিশ্রুতি, কাঠগড়ায়"
+  },
+  "segments": [
+   {
+    "name": "hook",
+    "from": {
+     "start": true
+    },
+    "to": {
+     "word_end": 87,
+     "offset": 0.35
+    }
+   },
+   {
+    "name": "twist",
+    "from": {
+     "word": 297,
+     "offset": -0.15
+    },
+    "to": {
+     "word_end": 309,
+     "offset": 0.35
+    }
+   },
+   {
+    "name": "verdict",
+    "from": {
+     "word": 637,
+     "offset": -0.15
+    },
+    "to": {
+     "word_end": 644,
+     "offset": 0.3
+    }
+   },
+   {
+    "name": "habit",
+    "from": {
+     "word": 645,
+     "offset": -0.1
+    },
+    "to": {
+     "word_end": 674,
+     "offset": 0.25
+    }
+   },
+   {
+    "name": "wheel",
+    "from": {
+     "word": 698,
+     "offset": -0.15
+    },
+    "to": {
+     "word_end": 710,
+     "offset": 0.3
+    }
+   },
+   {
+    "name": "today",
+    "from": {
+     "word": 765,
+     "offset": -0.3
+    },
+    "to": {
+     "word_end": 768,
+     "offset": 0.8
+    }
+   }
+  ],
+  "brief": {
+   "story": "A viral promise says one day can fix your life, so the film puts it on trial",
+   "first_frame": "1 DAY TO FIX YOUR LIFE? on screen at frame 0, with a strong picture behind it",
+   "hook_line": "One day, to fix your entire life.",
+   "foreshadow": "today we put it on trial",
+   "mechanism": "A trial that ends in a clear verdict",
+   "ending": "Today is ordinary enough.",
+   "why_share": "For the friend who keeps promising themselves a fresh start"
+  }
+ },
+ "quotes": {},
+ "credits": {
+  "en": [
+   "Narration: the producer's own voice clone, generated with ElevenLabs (AI voice)",
+   "Stock footage: Pexels contributors (full list in the description)",
+   "Photos: Wikimedia Commons contributors, credited on screen",
+   "Sources for every study: see the description. Not medical or mental health advice.",
+   "Music and sound design: original",
+   "Stock footage is illustrative: the people shown are not the people in the studies."
+  ],
+  "bn": [
+   "ন্যারেশন: প্রযোজকের নিজের ভয়েস ক্লোন, ElevenLabs দিয়ে তৈরি (AI ভয়েস)",
+   "স্টক ফুটেজ: Pexels-এর শিল্পীরা (পুরো তালিকা ডেসক্রিপশনে)",
+   "ছবি: Wikimedia Commons, পর্দায় ক্রেডিট দেওয়া আছে",
+   "সব গবেষণার সূত্র ডেসক্রিপশনে। এটি চিকিৎসা বা মানসিক স্বাস্থ্য পরামর্শ নয়।",
+   "সংগীত ও শব্দ: মৌলিক",
+   "স্টক ফুটেজ শুধু উদাহরণ: ফুটেজের মানুষেরা গবেষণার মানুষ নন।"
+  ]
+ },
+ "credits_description": [
+  "Based on the letter \"How to fix your entire life in 1 day\" by Dan Koe.",
+  "Narration: the producer's own voice clone, generated with ElevenLabs (AI voice).",
+  "Music and sound design: original.",
+  "Fonts: Oswald, Inter, Noto Sans Bengali (SIL Open Font License)."
+ ],
+ "tracker_extra": [
+  [
+   "A01",
+   "whole film",
+   "Audio",
+   "English narration",
+   "AI",
+   "ElevenLabs (Eleven v4, producer's own instant voice clone)",
+   "06_Audio_Voiceover/VO_en.mp3",
+   "ElevenLabs",
+   "ElevenLabs paid plan (commercial license for Speech)",
+   "yes",
+   "no",
+   "about 4,527 credits",
+   "downloaded",
+   "AI-generated with a clone of the producer's own voice. Check YouTube's current synthetic-content disclosure rules."
+  ],
+  [
+   "A01-BN",
+   "whole film",
+   "Audio",
+   "Bangla narration",
+   "AI",
+   "ElevenLabs (Eleven v4, producer's own instant voice clone)",
+   "06_Audio_Voiceover/VO_bn.mp3",
+   "ElevenLabs",
+   "ElevenLabs paid plan (commercial license for Speech)",
+   "yes",
+   "no",
+   "about 4,487 credits",
+   "downloaded",
+   "AI-generated with a clone of the producer's own voice. Check YouTube's current synthetic-content disclosure rules."
+  ],
+  [
+   "A02",
+   "whole film",
+   "Audio",
+   "Original score and sound design",
+   "motion graphic",
+   "original (build_score.py, build_audio.py)",
+   "07_Music_SFX/score.wav",
+   "this production",
+   "original",
+   "yes",
+   "no",
+   "0",
+   "downloaded",
+   "Synthesized from scratch, no third-party audio."
+  ],
+  [
+   "F01",
+   "whole film",
+   "Graphics",
+   "Fonts Oswald, Inter, Noto Sans Bengali",
+   "Creative Commons",
+   "Google Fonts",
+   "remotion/public/*.ttf",
+   "Font authors",
+   "SIL Open Font License 1.1",
+   "yes",
+   "no",
+   "0",
+   "downloaded",
+   "OFL allows commercial use."
+  ],
+  [
+   "SRC01",
+   "whole film",
+   "Script",
+   "Ideas adapted from Dan Koe, \"How to fix your entire life in 1 day\"",
+   "other",
+   "Letter pasted by the producer",
+   "https://letters.thedankoe.com/",
+   "Dan Koe",
+   "Ideas adapted in original words, credited",
+   "yes",
+   "credit given",
+   "0",
+   "cleared by producer",
+   "Producer's decision: the letter's ideas were retold in new words with new research and credit. No permission sought."
+  ]
+ ]
+}

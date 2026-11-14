@@ -1,0 +1,96 @@
+{
+ "_help": "Per-film settings. See the documentary-studio skill: assets/examples/Oymyakon/project.json for a complete worked example and references/playbook.md for every field.",
+ "title": "__TITLE__",
+ "slug": "__SLUG__",
+ "place": "Main location name (used in photo credits)",
+ "look": "cold",
+ "fps": 30,
+ "lead": 1.2,
+ "tail": 0.8,
+ "languages": {
+  "en": {
+   "vo": "VO_en.mp3",
+   "voice": "ElevenLabs voice name, model"
+  },
+  "bn": {
+   "vo": "VO_bn.mp3",
+   "voice": "[your voice clone] (own clone), Eleven v4",
+   "silence_db": -38
+  }
+ },
+ "chapter_gap": 0.7,
+ "chapter_gap_skip": [],
+ "gaps": [],
+ "sfx": [],
+ "ambience": {
+  "wind": 0.0
+ },
+ "music_level": 0.65,
+ "opener": {
+  "to": "last words of the opening lines"
+ },
+ "score": {
+  "key": "D",
+  "mode": "minor",
+  "sections": [
+   {
+    "from": {
+     "start": true
+    },
+    "to": {
+     "end": true
+    },
+    "mood": "tension"
+   }
+  ],
+  "hits": [],
+  "drops": []
+ },
+ "short": {
+  "max_seconds": 59.5,
+  "drop_order": [],
+  "header": {
+   "title": "HEADER TITLE",
+   "sub": "One line of context"
+  },
+  "segments": [
+   {
+    "name": "hook",
+    "from": {
+     "start": true
+    },
+    "to": {
+     "word_end": 30,
+     "offset": 0.35
+    }
+   }
+  ],
+  "brief": {
+   "story": "",
+   "first_frame": "",
+   "hook_line": "",
+   "foreshadow": "",
+   "mechanism": "",
+   "ending": "",
+   "why_share": ""
+  }
+ },
+ "quotes": {
+  "bn": {}
+ },
+ "credits_description": [
+  "Narration: AI voice generated with ElevenLabs.",
+  "Music and sound design: original."
+ ],
+ "tracker_extra": [],
+ "media_pool": {
+  "X01": "search words for an exciting theme",
+  "X02": "another theme"
+ },
+ "cut_style": "hard",
+ "sound_design": {
+  "level": 1.0,
+  "swish_every": 3
+ },
+ "voice_presence_db": 2.0
+}

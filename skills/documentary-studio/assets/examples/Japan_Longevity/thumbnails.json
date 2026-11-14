@@ -1,0 +1,213 @@
+[
+ {
+  "name": "A_okinawa_4th_to_43rd",
+  "_moment": "The Okinawa twist (2:52): Okinawan men's rank fell from 4th to 43rd of 47",
+  "shot": "S47",
+  "focus": [
+   0.5,
+   0.62
+  ],
+  "darken": "top",
+  "items": [
+   {
+    "text": "OKINAWAN MEN",
+    "x": 92,
+    "y": 28,
+    "size": 62,
+    "color": "#f6c177",
+    "stroke": 6
+   },
+   {
+    "text": "4TH",
+    "x": 90,
+    "y": 105,
+    "size": 160,
+    "color": "#ffffff"
+   },
+   {
+    "arrow": [
+     [
+      375,
+      215
+     ],
+     [
+      560,
+      320
+     ]
+    ],
+    "color": "#ff4f45",
+    "width": 30
+   },
+   {
+    "text": "43RD",
+    "x": 560,
+    "y": 200,
+    "size": 290,
+    "color": "#ff4f45",
+    "stroke": 14
+   }
+  ],
+  "credit": "Real photo: Ogimi, Okinawa. Kugel, CC BY-SA 4.0"
+ },
+ {
+  "name": "B_stop_at_80_percent",
+  "_moment": "Hara hachi bu (1:31): stop eating at 80% full",
+  "shot": "S14",
+  "t": 2.0,
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "darken": "right",
+  "items": [
+   {
+    "ring": [
+     585,
+     372,
+     300
+    ],
+    "percent": 80,
+    "color": "#ff6f61",
+    "width": 32
+   },
+   {
+    "text": "STOP AT",
+    "x": 1250,
+    "y": 60,
+    "size": 120,
+    "color": "#ffffff",
+    "align": "right"
+   },
+   {
+    "text": "80%",
+    "x": 1250,
+    "y": 250,
+    "size": 250,
+    "color": "#f6c177",
+    "align": "right",
+    "stroke": 13
+   }
+  ]
+ },
+ {
+  "name": "C_ikigai",
+  "_moment": "Ikigai (2:03): people without ikigai were about 1.5 times as likely to die over 7 years",
+  "shot": "S05",
+  "t": 2.0,
+  "focus": [
+   0.62,
+   0.5
+  ],
+  "zoom": 1.08,
+  "darken": "left",
+  "items": [
+   {
+    "text": "IKIGAI",
+    "x": 70,
+    "y": 170,
+    "size": 230,
+    "color": "#ffffff",
+    "stroke": 12
+   },
+   {
+    "box": [
+     80,
+     470,
+     520,
+     16
+    ],
+    "color": "#ff6f61",
+    "alpha": 1.0,
+    "radius": 8
+   }
+  ]
+ },
+ {
+  "name": "Short_cover_ikigai",
+  "vertical": true,
+  "_moment": "Ikigai segment of the Short (0:19)",
+  "shot": "S05",
+  "t": 2.0,
+  "focus": [
+   0.6,
+   0.5
+  ],
+  "darken": "bottom",
+  "items": [
+   {
+    "text": "IKIGAI",
+    "x": 540,
+    "y": 1060,
+    "size": 250,
+    "color": "#ffffff",
+    "align": "center",
+    "stroke": 14
+   },
+   {
+    "box": [
+     290,
+     1380,
+     500,
+     18
+    ],
+    "color": "#ff6f61",
+    "alpha": 1.0,
+    "radius": 9
+   }
+  ]
+ },
+ {
+  "name": "Short_cover_okinawa_43rd",
+  "vertical": true,
+  "_moment": "Okinawa twist at the end of the Short (0:32)",
+  "shot": "S47",
+  "focus": [
+   0.42,
+   0.6
+  ],
+  "darken": "top",
+  "items": [
+   {
+    "text": "OKINAWAN MEN",
+    "x": 540,
+    "y": 120,
+    "size": 90,
+    "color": "#f6c177",
+    "align": "center",
+    "stroke": 7
+   },
+   {
+    "text": "4TH",
+    "x": 540,
+    "y": 250,
+    "size": 200,
+    "color": "#ffffff",
+    "align": "center"
+   },
+   {
+    "arrow": [
+     [
+      540,
+      520
+     ],
+     [
+      540,
+      690
+     ]
+    ],
+    "color": "#ff4f45",
+    "width": 40
+   },
+   {
+    "text": "43RD",
+    "x": 540,
+    "y": 700,
+    "size": 330,
+    "color": "#ff4f45",
+    "align": "center",
+    "stroke": 15
+   }
+  ],
+  "credit": "Real photo: Ogimi, Okinawa. Kugel, CC BY-SA 4.0"
+ }
+]

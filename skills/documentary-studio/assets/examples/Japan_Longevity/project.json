@@ -1,0 +1,380 @@
+{
+ "_help": "Per-film settings. See the documentary-studio skill: assets/examples/Oymyakon/project.json for a complete worked example and references/playbook.md for every field.",
+ "title": "Why Japanese People Live Longer",
+ "slug": "Why_Japanese_People_Live_Longer",
+ "place": "Japan",
+ "look": "warm",
+ "fps": 30,
+ "tail": 0.8,
+ "languages": {
+  "en": {
+   "vo": "VO_en.mp3",
+   "voice": "[your voice clone] (producer's own ElevenLabs voice clone), Eleven v4, stability 50"
+  }
+ },
+ "chapter_gap": 0.7,
+ "chapter_gap_skip": [
+  "Close"
+ ],
+ "gaps": [],
+ "sfx": [
+  {
+   "type": "impact",
+   "at": {
+    "item": "T01"
+   }
+  },
+  {
+   "type": "impact",
+   "at": {
+    "word": 101
+   }
+  },
+  {
+   "type": "impact",
+   "at": {
+    "word": 446
+   }
+  },
+  {
+   "type": "impact",
+   "at": {
+    "word": 466
+   }
+  },
+  {
+   "type": "tick",
+   "from": {
+    "word": 8
+   },
+   "to": {
+    "word": 14
+   }
+  },
+  {
+   "type": "tick",
+   "from": {
+    "word": 547
+   },
+   "to": {
+    "word": 566
+   }
+  },
+  {
+   "type": "whoosh",
+   "at": {
+    "item": "S18"
+   }
+  },
+  {
+   "type": "whoosh",
+   "at": {
+    "item": "S49"
+   }
+  }
+ ],
+ "ambience": {
+  "wind": 0.0
+ },
+ "music_level": 0.65,
+ "opener": {
+  "situation": "Once, 153 past 100.",
+  "desire": "Want more years?",
+  "conflict": "Salt meant strokes.",
+  "change": "Japan changed course.",
+  "result": "Now, over 100,000.",
+  "to": null,
+  "_note": "Draft of how this film would open today. Not voiced and not in this script. For a new film, put the lines first in the script and set \"to\" to the last word of the Result line."
+ },
+ "score": {
+  "mode": "minor",
+  "sections": [
+   {
+    "from": {
+     "start": true
+    },
+    "to": {
+     "item": "T01"
+    },
+    "mood": "curious",
+    "feel": "Amazed by the number, and wanting to know why"
+   },
+   {
+    "from": {
+     "item": "T01"
+    },
+    "to": {
+     "item": "S12"
+    },
+    "mood": "pulse",
+    "feel": "Curious momentum into the big numbers"
+   },
+   {
+    "from": {
+     "item": "S12"
+    },
+    "to": {
+     "item": "S18"
+    },
+    "mood": "tension",
+    "level": 0.8,
+    "feel": "Worry: Japan was not always healthy"
+   },
+   {
+    "from": {
+     "item": "S18"
+    },
+    "to": {
+     "item": "S25"
+    },
+    "mood": "light",
+    "feel": "Relief as public health starts to work"
+   },
+   {
+    "from": {
+     "item": "S25"
+    },
+    "to": {
+     "item": "S34"
+    },
+    "mood": "curious",
+    "feel": "A playful search for the real secret"
+   },
+   {
+    "from": {
+     "item": "S34"
+    },
+    "to": {
+     "item": "S42"
+    },
+    "mood": "awe",
+    "level": 0.8,
+    "feel": "Moved by purpose and friendship"
+   },
+   {
+    "from": {
+     "item": "S42"
+    },
+    "to": {
+     "item": "S46"
+    },
+    "mood": "light",
+    "feel": "Easy optimism: walking is simple"
+   },
+   {
+    "from": {
+     "item": "S46"
+    },
+    "to": {
+     "item": "S54"
+    },
+    "mood": "tension",
+    "level": 0.85,
+    "feel": "Unease as the long-life island slips"
+   },
+   {
+    "from": {
+     "item": "S54"
+    },
+    "to": {
+     "item": "S61"
+    },
+    "mood": "suspense",
+    "feel": "Doubt: can the records be trusted?"
+   },
+   {
+    "from": {
+     "item": "S61"
+    },
+    "to": {
+     "end": true
+    },
+    "mood": "warm",
+    "feel": "Calm and hopeful: anyone can start"
+   }
+  ],
+  "hits": [
+   {
+    "at": {
+     "item": "T01"
+    },
+    "size": 0.8,
+    "riser": 3.5,
+    "drop": 0.35
+   },
+   {
+    "at": {
+     "word": 101
+    },
+    "size": 0.6,
+    "riser": 2.5,
+    "drop": 0.3
+   },
+   {
+    "at": {
+     "word": 446
+    },
+    "size": 0.75,
+    "riser": 3.0,
+    "drop": 0.4
+   },
+   {
+    "at": {
+     "word": 479
+    },
+    "size": 0.5,
+    "drop": 0
+   },
+   {
+    "at": {
+     "word": 547
+    },
+    "size": 0.5,
+    "riser": 2.0,
+    "drop": 0.2
+   }
+  ],
+  "drops": [
+   {
+    "from": {
+     "word": 446,
+     "offset": -0.7
+    },
+    "to": {
+     "word": 446,
+     "offset": -0.05
+    }
+   },
+   {
+    "from": {
+     "word": 501,
+     "offset": -0.5
+    },
+    "to": {
+     "word": 501,
+     "offset": -0.05
+    }
+   }
+  ]
+ },
+ "short": {
+  "max_seconds": 59.5,
+  "drop_order": [
+   "ikigai"
+  ],
+  "header": {
+   "title": "WHY JAPAN LIVES LONGER",
+   "sub": "107,677 people aged 100+"
+  },
+  "segments": [
+   {
+    "name": "hook",
+    "from": {
+     "start": true
+    },
+    "to": {
+     "word_end": 30,
+     "offset": 0.35
+    }
+   },
+   {
+    "name": "ikigai",
+    "from": {
+     "word": 319,
+     "offset": -0.15
+    },
+    "to": {
+     "word_end": 358,
+     "offset": 0.35
+    }
+   },
+   {
+    "name": "twist",
+    "from": {
+     "word": 462,
+     "offset": -0.15
+    },
+    "to": {
+     "word_end": 506,
+     "offset": 0.6
+    }
+   }
+  ],
+  "brief": {
+   "story": "Japan went from 153 people over 100 to 107,677, yet its famous long-life island slipped",
+   "first_frame": "WHY JAPAN LIVES LONGER, with 107,677 people aged 100+, on screen at frame 0",
+   "hook_line": "In September 2026, Japan counted its oldest people.",
+   "foreshadow": "Japan's most famous long-life island hides a twist",
+   "mechanism": "A mystery: what is behind the number, then the twist that changes the answer",
+   "ending": "And the long life began to slip away.",
+   "why_share": "A surprising twist about a place people think they already understand"
+  }
+ },
+ "quotes": {},
+ "credits": {
+  "en": [
+   "Narration: the producer's own voice clone, generated with ElevenLabs (AI voice)",
+   "Stock footage: Pexels contributors (full list in the description)",
+   "Photos of Okinawa: Kugel (CC BY-SA 4.0) and Naha Mama Pavilionz (CC0), via Wikimedia Commons",
+   "Photo of the Utsunomiya tram: MaedaAkihiko (CC0), via Wikimedia Commons",
+   "Sources for every number: see the description. Not medical advice.",
+   "Music and sound design: original",
+   "Stock footage is illustrative: the people shown are not the people in the studies. Photos credited with a place name are real."
+  ]
+ },
+ "credits_description": [
+  "Narration: the producer's own voice clone, generated with ElevenLabs (AI voice).",
+  "Music and sound design: original.",
+  "Fonts: Oswald, Inter (SIL Open Font License)."
+ ],
+ "tracker_extra": [
+  [
+   "A01",
+   "whole film",
+   "Audio",
+   "English narration",
+   "AI",
+   "ElevenLabs (Eleven v4, producer's own instant voice clone)",
+   "06_Audio_Voiceover/VO_en.mp3",
+   "ElevenLabs",
+   "ElevenLabs paid plan (commercial license for Speech)",
+   "yes",
+   "no",
+   "about 4,558 credits",
+   "downloaded",
+   "AI-generated with a clone of the producer's own voice. Check YouTube's current synthetic-content disclosure rules."
+  ],
+  [
+   "A02",
+   "whole film",
+   "Audio",
+   "Original score and sound design",
+   "motion graphic",
+   "original (build_score.py, build_audio.py)",
+   "07_Music_SFX/score.wav",
+   "this production",
+   "original",
+   "yes",
+   "no",
+   "0",
+   "downloaded",
+   "Synthesized from scratch, no third-party audio."
+  ],
+  [
+   "F01",
+   "whole film",
+   "Graphics",
+   "Fonts Oswald, Inter",
+   "Creative Commons",
+   "Google Fonts",
+   "remotion/public/*.ttf",
+   "Font authors",
+   "SIL Open Font License 1.1",
+   "yes",
+   "no",
+   "0",
+   "downloaded",
+   "OFL allows commercial use."
+  ]
+ ]
+}

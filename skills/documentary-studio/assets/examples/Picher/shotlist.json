@@ -1,0 +1,1443 @@
+[
+ {
+  "id": "H1",
+  "w": 0,
+  "kind": "reuse",
+  "of": "S04",
+  "overlay": "EF4. UP TO 175 MPH",
+  "desc": "Real debris, Picher, May 2008",
+  "ch": "Open",
+  "cut": "hard"
+ },
+ {
+  "id": "H2",
+  "w": 3,
+  "kind": "reuse",
+  "of": "S03",
+  "overlay": "KIDS SLEDDED ON LEAD WASTE",
+  "desc": "Real chat pile",
+  "ch": "Open",
+  "cut": "hard"
+ },
+ {
+  "id": "H3",
+  "w": 5,
+  "kind": "reuse",
+  "of": "S01",
+  "overlay": "14,252 PEOPLE",
+  "desc": "Real 1918 street",
+  "ch": "Open",
+  "cut": "hard"
+ },
+ {
+  "id": "H4",
+  "w": 7,
+  "kind": "reuse",
+  "of": "S05",
+  "overlay": "20 LEFT",
+  "desc": "Real abandoned houses",
+  "ch": "Open",
+  "cut": "hard"
+ },
+ {
+  "id": "H5",
+  "w": 10,
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "A THIRD",
+   "label": "OF PICHER COULD CAVE IN",
+   "sub": "NPR, 2007"
+  },
+  "desc": "NPR claim as a graphic",
+  "ch": "Open",
+  "cut": "hard"
+ },
+ {
+  "id": "S06",
+  "w": 13,
+  "ch": "Open",
+  "kind": "commons",
+  "desc": "Real aerial of the tornado track and a chat pile",
+  "q": "Picher Aerial",
+  "place": "Picher, Oklahoma, after the tornado, 2008",
+  "overlay": "NOT THE TORNADO",
+  "cut": "hard"
+ },
+ {
+  "id": "S07",
+  "w": 15,
+  "ch": "Open",
+  "kind": "mg",
+  "desc": "Dates prove the buyout came first",
+  "mg": "stat",
+  "props": {
+   "value": "FEB 2008",
+   "label": "EPA PLAN INCLUDES A BUYOUT",
+   "sub": "The tornado: May 10, 2008"
+  }
+ },
+ {
+  "id": "S08",
+  "w": 31,
+  "ch": "Open",
+  "kind": "pexels",
+  "desc": "Storm clouds, generic, not Picher",
+  "q": [
+   "tornado storm",
+   "tornado funnel cloud"
+  ],
+  "overlay": "UP TO A MILE WIDE"
+ },
+ {
+  "id": "S09",
+  "w": 42,
+  "ch": "Open",
+  "kind": "mg",
+  "desc": "Cross-section teaser",
+  "mg": "strata",
+  "props": {
+   "show": "both",
+   "title": "WHAT WAS UNDER PICHER?",
+   "sub": "And what was piled on top of it"
+  }
+ },
+ {
+  "id": "S10",
+  "w": 61,
+  "ch": "Open",
+  "kind": "mg",
+  "desc": "The sources: proof",
+  "mg": "steps",
+  "props": {
+   "steps": [
+    {
+     "k": "EPA",
+     "v": "SITE RECORDS"
+    },
+    {
+     "k": "NWS",
+     "v": "TORNADO REPORTS"
+    },
+    {
+     "k": "OKHS",
+     "v": "TOWN HISTORY"
+    },
+    {
+     "k": "NPR",
+     "v": "ON-SITE REPORTS"
+    }
+   ]
+  }
+ },
+ {
+  "id": "T01",
+  "w": "after:75",
+  "ch": "Open",
+  "kind": "mg",
+  "desc": "Title card",
+  "mg": "title",
+  "props": {
+   "title": "PICHER",
+   "subtitle": "The town that was dug out from under itself"
+  },
+  "dur": 3.0,
+  "q": [
+   "dark clouds over field",
+   "storm clouds plains"
+  ]
+ },
+ {
+  "id": "S11",
+  "w": 76,
+  "ch": "Boom",
+  "kind": "commons",
+  "desc": "1920 map again, a real record of the boomtown",
+  "q": "Sanborn Fire Insurance Map Picher Ottawa County Oklahoma 1920",
+  "place": "Picher, Oklahoma, 1920 map"
+ },
+ {
+  "id": "S12",
+  "w": 87,
+  "ch": "Boom",
+  "kind": "mg",
+  "desc": "Where Picher is",
+  "mg": "map",
+  "props": {
+   "leg": 0
+  }
+ },
+ {
+  "id": "S13",
+  "w": 94,
+  "ch": "Boom",
+  "kind": "reuse",
+  "desc": "Real 1918 street",
+  "of": "S01",
+  "overlay": "BORN OVERNIGHT"
+ },
+ {
+  "id": "S14",
+  "w": 101,
+  "ch": "Boom",
+  "kind": "mg",
+  "desc": "Peak population",
+  "mg": "count",
+  "props": {
+   "from": 0,
+   "to": 14252,
+   "fromLabel": "1926",
+   "label": "PEOPLE IN PICHER",
+   "sub": "Oklahoma Historical Society"
+  }
+ },
+ {
+  "id": "S15",
+  "w": 107,
+  "ch": "Boom",
+  "kind": "mg",
+  "desc": "WWI share",
+  "mg": "stat",
+  "props": {
+   "value": "OVER 50%",
+   "label": "OF THE LEAD AND ZINC USED IN WORLD WAR I",
+   "sub": "From this mining field. Oklahoma Historical Society"
+  }
+ },
+ {
+  "id": "S16",
+  "w": 125,
+  "ch": "Boom",
+  "kind": "commons",
+  "desc": "Real ore specimen from Picher",
+  "q": "Sphalerite Golden Hawk Mine Picher Oklahoma",
+  "place": "Zinc ore from Picher, Oklahoma",
+  "overlay": "ORE FROM PICHER"
+ },
+ {
+  "id": "S17",
+  "w": 135,
+  "ch": "Boom",
+  "kind": "pexels",
+  "desc": "Old mine workings, illustrative, not Picher",
+  "q": []
+ },
+ {
+  "id": "S18",
+  "w": 150,
+  "ch": "Boom",
+  "kind": "mg",
+  "desc": "Tunnels dig in",
+  "mg": "strata",
+  "props": {
+   "show": "below",
+   "labels": [
+    {
+     "text": "UP TO 385 FEET DOWN",
+     "at": 20,
+     "x": 110,
+     "y": 330
+    }
+   ]
+  }
+ },
+ {
+  "id": "S19",
+  "w": 165,
+  "ch": "Boom",
+  "kind": "mg",
+  "desc": "Pile grows",
+  "mg": "strata",
+  "props": {
+   "show": "above",
+   "labels": [
+    {
+     "text": "WASTE PILES UP TO 200 FEET",
+     "at": 20,
+     "x": 110,
+     "y": 120
+    }
+   ]
+  }
+ },
+ {
+  "id": "S20",
+  "w": 180,
+  "ch": "Boom",
+  "kind": "reuse",
+  "desc": "Real chat pile",
+  "of": "S03",
+  "overlay": "CHAT"
+ },
+ {
+  "id": "S21",
+  "w": 184,
+  "ch": "Boom",
+  "kind": "mg",
+  "desc": "The whole idea in one picture",
+  "mg": "strata",
+  "props": {
+   "show": "both",
+   "title": "A HOLLOW UNDERNEATH",
+   "sub": "AND A MOUNTAIN ON TOP"
+  }
+ },
+ {
+  "id": "S22",
+  "w": 192,
+  "ch": "Piles",
+  "kind": "commons",
+  "desc": "Real street",
+  "q": "Picher Main Street US69",
+  "place": "Picher, Oklahoma"
+ },
+ {
+  "id": "S23",
+  "w": 200,
+  "ch": "Piles",
+  "kind": "pexels",
+  "desc": "Kids on a hill, illustrative",
+  "q": [
+   "children running up hill",
+   "kids sledding down hill",
+   "children playing on dirt mound"
+  ]
+ },
+ {
+  "id": "S24",
+  "w": 207,
+  "ch": "Piles",
+  "kind": "pexels",
+  "desc": "Picnic, illustrative",
+  "q": [
+   "family picnic outdoors",
+   "picnic blanket family"
+  ]
+ },
+ {
+  "id": "S25",
+  "w": 211,
+  "ch": "Piles",
+  "kind": "pexels",
+  "desc": "Sandbox, illustrative",
+  "q": [
+   "child playing sandbox",
+   "kid sandbox hands"
+  ]
+ },
+ {
+  "id": "S26",
+  "w": 219,
+  "ch": "Piles",
+  "kind": "commons",
+  "desc": "Real Picher youth field",
+  "q": "Statue Picher High School Gorillas",
+  "place": "Picher, Oklahoma"
+ },
+ {
+  "id": "Q01",
+  "w": "after:229",
+  "ch": "Piles",
+  "kind": "quote",
+  "desc": "Quote card",
+  "dur": 3.0,
+  "lines": [
+   [
+    "KIMBERLY PACE, PICHER SCHOOL PRINCIPAL, TO NPR",
+    "...the chat piles have always been our friends."
+   ]
+  ]
+ },
+ {
+  "id": "S27",
+  "w": 230,
+  "ch": "Water",
+  "kind": "pexels",
+  "desc": "Old mine, illustrative",
+  "q": [
+   "abandoned mine entrance",
+   "old mine shaft tunnel"
+  ],
+  "lead": 0.7
+ },
+ {
+  "id": "S27b",
+  "w": 239,
+  "ch": "Water",
+  "kind": "mg",
+  "mg": "strata",
+  "props": {
+   "show": "below",
+   "labels": [
+    {
+     "text": "THE PUMPS STOP",
+     "at": 8,
+     "x": 110,
+     "y": 330
+    }
+   ]
+  },
+  "desc": "Tunnels, pumps stop"
+ },
+ {
+  "id": "S28",
+  "w": 245,
+  "ch": "Water",
+  "kind": "mg",
+  "desc": "Tunnels fill with rust-colored water",
+  "mg": "strata",
+  "props": {
+   "show": "water",
+   "labels": [
+    {
+     "text": "THE MINES FILL WITH WATER",
+     "at": 10,
+     "x": 110,
+     "y": 330,
+     "color": "#ffb36b"
+    }
+   ]
+  }
+ },
+ {
+  "id": "S29",
+  "w": 252,
+  "ch": "Water",
+  "kind": "mg",
+  "desc": "Dated graphic, no stock under the name Tar Creek",
+  "mg": "stat",
+  "props": {
+   "value": "1979",
+   "label": "THE WATER REACHES TAR CREEK",
+   "sub": "EPA"
+  }
+ },
+ {
+  "id": "S30",
+  "w": 266,
+  "ch": "Water",
+  "kind": "mg",
+  "desc": "Graphic, no stock under the name Tar Creek",
+  "mg": "stat",
+  "props": {
+   "value": "TAR CREEK",
+   "label": "MOST DOWNSTREAM LIFE KILLED",
+   "sub": "The creek bed stained red"
+  }
+ },
+ {
+  "id": "S31",
+  "w": 279,
+  "ch": "Water",
+  "kind": "mg",
+  "desc": "Superfund date",
+  "mg": "stat",
+  "props": {
+   "value": "1983",
+   "label": "ADDED TO THE EPA SUPERFUND LIST",
+   "sub": "September 8, 1983"
+  }
+ },
+ {
+  "id": "S32",
+  "w": 290,
+  "ch": "Water",
+  "kind": "mg",
+  "desc": "What got looked at",
+  "mg": "flip",
+  "props": {
+   "from": "THE PILES",
+   "to": "THE WATER",
+   "sub": "WHAT THE EARLY INVESTIGATION FOCUSED ON"
+  }
+ },
+ {
+  "id": "S33",
+  "w": 301,
+  "ch": "Water",
+  "kind": "reuse",
+  "desc": "Real street, who was watching the kids",
+  "of": "S22"
+ },
+ {
+  "id": "S34",
+  "w": 307,
+  "ch": "Lead",
+  "kind": "pexels",
+  "desc": "Blood test, illustrative",
+  "q": [
+   "blood sample test tube",
+   "laboratory blood vial"
+  ]
+ },
+ {
+  "id": "S35",
+  "w": 318,
+  "ch": "Lead",
+  "kind": "mg",
+  "desc": "The result",
+  "mg": "stat",
+  "props": {
+   "value": "1 IN 3",
+   "label": "NATIVE AMERICAN CHILDREN TESTED",
+   "sub": "34% of 192, above the lead standard. EPA, 1994"
+  }
+ },
+ {
+  "id": "S36",
+  "w": 335,
+  "ch": "Lead",
+  "kind": "reuse",
+  "desc": "Real chat pile",
+  "of": "S03"
+ },
+ {
+  "id": "S37",
+  "w": 345,
+  "ch": "Lead",
+  "kind": "pexels",
+  "desc": "Peeling paint, illustrative",
+  "q": [
+   "peeling paint old house",
+   "peeling paint wall"
+  ]
+ },
+ {
+  "id": "S38",
+  "w": 362,
+  "ch": "Lead",
+  "kind": "commons",
+  "desc": "Real water tower",
+  "q": "Picher Water Tower",
+  "place": "Picher, Oklahoma"
+ },
+ {
+  "id": "S39",
+  "w": 372,
+  "ch": "Lead",
+  "kind": "pexels",
+  "desc": "Digging soil, illustrative",
+  "q": [
+   "excavator digging soil",
+   "digging dirt yard shovel"
+  ]
+ },
+ {
+  "id": "S40",
+  "w": 382,
+  "ch": "Lead",
+  "kind": "pexels",
+  "desc": "Soil work, illustrative",
+  "q": []
+ },
+ {
+  "id": "S41",
+  "w": 396,
+  "ch": "Lead",
+  "kind": "mg",
+  "desc": "The cleanup worked",
+  "mg": "stat",
+  "props": {
+   "value": "31.2%",
+   "label": "CHILDREN TESTED, HIGH LEAD",
+   "sub": "1996"
+  }
+ },
+ {
+  "id": "S42",
+  "w": 417,
+  "ch": "Lead",
+  "kind": "reuse",
+  "desc": "Real water tower",
+  "of": "S38"
+ },
+ {
+  "id": "S43",
+  "w": 433,
+  "ch": "Lead",
+  "kind": "commons",
+  "desc": "Real pharmacy, the town still open",
+  "q": "Picher Ole Miners Pharmacy",
+  "place": "Picher, Oklahoma"
+ },
+ {
+  "id": "S44",
+  "w": 440,
+  "ch": "Hollow",
+  "kind": "mg",
+  "desc": "Back to the void",
+  "mg": "strata",
+  "props": {
+   "show": "below",
+   "title": "BUT UNDER THE TOWN..."
+  }
+ },
+ {
+  "id": "S45",
+  "w": 447,
+  "ch": "Hollow",
+  "kind": "mg",
+  "desc": "Report date",
+  "mg": "stat",
+  "props": {
+   "value": "2006",
+   "label": "ARMY CORPS OF ENGINEERS REPORT",
+   "sub": "On the old mines under Picher"
+  }
+ },
+ {
+  "id": "S46",
+  "w": 459,
+  "ch": "Hollow",
+  "kind": "mg",
+  "desc": "The warning",
+  "mg": "stat",
+  "props": {
+   "value": "ABOUT 1/3",
+   "label": "OF PICHER COULD CAVE IN",
+   "sub": "As reported by NPR, 2007"
+  }
+ },
+ {
+  "id": "S47",
+  "w": 474,
+  "ch": "Hollow",
+  "kind": "mg",
+  "desc": "Ground collapses, graphic not to scale",
+  "mg": "strata",
+  "props": {
+   "show": "collapse",
+   "labels": [
+    {
+     "text": "200 FEET DEEP, 400 FEET WIDE",
+     "at": 30,
+     "x": 110,
+     "y": 120
+    }
+   ]
+  }
+ },
+ {
+  "id": "S48",
+  "w": 490,
+  "ch": "Hollow",
+  "kind": "mg",
+  "desc": "Cave-in count",
+  "mg": "stat",
+  "props": {
+   "value": "70",
+   "label": "BIG CAVE-INS IN THE AREA",
+   "sub": "As of 2007. NPR"
+  }
+ },
+ {
+  "id": "S49",
+  "w": 498,
+  "ch": "Hollow",
+  "kind": "pexels",
+  "desc": "Digging, illustrative",
+  "q": []
+ },
+ {
+  "id": "S50",
+  "w": 505,
+  "ch": "Hollow",
+  "kind": "mg",
+  "desc": "Nothing underneath",
+  "mg": "strata",
+  "props": {
+   "show": "collapse"
+  }
+ },
+ {
+  "id": "S51",
+  "w": 517,
+  "ch": "Hollow",
+  "kind": "reuse",
+  "desc": "Real abandoned houses",
+  "of": "S05"
+ },
+ {
+  "id": "Q02",
+  "w": "after:527",
+  "ch": "Hollow",
+  "kind": "quote",
+  "desc": "Quote card",
+  "dur": 3.0,
+  "lines": [
+   [
+    "ED KEHELEY, TO NPR",
+    "We can't hang onto the Picher that we all knew. It's gone."
+   ]
+  ]
+ },
+ {
+  "id": "S52",
+  "w": 528,
+  "ch": "Buyouts",
+  "kind": "commons",
+  "desc": "Real highway through town",
+  "q": "U.S. Rte 69 at East 1st St Picher Oklahoma",
+  "place": "Picher, Oklahoma",
+  "lead": 1.06
+ },
+ {
+  "id": "S53",
+  "w": 539,
+  "ch": "Buyouts",
+  "kind": "commons",
+  "desc": "Real empty neighborhood with no homes standing",
+  "q": "Picher Oklahoma",
+  "place": "Picher, Oklahoma"
+ },
+ {
+  "id": "Q03",
+  "w": "after:552",
+  "ch": "Buyouts",
+  "kind": "quote",
+  "desc": "Quote card",
+  "dur": 3.0,
+  "lines": [
+   [
+    "VICKY PHILLIPS, TO NPR",
+    "We didn't want to move."
+   ]
+  ]
+ },
+ {
+  "id": "S54",
+  "w": 554,
+  "ch": "Buyouts",
+  "kind": "mg",
+  "desc": "Feb 2008 graphic again",
+  "mg": "stat",
+  "props": {
+   "value": "FEB 2008",
+   "label": "EPA PLAN INCLUDES A BUYOUT",
+   "sub": "The tornado: May 10, 2008"
+  }
+ },
+ {
+  "id": "S54b",
+  "w": 563,
+  "ch": "Buyouts",
+  "kind": "reuse",
+  "of": "S53",
+  "desc": "Real empty neighborhood"
+ },
+ {
+  "id": "S55",
+  "w": 568,
+  "ch": "Tornado",
+  "kind": "commons",
+  "desc": "Real damage, Picher, May 12 2008",
+  "q": ""
+ },
+ {
+  "id": "S56",
+  "w": 577,
+  "ch": "Tornado",
+  "kind": "mg",
+  "desc": "Tornado strength",
+  "mg": "stat",
+  "props": {
+   "value": "EF4",
+   "label": "165 TO 175 MILES AN HOUR",
+   "sub": "National Weather Service"
+  }
+ },
+ {
+  "id": "S57",
+  "w": 590,
+  "ch": "Tornado",
+  "kind": "reuse",
+  "desc": "Real debris, held quietly",
+  "of": "S04"
+ },
+ {
+  "id": "S58",
+  "w": 595,
+  "ch": "Tornado",
+  "kind": "reuse",
+  "desc": "Real aerial",
+  "of": "S06"
+ },
+ {
+  "id": "S59",
+  "w": 607,
+  "ch": "Tornado",
+  "kind": "commons",
+  "desc": "Real officials touring the damage",
+  "q": "FEMA Paulison Governor Henry Oklahoma tornado",
+  "place": "Oklahoma, May 2008 tornado"
+ },
+ {
+  "id": "S60",
+  "w": 619,
+  "ch": "Tornado",
+  "kind": "mg",
+  "desc": "End of the city",
+  "mg": "stat",
+  "props": {
+   "value": "SEPT 1, 2009",
+   "label": "PICHER STOPS BEING A CITY",
+   "sub": "Oklahoma Historical Society"
+  }
+ },
+ {
+  "id": "S61",
+  "w": 628,
+  "ch": "Tornado",
+  "kind": "reuse",
+  "desc": "Real empty neighborhood",
+  "of": "S53"
+ },
+ {
+  "id": "S62",
+  "w": 634,
+  "ch": "Tornado",
+  "kind": "mg",
+  "desc": "The whole story in a number",
+  "mg": "count",
+  "props": {
+   "from": 14252,
+   "to": 20,
+   "fromLabel": "1926 TO 2010",
+   "label": "PEOPLE IN PICHER",
+   "sub": "2010 census"
+  }
+ },
+ {
+  "id": "S63",
+  "w": 638,
+  "ch": "Today",
+  "kind": "commons",
+  "desc": "Real satellite view: waste piles from orbit",
+  "q": "Picher Oklahoma ASTER",
+  "place": "Picher, Oklahoma",
+  "overlay": "PICHER FROM SPACE"
+ },
+ {
+  "id": "S64",
+  "w": 643,
+  "ch": "Today",
+  "kind": "mg",
+  "desc": "The timeline",
+  "mg": "stat",
+  "props": {
+   "value": "ABOUT 30 YEARS",
+   "label": "EPA PLAN FOR THE MINE WASTE",
+   "sub": "Decision signed 2008"
+  }
+ },
+ {
+  "id": "S65",
+  "w": 654,
+  "ch": "Today",
+  "kind": "commons",
+  "desc": "Real Quapaw Nation and Army Corps meeting",
+  "q": "Healing the land USACE Quapaw Nation",
+  "place": "Quapaw Nation and Army Corps meeting"
+ },
+ {
+  "id": "S66",
+  "w": 675,
+  "ch": "Today",
+  "kind": "commons",
+  "desc": "Real meeting",
+  "overlay": "\"FIRST TRIBAL-LED SUPERFUND CLEANUP\"",
+  "q": "Healing the land USACE Quapaw Nation",
+  "place": "Quapaw Nation and Army Corps meeting"
+ },
+ {
+  "id": "S67",
+  "w": 687,
+  "ch": "Close",
+  "kind": "reuse",
+  "desc": "Real aerial: what got the headlines",
+  "of": "S06"
+ },
+ {
+  "id": "S68",
+  "w": 693,
+  "ch": "Close",
+  "kind": "mg",
+  "desc": "What was really underneath",
+  "mg": "strata",
+  "props": {
+   "show": "both"
+  }
+ },
+ {
+  "id": "S69",
+  "w": 703,
+  "ch": "Close",
+  "kind": "reuse",
+  "desc": "Real street",
+  "of": "S22"
+ },
+ {
+  "id": "S70",
+  "w": 709,
+  "ch": "Close",
+  "kind": "pexels",
+  "desc": "Christmas lights, generic, not Picher",
+  "q": [
+   "christmas parade small town",
+   "christmas parade street night"
+  ]
+ },
+ {
+  "id": "S70b",
+  "w": 723,
+  "ch": "Close",
+  "kind": "reuse",
+  "of": "S53",
+  "desc": "Real nearly empty town"
+ },
+ {
+  "id": "S71",
+  "w": 729,
+  "ch": "Close",
+  "kind": "reuse",
+  "desc": "Real highway at dusk",
+  "of": "S52"
+ },
+ {
+  "id": "S72",
+  "w": 732,
+  "ch": "Close",
+  "kind": "reuse",
+  "desc": "Real water tower, last image",
+  "of": "S38"
+ },
+ {
+  "id": "E01",
+  "w": "end",
+  "ch": "Close",
+  "kind": "mg",
+  "desc": "End card",
+  "mg": "endcard",
+  "props": {
+   "title": "PICHER, OKLAHOMA",
+   "lines": [
+    "Sources for every number are in the description",
+    "Footage credits are in the description too"
+   ]
+  },
+  "dur": 3.0
+ },
+ {
+  "id": "S07c1",
+  "w": 23,
+  "ch": "Open",
+  "desc": "Signature, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S09c1",
+  "w": 49,
+  "ch": "Open",
+  "desc": "Cave, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S09c2",
+  "w": 53,
+  "ch": "Open",
+  "desc": "Real chat pile",
+  "kind": "reuse",
+  "of": "S03"
+ },
+ {
+  "id": "S10c1",
+  "w": 68,
+  "ch": "Open",
+  "desc": "Writing notes, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S11c1",
+  "w": 83,
+  "ch": "Boom",
+  "desc": "Drilling, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S14c1",
+  "w": 104,
+  "ch": "Boom",
+  "desc": "Real 1918 street",
+  "kind": "reuse",
+  "of": "S01",
+  "lead": 0.35
+ },
+ {
+  "id": "S15c1",
+  "w": 114,
+  "ch": "Boom",
+  "desc": "Shell casings, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S15c2",
+  "w": 119,
+  "ch": "Boom",
+  "desc": "Molten metal, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S17c1",
+  "w": 142,
+  "ch": "Boom",
+  "desc": "Giant excavator, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S18c1",
+  "w": 158,
+  "ch": "Boom",
+  "desc": "Lantern in a tunnel, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S19c1",
+  "w": 172,
+  "ch": "Boom",
+  "desc": "Truck beside a huge spoil pile, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S21c1",
+  "w": 187,
+  "ch": "Boom",
+  "desc": "Mining piles, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S22c1",
+  "w": 196,
+  "ch": "Piles",
+  "desc": "Real chat pile",
+  "kind": "reuse",
+  "of": "S03"
+ },
+ {
+  "id": "S26c1",
+  "w": 226,
+  "ch": "Piles",
+  "desc": "Real Picher Gorillas statue",
+  "kind": "commons",
+  "q": ""
+ },
+ {
+  "id": "S27c1",
+  "w": 233,
+  "ch": "Water",
+  "desc": "Rusted engine, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S29c1",
+  "w": 258,
+  "ch": "Water",
+  "desc": "Water graphic",
+  "kind": "mg",
+  "mg": "strata",
+  "props": {
+   "show": "water",
+   "labels": [
+    {
+     "text": "THE MINES FILL WITH WATER",
+     "at": 10,
+     "x": 110,
+     "y": 330,
+     "color": "#ffb36b"
+    }
+   ]
+  }
+ },
+ {
+  "id": "S30c1",
+  "w": 273,
+  "ch": "Water",
+  "desc": "Rust, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S31c1",
+  "w": 284,
+  "ch": "Water",
+  "desc": "Rusted warning sign, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S32c1",
+  "w": 295,
+  "ch": "Water",
+  "desc": "Red liquid in tubes, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S34c1",
+  "w": 313,
+  "ch": "Lead",
+  "desc": "Gloved hands and test tube, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S35c1",
+  "w": 328,
+  "ch": "Lead",
+  "desc": "Blood test, generic",
+  "kind": "reuse",
+  "of": "S34",
+  "lead": 0.06
+ },
+ {
+  "id": "S37c1",
+  "w": 354,
+  "ch": "Lead",
+  "desc": "Dilapidated house, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S39c1",
+  "w": 377,
+  "ch": "Lead",
+  "desc": "Dump truck, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S40c1",
+  "w": 387,
+  "ch": "Lead",
+  "desc": "Kids running, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S41c1",
+  "w": 400,
+  "ch": "Lead",
+  "desc": "Lab, generic",
+  "kind": "pexels",
+  "q": [],
+  "lead": 0.35
+ },
+ {
+  "id": "S41c2",
+  "w": 407,
+  "ch": "Lead",
+  "desc": "Road closed barrier, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S41c3",
+  "w": 411,
+  "ch": "Lead",
+  "desc": "The cleanup worked",
+  "kind": "mg",
+  "mg": "bars",
+  "props": {
+   "title": "CHILDREN TESTED WITH HIGH LEAD",
+   "left": {
+    "label": "1996",
+    "value": 100,
+    "text": "31.2%"
+   },
+   "right": {
+    "label": "2003",
+    "value": 9,
+    "text": "2.8%"
+   },
+   "note": "Tar Creek area. 67 of 215, then 7 of 250. ATSDR"
+  }
+ },
+ {
+  "id": "S42c1",
+  "w": 425,
+  "ch": "Lead",
+  "desc": "Real street",
+  "kind": "reuse",
+  "of": "S22"
+ },
+ {
+  "id": "S42c2",
+  "w": 429,
+  "ch": "Lead",
+  "desc": "Real highway",
+  "kind": "reuse",
+  "of": "S52"
+ },
+ {
+  "id": "S45c1",
+  "w": 454,
+  "ch": "Hollow",
+  "desc": "Dark mine, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S46c1",
+  "w": 470,
+  "ch": "Hollow",
+  "desc": "Cracked ground, generic",
+  "kind": "pexels",
+  "q": [],
+  "lead": 0.25
+ },
+ {
+  "id": "S47c1",
+  "w": 479,
+  "ch": "Hollow",
+  "desc": "Collapse size",
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "200 FEET",
+   "label": "DEEP",
+   "sub": "As NPR reported in 2007"
+  }
+ },
+ {
+  "id": "S50c1",
+  "w": 510,
+  "ch": "Hollow",
+  "desc": "Dark tunnel, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S51c1",
+  "w": 521,
+  "ch": "Hollow",
+  "desc": "Real pharmacy",
+  "kind": "reuse",
+  "of": "S43"
+ },
+ {
+  "id": "S52c1",
+  "w": 534,
+  "ch": "Buyouts",
+  "desc": "Moving boxes, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S53c1",
+  "w": 546,
+  "ch": "Buyouts",
+  "desc": "Real abandoned houses",
+  "kind": "reuse",
+  "of": "S05"
+ },
+ {
+  "id": "S54c1",
+  "w": 557,
+  "ch": "Buyouts",
+  "desc": "Signature, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S55c1",
+  "w": 574,
+  "ch": "Tornado",
+  "desc": "Lightning, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S56c1",
+  "w": 581,
+  "ch": "Tornado",
+  "desc": "Real tree blown over, Granby, Missouri, same storm system",
+  "kind": "commons",
+  "q": ""
+ },
+ {
+  "id": "S56c2",
+  "w": 586,
+  "ch": "Tornado",
+  "desc": "Real debris",
+  "kind": "reuse",
+  "of": "S04"
+ },
+ {
+  "id": "S58c1",
+  "w": 600,
+  "ch": "Tornado",
+  "desc": "Real empty neighborhood",
+  "kind": "reuse",
+  "of": "S53"
+ },
+ {
+  "id": "S59c1",
+  "w": 614,
+  "ch": "Tornado",
+  "desc": "Moving boxes, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S60c1",
+  "w": 623,
+  "ch": "Tornado",
+  "desc": "Real abandoned houses",
+  "kind": "reuse",
+  "of": "S05"
+ },
+ {
+  "id": "S62c1",
+  "w": 636,
+  "ch": "Tornado",
+  "desc": "The count",
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "20",
+   "label": "PEOPLE LEFT",
+   "sub": "2010 census"
+  }
+ },
+ {
+  "id": "S64c1",
+  "w": 650,
+  "ch": "Today",
+  "desc": "Construction aerial, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S65c1",
+  "w": 664,
+  "ch": "Today",
+  "desc": "Real satellite view",
+  "kind": "reuse",
+  "of": "S63"
+ },
+ {
+  "id": "S66c1",
+  "w": 681,
+  "ch": "Today",
+  "desc": "Excavator, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S68c1",
+  "w": 698,
+  "ch": "Close",
+  "desc": "Dark tunnel, generic",
+  "kind": "pexels",
+  "q": []
+ },
+ {
+  "id": "S70c1",
+  "w": 718,
+  "ch": "Close",
+  "desc": "Christmas lights, generic",
+  "kind": "pexels",
+  "q": [],
+  "lead": 0.35
+ },
+ {
+  "id": "E02",
+  "w": "end2",
+  "dur": 3.0,
+  "ch": "Close",
+  "kind": "pexels",
+  "q": [],
+  "desc": "Storm clouds behind the end screen, generic"
+ },
+ {
+  "id": "S47c2",
+  "w": 483,
+  "ch": "Hollow",
+  "kind": "mg",
+  "desc": "Collapse size",
+  "mg": "stat",
+  "props": {
+   "value": "400 FEET",
+   "label": "WIDE",
+   "sub": "As NPR reported in 2007"
+  }
+ },
+ {
+  "id": "S51c2",
+  "w": 525,
+  "ch": "Hollow",
+  "kind": "pexels",
+  "q": [],
+  "desc": "Abandoned house, generic"
+ },
+ {
+  "id": "S41c4",
+  "w": 415,
+  "ch": "Lead",
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "2.8%",
+   "label": "CHILDREN TESTED, HIGH LEAD",
+   "sub": "2003"
+  },
+  "desc": "The 2003 result"
+ },
+ {
+  "id": "S10c2",
+  "w": 73,
+  "ch": "Open",
+  "kind": "pexels",
+  "desc": "Dry ground, generic",
+  "q": []
+ },
+ {
+  "id": "S18c2",
+  "w": 163,
+  "ch": "Boom",
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "385 FEET",
+   "label": "DEEP, IN PLACES"
+  },
+  "desc": "Mine depth"
+ },
+ {
+  "id": "S52c2",
+  "w": 532,
+  "ch": "Buyouts",
+  "kind": "pexels",
+  "q": [],
+  "desc": "Moving boxes, generic"
+ },
+ {
+  "id": "S54c0",
+  "w": 553,
+  "lead": 1.06,
+  "ch": "Buyouts",
+  "kind": "reuse",
+  "of": "S53",
+  "desc": "Real empty neighborhood"
+ }
+]

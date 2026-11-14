@@ -1,0 +1,1223 @@
+[
+ {
+  "id": "S01",
+  "w": 0,
+  "ch": "Cold open",
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "1 DAY",
+   "label": "TO FIX YOUR ENTIRE LIFE"
+  },
+  "props_bn": {
+   "value": "১ দিন",
+   "label": "পুরো জীবন ঠিক করতে"
+  },
+  "desc": "The promise, on screen at once"
+ },
+ {
+  "id": "S02",
+  "w": 7,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [
+   "scrolling phone close up",
+   "hands holding smartphone scrolling social media"
+  ],
+  "desc": "Phone feed, illustrative",
+  "overlay": "A VIRAL LETTER",
+  "overlay_bn": "ভাইরাল এক চিঠি"
+ },
+ {
+  "id": "S03",
+  "w": 20,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [
+   "judge gavel courtroom",
+   "gavel strike"
+  ],
+  "desc": "Gavel: on trial"
+ },
+ {
+  "id": "S04",
+  "w": 27,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [
+   "dark bedroom morning",
+   "bedroom before dawn window"
+  ],
+  "desc": "Dark bedroom"
+ },
+ {
+  "id": "S05",
+  "w": 38,
+  "ch": "Cold open",
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "TUESDAY",
+   "label": "5 YEARS FROM NOW"
+  },
+  "props_bn": {
+   "value": "মঙ্গলবার",
+   "label": "৫ বছর পরে"
+  },
+  "desc": "The Tuesday"
+ },
+ {
+  "id": "S06",
+  "w": 46,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [
+   "alarm clock ringing",
+   "alarm clock bedside morning"
+  ],
+  "desc": "Alarm clock"
+ },
+ {
+  "id": "S07",
+  "w": 49,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [
+   "man waking up in bed",
+   "tired man waking up alarm"
+  ],
+  "desc": "Waking up, illustrative"
+ },
+ {
+  "id": "S08",
+  "w": 55,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [
+   "ceiling fan from below",
+   "looking up at ceiling lying in bed"
+  ],
+  "desc": "The ceiling"
+ },
+ {
+  "id": "S09",
+  "w": 60,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [
+   "tired man mirror bathroom",
+   "exhausted man morning"
+  ],
+  "desc": "Tired body"
+ },
+ {
+  "id": "S10",
+  "w": 65,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [
+   "commuters crowded train morning",
+   "office workers commute crowd"
+  ],
+  "desc": "The commute"
+ },
+ {
+  "id": "S11",
+  "w": 78,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [
+   "man alone in empty office",
+   "bored office worker desk"
+  ],
+  "desc": "Alone at the desk"
+ },
+ {
+  "id": "S12",
+  "w": 83,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [
+   "sad man looking out window",
+   "man staring window rain"
+  ],
+  "desc": "The terrible part"
+ },
+ {
+  "id": "S13",
+  "w": 88,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [
+   "calendar pages turning",
+   "calendar flipping days"
+  ],
+  "desc": "Calendar pages"
+ },
+ {
+  "id": "S13b",
+  "w": 98,
+  "ch": "Cold open",
+  "kind": "pexels",
+  "q": [
+   "scientist analyzing data screen",
+   "researcher reading laboratory results"
+  ],
+  "desc": "Science, illustrative"
+ },
+ {
+  "id": "T01",
+  "w": "after:113",
+  "ch": "Cold open",
+  "kind": "mg",
+  "mg": "title",
+  "props": {
+   "title": "ONE DAY",
+   "subtitle": "The promise, on trial"
+  },
+  "props_bn": {
+   "title": "একটি দিন",
+   "subtitle": "প্রতিশ্রুতিটা এবার কাঠগড়ায়"
+  },
+  "desc": "Title card",
+  "q": [
+   "pen on blank notebook",
+   "writing in notebook close up"
+  ],
+  "dur": 3.2
+ },
+ {
+  "id": "S14",
+  "w": 114,
+  "ch": "Resolutions",
+  "kind": "pexels",
+  "q": [
+   "new year fireworks night",
+   "new year celebration fireworks"
+  ],
+  "desc": "New Year"
+ },
+ {
+  "id": "S15",
+  "w": 118,
+  "ch": "Resolutions",
+  "kind": "pexels",
+  "q": [
+   "writing goals in notebook",
+   "new year resolution writing list"
+  ],
+  "desc": "Writing a resolution"
+ },
+ {
+  "id": "S16",
+  "w": 122,
+  "ch": "Resolutions",
+  "kind": "commons",
+  "q": "Stockholm University campus",
+  "place": "Stockholm University, Sweden",
+  "desc": "Real: Stockholm University"
+ },
+ {
+  "id": "S17",
+  "w": 135,
+  "ch": "Resolutions",
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "55%",
+   "label": "SAID THEY KEPT GOING",
+   "sub": "Of those who answered, after one year. PLoS ONE, 2020"
+  },
+  "props_bn": {
+   "value": "৫৫%",
+   "label": "বললেন, তারা টিকে আছেন",
+   "sub": "যারা উত্তর দিয়েছেন, এক বছর পরে। PLoS ONE, ২০২০"
+  },
+  "desc": "55 percent"
+ },
+ {
+  "id": "S18",
+  "w": 146,
+  "ch": "Resolutions",
+  "kind": "pexels",
+  "q": [
+   "woman running sunrise",
+   "jogger morning sunrise"
+  ],
+  "desc": "People can change, illustrative"
+ },
+ {
+  "id": "S19",
+  "w": 150,
+  "ch": "Resolutions",
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "NEARLY HALF",
+   "label": "COULD NOT"
+  },
+  "props_bn": {
+   "value": "প্রায় অর্ধেক",
+   "label": "পারল না"
+  },
+  "desc": "Nearly half"
+ },
+ {
+  "id": "S20",
+  "w": 160,
+  "ch": "Resolutions",
+  "kind": "mg",
+  "mg": "card",
+  "props": {
+   "kicker": "KOE: THEY TRIED TO",
+   "title": "CHANGE WHAT THEY DO",
+   "value": "NOT WHO THEY ARE"
+  },
+  "props_bn": {
+   "kicker": "কো: তারা চেয়েছিল",
+   "title": "কাজ বদলাতে",
+   "value": "নিজেকে নয়"
+  },
+  "desc": "Do versus are"
+ },
+ {
+  "id": "S21",
+  "w": 176,
+  "ch": "Resolutions",
+  "kind": "pexels",
+  "q": [
+   "man training at dawn",
+   "man exercising early morning outdoors"
+  ],
+  "desc": "A friend who trains, illustrative"
+ },
+ {
+  "id": "S22",
+  "w": 184,
+  "ch": "Resolutions",
+  "kind": "pexels",
+  "q": [
+   "gym workout weights focus",
+   "person lifting weights gym"
+  ],
+  "desc": "Discipline, illustrative"
+ },
+ {
+  "id": "S23",
+  "w": 194,
+  "ch": "Resolutions",
+  "kind": "pexels",
+  "q": [
+   "tying running shoes",
+   "runner lacing shoes morning"
+  ],
+  "desc": "A normal day"
+ },
+ {
+  "id": "S24",
+  "w": 203,
+  "ch": "Resolutions",
+  "kind": "pexels",
+  "q": [
+   "man stuck at laptop frustrated",
+   "frustrated man head in hands desk"
+  ],
+  "desc": "What is stopping you"
+ },
+ {
+  "id": "S25",
+  "w": 215,
+  "ch": "Twist",
+  "kind": "mg",
+  "mg": "rec",
+  "props": {
+   "label": "NO SOUND"
+  },
+  "props_bn": {
+   "label": "শব্দ নেই"
+  },
+  "desc": "Viewfinder over a couch",
+  "q": [
+   "man on couch scrolling phone",
+   "person lying on sofa watching phone"
+  ]
+ },
+ {
+  "id": "S26",
+  "w": 225,
+  "ch": "Twist",
+  "kind": "mg",
+  "mg": "rec",
+  "props": {
+   "label": "NO SOUND"
+  },
+  "props_bn": {
+   "label": "শব্দ নেই"
+  },
+  "desc": "Viewfinder, second clip",
+  "q": [
+   "person watching tv at night",
+   "man procrastinating on sofa"
+  ]
+ },
+ {
+  "id": "S27",
+  "w": 230,
+  "ch": "Twist",
+  "kind": "mg",
+  "mg": "card",
+  "props": {
+   "kicker": "A STRANGER WATCHES",
+   "title": "WHAT DO YOU WANT?"
+  },
+  "props_bn": {
+   "kicker": "একজন অচেনা মানুষ দেখছে",
+   "title": "আপনি আসলে কী চান?"
+  },
+  "desc": "The question"
+ },
+ {
+  "id": "S28",
+  "w": 236,
+  "ch": "Twist",
+  "kind": "mg",
+  "place": "Alfred Adler (1870-1937)",
+  "desc": "Adler name card (no image: the only portrait found had an unclear license)",
+  "mg": "card",
+  "props": {
+   "kicker": "PSYCHOLOGIST, 1870-1937",
+   "title": "ALFRED ADLER"
+  },
+  "props_bn": {
+   "kicker": "মনোবিজ্ঞানী, ১৮৭০-১৯৩৭",
+   "title": "আলফ্রেড অ্যাডলার"
+  }
+ },
+ {
+  "id": "S29",
+  "w": 246,
+  "ch": "Twist",
+  "kind": "mg",
+  "mg": "card",
+  "props": {
+   "kicker": "ALFRED ADLER",
+   "title": "BEHAVIOR IS PULLED",
+   "value": "BY GOALS"
+  },
+  "props_bn": {
+   "kicker": "আলফ্রেড অ্যাডলার",
+   "title": "আচরণকে টানে",
+   "value": "লক্ষ্য"
+  },
+  "desc": "Adler idea"
+ },
+ {
+  "id": "S30",
+  "w": 255,
+  "ch": "Twist",
+  "kind": "pexels",
+  "q": [
+   "procrastinating at desk",
+   "student distracted phone not working"
+  ],
+  "desc": "Putting off work, illustrative"
+ },
+ {
+  "id": "S31",
+  "w": 271,
+  "ch": "Twist",
+  "kind": "pexels",
+  "q": [
+   "crumpled paper on desk",
+   "blank page empty document"
+  ],
+  "desc": "Unfinished work"
+ },
+ {
+  "id": "S32",
+  "w": 278,
+  "ch": "Twist",
+  "kind": "pexels",
+  "q": [
+   "tired office worker evening",
+   "unhappy employee office computer"
+  ],
+  "desc": "Hates the job, illustrative"
+ },
+ {
+  "id": "S33",
+  "w": 287,
+  "ch": "Twist",
+  "kind": "pexels",
+  "q": [
+   "man alone silhouette window",
+   "lonely man sitting dark room"
+  ],
+  "desc": "No one can watch"
+ },
+ {
+  "id": "S34",
+  "w": 297,
+  "ch": "Twist",
+  "kind": "mg",
+  "mg": "flip",
+  "props": {
+   "from": "FAILING",
+   "to": "SUCCEEDING",
+   "sub": "AT A GOAL YOU NEVER CHOSE"
+  },
+  "props_bn": {
+   "from": "ব্যর্থ",
+   "to": "সফল",
+   "sub": "যে লক্ষ্য আপনি বেছে নেননি"
+  },
+  "desc": "The twist"
+ },
+ {
+  "id": "S35",
+  "w": 310,
+  "ch": "Low point",
+  "kind": "pexels",
+  "q": [
+   "time lapse commuters repeating",
+   "clock hands spinning fast"
+  ],
+  "desc": "Repetition"
+ },
+ {
+  "id": "S36",
+  "w": 320,
+  "ch": "Low point",
+  "kind": "pexels",
+  "q": [
+   "man looking at reflection mirror",
+   "man reflection in dark mirror"
+  ],
+  "desc": "Who you think you are"
+ },
+ {
+  "id": "S37",
+  "w": 328,
+  "ch": "Low point",
+  "kind": "mg",
+  "mg": "card",
+  "props": {
+   "title": "\"I AM JUST NOT A RISK TAKER.\""
+  },
+  "props_bn": {
+   "title": "\"আমি আসলে ঝুঁকি নেওয়ার মানুষ না।\""
+  },
+  "desc": "The story you tell"
+ },
+ {
+  "id": "S38",
+  "w": 335,
+  "ch": "Low point",
+  "kind": "pexels",
+  "q": [
+   "door chain lock closing",
+   "locking door security close up"
+  ],
+  "desc": "Guarding the story"
+ },
+ {
+  "id": "S39",
+  "w": 349,
+  "ch": "Low point",
+  "kind": "pexels",
+  "q": [
+   "shadow boxing man dark",
+   "boxer alone dark gym"
+  ],
+  "desc": "Defending against yourself"
+ },
+ {
+  "id": "S40",
+  "w": 357,
+  "ch": "Low point",
+  "kind": "pexels",
+  "q": [
+   "hourglass sand falling",
+   "sand timer close up"
+  ],
+  "desc": "The cost"
+ },
+ {
+  "id": "S41",
+  "w": 366,
+  "ch": "Low point",
+  "kind": "commons",
+  "q": "Cornell University McGraw Tower campus",
+  "place": "Cornell University, USA",
+  "desc": "Real: Cornell"
+ },
+ {
+  "id": "S42",
+  "w": 374,
+  "ch": "Low point",
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "76%",
+   "label": "NAMED THE SAME KIND OF REGRET",
+   "sub": "Biggest regret. Davidai and Gilovich, Emotion, 2018"
+  },
+  "props_bn": {
+   "value": "৭৬%",
+   "label": "আফসোস একই ধরনের",
+   "sub": "সবচেয়ে বড় আফসোস। Davidai ও Gilovich, Emotion, ২০১৮"
+  },
+  "desc": "76 percent"
+ },
+ {
+  "id": "S43",
+  "w": 383,
+  "ch": "Low point",
+  "kind": "pexels",
+  "q": [
+   "elderly man sitting alone",
+   "old man looking out window thinking"
+  ],
+  "desc": "The person never become, illustrative"
+ },
+ {
+  "id": "S44",
+  "w": 392,
+  "ch": "Steering",
+  "kind": "pexels",
+  "q": [
+   "stormy sea waves dark",
+   "ship in rough sea"
+  ],
+  "desc": "Dark sea"
+ },
+ {
+  "id": "S45",
+  "w": 402,
+  "ch": "Steering",
+  "kind": "pexels",
+  "q": [
+   "hands steering ship wheel",
+   "captain hands on helm"
+  ],
+  "desc": "Hands on the wheel"
+ },
+ {
+  "id": "S46",
+  "w": 409,
+  "ch": "Steering",
+  "kind": "pexels",
+  "q": [
+   "sailing ship ocean",
+   "tall ship sailing sea"
+  ],
+  "desc": "A ship"
+ },
+ {
+  "id": "S47",
+  "w": 422,
+  "ch": "Steering",
+  "kind": "pexels",
+  "q": [
+   "ship wake aerial ocean",
+   "boat aerial open sea"
+  ],
+  "desc": "No perfect line"
+ },
+ {
+  "id": "S48",
+  "w": 430,
+  "ch": "Steering",
+  "kind": "mg",
+  "mg": "course",
+  "props": {
+   "target": "YOUR COURSE",
+   "wind": "WIND",
+   "note": "CHECK. CORRECT. AGAIN."
+  },
+  "props_bn": {
+   "target": "আপনার পথ",
+   "wind": "বাতাস",
+   "note": "দেখুন। শুধরান। আবার।"
+  },
+  "desc": "Drift and correct"
+ },
+ {
+  "id": "S49",
+  "w": 444,
+  "ch": "Steering",
+  "kind": "pexels",
+  "q": [
+   "sailboat sunset ocean",
+   "sailing boat golden hour"
+  ],
+  "desc": "A good life"
+ },
+ {
+  "id": "S50",
+  "w": 453,
+  "ch": "Steering",
+  "kind": "pexels",
+  "q": [
+   "sailor turning helm sailboat",
+   "steering sailboat wheel sunny"
+  ],
+  "desc": "Steer back"
+ },
+ {
+  "id": "S51",
+  "w": 461,
+  "ch": "The day",
+  "kind": "pexels",
+  "q": [
+   "sunrise time lapse city",
+   "sunrise over horizon time lapse"
+  ],
+  "desc": "The day begins"
+ },
+ {
+  "id": "S52",
+  "w": 466,
+  "ch": "The day",
+  "kind": "pexels",
+  "q": [
+   "writing with pen on paper",
+   "hand writing notebook morning coffee"
+  ],
+  "desc": "Pen and paper",
+  "overlay": "MORNING",
+  "overlay_bn": "সকাল"
+ },
+ {
+  "id": "S53",
+  "w": 476,
+  "ch": "The day",
+  "kind": "mg",
+  "mg": "card",
+  "props": {
+   "kicker": "WRITE THAT TUESDAY",
+   "title": "5 YEARS OUT",
+   "value": "THEN 10"
+  },
+  "props_bn": {
+   "kicker": "সেই মঙ্গলবারটা লিখুন",
+   "title": "৫ বছর পরের",
+   "value": "তারপর ১০"
+  },
+  "desc": "5 then 10"
+ },
+ {
+  "id": "S54",
+  "w": 481,
+  "ch": "The day",
+  "kind": "mg",
+  "mg": "card",
+  "props": {
+   "kicker": "KOE CALLS IT",
+   "title": "ANTI-VISION",
+   "value": "THE LIFE YOU REFUSE"
+  },
+  "props_bn": {
+   "kicker": "কো এর নাম দিয়েছেন",
+   "title": "অ্যান্টি-ভিশন",
+   "value": "যে জীবন আপনি চান না"
+  },
+  "desc": "Anti-vision"
+ },
+ {
+  "id": "S55",
+  "w": 492,
+  "ch": "The day",
+  "kind": "pexels",
+  "q": [
+   "open diary journal on table",
+   "journal closed on wooden desk"
+  ],
+  "desc": "Just journaling?"
+ },
+ {
+  "id": "S56",
+  "w": 499,
+  "ch": "The day",
+  "kind": "pexels",
+  "q": [
+   "elderly man face portrait close up",
+   "old man portrait looking at camera"
+  ],
+  "desc": "Older face, illustrative",
+  "overlay": "LAB EXPERIMENTS",
+  "overlay_bn": "ল্যাব পরীক্ষা"
+ },
+ {
+  "id": "S57",
+  "w": 514,
+  "ch": "The day",
+  "kind": "pexels",
+  "q": [
+   "coins saving jar",
+   "putting coin in piggy bank"
+  ],
+  "desc": "Saving"
+ },
+ {
+  "id": "S58",
+  "w": 523,
+  "ch": "The day",
+  "kind": "mg",
+  "mg": "card",
+  "props": {
+   "kicker": "BE HONEST",
+   "title": "THAT WAS ABOUT MONEY",
+   "value": "NOT LIFE CHANGE"
+  },
+  "props_bn": {
+   "kicker": "সত্যি কথা",
+   "title": "সেটা ছিল টাকা নিয়ে",
+   "value": "জীবন বদল নিয়ে নয়"
+  },
+  "desc": "The limit of the study"
+ },
+ {
+  "id": "S59",
+  "w": 531,
+  "ch": "The day",
+  "kind": "pexels",
+  "q": [
+   "man looking at horizon thinking",
+   "young man looking into distance sunrise"
+  ],
+  "desc": "Your future self"
+ },
+ {
+  "id": "S60",
+  "w": 541,
+  "ch": "The day",
+  "kind": "pexels",
+  "q": [
+   "woman smiling writing journal",
+   "happy person writing in notebook sunlight"
+  ],
+  "desc": "The other Tuesday, illustrative"
+ },
+ {
+  "id": "S61",
+  "w": 551,
+  "ch": "The day",
+  "kind": "pexels",
+  "q": [
+   "office workers typing routine",
+   "busy office day people working computers"
+  ],
+  "desc": "Autopilot",
+  "overlay": "NOON",
+  "overlay_bn": "দুপুর"
+ },
+ {
+  "id": "S62",
+  "w": 557,
+  "ch": "The day",
+  "kind": "pexels",
+  "q": [
+   "phone alarm notification",
+   "smartphone alarm clock ringing hand"
+  ],
+  "desc": "Phone alarm"
+ },
+ {
+  "id": "S63",
+  "w": 570,
+  "ch": "The day",
+  "kind": "mg",
+  "mg": "alert",
+  "props": {
+   "kicker": "RANDOM ALARM",
+   "text": "What am I avoiding right now?"
+  },
+  "props_bn": {
+   "kicker": "এলোমেলো অ্যালার্ম",
+   "text": "এই মুহূর্তে আমি কী এড়িয়ে যাচ্ছি?"
+  },
+  "desc": "The question"
+ },
+ {
+  "id": "S64",
+  "w": 576,
+  "ch": "The day",
+  "kind": "pexels",
+  "q": [
+   "man looks up from laptop realizing",
+   "person pausing thinking at work"
+  ],
+  "desc": "Awake, no plan"
+ },
+ {
+  "id": "S65",
+  "w": 586,
+  "ch": "The day",
+  "kind": "pexels",
+  "q": [
+   "writing by desk lamp at night",
+   "writing notebook night lamp"
+  ],
+  "desc": "Night",
+  "overlay": "NIGHT",
+  "overlay_bn": "রাত"
+ },
+ {
+  "id": "S66",
+  "w": 593,
+  "ch": "The day",
+  "kind": "mg",
+  "mg": "card",
+  "props": {
+   "kicker": "TWO SENTENCES",
+   "title": "WHAT YOU REFUSE TO BECOME",
+   "value": "WHAT YOU ARE BUILDING"
+  },
+  "props_bn": {
+   "kicker": "দুটো বাক্য",
+   "title": "আপনি কী হতে চান না",
+   "value": "আপনি কী গড়ছেন"
+  },
+  "desc": "Two sentences"
+ },
+ {
+  "id": "S67",
+  "w": 603,
+  "ch": "The day",
+  "kind": "pexels",
+  "q": [
+   "hands playing video game controller",
+   "gamer holding controller close up"
+  ],
+  "desc": "A game"
+ },
+ {
+  "id": "S68",
+  "w": 614,
+  "ch": "The day",
+  "kind": "mg",
+  "mg": "steps",
+  "props": {
+   "steps": [
+    {
+     "k": "1 YEAR",
+     "v": "THE MISSION"
+    },
+    {
+     "k": "1 MONTH",
+     "v": "THE BOSS FIGHT"
+    },
+    {
+     "k": "TOMORROW",
+     "v": "THE QUESTS"
+    }
+   ]
+  },
+  "props_bn": {
+   "steps": [
+    {
+     "k": "১ বছর",
+     "v": "মিশন"
+    },
+    {
+     "k": "১ মাস",
+     "v": "বস ফাইট"
+    },
+    {
+     "k": "আগামীকাল",
+     "v": "কোয়েস্ট"
+    }
+   ]
+  },
+  "desc": "The game"
+ },
+ {
+  "id": "S69",
+  "w": 634,
+  "ch": "Verdict",
+  "kind": "reuse",
+  "of": "S03",
+  "desc": "Gavel again",
+  "overlay": "THE VERDICT",
+  "overlay_bn": "রায়"
+ },
+ {
+  "id": "S70",
+  "w": 637,
+  "ch": "Verdict",
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "1 DAY?",
+   "label": "YOUR ENTIRE LIFE?"
+  },
+  "props_bn": {
+   "value": "১ দিন?",
+   "label": "পুরো জীবন?"
+  },
+  "desc": "The question again"
+ },
+ {
+  "id": "S71",
+  "w": 644,
+  "ch": "Verdict",
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "NO."
+  },
+  "props_bn": {
+   "value": "না।"
+  },
+  "desc": "No"
+ },
+ {
+  "id": "S72",
+  "w": 649,
+  "ch": "Verdict",
+  "kind": "commons",
+  "q": "University College London Wilkins Building portico",
+  "place": "University College London, UK",
+  "desc": "Real: UCL"
+ },
+ {
+  "id": "S73",
+  "w": 656,
+  "ch": "Verdict",
+  "kind": "pexels",
+  "q": [
+   "drinking glass of water morning routine",
+   "morning stretch routine at home"
+  ],
+  "desc": "One daily habit, illustrative"
+ },
+ {
+  "id": "S74",
+  "w": 667,
+  "ch": "Verdict",
+  "kind": "mg",
+  "mg": "range",
+  "props": {
+   "title": "DAYS UNTIL A NEW HABIT FELT AUTOMATIC",
+   "max": 254,
+   "points": [
+    {
+     "value": 66,
+     "text": "ABOUT 66",
+     "at": 0.1,
+     "main": true
+    },
+    {
+     "value": 18,
+     "text": "18",
+     "at": 0.55
+    },
+    {
+     "value": 254,
+     "text": "254 (PROJECTED)",
+     "at": 0.72
+    }
+   ],
+   "note": "Lally et al., 2010. 66 is the median for people the model fit."
+  },
+  "props_bn": {
+   "title": "নতুন অভ্যাস স্বাভাবিক হতে কত দিন",
+   "max": 254,
+   "points": [
+    {
+     "value": 66,
+     "text": "প্রায় ৬৬",
+     "at": 0.1,
+     "main": true
+    },
+    {
+     "value": 18,
+     "text": "১৮",
+     "at": 0.55
+    },
+    {
+     "value": 254,
+     "text": "২৫৪ (অনুমিত)",
+     "at": 0.72
+    }
+   ],
+   "note": "Lally ও সহকর্মীরা, ২০১০। ৬৬ হলো যাদের হিসাব মিলেছে, তাদের মধ্যমা।"
+  },
+  "desc": "Habit range"
+ },
+ {
+  "id": "S75",
+  "w": 684,
+  "ch": "Verdict",
+  "kind": "pexels",
+  "q": [
+   "runner resting then running again",
+   "runner stops tired on road"
+  ],
+  "desc": "A missed day, illustrative"
+ },
+ {
+  "id": "S76",
+  "w": 691,
+  "ch": "Verdict",
+  "kind": "pexels",
+  "q": [
+   "marking calendar with pen",
+   "crossing days on calendar"
+  ],
+  "desc": "One day missed",
+  "overlay": "ONE MISSED DAY",
+  "overlay_bn": "একটা দিন বাদ"
+ },
+ {
+  "id": "S77",
+  "w": 698,
+  "ch": "Verdict",
+  "kind": "reuse",
+  "of": "S52",
+  "desc": "Pen again"
+ },
+ {
+  "id": "S78",
+  "w": 704,
+  "ch": "Verdict",
+  "kind": "reuse",
+  "of": "S50",
+  "desc": "Turn the wheel"
+ },
+ {
+  "id": "S79",
+  "w": 711,
+  "ch": "Close",
+  "kind": "mg",
+  "mg": "stat",
+  "props": {
+   "value": "TUESDAY",
+   "label": "5 YEARS FROM NOW"
+  },
+  "props_bn": {
+   "value": "মঙ্গলবার",
+   "label": "৫ বছর পরে"
+  },
+  "desc": "Same Tuesday"
+ },
+ {
+  "id": "S80",
+  "w": 719,
+  "ch": "Close",
+  "kind": "reuse",
+  "of": "S06",
+  "desc": "Same alarm"
+ },
+ {
+  "id": "S81",
+  "w": 729,
+  "ch": "Close",
+  "kind": "pexels",
+  "q": [
+   "man getting out of bed morning sunlight",
+   "woman opening curtains morning sunlight"
+  ],
+  "desc": "Already up, illustrative"
+ },
+ {
+  "id": "S82",
+  "w": 734,
+  "ch": "Close",
+  "kind": "pexels",
+  "q": [
+   "craftsman working workshop sunlight",
+   "person building woodworking focused"
+  ],
+  "desc": "Something you are building, illustrative"
+ },
+ {
+  "id": "S83",
+  "w": 741,
+  "ch": "Close",
+  "kind": "reuse",
+  "of": "S49",
+  "desc": "A boat at sunset"
+ },
+ {
+  "id": "S84",
+  "w": 747,
+  "ch": "Close",
+  "kind": "pexels",
+  "q": [
+   "walking on sunlit road morning",
+   "person walking forward sunrise path"
+  ],
+  "desc": "Back on course, illustrative"
+ },
+ {
+  "id": "S85",
+  "w": 753,
+  "ch": "Close",
+  "kind": "pexels",
+  "q": [
+   "morning light through window",
+   "sunlight through curtains room"
+  ],
+  "desc": "Ordinary light"
+ },
+ {
+  "id": "S86",
+  "w": 756,
+  "ch": "Close",
+  "kind": "pexels",
+  "q": [
+   "pen on paper golden light",
+   "hand writing notebook warm light"
+  ],
+  "desc": "A pen"
+ },
+ {
+  "id": "S87",
+  "w": 765,
+  "ch": "Close",
+  "kind": "pexels",
+  "q": [
+   "notebook and pen on table morning",
+   "empty notebook pen coffee sunlight"
+  ],
+  "desc": "Today"
+ },
+ {
+  "id": "E01",
+  "w": "end",
+  "ch": "Close",
+  "kind": "mg",
+  "mg": "endcard",
+  "props": {
+   "title": "ONE DAY",
+   "lines": [
+    "Sources for every study are in the description"
+   ]
+  },
+  "props_bn": {
+   "title": "একটি দিন",
+   "lines": [
+    "সব গবেষণার সূত্র ডেসক্রিপশনে"
+   ]
+  },
+  "desc": "End card",
+  "q": [
+   "sunrise over calm sea",
+   "sunrise sea horizon"
+  ],
+  "dur": 6.0
+ },
+ {
+  "id": "E02",
+  "w": "end2",
+  "ch": "Close",
+  "kind": "mg",
+  "mg": "credits",
+  "props": {},
+  "props_bn": {},
+  "desc": "Credits",
+  "dur": 7.0
+ }
+]

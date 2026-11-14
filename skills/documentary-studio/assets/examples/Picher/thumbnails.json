@@ -1,0 +1,168 @@
+[
+ {
+  "name": "A_nothing_under",
+  "_moment": "The cave-in warning (about 2:58): a town with nothing underneath it",
+  "image": "03_Images/commons/C44_Picher_Aerial.jpg",
+  "focus": [
+   0.45,
+   0.5
+  ],
+  "darken": "left",
+  "blur": 2,
+  "grade": "none",
+  "items": [
+   {
+    "face": "serious_cine_stern",
+    "cx": 1085,
+    "top": -10,
+    "height": 900,
+    "rim": "#f6b26b",
+    "rim_alpha": 0.3,
+    "fade": 110,
+    "side_fade": 150
+   },
+   {
+    "text": "NOTHING",
+    "x": 40,
+    "y": -30,
+    "size": 150,
+    "color": "#ffffff",
+    "stroke": 10
+   },
+   {
+    "text": "UNDER IT",
+    "x": 40,
+    "y": 118,
+    "size": 138,
+    "color": "#f6b26b",
+    "stroke": 10
+   }
+  ],
+  "credit": "Picher aerial, 2008. Photo: NWS Tulsa, public domain"
+ },
+ {
+  "name": "B_14252_to_20",
+  "_moment": "The count (about 4:10): from 14,252 to 20",
+  "image": "03_Images/commons/C21_Picher,_OK_-_Abandoned_Houses.jpg",
+  "focus": [
+   0.4,
+   0.55
+  ],
+  "darken": "left",
+  "blur": 2,
+  "grade": "none",
+  "items": [
+   {
+    "face": "serious_cine_sad",
+    "cx": 1085,
+    "top": -10,
+    "height": 900,
+    "rim": "#8fb9d9",
+    "rim_alpha": 0.3,
+    "fade": 110,
+    "side_fade": 150
+   },
+   {
+    "text": "14,252",
+    "x": 40,
+    "y": -40,
+    "size": 160,
+    "color": "#ffffff",
+    "stroke": 10
+   },
+   {
+    "text": "TO 20",
+    "x": 40,
+    "y": 120,
+    "size": 165,
+    "color": "#ff5a4f",
+    "stroke": 10
+   }
+  ],
+  "credit": "Picher, Oklahoma. Photo: TheDoctorWho, CC BY-SA 4.0"
+ },
+ {
+  "name": "C_kids_played",
+  "_moment": "The chat piles (about 1:17): kids climbed and sledded on lead waste",
+  "image": "03_Images/commons/C19_Chat_Pile_at_Picher,_Oklahoma_Superfund_Site.jpg",
+  "focus": [
+   0.6,
+   0.45
+  ],
+  "darken": "left",
+  "blur": 2,
+  "grade": "none",
+  "items": [
+   {
+    "face": "serious_cine_tired",
+    "cx": 1085,
+    "top": -10,
+    "height": 900,
+    "rim": "#ff5a4f",
+    "rim_alpha": 0.3,
+    "fade": 110,
+    "side_fade": 150
+   },
+   {
+    "text": "KIDS",
+    "x": 40,
+    "y": -40,
+    "size": 165,
+    "color": "#ffffff",
+    "stroke": 10
+   },
+   {
+    "text": "PLAYED HERE",
+    "x": 40,
+    "y": 135,
+    "size": 108,
+    "color": "#f6b26b",
+    "stroke": 10
+   }
+  ],
+  "credit": "Chat pile, Picher, Oklahoma. Photo: Kelly K, CC BY-SA 2.0"
+ },
+ {
+  "name": "short_cover_not_tornado",
+  "vertical": true,
+  "_moment": "The Short opening (0:07): that tornado is not what killed this town",
+  "image": "03_Images/commons/C44_Picher_Aerial.jpg",
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "darken": "bottom",
+  "blur": 2,
+  "grade": "none",
+  "items": [
+   {
+    "face": "serious_cine_stern",
+    "cx": 540,
+    "top": 640,
+    "height": 1260,
+    "rim": "#f6b26b",
+    "rim_alpha": 0.3,
+    "fade": 120
+   },
+   {
+    "text": "NOT THE",
+    "x": 540,
+    "y": 200,
+    "size": 190,
+    "color": "#ffffff",
+    "align": "center",
+    "stroke": 10
+   },
+   {
+    "text": "TORNADO",
+    "x": 540,
+    "y": 410,
+    "size": 210,
+    "color": "#f6b26b",
+    "align": "center",
+    "stroke": 10
+   }
+  ],
+  "credit": "Picher aerial, 2008. Photo: NWS Tulsa, public domain"
+ }
+]

@@ -1,0 +1,366 @@
+[
+ {
+  "name": "A_failing",
+  "_moment": "The twist (1:41): you are not failing",
+  "image": "03_Images/scenes/rain_street.jpg",
+  "focus": [
+   0.42,
+   0.6
+  ],
+  "darken": "left",
+  "blur": 2,
+  "grade": "none",
+  "items": [
+   {
+    "face": "serious_cine_sad",
+    "cx": 950,
+    "top": 50,
+    "height": 1040,
+    "rim": "#7fd0d8",
+    "rim_alpha": 0.3,
+    "fade": 120
+   },
+   {
+    "text": "FAILING",
+    "x": 45,
+    "y": 250,
+    "size": 180,
+    "color": "#ffffff",
+    "stroke": 10
+   },
+   {
+    "box": [
+     35,
+     388,
+     595,
+     15
+    ],
+    "color": "#ff4f45",
+    "alpha": 1.0,
+    "radius": 8
+   }
+  ]
+ },
+ {
+  "name": "B_no",
+  "_moment": "The verdict (3:41): can one day fix your life? No.",
+  "image": "03_Images/scenes/empty_room.jpg",
+  "focus": [
+   0.5,
+   0.45
+  ],
+  "darken": "left",
+  "blur": 2,
+  "grade": "none",
+  "items": [
+   {
+    "face": "serious_cine_stern",
+    "cx": 960,
+    "top": 40,
+    "height": 1060,
+    "rim": "#e8e8e8",
+    "rim_alpha": 0.3,
+    "fade": 100
+   },
+   {
+    "text": "1 DAY?",
+    "x": 45,
+    "y": 120,
+    "size": 130,
+    "color": "#ffffff"
+   },
+   {
+    "text": "NO.",
+    "x": 45,
+    "y": 270,
+    "size": 290,
+    "color": "#ff4f45",
+    "stroke": 14
+   }
+  ]
+ },
+ {
+  "name": "C_same_tuesday",
+  "_moment": "The cold open (0:13): the Tuesday, five years from now",
+  "image": "03_Images/scenes/alarm_clock.jpg",
+  "focus": [
+   0.69,
+   0.506
+  ],
+  "darken": "none",
+  "blur": 2,
+  "grade": "none",
+  "items": [
+   {
+    "face": "serious_cine_tired",
+    "cx": 730,
+    "top": 120,
+    "height": 800,
+    "rim": "#ffb070",
+    "rim_alpha": 0.3,
+    "fade": 140
+   },
+   {
+    "face": "aged_cine_tired",
+    "cx": 1060,
+    "top": 65,
+    "height": 860,
+    "rim": "#ffb070",
+    "rim_alpha": 0.3
+   },
+   {
+    "text": "SAME",
+    "x": 40,
+    "y": 20,
+    "size": 120,
+    "color": "#ffffff"
+   },
+   {
+    "text": "TUESDAY",
+    "x": 40,
+    "y": 150,
+    "size": 110,
+    "color": "#ffb238"
+   }
+  ],
+  "zoom": 1.5
+ },
+ {
+  "name": "A_failing_bn",
+  "_moment": "The twist: not failing",
+  "image": "03_Images/scenes/rain_street.jpg",
+  "focus": [
+   0.42,
+   0.6
+  ],
+  "darken": "left",
+  "blur": 2,
+  "grade": "none",
+  "items": [
+   {
+    "face": "serious_cine_sad",
+    "cx": 950,
+    "top": 50,
+    "height": 1040,
+    "rim": "#7fd0d8",
+    "rim_alpha": 0.3,
+    "fade": 120
+   },
+   {
+    "text": "ব্যর্থ?",
+    "x": 50,
+    "y": 190,
+    "size": 190,
+    "color": "#ffffff",
+    "stroke": 10
+   }
+  ]
+ },
+ {
+  "name": "B_no_bn",
+  "_moment": "The verdict",
+  "image": "03_Images/scenes/empty_room.jpg",
+  "focus": [
+   0.5,
+   0.45
+  ],
+  "darken": "left",
+  "blur": 2,
+  "grade": "none",
+  "items": [
+   {
+    "face": "serious_cine_stern",
+    "cx": 960,
+    "top": 40,
+    "height": 1060,
+    "rim": "#e8e8e8",
+    "rim_alpha": 0.3,
+    "fade": 100
+   },
+   {
+    "text": "১ দিন?",
+    "x": 45,
+    "y": 70,
+    "size": 125,
+    "color": "#ffffff"
+   },
+   {
+    "text": "না।",
+    "x": 45,
+    "y": 250,
+    "size": 250,
+    "color": "#ff4f45",
+    "stroke": 13
+   }
+  ]
+ },
+ {
+  "name": "C_same_tuesday_bn",
+  "_moment": "The cold open",
+  "image": "03_Images/scenes/alarm_clock.jpg",
+  "focus": [
+   0.69,
+   0.506
+  ],
+  "darken": "none",
+  "blur": 2,
+  "grade": "none",
+  "items": [
+   {
+    "face": "serious_cine_tired",
+    "cx": 730,
+    "top": 120,
+    "height": 800,
+    "rim": "#ffb070",
+    "rim_alpha": 0.3,
+    "fade": 140
+   },
+   {
+    "face": "aged_cine_tired",
+    "cx": 1060,
+    "top": 65,
+    "height": 860,
+    "rim": "#ffb070",
+    "rim_alpha": 0.3
+   },
+   {
+    "text": "সেই একই",
+    "x": 40,
+    "y": 5,
+    "size": 110,
+    "color": "#ffffff"
+   },
+   {
+    "text": "মঙ্গলবার",
+    "x": 40,
+    "y": 135,
+    "size": 110,
+    "color": "#ffb238"
+   }
+  ],
+  "zoom": 1.5
+ },
+ {
+  "name": "Short_cover_no",
+  "_moment": "The verdict in the Short",
+  "image": "03_Images/scenes/empty_room.jpg",
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "darken": "top",
+  "blur": 2,
+  "grade": "none",
+  "vertical": true,
+  "items": [
+   {
+    "face": "shocked_pull",
+    "cx": 540,
+    "top": 660,
+    "height": 1380,
+    "rim": "#e8e8e8",
+    "rim_alpha": 0.3
+   },
+   {
+    "text": "1 DAY?",
+    "x": 540,
+    "y": 70,
+    "size": 170,
+    "color": "#ffffff",
+    "align": "center"
+   },
+   {
+    "text": "NO.",
+    "x": 540,
+    "y": 260,
+    "size": 330,
+    "color": "#ff4f45",
+    "align": "center",
+    "stroke": 15
+   }
+  ]
+ },
+ {
+  "name": "Short_cover_failing",
+  "_moment": "The twist in the Short",
+  "image": "03_Images/scenes/rain_street.jpg",
+  "focus": [
+   0.45,
+   0.6
+  ],
+  "darken": "top",
+  "blur": 2,
+  "grade": "none",
+  "vertical": true,
+  "items": [
+   {
+    "face": "serious_cine_sad",
+    "cx": 540,
+    "top": 500,
+    "height": 1720,
+    "rim": "#7fd0d8",
+    "rim_alpha": 0.3
+   },
+   {
+    "text": "FAILING",
+    "x": 540,
+    "y": 130,
+    "size": 240,
+    "color": "#ffffff",
+    "align": "center",
+    "stroke": 12
+   },
+   {
+    "box": [
+     110,
+     300,
+     860,
+     30
+    ],
+    "color": "#ff4f45",
+    "alpha": 1.0,
+    "radius": 8
+   }
+  ]
+ },
+ {
+  "name": "Short_cover_no_bn",
+  "_moment": "The verdict in the Short",
+  "image": "03_Images/scenes/empty_room.jpg",
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "darken": "top",
+  "blur": 2,
+  "grade": "none",
+  "vertical": true,
+  "items": [
+   {
+    "face": "shocked_pull",
+    "cx": 540,
+    "top": 660,
+    "height": 1380,
+    "rim": "#e8e8e8",
+    "rim_alpha": 0.3
+   },
+   {
+    "text": "১ দিন?",
+    "x": 540,
+    "y": 40,
+    "size": 160,
+    "color": "#ffffff",
+    "align": "center"
+   },
+   {
+    "text": "না।",
+    "x": 540,
+    "y": 240,
+    "size": 280,
+    "color": "#ff4f45",
+    "align": "center",
+    "stroke": 13
+   }
+  ]
+ }
+]
